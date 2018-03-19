@@ -4,7 +4,6 @@ description: ""
 author: Patrick Kollitsch
 type: post
 date: {{ .Date }}
-draft: true
 url:
 slug:
 tags:
