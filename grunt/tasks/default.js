@@ -14,7 +14,7 @@ module.exports = function (grunt) {
 
         // bump version
         'bump',
-        'replace',
+        'replace:version',
 
         // processing the dynamic parts once
         'process-javascripts',
