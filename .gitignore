@@ -1,0 +1,11 @@
+/node_modules
+/.sass-cache
+/tmp
+/.env
+
+# logfiles
+/log.txt
+
+# theme files
+/static/assets/js/*
+/static/assets/css/*

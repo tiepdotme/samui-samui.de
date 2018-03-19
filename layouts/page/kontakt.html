@@ -1,0 +1,20 @@
+{{/*
+layout for contact page
+*/}}
+{{ define "main" }}
+
+<!-- template kontakt/section.html //-->
+  <article>
+    <header class="title">
+      <h2 class="entry-title">
+        <a href="{{ .Permalink }}">
+          {{ .Title }}
+        </a>
+      </h2>
+    </header>
+    <div class="text entry-content">
+      {{ .Content }}
+    </div>
+    {{ partialCached "tools/contact-form.html" . }}
+  </article>
+{{ end }}

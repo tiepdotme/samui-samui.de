@@ -1,0 +1,14 @@
+#topnavigation {
+    @extend .px-0;
+    position: sticky;
+    top: 0;
+    z-index: $zindex-sticky;
+    nav {
+        border-top-left-radius: $border-radius-lg;
+        border-top-right-radius: $border-radius-lg;
+    }
+    &.navbar-fixed-top nav {
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+    }
+}

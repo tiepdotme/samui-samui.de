@@ -1,0 +1,59 @@
+{
+  "name": "samui-samui-de",
+  "slug": "samui-samui-de",
+  "url": "https://samui-samui.de",
+  "version": "2018.1.132",
+  "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
+  "description": "Hugo files for samui-samui.de",
+  "homepage": "http://samui-samui.de",
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/pkollitsch/samui-samui.de.git"
+  },
+  "devDependencies": {
+    "atomic-algolia": "^0.3.11",
+    "autoprefixer": "^7.2.6",
+    "bootstrap": "^4.0.0",
+    "cssnano": "^3.10.0",
+    "cz-conventional-changelog": "^2.1.0",
+    "cz-customizable": "^5.2.0",
+    "grunt": "^1.0.2",
+    "grunt-available-tasks": "^0.6.3",
+    "grunt-bump": "^0.8.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^3.0.0",
+    "grunt-minify-html": "^3.0.0",
+    "grunt-postcss": "^0.9.0",
+    "grunt-replace": "^1.0.1",
+    "imagemin-mozjpeg": "^6.0.0",
+    "instantsearch.js": "^2.5.2",
+    "jquery": "^3.3.1",
+    "load-grunt-config": "^0.19.2",
+    "load-grunt-tasks": "^3.5.2",
+    "lodash": "^4.17.5",
+    "matchdep": "^2.0.0",
+    "moment": "^2.20.1",
+    "node-sass": "^4.7.2",
+    "pixrem": "^4.0.1",
+    "popper.js": "^1.13.0",
+    "request": "^2.83.0",
+    "time-grunt": "^1.4.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-customizable"
+    }
+  },
+  "scripts": {
+    "css": "node-sass --include-path node_modules --output-style compressed --precision 6 src/scss/theme.scss tmp/theme.css",
+    "algolia": "atomic-algolia"
+  }
+}

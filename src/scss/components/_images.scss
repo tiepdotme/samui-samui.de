@@ -1,0 +1,10 @@
+.entry-content img {
+    @extend .img-fluid;
+}
+
+figure {
+    img {
+        border: 1px solid  theme-color("redish");
+        border-radius: $border-radius-lg;
+    }
+}

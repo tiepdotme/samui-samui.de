@@ -1,0 +1,60 @@
+#topheader {
+
+    h1 {
+      text-align: center;
+
+        a {
+            background: url("/header.jpg") center;
+            background-clip:                text;
+            -webkit-background-clip:        text;
+                -webkit-text-fill-color: transparent;
+            color: transparent;
+
+        }
+
+        @include media-breakpoint-only(sm) {
+            font-size: 68px;
+        }
+        @include media-breakpoint-only(md) {
+            font-size: 92px;
+        }
+        @include media-breakpoint-up(lg) {
+            font-size: 125px;
+        }
+
+        line-height:1;
+
+        .blogname {
+            display:block;
+        }
+
+        .blogdescription {
+
+            display:block;
+            text-align:center;
+            border-top: 1px solid theme-color("redish");
+            border-bottom: 1px solid theme-color("redish");
+            color: theme-color("yellowish");
+            font-family: 'pantonheavy';
+
+            @include media-breakpoint-only(xs) {
+                font-size: 11px;
+                padding: 1px 0;
+            }
+            @include media-breakpoint-only(sm) {
+                font-size: 14px;
+                padding: 2px 0;
+            }
+            @include media-breakpoint-only(md) {
+                font-size: 19px;
+                padding: 2px 0;
+            }
+            @include media-breakpoint-up(lg) {
+                font-size: 26px;
+                padding: 5px 0;
+            }
+
+        }
+    }
+
+}

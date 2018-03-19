@@ -1,0 +1,69 @@
+// add this to theme color functions
+// https://getbootstrap.com/docs/4.0/getting-started/theming/#functions
+$icomoon-font-path: "fonts";
+$icon-search: "\f002";
+$icon-home: "\f015";
+$icon-tags: "\f02c";
+$icon-pencil: "\f040";
+$icon-play: "\f04b";
+$icon-chevron-left: "\f053";
+$icon-chevron-right: "\f054";
+$icon-question-circle: "\f059";
+$icon-calendar: "\f073";
+$icon-twitter-square: "\f081";
+$icon-facebook-square: "\f082";
+$icon-comments: "\f086";
+$icon-linkedin-square: "\f08c";
+$icon-globe: "\f0ac";
+$icon-google-plus-square: "\f0d4";
+$icon-money: "\f0d6";
+$icon-envelope: "\f0e0";
+$icon-archive: "\f187";
+$primary: theme-color("redish");
+$enable-caret: true;
+$enable-rounded: false;
+$enable-shadows: false;
+$enable-gradients: false;
+$enable-transitions: true;
+$enable-hover-media-query: false;
+$enable-grid-classes: true;
+$enable-print-styles: true;
+$body-bg: theme-color("bodybg");
+$body-color: theme-color("darktext");
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px
+);
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px
+);
+$grid-gutter-width: 30px;
+// fonts
+$font-family-sans-serif: 'pantonregular', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$headings-font-family: 'pantonheavy', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$dark: #212529;
+$font-size-base: 1rem;
+$blockquote-font-size: $font-size-base;
+$link-color: darken($primary, 20%);
+$link-hover-color: $primary;
+// pagination
+$pagination-color: lighten(theme-color("yellowish"), 20%);
+$pagination-bg: $primary;
+$pagination-border-color: rgba(theme-color("darktext"), 0.2);
+$pagination-hover-color: $primary;
+$pagination-hover-bg: lighten(theme-color("yellowish"), 20%);
+$pagination-hover-border-color: rgba(theme-color("darktext"), 0.2);
+$pagination-active-color: lighten(theme-color("yellowish"), 20%);
+$pagination-active-bg: $primary;
+$pagination-active-border-color: rgba(theme-color("darktext"), 0.2);
+$pagination-disabled-bg: $primary;
+$pagination-disabled-border-color: rgba(theme-color("darktext"), 0.2);
+$pagination-disabled-color: lighten(theme-color("yellowish"), 40%);
+// progress bars
+$progress-bg: theme-color("yellowish");
+$progress-bar-color: theme-color("darktext");
+$progress-bar-bg: theme-color("redish");

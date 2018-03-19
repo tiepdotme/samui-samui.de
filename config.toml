@@ -1,0 +1,123 @@
+# site setup
+baseURL = "https://samui-samui.de/" # hostname & path to the root
+defaultContentLanguage = "de"
+disqusShortname = "samui-samui-de"
+summaryLength = 70 # the length of text to show in a .Summary
+
+# content particles
+title = "Samui? Samui!"
+copyright = "All rights reserved. Copyright samui-samui.de"
+languageCode = "de-DE"
+
+# enable/disable functions
+enableGitInfo = true # Enable GitInfo feature
+enableRobotsTXT = true # Build robots.txt file
+disableHugoGeneratorInject = true # Do not inject generator meta tag on homepage
+watch = true # watch filesystem for changes and recreate as needed
+
+# pagination
+#paginate = 10 # 5 items per page
+paginatePath = "seite"
+
+rssLimit = 10
+
+# see http://gohugo.io/templates/output-formats/
+[outputs]
+  home = [ "HTML", "RSS", "Algolia" ]
+  page = [ "HTML" ]
+
+[outputFormats.Algolia]
+	baseName = "algolia"
+	isPlainText = true
+	mediaType = "application/json"
+	notAlternative = true
+
+[author]
+name = "Patrick Kollitsch"
+homepage = "https://samui-samui.de"
+
+# see https://gohugo.io/content-management/urls/
+[permalinks]
+post = "/:year/:month/:title/"
+page = "/:title/"
+
+[taxonomies]
+tag = "tags"
+
+[imaging]
+# See https://github.com/disintegration/imaging
+resampleFilter = "lanczos"
+quality = 85
+
+[[menu.main]]
+name = "Startseite"
+weight = 1
+identifier = "posts"
+url = "/"
+pre = "<i class='fas fa-home fa-fw'></i>"
+
+[[menu.main]]
+name = "Archiv"
+weight = 100
+identifier = "archiv"
+url = "/archiv/"
+pre = "<i class='fas fa-archive fa-fw'></i>"
+
+[[menu.main]]
+name = "Suchen"
+weight = 200
+identifier = "search"
+url = "/suche/"
+pre = "<i class='fas fa-search fa-fw'></i>"
+
+[[menu.main]]
+name = "Kontakt"
+weight = 300
+identifier = "kontakt"
+url = "/kontakt/"
+pre = "<i class='fas fa-envelope fa-fw'></i>"
+
+[related]
+threshold = 80 # Only include matches with rank >= threshold. 0 and 100.
+includeNewer = true # adding newer articles to older ones (changing the content)
+toLower = true # Will lower case keywords in both queries and in the indexes.
+
+[[related.indices]]
+name  = "tags"
+weight = 100
+
+[[related.indices]]
+name  = "date"
+weight = 10
+pattern = "2006" # “200601” for busier times?
+
+[params]
+tagmanagerid = "GTM-P8XWV7K" # tagmanager container ID
+version = "2018.1.132" # will be filled out by script and is used for versioning of asset files
+
+# social media setup
+og_image = ""
+og_image_url = ""
+githubName = ""
+twitterName =  ""
+
+# content particles
+siteslug = "samui-samui-de"
+description = "Notizen über mein Leben als Auswanderer auf Koh Samui, Thailand"
+
+# design elements
+sitecolor = "#d02d19"
+
+[params.social.facebook]
+profileid = "517050641" # patrick.kollitsch
+pageid = "6967849771" # samuisamui
+appid = "2047624572136513" # samui-samui.de
+
+[params.social.twitter]
+profileid = "davidsneighbour"
+siteid = "samui2"
+
+# search setup
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"]

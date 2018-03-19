@@ -1,0 +1,16 @@
+h1 {
+  transition: font-size 20s ease;   
+    a {
+        -webkit-transition: color .8s ease;
+        transition: color .8s ease;
+    }
+}
+
+article {
+    .entry-title {
+        a {
+            -webkit-transition: color .8s ease;
+            transition: color .8s ease;
+        }
+    }
+}

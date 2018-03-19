@@ -1,0 +1,9 @@
+[build]
+  publish = "public"
+  command = "grunt build"
+
+[context.production]
+  command = "grunt build"
+  [context.production.environment]
+    HUGO_VERSION = "0.37.1"
+    HUGO_ENV = "production"
