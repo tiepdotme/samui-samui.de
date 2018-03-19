@@ -14,3 +14,11 @@ https://stackoverflow.com/questions/6590688/is-it-bad-to-have-my-virtualenv-dire
 
 run `deactivate` to deactivate the python virtual environment
 virtualenv --no-site-packages --distribute env && source .env/bin/activate && pip install -r requirements.txt
+
+
+# squashing repo
+
+```
+git checkout --orphan new-squashed-branch master
+git commit
+```
