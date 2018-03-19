@@ -93,7 +93,7 @@ pattern = "2006" # “200601” for busier times?
 
 [params]
 tagmanagerid = "GTM-P8XWV7K" # tagmanager container ID
-version = "2018.1.132" # will be filled out by script and is used for versioning of asset files
+version = "2018.1.133" # will be filled out by script and is used for versioning of asset files
 
 # social media setup
 og_image = ""
