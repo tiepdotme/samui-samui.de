@@ -25,10 +25,6 @@ module.exports = {
       name: 'style: Changes that do not affect the meaning of the code\n            (white-space, formatting, missing semi-colons, etc)'
     },
     {
-      value: 'layout',
-      name: 'layout: changes to layout and theme files'
-    },
-    {
       value: 'perf',
       name: 'perf: A code change that improves performance'
     },
