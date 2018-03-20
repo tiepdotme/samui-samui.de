@@ -11,7 +11,7 @@ url: /2006/10/sex-in-bophut/
 ---
 Ich habe gerade festgestellt, dass die meisten Suchenden mit einschl&auml;gigen Suchbegriffen in der Mitte des _vergangenen Jahres_&trade; landen. Dem muss nat&uuml;rlich entgegengewirkt werden. 
 
-Und so folgt nun meine pers&ouml;nliche Einsch&auml;tzung der Lage f&uuml;r alle, die nach &#8220;sex bophut ko samui&#8221; suchen:
+Und so folgt nun meine pers&ouml;nliche Einsch&auml;tzung der Lage f&uuml;r alle, die nach "sex bophut ko samui" suchen:
 
 Also Bophut ist extrem ungeeignet f&uuml; Abenteuer der sexuellen Art. Es gab da mal eine Karaokebar, die ist aber seit zwei Monaten dem Erdboden gleich gemacht. In Fishermans Village selbst ist Sex nicht so sehr angesagt. Bophut ist also schlecht f&uuml;r schnelle Schleimhautkontakte.
 

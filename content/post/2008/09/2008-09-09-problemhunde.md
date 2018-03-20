@@ -13,7 +13,7 @@ Ich such(t)e seit gut drei Wochen nach einem neuen Haus (eine lange Geschichte, 
 
 Die Hunde.
 
-Ich könnte jede Menge unmöblierter Häuser mieten. Aber alle möblierten Häuser (bzw. deren Vermieter und Innen) mögen keine Hunde. Einerseits nicht, weil Hunde immer (jaja) drau?en rum stromern und die Streuner der Umgebung begatten und andererseits, weil ich immer sage, dass meine beiden Fellbündel Haushunde sind und sie deshalb in den Weltbildern der Thaivermieter natürlich den ganzen Tag nichts anderes zu tun haben, als die billigen Möbel anzuknabbern. Wie man es sagt &#8211; es ist nicht gut.
+Ich könnte jede Menge unmöblierter Häuser mieten. Aber alle möblierten Häuser (bzw. deren Vermieter und Innen) mögen keine Hunde. Einerseits nicht, weil Hunde immer (jaja) drau?en rum stromern und die Streuner der Umgebung begatten und andererseits, weil ich immer sage, dass meine beiden Fellbündel Haushunde sind und sie deshalb in den Weltbildern der Thaivermieter natürlich den ganzen Tag nichts anderes zu tun haben, als die billigen Möbel anzuknabbern. Wie man es sagt --- es ist nicht gut.
 
 Egal.
 

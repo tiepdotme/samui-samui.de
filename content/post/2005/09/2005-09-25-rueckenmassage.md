@@ -11,7 +11,7 @@ url: /2005/09/rueckenmassage/
 ---
 [<img width="420" src="//static.flickr.com/32/46304412_00c1c71bc2.jpg" alt="Big Buddha 2005/09/25" />][1]
 
-Buddhatag. Ich muss mir langsam mal merken, dass die einzig gute Zeit f&uuml;r Big Buddha _vor_ 9 Uhr liegt. Danach kommen die Touristen. Heute sprach der ganze Tempel Deutsch. F&uuml;rchterlich. Zwei Sachsen: &#8220;Also hier zieh ich meine Schuhe nich aus, nur wenn es Schatten gibt.&#8221; Zwei Omas sahen mich mit Geldst&uuml;cken Glocken anschlagen und haben es nachge&auml;fft. Wirklich nachge&auml;fft, mit Kichern und ziemlich unaltem Verhalten. Und dann die komische Frau, die sich hinkniete vor einen der unteren Buddhas, die H&auml;nde nach D&uuml;rer faltete (sollte wohl ein Wai sein) und dann d&uuml;mmlich seitlich in die Kamera grinste. 
+Buddhatag. Ich muss mir langsam mal merken, dass die einzig gute Zeit f&uuml;r Big Buddha _vor_ 9 Uhr liegt. Danach kommen die Touristen. Heute sprach der ganze Tempel Deutsch. F&uuml;rchterlich. Zwei Sachsen: "Also hier zieh ich meine Schuhe nich aus, nur wenn es Schatten gibt." Zwei Omas sahen mich mit Geldst&uuml;cken Glocken anschlagen und haben es nachge&auml;fft. Wirklich nachge&auml;fft, mit Kichern und ziemlich unaltem Verhalten. Und dann die komische Frau, die sich hinkniete vor einen der unteren Buddhas, die H&auml;nde nach D&uuml;rer faltete (sollte wohl ein Wai sein) und dann d&uuml;mmlich seitlich in die Kamera grinste. 
 
 Naja. Und der gro&szlig;e Buddha bekommt irgendein seltsames Gebilde hinter den R&uuml;cken gebaut. 
 

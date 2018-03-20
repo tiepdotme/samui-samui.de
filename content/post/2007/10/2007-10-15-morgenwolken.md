@@ -21,4 +21,4 @@ Die Erde ist eine Schale. Sag ich mal. Photobeweis oben stehend.
 
 Die Regenzeit ist eine optimale Gelegenheit um Photos zu schie&szlig;en, die nicht nur die triste blaue Himmel Photokartenromantik der Teilzeit-Samuianer bedienen. Wolken sind was Feines. 
 
-Dieses Jahr hat sich der Nord-Ost-Monsun auf einen freundlichen Morgen-Mittags-Fr&uuml;hnacht-Rhythmus eingepegelt. In den vergangenen Jahren konnte man das Wetter so vorhersagen, dass immer dann, wenn ich irgendwohin wollte pl&ouml;tzlicher Regen einsetzte. Wir werden ja sehen&#8230;
+Dieses Jahr hat sich der Nord-Ost-Monsun auf einen freundlichen Morgen-Mittags-Fr&uuml;hnacht-Rhythmus eingepegelt. In den vergangenen Jahren konnte man das Wetter so vorhersagen, dass immer dann, wenn ich irgendwohin wollte pl&ouml;tzlicher Regen einsetzte. Wir werden ja sehen...

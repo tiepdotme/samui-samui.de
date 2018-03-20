@@ -9,7 +9,7 @@ url: /2005/12/weihnachtspost/
 
 
 ---
-&#8230; gibts nicht von mir dieses Jahr (gabs die jemals von mir?). Weihnachten ist kommerzieller Schnickschnack. Trotzdem war ich eben auf der Post und hab ne Menge Briefe abgegeben. Interessanterweise kostete das weniger als der Versand innerhalb Deutschlands. Man k&ouml;nnte sich glatt f&uuml;r das neue Jahr vornehmen, ein paar Karten zu schicken. Mal sehen.
+... gibts nicht von mir dieses Jahr (gabs die jemals von mir?). Weihnachten ist kommerzieller Schnickschnack. Trotzdem war ich eben auf der Post und hab ne Menge Briefe abgegeben. Interessanterweise kostete das weniger als der Versand innerhalb Deutschlands. Man k&ouml;nnte sich glatt f&uuml;r das neue Jahr vornehmen, ein paar Karten zu schicken. Mal sehen.
 
 Damit war ich dieses Jahr schon zweimal auf der Post. Irgendwann Anfang des Jahres zum schleswig-holsteinischen Wahlkampf und die nun. 
 

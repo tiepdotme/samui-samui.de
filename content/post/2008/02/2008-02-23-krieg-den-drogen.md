@@ -19,7 +19,7 @@ dsq_thread_id:
 
 Ein Zitat [unseres Premierministers][1] das lächerlicher nicht sein könnte und für gut 2.500 tote Thais eine Beleidigung darstellen dürfte.
 
-Der &#8220;Frieg gegen die Drogen&#8221; (initialisiert durch die Thaksin-Regierung) hat zwischen 2003 und 2004 gut 2.500 Menschen das Leben gekostet. Die Polizei durfte ohne rechtliche Voraussetzungen Verdächtige bis zu drei Monaten einsperren oder töten. 
+Der "Frieg gegen die Drogen" (initialisiert durch die Thaksin-Regierung) hat zwischen 2003 und 2004 gut 2.500 Menschen das Leben gekostet. Die Polizei durfte ohne rechtliche Voraussetzungen Verdächtige bis zu drei Monaten einsperren oder töten. 
 
 Premierminister Samak Sundaravej, unser Thaksin-Proxy, sagt nun folgendes:
 

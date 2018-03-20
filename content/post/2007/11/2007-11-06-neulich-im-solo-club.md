@@ -15,4 +15,4 @@ Die Solo-Bar ist die Resterampe Chawengs (seines Zeichens Bestandteil von Soddom
 
 Resterampe schrieb ich schon, oder?
 
-Ich werde also hin und wieder von interessanten Unterhaltungen und Begegnungen aus der Solo-Bar berichten. Ich meine, aus dem Solo-Club berichten&#8230;
+Ich werde also hin und wieder von interessanten Unterhaltungen und Begegnungen aus der Solo-Bar berichten. Ich meine, aus dem Solo-Club berichten...

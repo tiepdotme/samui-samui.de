@@ -14,6 +14,6 @@ url: /2007/01/laos-savannakhet/
   3. Freundschaftsbr&uuml;cke 2 = nett.
   4. Wetter = eiskalt am Morgen und nun sehr hei&szlig;
   5. Absteige: sag ich lieber nicht. Ist aber in Laufn&auml;he zum K&ouml;niglichen Thail&auml;ndischen Konsulat.
-  6. Internetcafe: Das erste Mal in einem Internetkaffee. Die Spacetaste h&auml;ngt und die Windowstasten fehlen. Anbindung langsam. GMail wird nicht geladen. Kein Skype. Mal sehen wie sie hier reagieren, wenn ich Porno-Seiten lade&#8230;
+  6. Internetcafe: Das erste Mal in einem Internetkaffee. Die Spacetaste h&auml;ngt und die Windowstasten fehlen. Anbindung langsam. GMail wird nicht geladen. Kein Skype. Mal sehen wie sie hier reagieren, wenn ich Porno-Seiten lade...
   7. Savannakhet: Die Reisef&uuml;hrer sagten verschlafen. Ich sage verfallen.
   8. Rechtsverkehr. Sie fahren aber wo sie wollen.

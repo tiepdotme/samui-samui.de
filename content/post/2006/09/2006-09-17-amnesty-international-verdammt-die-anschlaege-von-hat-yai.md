@@ -15,6 +15,6 @@ Aber mal ehrlich. Diese nennen wir es mal Organisation macht ja auch nur die Kla
 
 <del>und noch so ein gel&ouml;schter politisch korrekter Absatz</del>
 
-Hmmm&#8230; Laos? Kambodscha? Malaysia? Die Finnen haben dort letzte Woche ein B&uuml;ro er&ouml;ffnet&#8230;
+Hmmm... Laos? Kambodscha? Malaysia? Die Finnen haben dort letzte Woche ein B&uuml;ro er&ouml;ffnet...
 
  [1]: http://www.nationmultimedia.com/breakingnews/read.php?newsid=30013863

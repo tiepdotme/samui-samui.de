@@ -15,7 +15,7 @@ War es aber nicht, denn man konnte keine Radioaktivität feststellen. Das ist ja
 
 Das Neujahr soll auch sicher sein. Wie schön.
 
-PS: Das &#8222;Büro der Atome für den Frieden&#8220; hat übrigens die [radioaktive Entwarnung][3] gegeben. Jaja, die guten Atome&#8230;
+PS: Das "Büro der Atome für den Frieden" hat übrigens die [radioaktive Entwarnung][3] gegeben. Jaja, die guten Atome...
 
  [1]: http://en.wikipedia.org/wiki/Iridium-192
  [2]: http://nationmultimedia.com/breakingnews/30119181/Office-of-Atoms-for-Peace-denies-leakage-at-Suvarn

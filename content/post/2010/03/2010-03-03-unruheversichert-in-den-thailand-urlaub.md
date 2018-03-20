@@ -15,6 +15,6 @@ Dann kamen die Rothemden und das Thaksin-Urteil.
 
 Gestern nun wurde verkündet, dass ab 1. April 2010 (kein Scherz) das Touristenvisum wieder kostenlos wird. Zwischen 6. März und 1. April darf man zahlen. Danach wird für ein Jahr keine Gebühr für das Touristenvisum verlangt.
 
-Gemeinsam mit dem kostenlosen Touristenvisum gibt es eine sogenannte &#8222;Riot Insurance&#8220;, also eine Unruhe-Versicherung über 10.000US$ (auch kein Scherz). Einfach Klasse. Endlich mal Urlaub in einem Land machen, vor dem die meisten Auslandsämter derzeit warnen. Man ist ja versichert. Bei Tod, Verletzungen oder &#8222;Reiseunannehmlichkeiten&#8220; greift die Unruheversicherung. Aber nur, wenn man ein Touristenvisum hat.
+Gemeinsam mit dem kostenlosen Touristenvisum gibt es eine sogenannte "Riot Insurance", also eine Unruhe-Versicherung über 10.000US$ (auch kein Scherz). Einfach Klasse. Endlich mal Urlaub in einem Land machen, vor dem die meisten Auslandsämter derzeit warnen. Man ist ja versichert. Bei Tod, Verletzungen oder "Reiseunannehmlichkeiten" greift die Unruheversicherung. Aber nur, wenn man ein Touristenvisum hat.
 
-Wenn die Ziegelsteine fliegen dann einfach nur kurz den Pass hochhalten&#8230;
+Wenn die Ziegelsteine fliegen dann einfach nur kurz den Pass hochhalten...

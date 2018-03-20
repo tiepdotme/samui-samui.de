@@ -15,9 +15,9 @@ url: /2007/11/polimathematik/
 
 > Thai Rak Thai + Thaksin = Populist Policy
   
-> Thai Rak Thai = Populist Policy &#8211; Thaksin
+> Thai Rak Thai = Populist Policy --- Thaksin
   
-> Populist Policy &#8211; Thaksin = <span class="caps">PPP</span>
+> Populist Policy --- Thaksin = <span class="caps">PPP</span>
   
 > Therefore:
   

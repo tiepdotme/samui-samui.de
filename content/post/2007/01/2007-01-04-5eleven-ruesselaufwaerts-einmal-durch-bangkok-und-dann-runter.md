@@ -9,7 +9,7 @@ url: /2007/01/5eleven-ruesselaufwaerts-einmal-durch-bangkok-und-dann-runter/
 
 
 ---
-So. Am Montag machte ich mich also frohgemut auf, um die kleine Insel (die mit den Palmen) gen Norden zu verlassen. Im Prinzip führen alle Wege in Thailand erstmal nach Bangkok, ehe man irgendwo anders hin kommt. Wenn man nicht gerade lokale Attraktionen bereisen will. Wollte ich nicht, also ab in den Bus nach Bangkok. Ich wurde in den 2.Klasse-Bus gesteckt weil ich irgendwie mein Ticket zu spät gelöst habe (der Bankautomat hat mir 2000 Baht gestohlen, als das Internet gestört war, Schweinerei, allerdings war mir dann auch lieb, dass ich nur in den 530er Bus durfte und nicht in den 850er Bus &#8211; bahtmä?ig gesehen). Da wird man auch 2ter Klasse behandelt. Au?er einer filzigen Decke gegen die Klimaanlagenerkältung gabs nichts. ?ber mir im Gang war ein gro?es schwarzes Loch. Die Fähre war auch so verrostet, dass ich mir das erste Mal Gedanken machte, ob ich in Zukunft nicht andere Wege, derartige Inseln zu verlassen wählen sollte.
+So. Am Montag machte ich mich also frohgemut auf, um die kleine Insel (die mit den Palmen) gen Norden zu verlassen. Im Prinzip führen alle Wege in Thailand erstmal nach Bangkok, ehe man irgendwo anders hin kommt. Wenn man nicht gerade lokale Attraktionen bereisen will. Wollte ich nicht, also ab in den Bus nach Bangkok. Ich wurde in den 2.Klasse-Bus gesteckt weil ich irgendwie mein Ticket zu spät gelöst habe (der Bankautomat hat mir 2000 Baht gestohlen, als das Internet gestört war, Schweinerei, allerdings war mir dann auch lieb, dass ich nur in den 530er Bus durfte und nicht in den 850er Bus --- bahtmä?ig gesehen). Da wird man auch 2ter Klasse behandelt. Au?er einer filzigen Decke gegen die Klimaanlagenerkältung gabs nichts. ?ber mir im Gang war ein gro?es schwarzes Loch. Die Fähre war auch so verrostet, dass ich mir das erste Mal Gedanken machte, ob ich in Zukunft nicht andere Wege, derartige Inseln zu verlassen wählen sollte.
 
 Auf der Stra?e hinter Chumphon wurden wir an einer Polizeisperrung nachts um zwei 90 Minuten lang angehalten und durchsucht. Das Gepäck im Kofferraum wurde komplett ausgeleert (dankeschön) und innen kamen sie mit Schnellfeuerwaffen (sowas wollte ich schon immer mal schreiben, irgendwie sah das wie kleinen russischen Waffen mit Holzgriff aus) und haben _alle_ Gepäckstücke durchsucht, nur nicht meinen Rucksack. In selbigen befand sich mein Notebook und _mir_ wäre das verdächtig vorgekommen. Trotzdem sind sie meinem Paket einfach nicht in die Quere gekommen. 
 
@@ -23,4 +23,4 @@ In der Zeit in der sie uns kontrolliert haben kam auch ein Kamerateam und hat di
 
 Dann noch schnell quer durch Bangkok und runter nach Rayong. 
 
-Wirklich? Erzähl ich morgen&#8230;
+Wirklich? Erzähl ich morgen...

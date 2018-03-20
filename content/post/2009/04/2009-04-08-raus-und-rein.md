@@ -13,6 +13,6 @@ Neuigkeiten aus dem Soapoperagewerbe: Die Familie des Profigolfpräsidenten hat 
 
 Seine Anhänger hingegen, erkennbar durch blutrote Farben, demonstrieren in Bangkok vor sich hin. 100.000 Menschen haben sich vor der Villa von Prem Tinsulandnonda, der wiederum den letzten Putsch dirigiert haben soll, versammelt.
 
-Die Onlinezeitungen machen auf &#8222;Tag der Entscheidung&#8220; und ganz Fatale rechnen schon mit dem nächsten Putsch noch vor Songkran. Ich befürchte nur, das wird nichts werden&#8230;
+Die Onlinezeitungen machen auf "Tag der Entscheidung" und ganz Fatale rechnen schon mit dem nächsten Putsch noch vor Songkran. Ich befürchte nur, das wird nichts werden...
 
  [1]: http://www.nationmultimedia.com/2009/04/08/politics/politics_30099920.php

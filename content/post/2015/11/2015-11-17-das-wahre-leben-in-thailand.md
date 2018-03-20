@@ -22,4 +22,4 @@ url: /2015/11/das-wahre-leben-in-thailand/
   </div>
 </div>
 
-Diese kurze Video-Dokumentation zeigt das tägliche Leben in Thailand. Ein Genuss. So, muss mich mal eben auf meinen Elephanten schwingen und meinen Zigarrenbestand im 7eleven aufstocken&#8230;
+Diese kurze Video-Dokumentation zeigt das tägliche Leben in Thailand. Ein Genuss. So, muss mich mal eben auf meinen Elephanten schwingen und meinen Zigarrenbestand im 7eleven aufstocken...

@@ -18,6 +18,6 @@ Dass Soosie wieder wohlauf ist, sollte uns eigentlich zufrieden stellen. Nichtsd
 
 Weshalb Pokki her halten muss, der vor ein paar Jahren seiner Manneskraft entledigt wurde. 
 
-Hier nun ein Lehrvideo, in dem Soosie Pokkie zeigt, wie &#8220;es&#8221; richtig geht. Mehr oder weniger. Das Ganze geht immer gut 10 Minuten, dann fliegen die Fetzen, weil Pokki keine Lust mehr hat, dann beruhigt man sich ein paar Minuten und es beginnt von vorne. 
+Hier nun ein Lehrvideo, in dem Soosie Pokkie zeigt, wie "es" richtig geht. Mehr oder weniger. Das Ganze geht immer gut 10 Minuten, dann fliegen die Fetzen, weil Pokki keine Lust mehr hat, dann beruhigt man sich ein paar Minuten und es beginnt von vorne. 
 
-PS: Subtitel folgen noch&#8230;
+PS: Subtitel folgen noch...

@@ -19,15 +19,15 @@ url: /2008/12/was-fuer-eine-regierung/
 > 
 > He then said he had asked Chuan about his dissatisfaction after he learnt from reports that Chuan was dissatisfied over the Cabinet lineup.
 > 
-> &#8222;**I whispered to him why he was angry at me but he has not yet answered my question,**&#8222; Abhisit said.
+> "**I whispered to him why he was angry at me but he has not yet answered my question,**" Abhisit said.
 > 
 > Chuan, who was in the meeting room, laughed, prompting other MPs to laugh along with him.
 
 Wenigstens haben sie ihre, ehm, [Klausur auf Samui][1] abgehalten. Die neue Regierung weiss halt, was Stil hat. 
 
-Gestern noch sagte mir ein Freund &#8222;Du, Abhisit ist auf der Insel&#8220; und ich meinte so &#8222;Der hat Wichtigeres zu tun als nach Samui zu kommen&#8220;&#8230; Tja&#8230;
+Gestern noch sagte mir ein Freund "Du, Abhisit ist auf der Insel" und ich meinte so "Der hat Wichtigeres zu tun als nach Samui zu kommen"... Tja...
 
-Das Intermezzo wird nach dem 11. Januar ein erneutes Ende erfahren, dann wird n&auml;mlich [neu gew&auml;hlt][2]. Und demokratisch durchgef&uuml;hrte Wahlen haben die Demokraten in den vergangenen 10 Jahren nicht gewonnen&#8230;
+Das Intermezzo wird nach dem 11. Januar ein erneutes Ende erfahren, dann wird n&auml;mlich [neu gew&auml;hlt][2]. Und demokratisch durchgef&uuml;hrte Wahlen haben die Demokraten in den vergangenen 10 Jahren nicht gewonnen...
 
  [1]: http://www.nationmultimedia.com/breakingnews/read.php?newsid=30091512
  [2]: http://www.nationmultimedia.com/breakingnews/read.php?newsid=30091520

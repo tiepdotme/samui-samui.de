@@ -9,6 +9,6 @@ url: /2010/05/zum-abschied-ein-feuer-werk/
 
 
 ---
-Die Rothemden (zumindest deren Anführer) haben heute ihre Demonstrationen offiziell beendet. Diejenigen die damit nicht einverstanden sind (und das sind einige) &#8222;kämpfen&#8220; weiter. Das Central World in Bangkok (Einkaufsmeile Nummer 1) steht in Flammen und wird danach vermutlich nur noch abgerissen werden können. 
+Die Rothemden (zumindest deren Anführer) haben heute ihre Demonstrationen offiziell beendet. Diejenigen die damit nicht einverstanden sind (und das sind einige) "kämpfen" weiter. Das Central World in Bangkok (Einkaufsmeile Nummer 1) steht in Flammen und wird danach vermutlich nur noch abgerissen werden können. 
 
 Von 8 Uhr abends mit 8 Uhr morgens ist in Bangkok eine Ausgangssperre verhängt worden. Gegen Thaksin und 9 Führer der Rothemden ist Haftbefehl wegen terroristischer Umtriebe erlassen worden.

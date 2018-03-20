@@ -15,7 +15,7 @@ Da ich (wie jeder, der was von sich h&auml;lt) meinen eigenen (ok, ich gebe zu, 
 
 Ich: Oh. Kim Jong Il ist tot.
   
-Er: Was? Wirklich? Soso&#8230;
+Er: Was? Wirklich? Soso...
 
 Ein paar Stunden sp&auml;ter:
 

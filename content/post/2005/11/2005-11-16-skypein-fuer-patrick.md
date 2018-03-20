@@ -13,7 +13,7 @@ So. Seit heute kann man bei [Skype][1] auch SkypeIn-Nummern f&uuml;r Deutschland
 
 _Jetzt_ fehlen euch aber auch _alle_ Argumente.
 
-Meine Nummer ist: +494512849600 &#8211; Leider konnte man die nicht w&auml;hlen. Ich h&auml;tte dann doch gerne was mit 666 oder 1234 gehabt.
+Meine Nummer ist: +494512849600 --- Leider konnte man die nicht w&auml;hlen. Ich h&auml;tte dann doch gerne was mit 666 oder 1234 gehabt.
 
 Wenn ich nicht online bin (was aufgrund wieder vermehrt auftretender Stromausf&auml;lle und verschiedener Dates und Festivals h&auml;ufiger auftreten kann) dann geht der Anrufbeantworter ran.
 

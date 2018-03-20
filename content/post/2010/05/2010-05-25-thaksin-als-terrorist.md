@@ -11,7 +11,7 @@ url: /2010/05/thaksin-als-terrorist/
 ---
  
 
-Gegen Thaksin wurde gestern [ein Haftbefehl][1] ausgestellt, basierend auf Anschuldigungen zu terroristischen Umtrieben. Unter anderem geht es darum, dass er zu &#8222;gewaltsamen Aufständen der Klassen&#8220; aufgerufen hat (glücklicherweise durch seine &#8222;Phone-Ins&#8220; in Wort und Bild mehr als ausführlich festgehalten) und diesen Kampf finanziell unterstützt hat. 
+Gegen Thaksin wurde gestern [ein Haftbefehl][1] ausgestellt, basierend auf Anschuldigungen zu terroristischen Umtrieben. Unter anderem geht es darum, dass er zu "gewaltsamen Aufständen der Klassen" aufgerufen hat (glücklicherweise durch seine "Phone-Ins" in Wort und Bild mehr als ausführlich festgehalten) und diesen Kampf finanziell unterstützt hat. 
 
 Zurück nach Thailand wird Thaksin diese Anklage auch nicht bringen.
 

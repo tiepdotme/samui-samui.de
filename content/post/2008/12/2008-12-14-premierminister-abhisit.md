@@ -13,7 +13,7 @@ Mit 234 zu 197 Stimmen gewann Abhisit Vejjajiva [eben][1] die Wahl zum 27. Premi
 
   * [Premierminister Thailands seit der Revolution 1932][2] (bei Wikipedia)
 
-Nun [demonstrieren die Roten][3]&#8230;
+Nun [demonstrieren die Roten][3]...
 
  [1]: http://www.nationmultimedia.com/breakingnews/read.php?newsid=30091007
  [2]: http://en.wikipedia.org/wiki/List_of_Prime_Ministers_of_Thailand

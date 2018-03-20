@@ -11,7 +11,7 @@ dsq_thread_id:
 
 
 ---
-Heute meinte die Frau des Englischlehrers (<txp:gho_permalink id="319">h&auml;h? wie? was? Englischlehrer?</txp:gho_permalink>) beim w&ouml;chentlichen Plausch zu mir &#8220;<span class="thai" xml:lang="th">May Mii Bumbui Kaaaaaaaaah</span>&#8220; (viele Frauen sprechen das Kah ziemlich niedlich langgezogen aus) gefolgt von einem schnellen und unverst&auml;ndlichen Redeschwall den der Englischlehrer in etwa mit ich war mal dicker und habe nun sichtbar abgenommen und sehe richtig handsome aus &uuml;bersetzte. 
+Heute meinte die Frau des Englischlehrers (<txp:gho_permalink id="319">h&auml;h? wie? was? Englischlehrer?</txp:gho_permalink>) beim w&ouml;chentlichen Plausch zu mir "<span class="thai" xml:lang="th">May Mii Bumbui Kaaaaaaaaah</span>" (viele Frauen sprechen das Kah ziemlich niedlich langgezogen aus) gefolgt von einem schnellen und unverst&auml;ndlichen Redeschwall den der Englischlehrer in etwa mit ich war mal dicker und habe nun sichtbar abgenommen und sehe richtig handsome aus &uuml;bersetzte. 
 
 Hmm. Nett. Ich pers&ouml;nlich finde mich ja immer noch recht platzeinnehmend, aber wenn &auml;ltere Frauen mir erkl&auml;ren dem w&auml;re nicht so ist das eine Einsicht und Information die mir ich dankend als Fakt aneigne. Es ist auch schon l&auml;ngere Zeit kein Stuhl unter mir zusammengebrochen.
 

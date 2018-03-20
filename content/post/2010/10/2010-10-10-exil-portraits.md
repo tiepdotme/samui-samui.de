@@ -9,7 +9,7 @@ url: /2010/10/exil-portraits/
 
 
 ---
-Auf der Website des wöchentlich erscheinenden Magazins &#8222;New Yorker&#8220; kann man sich ein [Album mit Portrait-Photos von in Thailand lebenden Burmesen][1] ansehen. 
+Auf der Website des wöchentlich erscheinenden Magazins "New Yorker" kann man sich ein [Album mit Portrait-Photos von in Thailand lebenden Burmesen][1] ansehen. 
 
 An den Umständen in Burma hat sich in den vergangenen Jahren nicht viel geändert. Am 7. November gibt es staatlich organisierte Neuwahlen. Die Partei von Friedensnobelpreisträgerin Aung Sang Suu Kyi, die immer noch unter Hausarrest steht, nimmt aus Protest nicht teil. 
 

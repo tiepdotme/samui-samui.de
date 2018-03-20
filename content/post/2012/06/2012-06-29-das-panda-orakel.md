@@ -21,9 +21,9 @@ tags:
 ---
 Lin Pin schlägt mal wieder zu. Unser [Lieblingspanda][1] aus Chiang Mai hält als EM-Orakel her und macht [meine mickrigen Versuche][2] auf ewigen Ruhm damit zunichte. Für das vergangene Nacht stattgefundene Spiel sagte sie voraus, dass Deutschland gewinnen würde.
 
-&#8230; Nun, das entspricht nicht ganz dem Ergebnis, aber wenn man mal genauer hin-liest wie das Orakel interpretiert wurde, ist das ja offensichtlich, dass man das falsch gemacht hat:
+... Nun, das entspricht nicht ganz dem Ergebnis, aber wenn man mal genauer hin-liest wie das Orakel interpretiert wurde, ist das ja offensichtlich, dass man das falsch gemacht hat:
 
-> The three year-old panda, who was born in Chiang Mai zoo, was presented with two separate balls with the national flags of Germany and Italy on them. She was seen hurriedly walking to the ball with the German flag and didn&#8217;t even glance at the ball bearing the Italian flag. She later played with the German flag.
+> The three year-old panda, who was born in Chiang Mai zoo, was presented with two separate balls with the national flags of Germany and Italy on them. She was seen hurriedly walking to the ball with the German flag and didn't even glance at the ball bearing the Italian flag. She later played with the German flag.
 > 
 > She was next present with balls bearing the Spanish and Portuguese flags. This time Lin Ping plays first with the Spanish ball before moving on to that of Portugal. The prediction was that the competition would be fierce but that Spain will win.
 > 

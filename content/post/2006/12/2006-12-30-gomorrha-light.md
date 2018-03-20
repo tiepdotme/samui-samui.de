@@ -9,7 +9,7 @@ url: /2006/12/gomorrha-light/
 
 
 ---
-Mit Maenam geht es auch den Bach hinunter &#8211; sextechnisch. 
+Mit Maenam geht es auch den Bach hinunter --- sextechnisch. 
 
 Als ich vor gut einem Jahr hier her gezogen bin, gab es an der Ringroad drei Ladybars und eine Karaoke-Bar (mal die Seitenstra?en und den Strand au?en vor gelassen). In den Ladybars kann man als Farang Bier trinken und willige Sexarbeiterinnen abschleppen. In den Karaoke-Bars läuft das gleiche Schema mit Karaoke statt Bier und Thais als Kunden ab. 
 
@@ -21,4 +21,4 @@ Die Karaoke-Bar auf meiner aktuellen Zufahrtsstra?e hat sogar sowas wie einen St
 
 Unterschiede zwischen den Sexarbeitern für Farangs und Thais gibts auch: erstere tragen lieber Schwarz und haben dunklere Haut, die Frauen für die Thais streben immer noch nach wei?er Haut und tragen Kleidung, die ich auf den Stra?enstrichen polnischer Grenzorte vermute. Leder in wei? oder Neonfarben, Stiefel bis zum Knie und einen Gürtel als Rock. 
 
-Wird Zeit, dass ich mir ein neues Haus suche<txp:gho_footnote>Was eine Art Ankündigung ist&#8230;</txp:gho_footnote>. Mal im Süd-Westen der Insel suchen. Dann habe ich aber auch alle Gegenden hier schon durch.
+Wird Zeit, dass ich mir ein neues Haus suche<txp:gho_footnote>Was eine Art Ankündigung ist...</txp:gho_footnote>. Mal im Süd-Westen der Insel suchen. Dann habe ich aber auch alle Gegenden hier schon durch.

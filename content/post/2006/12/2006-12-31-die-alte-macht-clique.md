@@ -9,7 +9,7 @@ url: /2006/12/die-alte-macht-clique/
 
 
 ---
-Man ist in Bangkok ziemlich schnell mit dem Finden der Schuldigen der <txp:permlink id="1073">Bombenanschläge von heute Abend</txp:permlink> und hat die &#8220;[Old-Power-Clique][1]&#8221; ausgemacht. [Thai Rak Thai hat gleich darauf geantwortet][2] und gesagt, dass sie nicht dahinter stecken und es ebensogut die Militanten aus dem Süden sein können. Getretene Hunde bellen.
+Man ist in Bangkok ziemlich schnell mit dem Finden der Schuldigen der <a href="1073">Bombenanschläge von heute Abend</a> und hat die "[Old-Power-Clique][1]" ausgemacht. [Thai Rak Thai hat gleich darauf geantwortet][2] und gesagt, dass sie nicht dahinter stecken und es ebensogut die Militanten aus dem Süden sein können. Getretene Hunde bellen.
 
 [Sonthi schickt unterdessen seine Soldaten wieder nach Bangkok][3].
 

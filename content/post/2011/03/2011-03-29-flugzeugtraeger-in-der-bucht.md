@@ -9,7 +9,7 @@ url: /2011/03/flugzeugtraeger-in-der-bucht/
 
 
 ---
-Und <txp:permlink id="1963">auch</txp:permlink> die Deutsche Botschaft schreibt schon einen Rundbrief wegen des Wetters:
+Und <a href="1963">auch</a> die Deutsche Botschaft schreibt schon einen Rundbrief wegen des Wetters:
 
 > Aufgrund anhaltender Stürme und schweren Regenfällen in der südlichen Küstenregion Thailands wurde der Flughafen Koh Samui gestern geschlossen.
   
@@ -23,10 +23,10 @@ Und <txp:permlink id="1963">auch</txp:permlink> die Deutsche Botschaft schreibt 
 
 Tatsächlich soll der Flugzeugträger der thailändischen Marine auf dem Weg sein oder bereits vor Koh Tao liegen um Touristen vor verlängertem (verwässertem) Urlaub zu retten. 
 
-Der Wetterbericht klang gestern noch so, als ob es heute nur noch teilweise regnen sollte &#8211; das sieht dann heute schon etwas anders aus. Auf der Stra?e fahren Bagger und Schaufelgeräte herum und schütten mit Sand von der Bergseite der Ringroad die Einfahrten auf der Meeresseite der Ringroad zu.
+Der Wetterbericht klang gestern noch so, als ob es heute nur noch teilweise regnen sollte --- das sieht dann heute schon etwas anders aus. Auf der Stra?e fahren Bagger und Schaufelgeräte herum und schütten mit Sand von der Bergseite der Ringroad die Einfahrten auf der Meeresseite der Ringroad zu.
 
-Mein Bach vorm Haus hat sich tief in den Boden gefressen &#8211; ein bisschen froh bin ich schon über die Lage meines Hauses, andere Stellen auf der Insel stehen bis zum Hals unter Wasser. 
+Mein Bach vorm Haus hat sich tief in den Boden gefressen --- ein bisschen froh bin ich schon über die Lage meines Hauses, andere Stellen auf der Insel stehen bis zum Hals unter Wasser. 
 
-Gestern &#8220;durfte&#8221; ich ein Resort um die Ecke, für das ich die Website machen durfte besuchen &#8211; die Fluten haben einen gro?en Teil des Resorts einfach weg geschwemmt und es wird wohl schlie?en müssen.
+Gestern "durfte" ich ein Resort um die Ecke, für das ich die Website machen durfte besuchen --- die Fluten haben einen gro?en Teil des Resorts einfach weg geschwemmt und es wird wohl schlie?en müssen.
 
 Das ist die schwerste Regenperiode meiner sieben Jahre auf der Insel (mal ganz abgesehen davon, dass das Wetter hier normalerweise um diese Jahreszeit trocken, hei?, schwül und durch Wassernotstand geprägt ist.

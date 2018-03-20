@@ -33,7 +33,7 @@ Ausschnitt 1: Farbspiele
   
 > **das Ich**: Da fehlt ein Komma hinter dem Gott!
   
-> **das ?ber-Ich**: Quatsch! Ich meinte&#8230;
+> **das ?ber-Ich**: Quatsch! Ich meinte...
   
 > **das Ich**: Klappe.
   
@@ -87,7 +87,7 @@ Ausschnitt 2: Schrank aufräumen
   
 > **das Ich**: Ja.
   
-> **das ?ber-Ich**: ähm, &#8230;
+> **das ?ber-Ich**: ähm, ...
   
 > **das Ich**: Klappe.
 
@@ -117,7 +117,7 @@ Ausschnitt 3: Traumschaum
 
 Ausschnitt 4: KungFu
 
-> Er bringt seine Wäsche zur Wäscherei, kauft Milch und (Trink)Joghurt und sieht sich &#8216;Kung Fu Hustle&#8217; zum vermutlich zehnten Mal an.
+> Er bringt seine Wäsche zur Wäscherei, kauft Milch und (Trink)Joghurt und sieht sich 'Kung Fu Hustle' zum vermutlich zehnten Mal an.
   
 > **das ?ber-Ich**: Ich versteh wirklich nicht, warum du dir diesen Film ständig ansiehst. Du verstehst kein Chinesisch und KungFu-Filme magst du schon gar nicht.
   

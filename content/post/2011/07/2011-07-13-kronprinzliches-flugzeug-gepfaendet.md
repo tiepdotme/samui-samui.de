@@ -11,7 +11,7 @@ dsq_thread_id:
 
 
 ---
-Da zahlt man (Thailand) mal eine klitzekleine Rechnung (31 Millionen Euro) mal nicht, und schon (20 Jahre später) wird das Flugzeug des Kronprinzen Maha Vajiralongkorn gepfändet. [Tststs][1]&#8230;
+Da zahlt man (Thailand) mal eine klitzekleine Rechnung (31 Millionen Euro) mal nicht, und schon (20 Jahre später) wird das Flugzeug des Kronprinzen Maha Vajiralongkorn gepfändet. [Tststs][1]...
 
 Interessant ist jedenfalls, dass der Kronprinz recht viel in Deutschland herumzureisen scheint. München, Dresden, Saarbrücken, Nürnberg und Berlin standen in den vergangenen Tagen auf seinem Reiseplan, was es für den Insolvenzvollstrecker einer Baufirma letztenendes dann doch recht einfach machte, die Boeing 737 des Kronprinzen zu beschlagnahmen.
 

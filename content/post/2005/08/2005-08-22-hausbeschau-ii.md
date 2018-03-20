@@ -15,7 +15,7 @@ Neues Haus, alte Kamera aber wieder funktionierend. Also neue Hausbeschau. Unser
   
 {{< figure src="/wp-content/old-images/141.jpg" >}}
 
-Wir betreten das ehrw&uuml;rdige Gem&auml;uer durch die h&ouml;lzerne Vordert&uuml;r und sehen uns dem Medienzimmer gegen&uuml;ber. Die thail&auml;ndische Standardcouch fehlt ebensowenig wie das in allen H&auml;usern vorhandene Glascouchtischmodell (identisch mit dem im alten Haus &#8211; <txp:gho_permalink id="12">man vergleiche bitte</txp:gho_permalink>). Auf dem Tisch sehen wir ein Buch mit einem pinken Elefanten sowie verschiedene Drogenbestecks. Einige neckisch verteilte Sessel vervollst&auml;ndigen das noch recht karge Ambiente und geben zwischen durch einen Holzmarionettenelefanten namens Kah (Hubert Kah) bewachten Fernseher und Couch den Weg in die Partyhalle frei.
+Wir betreten das ehrw&uuml;rdige Gem&auml;uer durch die h&ouml;lzerne Vordert&uuml;r und sehen uns dem Medienzimmer gegen&uuml;ber. Die thail&auml;ndische Standardcouch fehlt ebensowenig wie das in allen H&auml;usern vorhandene Glascouchtischmodell (identisch mit dem im alten Haus --- <txp:gho_permalink id="12">man vergleiche bitte</txp:gho_permalink>). Auf dem Tisch sehen wir ein Buch mit einem pinken Elefanten sowie verschiedene Drogenbestecks. Einige neckisch verteilte Sessel vervollst&auml;ndigen das noch recht karge Ambiente und geben zwischen durch einen Holzmarionettenelefanten namens Kah (Hubert Kah) bewachten Fernseher und Couch den Weg in die Partyhalle frei.
 
 {{< figure src="/wp-content/old-images/138.jpg" >}}
   

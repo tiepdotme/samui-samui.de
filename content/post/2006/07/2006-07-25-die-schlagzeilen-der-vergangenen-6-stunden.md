@@ -12,13 +12,13 @@ url: /2006/07/die-schlagzeilen-der-vergangenen-6-stunden/
 (mal nur die von The Nation Online)
 
   * [Three EC commissioners convicted, get four-year imprisonment][1]
-  * [Council of State says 3 EC members&#8217; status no longer valid][2]
-  * [Prinya insists three EC commissioners&#8217; status still valid][3]
+  * [Council of State says 3 EC members' status no longer valid][2]
+  * [Prinya insists three EC commissioners' status still valid][3]
   * [Thaksin believes new EC to be appointed in one month][4] (was w&auml;re das Tagesthema ohne Thaksinkommentar?)
   * [Fight erupts between supporters, opponents of EC][4] (was w&auml;re eine thaksinkritische Entscheidung ohne Gewalt zwischen seinen F&uuml;rsprechern und allen anderen?)
   * [EC commissioners sent to Bangkok Remand Prison][5]
   * [EC Commissioners arrive at Bangkok Remand Prison][6]
-  * [Supreme Court wait for Senate speaker&#8217;s request for starting EC selection][7]
+  * [Supreme Court wait for Senate speaker's request for starting EC selection][7]
   * [Supreme Court to start EC selection process on Wednesday][8]
 
 Um es kurz und knapp zu machen: Die drei verbliebenen K&ouml;pfe der Wahlkommission wurden heute zu vier Jahren Gef&auml;ngnis verurteilt weil sie das Wahlgesetz gebrochen haben. Unter anderem wurde ihnen vorgeworfen Thai Rak Thai (Thaksins Partei) bevorzugt behandelt zu haben. 

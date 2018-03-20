@@ -13,6 +13,6 @@ Der Noch-Premierminister von Thailand, Ex-General Surayudh, wird heute Abend ein
 
 > Prime Minister Surayud Chulanont will cite the assassination of former Pakistani Prime Minister Benazir Bhutto as lesson to warn Thais to have unity.
 
-1:0 für meine <txp:permlink id="1481">&#8220;Thai-Way&#8221;-These</txp:permlink>.
+1:0 für meine <a href="1481">"Thai-Way"-These</a>.
 
  [1]: http://www.nationmultimedia.com/breakingnews/read.php?newsid=30060546

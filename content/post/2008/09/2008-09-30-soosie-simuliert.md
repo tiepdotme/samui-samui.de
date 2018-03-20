@@ -17,7 +17,7 @@ url: /2008/09/soosie-simuliert/
   </p>
 </div>
 
-Hier sehen wir Shihtzudame Soosie in der hei?en Phase ihrer dritten Schwangerschaftssimulation. Locker die Beine in angenehmer Pose vom Körper abgewandt versucht sie mit ihrem dreiecksgleichem Leib möglichst viele Fliesen gleichzeitig abzudecken. Mit unschuldig jungfräulichem Blick versucht sie zu sagen: &#8222;Schwanger? Ich? Wie kommst du nur da drauf?&#8220;
+Hier sehen wir Shihtzudame Soosie in der hei?en Phase ihrer dritten Schwangerschaftssimulation. Locker die Beine in angenehmer Pose vom Körper abgewandt versucht sie mit ihrem dreiecksgleichem Leib möglichst viele Fliesen gleichzeitig abzudecken. Mit unschuldig jungfräulichem Blick versucht sie zu sagen: "Schwanger? Ich? Wie kommst du nur da drauf?"
 
 Wenn man sie abtastet, vermeint man (wie bei den beiden vorhergehenden Simulationen) fröhliches Gehoppel zu spüren. Man produziert Milch. Wenn Pokki sie im ?berschwang des Balldrangs überrennt (dreimal am Tag), dann nörgelt sie. Treppen lässt sie sich hoch tragen. 
 

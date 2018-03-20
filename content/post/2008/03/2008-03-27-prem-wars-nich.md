@@ -13,9 +13,9 @@ Na [endlich][1]!
 
 > Privy Council president Prem Tinsulanonda insisted Thursday he did not have a hand in the September 19, 2006 military coup.
 > 
-> &#8220;You (reporters) drew this conclusion yourselves,&#8221; he said. &#8220;I did not do anything.&#8221;
+> "You (reporters) drew this conclusion yourselves," he said. "I did not do anything."
 > 
-> &#8220;I am not involved in politics nor anything related to politics,&#8221; he added. 
+> "I am not involved in politics nor anything related to politics," he added. 
 
 Jetzt wissen wir es endlich. 18 Monate nach dem Putsch hat Prem Tinsulandonda gesagt, dass er nicht die treibende Kraft dahinter war. Das glauben wir ihm nat&uuml;rlich. 
 

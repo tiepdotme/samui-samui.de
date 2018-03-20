@@ -13,4 +13,4 @@ dsq_thread_id:
 ---
 Da spammt mir grade jemand das Blog voll (manuell) mit Viagra- und Cialis-Werbung (jeder weiss doch, dass Cialis das bessere Viagra ist, warum werben die &uuml;berhaupt noch mit den blauen Pillchen?) und anderem Quatsch zu. Also nicht wundern.
 
-Ich pers&ouml;nlich brauche den Kram nicht per Internet zu kaufen, denn einerseits lebe ich strikt abstinent und andererseits kann man den Kram auf der Insel kaufen, wie ich bereits <txp:permlink id="121">in diesem Vintage-Eintrag</txp:permlink> berichtete.
+Ich pers&ouml;nlich brauche den Kram nicht per Internet zu kaufen, denn einerseits lebe ich strikt abstinent und andererseits kann man den Kram auf der Insel kaufen, wie ich bereits <a href="121">in diesem Vintage-Eintrag</a> berichtete.

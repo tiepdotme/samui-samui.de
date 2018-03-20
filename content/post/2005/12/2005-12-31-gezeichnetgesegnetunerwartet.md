@@ -11,7 +11,7 @@ url: /2005/12/gezeichnetgesegnetunerwartet/
 ---
 [<img width="455" src="//static.flickr.com/40/79626076_e9085e2f8f.jpg" alt="Signed. Blessed. Unexpected." />][1]
 
-Seit gestern ist der freie Platz vor meinem Haus zur Partyfl&auml;che umgewandelt worden. Eine Menge B&auml;nke. Eine B&uuml;hne. Und Tische und vielerlei Kochutensilien. Ich seh das ziemlich gelassen denn es wurde mir angek&uuml;ndigt (nachdem man es aufgebaut hatte ;]) mit &#8220;We will disturb you for two days&#8221; und einem Thai-Smile allerbester Qualit&auml;t. 
+Seit gestern ist der freie Platz vor meinem Haus zur Partyfl&auml;che umgewandelt worden. Eine Menge B&auml;nke. Eine B&uuml;hne. Und Tische und vielerlei Kochutensilien. Ich seh das ziemlich gelassen denn es wurde mir angek&uuml;ndigt (nachdem man es aufgebaut hatte ;]) mit "We will disturb you for two days" und einem Thai-Smile allerbester Qualit&auml;t. 
 
 Und so wurde gestern Nacht<sup>*</sup> schon mal in den Silvester reingefeiert. Erstaunlich leise.
 
@@ -23,7 +23,7 @@ Viele H&auml;user sind von M&ouml;nchen geweiht. Ist also was ganz normales und 
 
 Ich werde berichten.
 
-<sup>*</sup> Nacht, thail&auml;ndisch. Zeit von Sonnenuntergang (ca. 18 Uhr) bis 22 Uhr. L&auml;nger schaffen es &#8220;echte&#8221; Thais nicht wachzubleiben. Alles andere hat Beachstreet-Erfahrung.
+<sup>*</sup> Nacht, thail&auml;ndisch. Zeit von Sonnenuntergang (ca. 18 Uhr) bis 22 Uhr. L&auml;nger schaffen es "echte" Thais nicht wachzubleiben. Alles andere hat Beachstreet-Erfahrung.
   
 <sup>**</sup> Man sollte immer niedriger gestellt sein als M&ouml;nche und der K&ouml;nig.
 

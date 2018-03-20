@@ -15,7 +15,7 @@ dsq_thread_id:
 
 **Der Traum**
 
-Heute Nacht hatte ich einen sehr offendierenden Traum. (Ich hatte mehrere, unter anderem einen der mich dazu brachte, &#8220;das Telefonat&#8221; durchzuf&uuml;hren und einen mit Fussball&trade;, hier aber geht es um den einen anderen.) Pokki lief in der Gegend herum und wurde immer kleiner. Je mehr er klein wurde, umso gr&ouml;&szlig;er wurde sein, ehm, hem, Zipfel (der eher in menschlich karrikierender Weise ausgestattet war, nicht canin). Das wars auch schon mit dem Traum. Ich erspare mir und dem werten (und auch dem unwerten) Leser die Deutung dieser Angelegenheit. 
+Heute Nacht hatte ich einen sehr offendierenden Traum. (Ich hatte mehrere, unter anderem einen der mich dazu brachte, "das Telefonat" durchzuf&uuml;hren und einen mit Fussball&trade;, hier aber geht es um den einen anderen.) Pokki lief in der Gegend herum und wurde immer kleiner. Je mehr er klein wurde, umso gr&ouml;&szlig;er wurde sein, ehm, hem, Zipfel (der eher in menschlich karrikierender Weise ausgestattet war, nicht canin). Das wars auch schon mit dem Traum. Ich erspare mir und dem werten (und auch dem unwerten) Leser die Deutung dieser Angelegenheit. 
 
 **Das Telefonat**
 

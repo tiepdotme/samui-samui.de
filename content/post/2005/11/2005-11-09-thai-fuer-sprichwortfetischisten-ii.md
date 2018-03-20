@@ -9,7 +9,7 @@ url: /2005/11/thai-fuer-sprichwortfetischisten-ii/
 
 
 ---
-Neulich (schur, kram, bl&auml;tter &#8211; ah, <txp:gho_permalink id="469">hier</txp:gho_permalink>) meinte ich einen tollen Thaispruch loswerden zu m&uuml;ssen und wurde mitten im Schreiben, ehm, zu einem, ehm, dringenden und unerwarteten, ehm, Patientenbesuch gerufen. Genau. Patientenbesuch. Das wars. 
+Neulich (schur, kram, bl&auml;tter --- ah, <txp:gho_permalink id="469">hier</txp:gho_permalink>) meinte ich einen tollen Thaispruch loswerden zu m&uuml;ssen und wurde mitten im Schreiben, ehm, zu einem, ehm, dringenden und unerwarteten, ehm, Patientenbesuch gerufen. Genau. Patientenbesuch. Das wars. 
 
 Erkl&auml;rt habe ich aber noch nicht, warum man immer das Rote kaufen soll und da erste Anfrager schon vor Mangelinformation platzen werde ich des R&auml;tsels Aufl&ouml;sung nun preisgeben.
 

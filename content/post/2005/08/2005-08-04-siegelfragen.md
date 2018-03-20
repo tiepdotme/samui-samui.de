@@ -11,6 +11,6 @@ dsq_thread_id:
 
 
 ---
-Moin, kann mir mal jemand &#8220;mit dem unabhängigen Siegel der Zufriedenheit&#8221; auf Französisch übersetzten? Ich brauche eine neue Headline. Aus verschiedenen Gründen.
+Moin, kann mir mal jemand "mit dem unabhängigen Siegel der Zufriedenheit" auf Französisch übersetzten? Ich brauche eine neue Headline. Aus verschiedenen Gründen.
 
 PS: Ja, bin wieder da. War nett. Report mit SMS nach Landung folgt.

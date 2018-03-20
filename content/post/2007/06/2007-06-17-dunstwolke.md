@@ -9,11 +9,11 @@ url: /2007/06/dunstwolke/
 
 
 ---
-_Dieser Eintrag stammt vom 19. Mai. Aus irgendeinem Grund hab ich ihn aber nicht &#8220;live gestellt&#8221;. Wie schändlich&#8230;_
+_Dieser Eintrag stammt vom 19. Mai. Aus irgendeinem Grund hab ich ihn aber nicht "live gestellt". Wie schändlich..._
 
 Heute fuhr ich so nach Nachtanbruch vor mich hin auf den Ringstra?en dieser Insel und kam an einer Sextouristen-Bungalow-Farm vorbei. Solche Farmen erkenne ich leicht, habe ich doch damals in den Zeiten des Abtrittbretts in verschiedenen dieser Hausansammlungen gelebt. 
 
-Jedenfalls steht da so ein laufendes Moped mit einem Sextouristen drauf, beginnende Glatze, kleines Bäuchlein, wohlrasiert. An der Einfahrt fuhr ich in eine Wolke Eau de Toilet hinein und hinaus und konnte mich eines lauten &#8220;Ach du Schei?e&#8221; nicht erwehren.
+Jedenfalls steht da so ein laufendes Moped mit einem Sextouristen drauf, beginnende Glatze, kleines Bäuchlein, wohlrasiert. An der Einfahrt fuhr ich in eine Wolke Eau de Toilet hinein und hinaus und konnte mich eines lauten "Ach du Schei?e" nicht erwehren.
 
 Ich bin vielleicht 3 Meter vom Wolkenmittelpunkt vorbeigefahren und habe mich trotzdem so gefühlt wie am Tage als mir mein Jako-Flacon (jaja, der gute alte Lagerfeld) auf den Badezimmerfliesen meiner Eltern zerscholl. 
 

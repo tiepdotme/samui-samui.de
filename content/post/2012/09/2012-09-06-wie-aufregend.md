@@ -17,7 +17,7 @@ fb_status_messages:
 
 
 ---
-Einer der Gründe, warum ich so gerne die lokale englisch-sprachige Presse lese: die Reporter hier sind leicht erregbar&#8230;
+Einer der Gründe, warum ich so gerne die lokale englisch-sprachige Presse lese: die Reporter hier sind leicht erregbar...
 
 > [Thailand wins the third gold medal in gold][1]
 

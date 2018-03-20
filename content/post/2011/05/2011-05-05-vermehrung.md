@@ -19,6 +19,6 @@ url: /2011/05/vermehrung/
 
 Vorgestern erbühte endlich die erste meiner aus dem abgesoffenen Resort geretteten Orchideen. Die ?rmsten lagen nach den Fluten nämlich einfach so in der Gegend herum und vertrockneten ungeliebt.
 
-Nach ein paar Wochen Wasser und gutem Zureden (&#8220;wenn ihr jetzt bald blüht dann kommt ihr ins Internet&#8221;) poppen nun Rispen an allen Pflanzen und die ersten beiden Blüten sind offen. Wie schön.
+Nach ein paar Wochen Wasser und gutem Zureden ("wenn ihr jetzt bald blüht dann kommt ihr ins Internet") poppen nun Rispen an allen Pflanzen und die ersten beiden Blüten sind offen. Wie schön.
 
-Ich habe 2006 schon mal versucht, mit Orchideen zu leben &#8211; das ging daneben, nachdem die Blüten die schon beim Kauf dran hingen verblüht waren kam lange nichts und dann vertrocknete alles.
+Ich habe 2006 schon mal versucht, mit Orchideen zu leben --- das ging daneben, nachdem die Blüten die schon beim Kauf dran hingen verblüht waren kam lange nichts und dann vertrocknete alles.

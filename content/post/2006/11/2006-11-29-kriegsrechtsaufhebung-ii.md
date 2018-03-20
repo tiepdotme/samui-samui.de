@@ -19,7 +19,7 @@ Auf der Karte sieht es dann folgendermassen aus:
 
 <txp:artikelmap w="520" h="400"/>
 
-**Legende:** (rot) Kriegsrecht (gelb) [teilweises Kriegsrecht][1] (grün) &#8220;Normalität&#8221;
+**Legende:** (rot) Kriegsrecht (gelb) [teilweises Kriegsrecht][1] (grün) "Normalität"
 
  [1]: http://www.nationmultimedia.com/2006/11/28/headlines/headlines_30020180.php
  [2]: http://www.nationmultimedia.com/2006/11/29/headlines/headlines_30020255.php

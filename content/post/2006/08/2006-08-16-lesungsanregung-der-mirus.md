@@ -9,11 +9,11 @@ url: /2006/08/lesungsanregung-der-mirus/
 
 
 ---
-Der [Mirus][1]. Der [Johannes][1]. Einer der wenigen, die mich korrekt verlinken: mit [die schreiBBloga.de][2] &#8211; da stimmt jeder Buchstabe, jedes Zeichen, jede Kapitalisation. 
+Der [Mirus][1]. Der [Johannes][1]. Einer der wenigen, die mich korrekt verlinken: mit [die schreiBBloga.de][2] --- da stimmt jeder Buchstabe, jedes Zeichen, jede Kapitalisation. 
 
 Wenn Ich also mal wieder ein paar Tage lang nichts schreibe, dann k&ouml;nnt ihr ruhig mal sein meines lapidaren Blogges ebenb&uuml;rtiges triviales Weblog anklicken. 
 
-Eines Tages fand er mich recht [d&auml;mlich und in die Schei&szlig;e greifend][3] als ich in der Ur-Schreibblogade &uuml;ber den Penner der den Euro &#8211; Grand &#8211; Price &#8211; Visions &#8211; Sing &#8211; Bewerb f&uuml;r die ARD dokumentieren durfte durch den Kaffee zog (gerechtfertigt, wie ich auch heute noch finde). Ich mochte ihn aber schon vorher. Irgendwas verband ihn mit Zwickau. Kann das sein?
+Eines Tages fand er mich recht [d&auml;mlich und in die Schei&szlig;e greifend][3] als ich in der Ur-Schreibblogade &uuml;ber den Penner der den Euro --- Grand --- Price --- Visions --- Sing --- Bewerb f&uuml;r die ARD dokumentieren durfte durch den Kaffee zog (gerechtfertigt, wie ich auch heute noch finde). Ich mochte ihn aber schon vorher. Irgendwas verband ihn mit Zwickau. Kann das sein?
 
 Er hat ein paar Katzen, anscheinend noch keine Hunde und einen kaputten Rechner. Und er lebt in K&ouml;ln. 
 

@@ -15,7 +15,7 @@ tags:
 ---
 <blockquote class="twitter-tweet" lang="en">
   <p lang="en" dir="ltr">
-    hey <a href="https://twitter.com/Flickr">@flickr</a>, you need to work on that ;) my babies are outraged&#8230; <a href="http://t.co/2SrLee8Ugs">pic.twitter.com/2SrLee8Ugs</a>
+    hey <a href="https://twitter.com/Flickr">@flickr</a>, you need to work on that ;) my babies are outraged... <a href="http://t.co/2SrLee8Ugs">pic.twitter.com/2SrLee8Ugs</a>
   </p>
   
   <p>

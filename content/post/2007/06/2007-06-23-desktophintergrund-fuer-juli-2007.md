@@ -17,7 +17,7 @@ dsq_thread_id:
 
 Ab Juli werde ich monatlich Desktophintergründe mit Motiven aus der die schreiBBloga.de für die Desktop-Junkies unter meinen Lesern zur Verfügung stellen. 
 
-Den Anfang macht das Bild oben &#8211; ein Sonnenaufgang am Strand von Bang Por hier auf Ko Samui. Ist ein wenig unscharf, es sollte aber nicht zu epileptischen Anfällen kommen. Für zukünftige Hintergründe kann man mir gerne &#8220;Anregungen&#8221; geben.
+Den Anfang macht das Bild oben --- ein Sonnenaufgang am Strand von Bang Por hier auf Ko Samui. Ist ein wenig unscharf, es sollte aber nicht zu epileptischen Anfällen kommen. Für zukünftige Hintergründe kann man mir gerne "Anregungen" geben.
 
 ### Download
 

@@ -11,7 +11,7 @@ url: /2009/04/demokratie-thaistyle-2/
 ---
 Nach Pattaya gestern wurde heute [in Bangkok und 5 weiteren Provinzen][1] der Ausnahmezustand ausgerufen. 
 
-Photos kann man bei Twitpic ([1][2], [2][2]) und [den üblichen Newsquellen][3] ansehen&#8230;
+Photos kann man bei Twitpic ([1][2], [2][2]) und [den üblichen Newsquellen][3] ansehen...
 
 Morgen dann Stra?enschlachten (auch hier auf Samui). Hoffentlich mit Wasser, denn Songkran, das thailändische Neujahr, steht an. Ich freue mich (nicht) sehr auf den Weg ins Office.
 

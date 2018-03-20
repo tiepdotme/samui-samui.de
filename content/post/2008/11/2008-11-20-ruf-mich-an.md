@@ -9,7 +9,7 @@ url: /2008/11/ruf-mich-an/
 
 
 ---
-Man kann mit [Skype][1] verdammt preiswert nach Thailand telefonieren. Ich habe mir eben mal angekuckt, was man &#8216;von &uuml;berall auf der Welt&#8217; nach Thailand bezahlen darf (nach Deutschland zu telefonieren ist leicht teurer):
+Man kann mit [Skype][1] verdammt preiswert nach Thailand telefonieren. Ich habe mir eben mal angekuckt, was man 'von &uuml;berall auf der Welt' nach Thailand bezahlen darf (nach Deutschland zu telefonieren ist leicht teurer):
 
 <table style="width:98%;" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -42,7 +42,7 @@ Man kann mit [Skype][1] verdammt preiswert nach Thailand telefonieren. Ich habe 
   
   <tr>
     <td>
-      Thailand-Bangkok (+662&#8230;)
+      Thailand-Bangkok (+662...)
     </td>
     
     <td>
@@ -56,7 +56,7 @@ Man kann mit [Skype][1] verdammt preiswert nach Thailand telefonieren. Ich habe 
   
   <tr>
     <td>
-      Thailand &#8211; Mobile
+      Thailand --- Mobile
     </td>
     
     <td>

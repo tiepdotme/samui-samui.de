@@ -13,6 +13,6 @@ Wer was auf sich hält, hält eine Tattoo-Messe ab. Und da die Touristen ausblei
 
 Morgen startet also die erste (aber trotzdem jährliche) Tattoo Convention in Thailand. [The Bangkok International Tattoo Convention][1] soll international renommierte Tätowierer und menschliche Leinwände zusammen führen und einen Mix aus traditionellen Thai-Tattoos und moderner Handwerkskunst vorstellen.
 
-Unter anderem wird beispielsweise Arjan Noo erwartet, der schon Angelina Jolies Haut zerstechen durfte. Na dann&#8230;
+Unter anderem wird beispielsweise Arjan Noo erwartet, der schon Angelina Jolies Haut zerstechen durfte. Na dann...
 
  [1]: http://www.bangkoktattooconvention.com/

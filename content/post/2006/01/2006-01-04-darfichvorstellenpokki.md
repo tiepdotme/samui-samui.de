@@ -21,7 +21,7 @@ Pokki ist angeblich 10 Wochen alt. Ich sch&auml;tze ihn aber eher auf 4 bis 6 Wo
 
 Ansonsten verbringt Pokki die wenige Zeit zwischen dem Schlafen mit der Erkundung seiner Welt und der unnachgiebigen Forderung nach Aufmerksamkeit. 
 
-Pokki hat es in den zwei Tagen die er schon mit mir verweilt unter anderem geschafft Thaifrauen die auf dem Moped vorbeifuhren zur&uuml;ckkommen zu lassen und Gespr&auml;che anzufangen und einen weit &uuml;ber die 50 gehenden alten Mann (nicht der Chef, der ist zwar auch weit &uuml;ber die 50 aber nicht alt) flach auf dem Boden liegen zu lassen und &#8220;guddiguddi&#8221; zu sagen.
+Pokki hat es in den zwei Tagen die er schon mit mir verweilt unter anderem geschafft Thaifrauen die auf dem Moped vorbeifuhren zur&uuml;ckkommen zu lassen und Gespr&auml;che anzufangen und einen weit &uuml;ber die 50 gehenden alten Mann (nicht der Chef, der ist zwar auch weit &uuml;ber die 50 aber nicht alt) flach auf dem Boden liegen zu lassen und "guddiguddi" zu sagen.
 
 Ich bilde mir ein, dass er eine Bereicherung f&uuml;r mein Leben ist. Ob das stimmt wird sich zeigen. Geschlafen hab ich die vergangenen 48 Stunden nur 6 Stunden. Aus Sorge. Das ist wie mit einem Baby. Macht es ein komisches Ger&auml;usch muss man kucken, was los ist. Pokki _besteht_ aus komischen Ger&auml;uschen.
 

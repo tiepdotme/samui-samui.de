@@ -13,4 +13,4 @@ Soosie erinnert sich: Da müssen zwei Hunde beteiligt sein. Einer springt beim a
 
 Seit Tagen schon bespringt sie ihre Wohngenossen von allen Seiten und erhofft sich ein wenig Freude und jede Menge Nachwuchs. 
 
-Die Rechnung hat sie ohne mich gemacht, kein Hund in meinem Haus hat Testicles. Nikkie von Haus aus nicht und Pokki, ehm, wurde, ehm, nach der letzten Familienerweiterung kurzerhand um ein paar Gramm erleichtert. Entgegen unserer Vereinbarung, wir Männer würden uns nie gegenseitig&#8230; und so weiter&#8230; Andererseits hat er seinen Teil der Abmachung (kein Nachwuchs) ja auch nicht eingehalten &#8211; da bin ich alttestamentarisch.
+Die Rechnung hat sie ohne mich gemacht, kein Hund in meinem Haus hat Testicles. Nikkie von Haus aus nicht und Pokki, ehm, wurde, ehm, nach der letzten Familienerweiterung kurzerhand um ein paar Gramm erleichtert. Entgegen unserer Vereinbarung, wir Männer würden uns nie gegenseitig... und so weiter... Andererseits hat er seinen Teil der Abmachung (kein Nachwuchs) ja auch nicht eingehalten --- da bin ich alttestamentarisch.

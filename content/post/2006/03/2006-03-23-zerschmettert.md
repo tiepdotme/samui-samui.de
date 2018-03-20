@@ -15,6 +15,6 @@ In der Nacht zum Mittwoch nun hat ein offenbar geistig Kranker die Brahmafigur d
 
 Mal sehen, ob ich da noch was Genaueres finde. 
 
-PS: [Hier gibts mehr Information][1] &#8211; ist schon interessant wie sich alles mit dem Aufstand im S&uuml;den verbinden l&auml;sst.
+PS: [Hier gibts mehr Information][1] --- ist schon interessant wie sich alles mit dem Aufstand im S&uuml;den verbinden l&auml;sst.
 
  [1]: http://www.phillyburbs.com/pb-dyn/news/90-03222006-630152.html

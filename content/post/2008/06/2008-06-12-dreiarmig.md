@@ -15,6 +15,6 @@ Auf dem Münchner Filmfestival kann man Ende Juni den Film [Handle Me With Care]
 
 Der Film ist ohne Special Effects gedreht worden, jeder dritte Arm gehört einem zusätzlichen Schauspieler, der gekonnt durch clevere Kamerawinkel arbeiten konnte.
 
-Der Schauspieler, der den dreiarmigen Kwan spielt, ist übrigens einer dieser Castingshows entlaufen, die &#8222;Big Brother&#8220; und &#8222;Deutschland sucht den Superstar&#8220; kombinieren. Dazu demnächst einmal mehr.
+Der Schauspieler, der den dreiarmigen Kwan spielt, ist übrigens einer dieser Castingshows entlaufen, die "Big Brother" und "Deutschland sucht den Superstar" kombinieren. Dazu demnächst einmal mehr.
 
  [1]: http://www.filmfest-muenchen.de/dc/ffm_en/FilmABC/detail.asp?FilmID=3362

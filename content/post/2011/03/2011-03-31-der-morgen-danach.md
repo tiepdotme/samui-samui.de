@@ -20,5 +20,5 @@ url: /2011/03/der-morgen-danach/
     </a></div> 
     
     <p>
-      Blauer Himmel, Sonne und Hitze &#8211; als ob nichts gewesen wäre.
+      Blauer Himmel, Sonne und Hitze --- als ob nichts gewesen wäre.
     </p>

@@ -14,7 +14,7 @@ tags:
 ---
 Und hier noch eine kleine Lektion zum Thema Elefanten und Rüssel-Sensitivität:
 
-> In addition to possessing an exceptionally well-developed sense of smell, the trunk also is one of the body parts most sensitive to touch &#8211; not only at the tip, but also all along its length. One of the reasons is that the trunk is partly derived from the upper lip, which is especially rich in touch receptors (nerve endings on the skin surface).
+> In addition to possessing an exceptionally well-developed sense of smell, the trunk also is one of the body parts most sensitive to touch --- not only at the tip, but also all along its length. One of the reasons is that the trunk is partly derived from the upper lip, which is especially rich in touch receptors (nerve endings on the skin surface).
 >
 > [via [elephantexperts.org][1]]
 

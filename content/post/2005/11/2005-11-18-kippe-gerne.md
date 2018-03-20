@@ -19,4 +19,4 @@ Feine Sache.
 
 Auf den Schachteln stehen &uuml;brigens nicht die in Europa beliebten Schwarzen S&auml;tze sondern gleich unterhaltsame Bilder, was alles so passieren kann, wenn man raucht. Grund genug, eine neue kleine Serie anzufangen: Zigarettenbildchen.
 
-Auf dem aktuellen Bild sehen wir eine, ehm, &auml;ltere Frau die raucht und &uuml;bellaunig ist. Ich bin mir fast sicher, dass die zugeh&ouml;rige Aufschrift &#8220;Wenn du rauchst kriegst du Falten und graue Haare&#8221; lautet. Ich werde am Wochenende mal meine Thaiculture-Quelle anzapfen.
+Auf dem aktuellen Bild sehen wir eine, ehm, &auml;ltere Frau die raucht und &uuml;bellaunig ist. Ich bin mir fast sicher, dass die zugeh&ouml;rige Aufschrift "Wenn du rauchst kriegst du Falten und graue Haare" lautet. Ich werde am Wochenende mal meine Thaiculture-Quelle anzapfen.

@@ -17,4 +17,4 @@ url: /2006/09/kurz-vor-nachher/
   </p>
 </div>
 
-Fortsetzung folgt&#8230;
+Fortsetzung folgt...

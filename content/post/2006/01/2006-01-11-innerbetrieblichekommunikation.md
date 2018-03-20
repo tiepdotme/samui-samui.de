@@ -15,4 +15,4 @@ url: /2006/01/innerbetrieblichekommunikation/
 
 Es ist ganz praktisch wenn man des Schreibens m&auml;chtig ist. Dann kann man die wirklich wichtigen Dinge des Lebens auch in einem 2-Mann-Unternehmen (Chef + Ich) auf Papier hinterlassen.
 
-PS: Dies war ein Eintrag aus der Kategorie &#8220;Mein Chef und Ich&#8221;. Freuen Sie sich auf mein im Herbst erscheinendes Buch &#8220;Mein Chef und Ich auf der Insel&#8221; mit Anekdoten aus dem t&auml;glichen Leben eines Programmierers mit eigenem Chef.
+PS: Dies war ein Eintrag aus der Kategorie "Mein Chef und Ich". Freuen Sie sich auf mein im Herbst erscheinendes Buch "Mein Chef und Ich auf der Insel" mit Anekdoten aus dem t&auml;glichen Leben eines Programmierers mit eigenem Chef.

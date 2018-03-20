@@ -19,7 +19,7 @@ Sonntag dann kamen ein paar Thais, es wurde viel herum geschoben und nach zwanzi
 
 Nachdem alles im neuen alten Haus eingeräumt war, bin ich dann ins alte alte Haus gefahren und hab die drei abgeholt (oder habe sie abholen wollen. Nikkie wollte nicht aufs Moped und musste noch eine halbe Stunde für eine Extratour warten).
 
-Pokki erkannte &#8222;sein&#8220; Haus sofort wieder, hoppelte die Treppen hoch, schnüffelte die Ecken des Hauses ab und warf sich nach 10 Minuten erleichtert auf die Veranda. 
+Pokki erkannte "sein" Haus sofort wieder, hoppelte die Treppen hoch, schnüffelte die Ecken des Hauses ab und warf sich nach 10 Minuten erleichtert auf die Veranda. 
 
 Soosie fand recht erstaunlich, dass wir am neuen alten Haus abstiegen und wartete eine Weile am Moped, ob wir wieder zurück fahren würden. Taten wir nicht, also erklomm auch sie die Treppen und lies sich entspannt kuckend auf der Terasse nieder. Ich weiss bei ihr immer nicht, was in ihrem Kopf so vor sich geht. Sie versucht aber auf ihre eigene Art und Weise mir das Gefühl zu geben, sie wäre zufrieden.
 

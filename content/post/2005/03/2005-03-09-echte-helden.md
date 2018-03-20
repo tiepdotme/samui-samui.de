@@ -13,7 +13,7 @@ Echte Helden stecken ihre Hemden und T-Shirts (wenn es denn T-Shirts sein müsse
 
 {{< figure src="/wp-content/old-images/62.jpg" >}}
 
-Ja. So sehen echte Helden aus. Verwegen in die Gegend blicken (ich nenne das immer das &#8220;wie der Typ aus Der Herr der Ringe, der von Orlando Bloom gespielt wurde, an der Kamera vorbei in die Ferne höchst sinnierend und völlig nicht unintelligent blicken&#8221; &#8211; Face). Wallendes langes Haar. Freie der Erdanziehungskraft nachgebende Bärte. Sonnenbrillen. ?berdeutliche Posen. Jedenfalls denkt man schon, hier zumindest eine Metal-Band vor sich zu haben. (Sie haben sogar sowohl einen Kopftuch- als auch einen Hutträger, das _muss_ einfach eine supercoole Metalband sein). 
+Ja. So sehen echte Helden aus. Verwegen in die Gegend blicken (ich nenne das immer das "wie der Typ aus Der Herr der Ringe, der von Orlando Bloom gespielt wurde, an der Kamera vorbei in die Ferne höchst sinnierend und völlig nicht unintelligent blicken" --- Face). Wallendes langes Haar. Freie der Erdanziehungskraft nachgebende Bärte. Sonnenbrillen. ?berdeutliche Posen. Jedenfalls denkt man schon, hier zumindest eine Metal-Band vor sich zu haben. (Sie haben sogar sowohl einen Kopftuch- als auch einen Hutträger, das _muss_ einfach eine supercoole Metalband sein). 
 
 CD also kaufen und einlegen war nahezu eine Aktion.
 
@@ -23,7 +23,7 @@ Hmm.
 
 ?hm. 
 
-Wie ich sagte&#8230;
+Wie ich sagte...
 
 Ja, übrigens, der Sänger zeigt im Booklet, dass er beide Hände aneinander legen kann und dabei auf einem Bein stehen kann. Jedenfalls klingt diese Band zuweilen stark nach den Beatles, als sie noch kein Roll im Rock hatten und dann und wann ein bisschen nach Pink Floyd in den frühen Jahren, als sie noch nicht den Moog entdeckten. Also ganz früh. Was man heutzutage nur in Pappschachteln bekommt. Meistens klingen sie aber wie Reinhard Fendrich auf Droge oder die Erste Allgemeine Verunsicherung. Nur eben auf Thai.
 
@@ -41,4 +41,4 @@ PPS: Leider sind die CDs hier immer zugeschweisst, aber mal ehrlich, 3 Euro für
 
 PPPS: Ach ich glaube, ich muss die Leute mal remixen. Mit ein bisschen Drum and Bass kann man da sicher was draus machen.
 
-PPPPS: Sie hei?en &#8220;nur&#8221; Sib-Lor. Was soviel hei?t wie &#8220;Die zehn Hübschen (Männer)&#8221;. Hmm. Ich fand &#8220;Braten beschimpfen&#8221; besser. Da sollten wir nochmal drüber reden.
+PPPPS: Sie hei?en "nur" Sib-Lor. Was soviel hei?t wie "Die zehn Hübschen (Männer)". Hmm. Ich fand "Braten beschimpfen" besser. Da sollten wir nochmal drüber reden.

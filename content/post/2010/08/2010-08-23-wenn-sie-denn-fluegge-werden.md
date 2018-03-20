@@ -20,7 +20,7 @@ url: /2010/08/wenn-sie-denn-fluegge-werden/
     </a></div> 
     
     <p>
-      Heute, gut 22 Monate nach dem <txp:permlink id="1666">Ende von Soosies Scheinschwangerschaft</txp:permlink> hat auch Nikkie eine neue Heimat gefunden. Damit sind alle drei Babies in gute Hände abgegeben.
+      Heute, gut 22 Monate nach dem <a href="1666">Ende von Soosies Scheinschwangerschaft</a> hat auch Nikkie eine neue Heimat gefunden. Damit sind alle drei Babies in gute Hände abgegeben.
     </p>
     
     <p>
@@ -28,5 +28,5 @@ url: /2010/08/wenn-sie-denn-fluegge-werden/
     </p>
     
     <p>
-      Ich habe übrigens schon eine Stunde nach dem Auszug den ersten Panikanruf bekommen, sie trinkt kein Wasser. Warum auch &#8211; wenn die Umgebung aufregender als der Wassertrog ist, trinkt man halt nicht. Was hier immer wirkt ist ein Eiswürfel &#8211; der ist aufregender als neue Umgebungen&#8230;
+      Ich habe übrigens schon eine Stunde nach dem Auszug den ersten Panikanruf bekommen, sie trinkt kein Wasser. Warum auch --- wenn die Umgebung aufregender als der Wassertrog ist, trinkt man halt nicht. Was hier immer wirkt ist ein Eiswürfel --- der ist aufregender als neue Umgebungen...
     </p>

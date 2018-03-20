@@ -11,7 +11,7 @@ dsq_thread_id:
 
 
 ---
-So. Ich hatte bereits erwähnt, dass ich <txp:permlink id="5">bestimmte Tätigkeiten auf spätere Lebensabschnitte zu legen pflege um nicht zugeben zu müssen, dass ich ?nderungen und neue Verhältnisse hasse</txp:permlink>. Aber man muss sich seinen Dämonen stellen, damit sie sich als die Würmer erweisen, die sie sind.
+So. Ich hatte bereits erwähnt, dass ich <a href="5">bestimmte Tätigkeiten auf spätere Lebensabschnitte zu legen pflege um nicht zugeben zu müssen, dass ich ?nderungen und neue Verhältnisse hasse</a>. Aber man muss sich seinen Dämonen stellen, damit sie sich als die Würmer erweisen, die sie sind.
 
 Heute haben wir Mopedfahren. Ich hatte bereits letzte Woche in verschiedenen SMSen und Chats erwähnt, dass Mopedfahren ein überaus befriedigender Zeitvertreib ist, wenn er auf einer thailändischen Insel erfolgt. Ich bin noch nie Moped gefahren. Dann kam ich hier her und durfte recht bald feststellen, dass man ohne eigenen angetriebenen Fahruntersatz aufgeschmissen ist. Es gibt zwar Taxis in Massen, aber auf Dauer kann das ja keine Lösung sein. 
 
@@ -35,13 +35,13 @@ Ich: Ok
   
 Thai: (drückt schon wieder denselben Knopf) you set it back
   
-Ich: Ok (fange an, rumzudrücken, der Blinker geht nicht mehr aus) ?hm&#8230;
+Ich: Ok (fange an, rumzudrücken, der Blinker geht nicht mehr aus) ?hm...
   
-Thai: (drückt den Knopf) you must&#8230;
+Thai: (drückt den Knopf) you must...
   
 Ich: ?hm
   
-Thai: &#8230; klick back
+Thai: ... klick back
   
 Ich: Soso. (irgendwie krieg ich den Blinker aus) Ok. 
   

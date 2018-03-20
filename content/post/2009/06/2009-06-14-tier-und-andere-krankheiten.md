@@ -15,7 +15,7 @@ Die Grippe von 2009, H1N1 oder Schweinegrippe, wie die durch Paniken mehr Ausgab
 
 Vor ein paar Wochen fand ich es noch ganz seltsam, dass das thailändische Gesundheitsministerium sich so auffallend aktiv in der Region darum kümmerte, dass informiert wird. Sie hielten sogar den ersten internationalen Kongress zur kommenden Pandemie ab.
 
-Seit vergangener Woche steigen die Erkrankungszahlen, seit gestern sind es mehr als 150 &#8211; offiziell, ich will nicht wissen was man uns alles noch verheimlicht hat, solange man konnte. Nun kann man nicht mehr, denn die Hälfte der Taiwanesischen Erkrankungen stammt aus Phuket und einige Fälle in Hongkong haben sich in Thailand angesteckt. Wie interessant. Das alles ist natürlich erst in der letzten Woche passiert.
+Seit vergangener Woche steigen die Erkrankungszahlen, seit gestern sind es mehr als 150 --- offiziell, ich will nicht wissen was man uns alles noch verheimlicht hat, solange man konnte. Nun kann man nicht mehr, denn die Hälfte der Taiwanesischen Erkrankungen stammt aus Phuket und einige Fälle in Hongkong haben sich in Thailand angesteckt. Wie interessant. Das alles ist natürlich erst in der letzten Woche passiert.
 
 Thailand hat für Seuchenfälle immer medienwirksam (siehe Photo oben und [Photostrecke bei Yahoo! News][1]) seuchensichere Anzüge mit kleinen Thais drinnen zur Verfügung, die alles mit Desinfektionsmitteln abspritzen was nicht bei drei in der nächsten Ladybar verschwunden ist. 
 

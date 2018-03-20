@@ -9,7 +9,7 @@ url: /2009/01/geister-im-santika/
 
 
 ---
-Nur wenige Sekunden des neuen Jahres waren vergangen, da stand ein &#8222;Pub&#8220; (je nach Medienbericht ist es mal ein Pub oder ein Club) in Bangkok in Flammen. Es gab vier Ausgänge, einer davon war den Besuchern bekannt. Es war eine kleine Tür. Die Toiletten hatten nur eine kleine Treppe als Zugang, da kam keiner lebend raus. Im Pub selbst gab es jede Menge brennbarer Materialien, so dass nach wenigen Minuten das gesamte dreistöckige Gebäude in Flammen stand. Die Bilanz bisher: 62 Tote. 
+Nur wenige Sekunden des neuen Jahres waren vergangen, da stand ein "Pub" (je nach Medienbericht ist es mal ein Pub oder ein Club) in Bangkok in Flammen. Es gab vier Ausgänge, einer davon war den Besuchern bekannt. Es war eine kleine Tür. Die Toiletten hatten nur eine kleine Treppe als Zugang, da kam keiner lebend raus. Im Pub selbst gab es jede Menge brennbarer Materialien, so dass nach wenigen Minuten das gesamte dreistöckige Gebäude in Flammen stand. Die Bilanz bisher: 62 Tote. 
 
 Nun [suchen die Schaulustigen nach Geistern][1], die Polizei nach Angehörigen von unidentifizierten Toten, um die 20 Menschen schweben noch in Lebensgefahr. 
 

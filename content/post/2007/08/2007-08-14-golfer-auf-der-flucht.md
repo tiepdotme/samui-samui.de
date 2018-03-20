@@ -13,7 +13,7 @@ Seine Rundreisen wird Thaksin Shinawatra, der Vorsitzende des Thailändischen Pr
    
 worden.
 
-Heute hätte er vor dem Gericht (dem Supreme Court&#8217;s Criminal Tribunal for Political Office Holder) in Bangkok antreten müssen und hat mit (zugegebermassen erwarteter) Abwesenheit geglänzt. 
+Heute hätte er vor dem Gericht (dem Supreme Court's Criminal Tribunal for Political Office Holder) in Bangkok antreten müssen und hat mit (zugegebermassen erwarteter) Abwesenheit geglänzt. 
 
 England hat kein Auslieferungsabkommen mit Thailand (schon gar nicht für, hehe, politische Flüchtlinge). Schade trotzdem, denn seine Behauptungen, er wäre doch absolut unschuldig und ist auch uneingeschränkt bereit, das nachzuweisen, ist nun ein kleines bisschen unglaubwürdiger als zuvor.
 

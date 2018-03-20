@@ -19,6 +19,6 @@ url: /2009/01/hin-da-hin-yai-2/
 
 Wo man die Touristen hinbringt die ausser dem Nacht- noch etwas anderes erleben wollen muss ich mir jedes Mal wieder aufs Neue überlegen. 
 
-Es gibt ein paar &#8222;Viewpoints&#8220;, von denen aus man aufs Meer starren kann, Wasserfälle (die regelmä?ig zu rückversichernden Anrufen à la &#8222;wir sind jetzt am Wasser, muss man den Wasserfall irgendwo sehen&#8220; führen) und Hin Da Hin Yai, Gro?vater- und Gro?mutter-Steine, oben abgebildet.
+Es gibt ein paar "Viewpoints", von denen aus man aufs Meer starren kann, Wasserfälle (die regelmä?ig zu rückversichernden Anrufen à la "wir sind jetzt am Wasser, muss man den Wasserfall irgendwo sehen" führen) und Hin Da Hin Yai, Gro?vater- und Gro?mutter-Steine, oben abgebildet.
 
 Entertainment pur.

@@ -11,7 +11,7 @@ url: /2005/12/projekt-swensens/
 ---
 Gestern nach dem Dunkeln des Himmels sprach meine Quelle davon, dass wir mal wieder zu Swensens gehen k&ouml;nnten um ein Eis zu uns zu nehmen. Ich war nicht abgeneigt und so setzten wir uns aufs Moped und fuhren los. Es hatte nur den ganzen Samstag und Sonntag und ein bisschen am Montagmorgen geregnet, weshalb wir von einer mehr oder weniger un&uuml;berschwemmten Strecke ausgingen. 
 
-Wir entschlossen uns, eine Freundin meiner Quelle einzupacken, um den Sanuk zu steigern. Das scheiterte daran, dass diese Freundin nicht in der vereinbarten Bankbude sa&szlig; sondern bereits im Feierabend d&auml;mmerte. Das ist kein Problem, weil meine Quelle jede Menge Bankbudenbesetzer kennt und so fuhren wir einen dunklen Weg quer durch Bang Rak gen Chaweng, &#8220;Bankbooth&#8221; und Swensens entgegen. 
+Wir entschlossen uns, eine Freundin meiner Quelle einzupacken, um den Sanuk zu steigern. Das scheiterte daran, dass diese Freundin nicht in der vereinbarten Bankbude sa&szlig; sondern bereits im Feierabend d&auml;mmerte. Das ist kein Problem, weil meine Quelle jede Menge Bankbudenbesetzer kennt und so fuhren wir einen dunklen Weg quer durch Bang Rak gen Chaweng, "Bankbooth" und Swensens entgegen. 
 
 Die Stra&szlig;e war an manchen Stellen witterungsbedingt durch bis zu einem Meter tiefe L&ouml;cher ersetzt und so gab es jede Menge &Uuml;bungseinheiten im Motocross. Dann entschied der kleine rote Flitzer, dass es an der Zeit w&auml;re, den Hinterreifen flatulent ins Jenseits zu schicken (das Ding hatte schon immer einen Sinn f&uuml;r gro&szlig;e Auftritte) also entschieden wir uns um und fuhren erstmal zu einem Mopedladen am Wegesrand.
 
@@ -25,7 +25,7 @@ F&uuml;r mich gab es eine [thail&auml;ndische Grammatik der Umgangssprache][1]. 
   * Referring to people
   * Questions
 
-&#8230; und so weiter. Naja.
+... und so weiter. Naja.
 
 Bei Swensens waren wir dann doch nicht. Das ist dann erstmal f&uuml;r Mittwoch geplant ;)
 

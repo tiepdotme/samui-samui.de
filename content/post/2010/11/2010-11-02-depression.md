@@ -11,7 +11,7 @@ dsq_thread_id:
 
 
 ---
-Das hat dann auch mich etwas verwundert. Gegen Mitternacht heute war plötzlich der Strom weg und kam erst kurz nach Mittag wieder zurück. Die üblichen Quellen sprechen von einem Samui-weiten Stromausfall &#8211; man rechne mit ein bis zwei Tagen Behebungsdauer. Es waren dann nur 12 Stunden, aber das war wiedermal eine Zeit, in der man daran erinnert wurde, wozu man Strom so braucht. Gestern noch fand ich meinen Gaskocher steinzeitlich &#8211; heute bin ich konvertiert.
+Das hat dann auch mich etwas verwundert. Gegen Mitternacht heute war plötzlich der Strom weg und kam erst kurz nach Mittag wieder zurück. Die üblichen Quellen sprechen von einem Samui-weiten Stromausfall --- man rechne mit ein bis zwei Tagen Behebungsdauer. Es waren dann nur 12 Stunden, aber das war wiedermal eine Zeit, in der man daran erinnert wurde, wozu man Strom so braucht. Gestern noch fand ich meinen Gaskocher steinzeitlich --- heute bin ich konvertiert.
 
 Ich war am Morgen aus purer Langeweile dann mit der Allwetterjacke am Strand und habe ein paar Filmchen gedreht. Montur, Wetter und Wellen erinnerten mich an Lübeck.
 

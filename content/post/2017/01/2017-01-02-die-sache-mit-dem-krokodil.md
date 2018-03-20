@@ -13,10 +13,10 @@ tags:
 ---
 Lektion des Tages: Wenn das Krokodil rollt, dann roll hinterher. 
 
-Dieser kurze Video-Clip zeigt ein Krokodil und einen &#8222;Handler&#8220;, der es auf die Nase klopft, dann nochmal klopft und dann seine Hand in des Krokodils Maul hält. Selbiges fasst zu, dreht sich einmal, dann der Handler einmal, dann ist alles, ehm, gut.
+Dieser kurze Video-Clip zeigt ein Krokodil und einen "Handler", der es auf die Nase klopft, dann nochmal klopft und dann seine Hand in des Krokodils Maul hält. Selbiges fasst zu, dreht sich einmal, dann der Handler einmal, dann ist alles, ehm, gut.
 
-Wenn man es so ohne Hintergedanken ansieht, dann ist es nicht sonderlich schlimm, oder? Wenn man weiss, dass das Krokodil durch diese sogenannte &#8222;Killerrolle&#8220; normalerweise Extremitäten abreist und sein Opfer dann verspeist, dann ist es &#8222;dramatisch&#8220; und wert, dramatisch aufgewertet zu werden.
+Wenn man es so ohne Hintergedanken ansieht, dann ist es nicht sonderlich schlimm, oder? Wenn man weiss, dass das Krokodil durch diese sogenannte "Killerrolle" normalerweise Extremitäten abreist und sein Opfer dann verspeist, dann ist es "dramatisch" und wert, dramatisch aufgewertet zu werden.
 
-Neben-Notiz: Gestern hat ein französisches Paar versucht, einen &#8222;Selfie&#8220; neben einem Krokodil aufzunehmen &#8211; die Frau wurde von selbigem gebissen. Mehr habe ich dazu nicht zu sagen. Ausser vielleicht: Tierische Instinkte für touristische Gründe zu missbrauchen wird sich eines Tages (oder spätestens wenn das Krokodil zubeisst) revanchieren.
+Neben-Notiz: Gestern hat ein französisches Paar versucht, einen "Selfie" neben einem Krokodil aufzunehmen --- die Frau wurde von selbigem gebissen. Mehr habe ich dazu nicht zu sagen. Ausser vielleicht: Tierische Instinkte für touristische Gründe zu missbrauchen wird sich eines Tages (oder spätestens wenn das Krokodil zubeisst) revanchieren.
 
 {{< youtube 3lOhzMGfnOo >}}

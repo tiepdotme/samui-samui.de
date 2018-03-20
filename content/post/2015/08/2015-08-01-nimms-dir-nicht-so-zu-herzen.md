@@ -20,7 +20,7 @@ Der M&ouml;nch f&uuml;hrte dann ein Ritual durch, das Pech und Ungl&uuml;ck davo
 
 Nach dem Ritual (der M&ouml;nch piekte Somchai an neun Stellen seines K&ouml;rpers mit einem Ast) sagte Khru Banoi Tejapanyo ihm dann, dass er es sich nicht so sehr zu Herzen nehmen sollte. 
 
-Des Abt&#8217;s Ratschlag beruhigte ihn sehr und er f&uuml;hlt sich nun wohl besser.
+Des Abt's Ratschlag beruhigte ihn sehr und er f&uuml;hlt sich nun wohl besser.
 
 [[Mehr (auf Englisch) hier][1]]
 

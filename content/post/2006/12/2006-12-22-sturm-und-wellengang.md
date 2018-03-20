@@ -25,6 +25,6 @@ Ein paar Männer die am Pier aufräumten erzählten mir gelassen, dass das Wette
 
 Die Fähre fuhr auch, nur die Fischerboote blieben lieber im Hafen. Wobei auch das wieder relativ ist, denn entlang der Stra?e haben sie (gegen 12 Uhr) die Netze geflickt, was bedeutet, dass sie bereits wieder heim gekommen sind. 
 
-Aber, um zu meinem Lieblingsgeisterhaus zurück zu kommen (warum es mein Lieblingsgeisterhaus ist? Es ist aus schwarzem oder sehr dunklem Holz gebaut, ich habe es noch nie geschafft, ein Photo zu schiessen, auf dem man das Haus erkennt.) &#8211; es sieht so aus, als ob es bei weiterem Wellengang nicht mehr stehen bleiben wird. Normalerweise ist es vom Sand fest verpackt. Dass es auf Stielen steht, habe ich noch nie gesehen.
+Aber, um zu meinem Lieblingsgeisterhaus zurück zu kommen (warum es mein Lieblingsgeisterhaus ist? Es ist aus schwarzem oder sehr dunklem Holz gebaut, ich habe es noch nie geschafft, ein Photo zu schiessen, auf dem man das Haus erkennt.) --- es sieht so aus, als ob es bei weiterem Wellengang nicht mehr stehen bleiben wird. Normalerweise ist es vom Sand fest verpackt. Dass es auf Stielen steht, habe ich noch nie gesehen.
 
  [1]: http://www.nationmultimedia.com/2006/12/22/national/national_30022242.php

@@ -9,7 +9,7 @@ url: /2007/05/murphys-wochenende/
 
 
 ---
-Am Sonntag war eine Menge los. Zuerst waren wir mit den Hunden im &#8220;Secret Garden&#8221; (500 Meter hoch, steinig, ein paar Wasserfälle, tolle Photos) spazieren. Die haben da so eine Art künstliche kleine Wasserfall-Strecke gebastelt. 
+Am Sonntag war eine Menge los. Zuerst waren wir mit den Hunden im "Secret Garden" (500 Meter hoch, steinig, ein paar Wasserfälle, tolle Photos) spazieren. Die haben da so eine Art künstliche kleine Wasserfall-Strecke gebastelt. 
 
 Erst fiel Pokki ins Wasser. Brav und mutig wie er ist, schwamm er ein bisschen rum bis er eine Stelle fand, wo er wieder heraus kam. Das war seine erste Begegnung schwimmenderweise mit Wasser und er hat sie gut gemeistert.
 
@@ -27,6 +27,6 @@ Wie auch immer. Wer glaubt, dass damit das unschöne Wochenende vorbei war, hat 
 
 Im Augenblick ist das Schicksal eher ruhig. Ich bewege mich nicht viel und versuche mir nicht allzuviele Blö?en zu geben. Angriffsflächen.
 
-PS: Der &#8220;Secret Garden&#8221; ist natürlich ein ganz nettes Plätzchen, was Seltenheitswert auf Samui hat. Mal sehen, ob ich davon ein paar Bilder hochlade. 
+PS: Der "Secret Garden" ist natürlich ein ganz nettes Plätzchen, was Seltenheitswert auf Samui hat. Mal sehen, ob ich davon ein paar Bilder hochlade. 
 
 PPS: Das ist schon das zweite Erlebnis in meinem Leben, bei dem ich das nicht unbestimmte Gef&uuml;hl habe, meine &uuml;berz&auml;hligen Pfunde (Kilogramme, um ehrlich zu sein), h&auml;tten Schlimmeres verhindert.

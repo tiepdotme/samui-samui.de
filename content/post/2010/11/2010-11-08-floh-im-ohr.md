@@ -25,6 +25,6 @@ Die regelmä?igen unter meinen Lesern werden sich erinnern, dass ich mein Haus m
 
 Frontline: Mein Tierarzt wedelt immer mit der Hand und meint, man sollte das nicht benutzen, setzte es aber selbst ein, als ich als noch unerfahrener Zeckenhalter vor vier Jahren mit den Hunden ins Tierkrankenhaus ging. Man tropft rund 15ml einer unschön riechenden Flüssigkeit ins Hundegenick und einen Tag später beginnt die gro?e Emigration. Flüchtende Bugs überall. Nach ein paar Tagen mit dem Besen muss man dann nur noch die ausgetrockneten toten Bugs aus dem Fell bürsten und alle sind wieder glücklich. 
 
-Das ist der einzige Badetag im Jahr, den meine Hunde stillschweigend und ohne Murren über sich ergehen lassen. Pokki ist jetzt sogar so zufrieden, dass er wieder auf dem Schreibtisch vor der Tastatur liegt, wenn ich arbeite &#8211; das hat er schon seit Jahren nicht mehr gemacht.
+Das ist der einzige Badetag im Jahr, den meine Hunde stillschweigend und ohne Murren über sich ergehen lassen. Pokki ist jetzt sogar so zufrieden, dass er wieder auf dem Schreibtisch vor der Tastatur liegt, wenn ich arbeite --- das hat er schon seit Jahren nicht mehr gemacht.
 
 Jetzt muss nur noch der Regen aufhören.

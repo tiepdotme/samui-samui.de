@@ -17,4 +17,4 @@ dsq_thread_id:
 
 Man kann ja so einiges auf den Stra&szlig;en Thailands erleben, angefangen von Tieren (Ochsen, Hunden, Schlangen) die mehr oder weniger gem&uuml;tlich die Stra&szlig;e entlang reisen, &uuml;ber Rostlauben die mit Seilen zusammen gehalten werden hin zu Mopeds mit 6 oder mehr Passagieren.
 
-Enten jedoch sind mir noch nie begegnet. Bin mir nicht sicher wie ich auf die Enten oben im Video reagieren w&uuml;rde&#8230;
+Enten jedoch sind mir noch nie begegnet. Bin mir nicht sicher wie ich auf die Enten oben im Video reagieren w&uuml;rde...

@@ -17,4 +17,4 @@ url: /2007/10/meine-office-aussicht/
   </p>
 </div>
 
-Sowas sehe ich nun den ganzen Tag. Auf Dauer ganz sch&ouml;n langweilig. Und das komische Spitzdach vorne nervt auch&#8230;
+Sowas sehe ich nun den ganzen Tag. Auf Dauer ganz sch&ouml;n langweilig. Und das komische Spitzdach vorne nervt auch...

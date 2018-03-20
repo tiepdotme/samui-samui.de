@@ -20,5 +20,5 @@ url: /2010/06/der-autor-in-entspannter-pose/
     </a></div> 
     
     <p>
-      &#8230; und ich sehe hier ziemlich schlank aus ;)
+      ... und ich sehe hier ziemlich schlank aus ;)
     </p>

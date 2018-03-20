@@ -9,15 +9,15 @@ url: /2005/07/sonntagmorgen-auf-samui/
 
 
 ---
-Gut geschlafen. Auf ner komischen Matraze in ner komischen Hütte. Nachts im Plastikstuhl auf der &#8220;Veranda&#8221; gesessen und &#8220;Hannibal&#8221; gelesen. Meer gelauscht. Sextouristen aus Deutschland beobachtet. Irgendwie isses ihnen ja doch peinlich. Das Nebenhaus hatte Sex. Ungefähr 30 Sekunden lang. Wenn das Vorspiel leise war isses ok. Wenn nicht, tut (Hilfsverb) mir der weibliche Part leid. Könnte sein, dass die Hüttenwahl negativ in die Geschichte der die.schreibbloga.de eingehen wird. Hier spricht fast jeder Deutsch. Habt ihr Ferien oder so Kram?
+Gut geschlafen. Auf ner komischen Matraze in ner komischen Hütte. Nachts im Plastikstuhl auf der "Veranda" gesessen und "Hannibal" gelesen. Meer gelauscht. Sextouristen aus Deutschland beobachtet. Irgendwie isses ihnen ja doch peinlich. Das Nebenhaus hatte Sex. Ungefähr 30 Sekunden lang. Wenn das Vorspiel leise war isses ok. Wenn nicht, tut (Hilfsverb) mir der weibliche Part leid. Könnte sein, dass die Hüttenwahl negativ in die Geschichte der die.schreibbloga.de eingehen wird. Hier spricht fast jeder Deutsch. Habt ihr Ferien oder so Kram?
 
-Heute morgen Mr. Wit angerufen und das Haus gekündigt. Schlüssel abgegeben. Er sagte: &#8220;Oh. Very very clean.&#8221; Ich sagte: &#8220;Like i got it.&#8221; Ich mag Hilfsverben. Hoffentlich merkt er nicht, dass wir das kochende Wasser von den Spaghetti damals in die Spüle gegossen haben und der Schlauch dadurch gerissen ist. Hab ich gestern mit Klebeband gefixt. Handwerker. Dem Inschinör ist nix zu schawör. Und das Bett hat auch unter meinem Gewicht gelitten. Ich sage nur Kuhle. 
+Heute morgen Mr. Wit angerufen und das Haus gekündigt. Schlüssel abgegeben. Er sagte: "Oh. Very very clean." Ich sagte: "Like i got it." Ich mag Hilfsverben. Hoffentlich merkt er nicht, dass wir das kochende Wasser von den Spaghetti damals in die Spüle gegossen haben und der Schlauch dadurch gerissen ist. Hab ich gestern mit Klebeband gefixt. Handwerker. Dem Inschinör ist nix zu schawör. Und das Bett hat auch unter meinem Gewicht gelitten. Ich sage nur Kuhle. 
 
-Seit Freitag ist sie da, meine &#8220;Du bist jetzt 30&#8221;-Depression. &#8220;Funny. Really funny.&#8221; Mehr dazu später.
+Seit Freitag ist sie da, meine "Du bist jetzt 30"-Depression. "Funny. Really funny." Mehr dazu später.
 
-Yai hat gestern angerufen. Um neun abends. Nein, stop. Sie hat versucht, anzurufen. Ich hab nicht abgenommen. Würde ich ihre Stimme hören, würde sich die Zeit mit jedem ihrer Worte verdoppeln, die ich noch benötige um damit klarzukommen. Und wöllte sie mich zurück, müsste sie nur zweimal fragen. Fürs erstemal hätte ich eine vorbereitete Antwort und würde entsprechend &#8220;stark&#8221; sein. Also lass ich sie nicht sprechen und überlege lieber die Nacht lang, was sie wollte. Status changed from &#8220;realization&#8221; to &#8220;hope&#8221; to &#8220;denial&#8221; to &#8220;don&#8217;t think about it&#8221;. Fuck.
+Yai hat gestern angerufen. Um neun abends. Nein, stop. Sie hat versucht, anzurufen. Ich hab nicht abgenommen. Würde ich ihre Stimme hören, würde sich die Zeit mit jedem ihrer Worte verdoppeln, die ich noch benötige um damit klarzukommen. Und wöllte sie mich zurück, müsste sie nur zweimal fragen. Fürs erstemal hätte ich eine vorbereitete Antwort und würde entsprechend "stark" sein. Also lass ich sie nicht sprechen und überlege lieber die Nacht lang, was sie wollte. Status changed from "realization" to "hope" to "denial" to "don't think about it". Fuck.
 
-Gestern abend war ich auf der Suche nach einer neuen Stammkneipe. War eine Nullnummer. Drei Stunden (!!!) in Lamai und Chaweng. Kneipen die interessant aussehen sind übervoll. Kneipen die interessant klingen und &#8220;Pub&#8221; im Namen tragen sehen eher peinlich aus (nach Frühstück beim Bäcker). Kneipen mit Namen wie &#8220;Rockmusic Bar&#8221; sind eher der lächerliche Versuch zwei Gründe in Thailand nachts auszugehen zu verbinden. Und dann sind da noch die Bars wo man mit &#8220;Hello Man&#8221; von engbestofften verbraucht aussehenden Frauen angesprochen wird. Und der Pub mit Livemusik in einem Keller, vor dem zwei Gürtel standen die mir fast beim Vorbeifahren um den Hals gefallen wären.
+Gestern abend war ich auf der Suche nach einer neuen Stammkneipe. War eine Nullnummer. Drei Stunden (!!!) in Lamai und Chaweng. Kneipen die interessant aussehen sind übervoll. Kneipen die interessant klingen und "Pub" im Namen tragen sehen eher peinlich aus (nach Frühstück beim Bäcker). Kneipen mit Namen wie "Rockmusic Bar" sind eher der lächerliche Versuch zwei Gründe in Thailand nachts auszugehen zu verbinden. Und dann sind da noch die Bars wo man mit "Hello Man" von engbestofften verbraucht aussehenden Frauen angesprochen wird. Und der Pub mit Livemusik in einem Keller, vor dem zwei Gürtel standen die mir fast beim Vorbeifahren um den Hals gefallen wären.
 
 Dann wollte ich mal sehen, was es mit dem Frauenboxen auf sich hat. Jeden Samstag kostenlos auf der Lamai-Beachroad. Wurde dann aber von leichtbestofften und leider nicht schlecht aussehenden Frauen (Plural) angesprochen und floh leicht rosig. Beim zweiten Versuch waren dann zuviele sabbernde Männer um den Ring verteilt. 
 
@@ -29,10 +29,10 @@ Jedenfalls sitze ich im Büro und zelebriere Sonntag. 29 Grad nach Herrn Celsius
 
 Manchmal könnte ich die Insel hassen. Zum Glück fällt mir immer noch schnell genug ein, dass ich ja selbst schuld bin.
 
-Und seit zwei Wochen hab ich einen Ohrwurm von den Doors, der ständig hin und her hallt: &#8220;This is the end.&#8221;
+Und seit zwei Wochen hab ich einen Ohrwurm von den Doors, der ständig hin und her hallt: "This is the end."
 
-PS: Vom gelben Vogel träumen ist kein Problem. Vom Begriff &#8220;gelber Vogel&#8221; in Englisch (&#8220;yellow bird&#8221;) zu träumen, nicht dem Bild, und dann das Ganze für ein schlechtes Omen zu halten, aber nicht zu wissen, warum und wieso, das ist ein Problem. Zumindest für mich.
+PS: Vom gelben Vogel träumen ist kein Problem. Vom Begriff "gelber Vogel" in Englisch ("yellow bird") zu träumen, nicht dem Bild, und dann das Ganze für ein schlechtes Omen zu halten, aber nicht zu wissen, warum und wieso, das ist ein Problem. Zumindest für mich.
 
-PPS: &#8220;[I&#8217;ll never look into your eyes again.][1]&#8221; Klar. (&#8220;Ride the snake.&#8221; Huch. Snake?)
+PPS: "[I'll never look into your eyes again.][1]" Klar. ("Ride the snake." Huch. Snake?)
 
  [1]: http://www.thedoors.com/

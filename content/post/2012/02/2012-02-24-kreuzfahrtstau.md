@@ -17,4 +17,4 @@ url: /2012/02/kreuzfahrtstau/
   </p>
 </div>
 
-Neuerdings kommen die Kreuzfahrtschiffe schon im Doppelpack in Nathon an. Entsprechend voll war die Insel auch am Mittwoch &#8211; jede Menge, ehm, älterer Touristen &#8211; ihr wisst schon, die mit den Stöcken &#8211; und jede Menge Japaner und Koreaner &#8211; ihr wisst schon, die mit den Kameras.
+Neuerdings kommen die Kreuzfahrtschiffe schon im Doppelpack in Nathon an. Entsprechend voll war die Insel auch am Mittwoch --- jede Menge, ehm, älterer Touristen --- ihr wisst schon, die mit den Stöcken --- und jede Menge Japaner und Koreaner --- ihr wisst schon, die mit den Kameras.

@@ -13,10 +13,10 @@ dsq_thread_id:
 
 
 ---
-Ach herrje, neulich (im Januar) stellte ich fest, dass die gut 50% der Besucher dieses Weblogs die Seiten mit mobilen Geräten aufsuchten. Hatte der Weihnachtsmann doch recht viele Pads und Smartphones verschenkt. (Heroische Musik startet) Und so nahm ich mir vor, meine Website mit einem &#8222;responsiblen Layout&#8220; zu versehen. Fast forward ein paar Monate und grade ging es mehr oder weniger (un)vollständig online. 
+Ach herrje, neulich (im Januar) stellte ich fest, dass die gut 50% der Besucher dieses Weblogs die Seiten mit mobilen Geräten aufsuchten. Hatte der Weihnachtsmann doch recht viele Pads und Smartphones verschenkt. (Heroische Musik startet) Und so nahm ich mir vor, meine Website mit einem "responsiblen Layout" zu versehen. Fast forward ein paar Monate und grade ging es mehr oder weniger (un)vollständig online. 
 
-Jede Menge unfertiges Design, neue Schriften und ein Layout, das (eventuell, vermutlich, wahrscheinlich, vielleicht) auch auf mobilen Geräten &#8222;nett&#8220; aussieht. 
+Jede Menge unfertiges Design, neue Schriften und ein Layout, das (eventuell, vermutlich, wahrscheinlich, vielleicht) auch auf mobilen Geräten "nett" aussieht. 
 
-&#8222;So ganz fertig ist das aber noch nicht oder?&#8220; &#8211; &#8222;Ja nee. Ist es doch nie.&#8220;
+"So ganz fertig ist das aber noch nicht oder?" --- "Ja nee. Ist es doch nie."
 
-Genug gebloggt aus dem Maschinenraum&#8230;
+Genug gebloggt aus dem Maschinenraum...

@@ -9,6 +9,6 @@ url: /2007/05/diese-publikation/
 
 
 ---
-&#8230;zieht jetzt um. Keine Sorge, erstmal nur technisch gesehen. Jetzt wäre der beste Augenblick, um dumme Kommentare zu schreiben. Die Wahrscheinlichkeit, dass selbige verloren gehen ist ziemlich hoch.
+...zieht jetzt um. Keine Sorge, erstmal nur technisch gesehen. Jetzt wäre der beste Augenblick, um dumme Kommentare zu schreiben. Die Wahrscheinlichkeit, dass selbige verloren gehen ist ziemlich hoch.
 
 PS: Komisches Internet. Umzug vollzogen.

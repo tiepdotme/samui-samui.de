@@ -11,13 +11,13 @@ dsq_thread_id:
 
 
 ---
-Regelmässige Leser dieser kleinen Publikation werden sich <txp:permlink id="1156">erinnern</txp:permlink>, dass ich anstrebe, aus meiner kleinen Hütte mit den Hunden gemeinsam ins Internet zu gehen. Schneller als bisher mit dem 5kB-Mobilemodem. DSL ist eine gute Sache (wir Kenner nennen es hier ADSL2+) und überall verfügbar. Nur nicht in meiner Hütte. 
+Regelmässige Leser dieser kleinen Publikation werden sich <a href="1156">erinnern</a>, dass ich anstrebe, aus meiner kleinen Hütte mit den Hunden gemeinsam ins Internet zu gehen. Schneller als bisher mit dem 5kB-Mobilemodem. DSL ist eine gute Sache (wir Kenner nennen es hier ADSL2+) und überall verfügbar. Nur nicht in meiner Hütte. 
 
 Zum Donnerstag nun ward mir das Internet ganz bestimmt verkündet. Und kam nicht. Gestern nun kamen die Kabelleger wieder. Gleich am Morgen fuhren sie auf und rauchten erstmal eine. Dann machte man sich ans Kabellegen. Das dauerte den ganzen Vormittag und kurz vor Nachmittag wickelten sie dann ein dickes schwarzes Kabel um den Baum hinterm Haus, schoben es mir ins Dach hinein und nebem dem UBC-Kabel wieder heraus. Schnipp schnipp. Schraub Schraub. Fertig. 
 
 Es waren 4 Männer, einer arbeitete und die anderen drei spielten mit den Hunden und fütterten sie mit Erdnüssen. Sie rauchten noch ein bisschen und unterhielten sich mit der Hausbesitzerin. 
 
-Als sie weg waren, kam sie zu mir und fing an, sich mit mir zu unterhalten. ?ber ein Websiteprojekt, was wir laufen haben, über die Pflanzen im Garten und dass die Hunde gerne spielen. Mir wurde mulmig zumute. Nach einer Weile sagte sie dann &#8220;Internet&#8221; und legte eine lange Pause ein. Ich liess mich zu einer triumphierenden Geste hinrei?en. Sie sprach dann &#8220;come tomorrow&#8221;. 
+Als sie weg waren, kam sie zu mir und fing an, sich mit mir zu unterhalten. ?ber ein Websiteprojekt, was wir laufen haben, über die Pflanzen im Garten und dass die Hunde gerne spielen. Mir wurde mulmig zumute. Nach einer Weile sagte sie dann "Internet" und legte eine lange Pause ein. Ich liess mich zu einer triumphierenden Geste hinrei?en. Sie sprach dann "come tomorrow". 
 
 Super. 
 
@@ -31,10 +31,10 @@ Ich steckte das Notebook an und legte (als braver Windowsuser) die Installations
 
 War es nicht. Fehlermeldung: Es liegt kein DSL-Signal an. Fu rief wieder bei der Servicestelle an, dass kein Signal anliege (wie ich bereits einmal erklärt habe). Es wurden wieder die Lämpchen abgefragt (Lämpchen sind wichtig in Thailand) und Kabel in der Gegend rumgesteckt. Anschlie?end diagnostizierte der Support mich abermals als blöd und meinte, dass da gar kein Signal anliege.
 
-Gut. Oder auch nicht. Denn anscheinend hat der DSL-Anbieter mit den Leitungen nichts zu tun. Wir riefen also beim Signalfreischalter an und der sagte uns, ja klar. Das können wir machen. In sieben Tagen. Fu wurde bleich und geschäftig und sprach recht häufig von &#8220;Farang&#8221; und &#8220;tham ngan&#8221; (langnasiger Europäer und Arbeit) und legte dann relativ wütend auf. 
+Gut. Oder auch nicht. Denn anscheinend hat der DSL-Anbieter mit den Leitungen nichts zu tun. Wir riefen also beim Signalfreischalter an und der sagte uns, ja klar. Das können wir machen. In sieben Tagen. Fu wurde bleich und geschäftig und sprach recht häufig von "Farang" und "tham ngan" (langnasiger Europäer und Arbeit) und legte dann relativ wütend auf. 
 
-Es wurde sich mit dem Hausbesitzer beraten und sie riefen dann den Kabelleger an. Das ist die dritte Partei im Spiel. Der kam dann sofort, sagte irgendwas von &#8220;lööm&#8221; (vergessen) und prüfte die Kabel. Die waren alle in Ordnung, also rief er einen Manager bei TT&T an und diskutierte lange mit ihm. Auch dieser sprach wieder von einer 7-Tage-Frist. _Anschlie?end wurde eine andere wichtige Person angerufen_, eine Zigarette geraucht und der TT&T-Manager rief bei uns an und sagte, dass morgen (am Sonntag) mein Signal freigeschaltet wird. Wir dürfen ihn gerne morgen anrufen und uns absichern, dass alles in Ordnung ist. 
+Es wurde sich mit dem Hausbesitzer beraten und sie riefen dann den Kabelleger an. Das ist die dritte Partei im Spiel. Der kam dann sofort, sagte irgendwas von "lööm" (vergessen) und prüfte die Kabel. Die waren alle in Ordnung, also rief er einen Manager bei TT&T an und diskutierte lange mit ihm. Auch dieser sprach wieder von einer 7-Tage-Frist. _Anschlie?end wurde eine andere wichtige Person angerufen_, eine Zigarette geraucht und der TT&T-Manager rief bei uns an und sagte, dass morgen (am Sonntag) mein Signal freigeschaltet wird. Wir dürfen ihn gerne morgen anrufen und uns absichern, dass alles in Ordnung ist. 
 
-Den Rest des Abends muss ich übrigens mit so einer komischen Musical-Zeile im Kopf verbringen, wo eine Göre in nervigem Tone ständig &#8220;Tomorrow, Tomorrow!!!&#8221; singt.
+Den Rest des Abends muss ich übrigens mit so einer komischen Musical-Zeile im Kopf verbringen, wo eine Göre in nervigem Tone ständig "Tomorrow, Tomorrow!!!" singt.
 
 ?brigens: Morgen hab ich hier DSL.

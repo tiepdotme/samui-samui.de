@@ -13,6 +13,6 @@ url: /2005/12/zitat-des-tages/
   
 
 
-> &#8220;There is always some madness in love. But there is also always some reason in madness.&#8221;
+> "There is always some madness in love. But there is also always some reason in madness."
 
 Friedrich Nietzsche

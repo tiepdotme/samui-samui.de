@@ -27,6 +27,6 @@ Was? Oh! Der Text geht ja noch weiter!
 
 Yes! Strike! Coupling!
 
-> Call her for more details and your first discounted session for under 1000<txp:gho_baht />. 
+> Call her for more details and your first discounted session for under 1000. 
 
 Und dann steht da eine Emailadresse. Hmm. Bei GmX.net. kann man da neuerdings auch telefonieren?

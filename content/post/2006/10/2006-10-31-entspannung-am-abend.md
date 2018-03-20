@@ -9,7 +9,7 @@ url: /2006/10/entspannung-am-abend/
 
 
 ---
-[Sleepy Hollow][1] auf Thai. Ich bin schon gespannt, wie man Johnny Depps &#8220;Because&#8221; auf Thai &uuml;bersetzen wird.
+[Sleepy Hollow][1] auf Thai. Ich bin schon gespannt, wie man Johnny Depps "Because" auf Thai &uuml;bersetzen wird.
 
 > Ichabod Crane: [the decapitated corpse of Masbath has been found] You have moved the body.
   
@@ -19,7 +19,7 @@ url: /2006/10/entspannung-am-abend/
   
 > Dr. Thomas Lancaster: Why not?
   
-> Ichabod Crane: Because&#8230; 
+> Ichabod Crane: Because... 
 
 PS: Jemand bei <span class="caps">UBC</span> ist Burton-Fan. Es kommt auch noch [Mars Attacks][2] in der Rotation. 
 

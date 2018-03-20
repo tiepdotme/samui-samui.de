@@ -21,4 +21,4 @@ Hinter der Theke standen 5 Thais rum, die alle unterschiedlich auf unser Gesprä
 
 Beim Hinausgehen kicherten alle dann. 
 
-Nun bin ich am ?berlegen, wer hier peinlicher berührt sein sollte&#8230;
+Nun bin ich am ?berlegen, wer hier peinlicher berührt sein sollte...

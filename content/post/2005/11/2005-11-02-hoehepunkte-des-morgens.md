@@ -19,7 +19,7 @@ url: /2005/11/hoehepunkte-des-morgens/
   * Gewisse Entscheidungen der vergangenen 14 Monate gutzuheissen und ein paar wenige zu verurteilen. 
   * Lesen, dass Stoiber in M&uuml;nchen bleibt. <del>Loser.</del>
   * Entscheiden gegen <del><del>Bayern</del> Deutsche</del> Menschen toleranter zu werden.
-  * Suchanfragen &#8220;Dell Netzteil in Thailand&#8221; (bruahahahahahah) und &#8220;Schwiegereltern treffen&#8221; &uuml;ber Google.
+  * Suchanfragen "Dell Netzteil in Thailand" (bruahahahahahah) und "Schwiegereltern treffen" &uuml;ber Google.
   * [der hier][1]
 
  [1]: http://kollitsch.de/2005/11/02

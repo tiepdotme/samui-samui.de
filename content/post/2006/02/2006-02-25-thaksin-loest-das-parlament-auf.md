@@ -9,11 +9,11 @@ url: /2006/02/thaksin-loest-das-parlament-auf/
 
 
 ---
- <img src="/images/206.jpg" style="height:338px;width:300px;margin-right:10px;float:left;" />Neues aus der Kategorie &#8220;Ich hab das ja schon immer gesagt&#8221;: Wir werden dieses Jahr tats&auml;chlich Neuwahlen haben. In weniger als 2 Monaten. Denn Thaksin Shinawatra hat gestern das Parlament aufgel&ouml;st. 
+ <img src="/images/206.jpg" style="height:338px;width:300px;margin-right:10px;float:left;" />Neues aus der Kategorie "Ich hab das ja schon immer gesagt": Wir werden dieses Jahr tats&auml;chlich Neuwahlen haben. In weniger als 2 Monaten. Denn Thaksin Shinawatra hat gestern das Parlament aufgel&ouml;st. 
 
-Damit hat die k&uuml;rzeste Regierungsparodie die ich kenne (die in Deutschland wird noch ein St&uuml;ck laufen) vorerst ein Ende. Thaksin war ge- und beliebt. Vergangenes Jahr gewann er noch &#8220;erdrutschartig&#8221; die regul&auml;ren Wahlen (Manipulation durch Geldfl&uuml;sse konnten ihm nicht nachgewiesen werden). Der Erdrutsch blieb allerdings nicht stehen sondern rutschte weiter.
+Damit hat die k&uuml;rzeste Regierungsparodie die ich kenne (die in Deutschland wird noch ein St&uuml;ck laufen) vorerst ein Ende. Thaksin war ge- und beliebt. Vergangenes Jahr gewann er noch "erdrutschartig" die regul&auml;ren Wahlen (Manipulation durch Geldfl&uuml;sse konnten ihm nicht nachgewiesen werden). Der Erdrutsch blieb allerdings nicht stehen sondern rutschte weiter.
 
-Das seit 2 Jahren bestehende &#8220;Problem im S&uuml;den&#8221;, der massive Verkauf von Anteilen seiner Familie an einem halbstaatlichen Kommunikationsunternehmen an einen Konzern in Singapore und das geradezu penetrante Ignorieren oder Verklagen jedes Kritikers haben ihm jetzt das politische Genick gebrochen. Wenn er weiterhin an der Spitze stehen wird (was ich bezweifele, aber man kann ja nie wissen, da ist ne Menge Geld im Spiel und Demokratie in S&uuml;dostasien kann manchmal f&uuml;r einen Farang unverst&auml;ndliche Ausw&uuml;chse nehmen) dann nur mit einer minderen Mehrheit. 
+Das seit 2 Jahren bestehende "Problem im S&uuml;den", der massive Verkauf von Anteilen seiner Familie an einem halbstaatlichen Kommunikationsunternehmen an einen Konzern in Singapore und das geradezu penetrante Ignorieren oder Verklagen jedes Kritikers haben ihm jetzt das politische Genick gebrochen. Wenn er weiterhin an der Spitze stehen wird (was ich bezweifele, aber man kann ja nie wissen, da ist ne Menge Geld im Spiel und Demokratie in S&uuml;dostasien kann manchmal f&uuml;r einen Farang unverst&auml;ndliche Ausw&uuml;chse nehmen) dann nur mit einer minderen Mehrheit. 
 
 Thaksin hat einmal gesagt, wenn der K&ouml;nig ihm sage, dass er zur&uuml;cktreten soll, dann wird er seinen Kopf in Demut beugen und zur&uuml;cktreten. Die Aufl&ouml;sung des Parlaments ist wenig dem&uuml;tig, macht aber einen Neuanfang m&ouml;glich. Im Dezember hat er schon einige seiner Anklagen gegen seine Kritiker zur&uuml;ckgezogen, nachdem der K&ouml;nig in seiner Geburtstagsansprache sagte, dass man seinen Kritikern auch zuh&ouml;ren m&uuml;sse und sie nicht nur als Feind sehen darf. 
 
@@ -27,6 +27,6 @@ SMS-Verkehr eben:
 
 Ich: Thaksin dissolved the parliament!
   
-Sie: Yes. I know. He is selffish. My brother don&#8217;t like him.
+Sie: Yes. I know. He is selffish. My brother don't like him.
 
 Soviel zum Thema eigene Meinung haben.

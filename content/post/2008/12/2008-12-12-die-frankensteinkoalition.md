@@ -17,13 +17,13 @@ Allem Anschein nach wird der Parteivorsitzende der Demokratischen Partei Abhisit
 
 Die Mitglieder der einzelnen noch nicht verbotenen Parteien und damit ihre Stimmen sind jetzt also in ganz anderen Parteien als zum Zeitpunkt der Stimmabgabe. Und stehen somit hinter anderen Zielen. Nur das mit dem Machtwillen ist das Gleiche geblieben. Die Sonne strahlt von allen Ufern aus gleich.
   
-Von Abhisit mag man halten was man will (er wird immer als der nächste Premierminister gehandelt, wenn mal Neuwahlen anstehen, erreicht aber nie das gewünschte Ergebnis). Von der Regierung auch &#8211; sie wird gut zur Hälfte aus Mitgliedern der weg demonstrierten Parteien und zur anderen Hälfte aus Politikern, die nach den Protesten einfach nur auf der richtigen Seite (der, die bei den Wahlen nicht die Mehrheit hatte) stand zusammen geflickt sein. 
+Von Abhisit mag man halten was man will (er wird immer als der nächste Premierminister gehandelt, wenn mal Neuwahlen anstehen, erreicht aber nie das gewünschte Ergebnis). Von der Regierung auch --- sie wird gut zur Hälfte aus Mitgliedern der weg demonstrierten Parteien und zur anderen Hälfte aus Politikern, die nach den Protesten einfach nur auf der richtigen Seite (der, die bei den Wahlen nicht die Mehrheit hatte) stand zusammen geflickt sein. 
 
-Die <span class="caps">PAD</span> hat im besten Führerenglisch eine [Verlautbarung][1] veröffentlicht &#8211; kann gut sein, dass mit Abhisit auch weiterhin Flughäfen in Bangkok zum Starten und Landen lassen von Touristenbombern genutzt werden können. Bis zur nächsten planmässigen Wahl.
+Die <span class="caps">PAD</span> hat im besten Führerenglisch eine [Verlautbarung][1] veröffentlicht --- kann gut sein, dass mit Abhisit auch weiterhin Flughäfen in Bangkok zum Starten und Landen lassen von Touristenbombern genutzt werden können. Bis zur nächsten planmässigen Wahl.
   
 Morgen übrigens wird es in Bangkok wieder einmal eine Demonstration geben. Diesmal nicht von der <span class="caps">PAD</span>. Man trifft sich am National Stadion um gemeinsam ein Telephonat entgegen zu nehmen: Thaksin ruft mal wieder an. Das war lange geplant und nun will er uns (eventuell) endlich einmal sagen, wer nun eigentlich seine Gegner sind. Bisher hat er ja nur mit Buchstaben um sich geworfen (davon hat das Thailändische Alphabet ein paar mehr).
 
-Für dieses &#8216;gathering of red-shirted people&#8217; (ach ja, früher, als es noch eine Regierung gab, war man entweder gegen selbige oder für selbige. Nun ist man rot oder gelb betucht und kann nicht mal sagen, wofür man ist&#8230;) werden [3.450 Polizisten][2] auf den Stra?en stehen und für Sicherheit sorgen.
+Für dieses 'gathering of red-shirted people' (ach ja, früher, als es noch eine Regierung gab, war man entweder gegen selbige oder für selbige. Nun ist man rot oder gelb betucht und kann nicht mal sagen, wofür man ist...) werden [3.450 Polizisten][2] auf den Stra?en stehen und für Sicherheit sorgen.
 
  [1]: http://www.thailandoutlook.tv/toc/ViewData.aspx?DataID=1011141
  [2]: http://www.nationmultimedia.com/breakingnews/read.php?newsid=30090831

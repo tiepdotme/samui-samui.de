@@ -13,7 +13,7 @@ url: /2006/01/new-pollution-free-tourist-destination-discovered-in-southern-thai
 
 Lokale Residenten kennen die Insel allerdings schon l&auml;nger als Ko Tan.
 
-(Sie lasen einen Ausschnitt aus unserer Lektion &#8220;Wenn Sie eine Insel zugem&uuml;llt haben suchen Sie sich eine andere Insel und fangen Sie von vorne an&#8221; unseres Kurses &#8220;Tourism the Thai-Way&#8221;)
+(Sie lasen einen Ausschnitt aus unserer Lektion "Wenn Sie eine Insel zugem&uuml;llt haben suchen Sie sich eine andere Insel und fangen Sie von vorne an" unseres Kurses "Tourism the Thai-Way")
 
  [1]: http://etna.mcot.net/query.php?nid=6110
  [2]: http://maps.google.com/?ll=9.37116,99.94606&spn=0.058602,0.055618&t=k

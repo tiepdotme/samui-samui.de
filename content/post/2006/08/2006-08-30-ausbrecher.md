@@ -17,4 +17,4 @@ Heute war selbst meine Soi zum Parkplatz mutiert. Die halbe Insel war da. Und di
 
 Nachdem die Stiere ausbrechen sieht man immer jede Menge Thais auf Mopeds, Songtheaws, Fahrr&auml;dern und Pickups eilig von dannen fahren. Der Staub legt sich eine Stunde lang nicht. K&ouml;nnte ja die Polizei kommen. Wobei, eher nicht. Heute hab ich zwei Polizisten unter den die Szenerie Verlassenden gesehen.
 
-Wenn die Wahrscheinlichkeit niedergetrampelt zu werden nicht so hoch w&auml;re w&uuml;rde ich ja mal spannen gehen&#8230;
+Wenn die Wahrscheinlichkeit niedergetrampelt zu werden nicht so hoch w&auml;re w&uuml;rde ich ja mal spannen gehen...

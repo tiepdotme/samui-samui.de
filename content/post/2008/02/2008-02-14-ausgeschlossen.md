@@ -19,8 +19,8 @@ Ich versorgte mir ein paar Schraubenzieher (dem Inschinör ist nix zu schwör) u
 
 Die Hunde fingen inzwischen an, das Ganze nicht mehr lustig zu finden und schnüffelten und leckten meine Schraubenzieherspitzen (hihihi) ab und bellten und jaulten auffordernd.
 
-Geschlagen begab ich mich wieder ins Büro und simulierte Arbeit. Nach einer Stunde habe ich meinen Hilfsthai am Telefon erreicht, ihm das Problem geschildert und mich auslachen lassen. &#8220;Thats <span class="caps">TOOOOOOT</span>ally easy!&#8221; meinte er. Nach 5 Minuten war er im Haus. Durchs Oberlicht (das ungefähr 30&#215;30cm gross ist. Er ist nicht unbedingt der Dünnste. Das Oberlicht hatte ich auch kurz in Erwägung gezogen &#8211; die Hunde müssen ja atmen, also steht es auf &#8211; das dann aber verworfen, weil mir die Schlagzeilen der morgigen Inselzeitung schon mit fettem Farang im Fenster klemmend vor dem inneren Auge erschienen.
+Geschlagen begab ich mich wieder ins Büro und simulierte Arbeit. Nach einer Stunde habe ich meinen Hilfsthai am Telefon erreicht, ihm das Problem geschildert und mich auslachen lassen. "Thats <span class="caps">TOOOOOOT</span>ally easy!" meinte er. Nach 5 Minuten war er im Haus. Durchs Oberlicht (das ungefähr 30&#215;30cm gross ist. Er ist nicht unbedingt der Dünnste. Das Oberlicht hatte ich auch kurz in Erwägung gezogen --- die Hunde müssen ja atmen, also steht es auf --- das dann aber verworfen, weil mir die Schlagzeilen der morgigen Inselzeitung schon mit fettem Farang im Fenster klemmend vor dem inneren Auge erschienen.
 
 Jedenfalls bin ich nun wieder in meinem hei?geliebten Haus, die Hunde haben mir verziehen und den Sicherungshaken habe ich mit Tesafilm verklebt.
 
-Nur: Wenn das so einfach ist, ins Haus zu kommen&#8230; mein Notebook macht mir da schon etwas Sorgen. Die Hunde freuen sich ja über jeden Besucher :(
+Nur: Wenn das so einfach ist, ins Haus zu kommen... mein Notebook macht mir da schon etwas Sorgen. Die Hunde freuen sich ja über jeden Besucher :(

@@ -17,4 +17,4 @@ url: /2007/01/fuer-die-fandungsphotos/
   </p>
 </div>
 
-Nur für den Fall, dass ich abhanden komme&#8230; Hier ein nettes Bildchen von &#8220;Ich&#8221; für die Plakate und Milchtüten&#8230;
+Nur für den Fall, dass ich abhanden komme... Hier ein nettes Bildchen von "Ich" für die Plakate und Milchtüten...

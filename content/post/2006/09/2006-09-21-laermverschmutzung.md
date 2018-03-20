@@ -9,7 +9,7 @@ url: /2006/09/laermverschmutzung/
 
 
 ---
-_Normalerweise hab ich ja einen Ordner, in dem Eintr&auml;ge &#8220;wo geschrieben und nicht ver&ouml;ffentlicht weil grad nicht passend&#8221; abgelegt werden und in dem ich dann alte Perlen finde, die ich l&ouml;schen kann weil sie v&ouml;llig veraltet sind. Das folgende Teil will ich euch aber nicht vorenthalten. Kurz vor seiner Fertigstellung wurden am Dienstag die Fernsehsender abgeschaltet. Seither ist es eher ruhig hier._
+_Normalerweise hab ich ja einen Ordner, in dem Eintr&auml;ge "wo geschrieben und nicht ver&ouml;ffentlicht weil grad nicht passend" abgelegt werden und in dem ich dann alte Perlen finde, die ich l&ouml;schen kann weil sie v&ouml;llig veraltet sind. Das folgende Teil will ich euch aber nicht vorenthalten. Kurz vor seiner Fertigstellung wurden am Dienstag die Fernsehsender abgeschaltet. Seither ist es eher ruhig hier._
 
 a) Seit einer Woche holzt man etwa 50 Meter weit entfernt Palmen ab um dringend ben&ouml;tigten Raum f&uuml;r Geb&auml;ude zur touristischen Verwendung zu schaffen.
   

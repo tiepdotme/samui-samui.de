@@ -9,10 +9,10 @@ url: /2009/04/sprachwitz/
 
 
 ---
-Sowas wie Ironie oder Sarkasmus verstehen viele Thais leider nicht. Ich habe häufiger Probleme, wenn ich genervt &#8222;macht doch was ihr wollt&#8220; sage und alle dann machen, was sie wollen.
+Sowas wie Ironie oder Sarkasmus verstehen viele Thais leider nicht. Ich habe häufiger Probleme, wenn ich genervt "macht doch was ihr wollt" sage und alle dann machen, was sie wollen.
 
 Dafür kann man mit dem ?ndern eines einzigen Tones in Thai aus einem Kompliment einen Vergleich mit dem Gebiss eines Pferdes machen, was in bestimmten Situationen lustig sein kann.
 
-Was ich eigentlich schreiben wollte: Im Thai gibt es eine Lösung für die meisten Probleme. Zum Beispiel ist die Frage &#8222;Was war zuerst, das Huhn oder das Ei&#8220; hier klipp und klar geregelt.
+Was ich eigentlich schreiben wollte: Im Thai gibt es eine Lösung für die meisten Probleme. Zum Beispiel ist die Frage "Was war zuerst, das Huhn oder das Ei" hier klipp und klar geregelt.
 
-Das Huhn ist das &#8222;Wortbild&#8220; für den ersten Buchstaben im Konsonanten-Alphabet und das Ei das für den zweiten. Das Huhn kam zuerst. Punkt.
+Das Huhn ist das "Wortbild" für den ersten Buchstaben im Konsonanten-Alphabet und das Ei das für den zweiten. Das Huhn kam zuerst. Punkt.

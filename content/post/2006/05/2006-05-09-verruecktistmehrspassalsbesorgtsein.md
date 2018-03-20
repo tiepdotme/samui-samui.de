@@ -13,6 +13,6 @@ url: /2006/05/verruecktistmehrspassalsbesorgtsein/
   <a href="http://www.flickr.com/photos/schreibblogade/143255075/" title="Like I always use to say..."><img src="//static.flickr.com/53/143255075_0fbb3445d7.jpg" alt="Like I always use to say..." /></a></p> 
   
   <p>
-    Like I always use to say&#8230;
+    Like I always use to say...
   </p>
 </div>

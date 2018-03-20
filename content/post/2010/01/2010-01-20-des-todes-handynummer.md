@@ -15,13 +15,13 @@ Seit ein paar Tagen macht eine recht seltsame Kettenmail die Runde: Leute in und
 
 Spätestens bei der roten Telefonnummer hört die Glaubwürdigkeit dieses Gerüchts für den gelernten Farang auf. Witzigerweise glauben die meisten Thais diesen Unfug und forwarden Unmengen an hilfreichen Mails. Haupttipp: Handy ausschalten, wenn man es nicht wirklich braucht. 
 
-Ich hätte nun gerne die Möglichkeit, die Anrufernummer zu simulieren und ein paar Leute mal anzurufen&#8230;
+Ich hätte nun gerne die Möglichkeit, die Anrufernummer zu simulieren und ein paar Leute mal anzurufen...
 
-Update: Ah, nein, nicht wirklich: [Das Ganze steht schon in der Zeitung][1] &#8211; die Nummern sind von <span class="caps">AIS</span> ;) 
+Update: Ah, nein, nicht wirklich: [Das Ganze steht schon in der Zeitung][1] --- die Nummern sind von <span class="caps">AIS</span> ;) 
 
 > Wimonnart Chivasakulyong, an official from Advanced Info Service, said all these numbers were pre-paid and registered with her company. She added that credit was added to two of the three numbers six months ago.
 > 
-> &#8222;The credit added was just Bt30 and Bt50,&#8220; she said, explaining that the third number registered in November did not have any credit added recently.
+> "The credit added was just Bt30 and Bt50," she said, explaining that the third number registered in November did not have any credit added recently.
 
 Tja, der Tod braucht keinen Kredit.
 

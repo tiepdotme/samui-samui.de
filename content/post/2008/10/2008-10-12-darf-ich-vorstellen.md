@@ -17,4 +17,4 @@ url: /2008/10/darf-ich-vorstellen/
   </p>
 </div>
 
-Von links nach rechts: Boo neung (spricht man wie B&ouml;&ouml;h N&uuml;ng aus), Boo song und Nike. Und eine ersch&ouml;pfte Soosie. Mehr sp&auml;ter&#8230;
+Von links nach rechts: Boo neung (spricht man wie B&ouml;&ouml;h N&uuml;ng aus), Boo song und Nike. Und eine ersch&ouml;pfte Soosie. Mehr sp&auml;ter...

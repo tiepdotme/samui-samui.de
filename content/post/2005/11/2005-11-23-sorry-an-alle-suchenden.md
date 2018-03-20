@@ -27,7 +27,7 @@ Nein. Nur in Thailand, &Ouml;sterreich und Deutschland.
 
 Danke! Danke! Ich danke! Wirklich. Danke! Hier noch ein Ausrufezeichen!
 
-PS: Gemerkt? Ich hab die ganzen Sexabfragen mit &#8220;anpissen&#8221; (erstaunlicherweise immer aus der Schweiz), &#8220;thaifrauen&#8221; (erstaunlicherweise immer von t-Online), &#8220;sex in thailand&#8221; (erstaunlicherweise immer von Google) und &#8220;thaifrauen verstehen&#8221; (erstaunlicherweise immer von Katalogkunden) nicht gebracht. Ich bin n&auml;mlich ziemlich anst&auml;ndig und Sex ist b&ouml;se.
+PS: Gemerkt? Ich hab die ganzen Sexabfragen mit "anpissen" (erstaunlicherweise immer aus der Schweiz), "thaifrauen" (erstaunlicherweise immer von t-Online), "sex in thailand" (erstaunlicherweise immer von Google) und "thaifrauen verstehen" (erstaunlicherweise immer von Katalogkunden) nicht gebracht. Ich bin n&auml;mlich ziemlich anst&auml;ndig und Sex ist b&ouml;se.
 
  [1]: http://www.google.de/search?hl=de&q=bangkok+immigration+uniform+farbe
  [2]: http://www.google.de/search?hl=de&q=kondome+durchl%C3%A4ssig&btnG=Google-Suche

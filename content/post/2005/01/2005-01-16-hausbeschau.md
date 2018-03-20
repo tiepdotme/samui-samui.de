@@ -17,15 +17,15 @@ Das Haus im _Big Trees Village_. Eigentlich sind es mehrere Häuser, die alle gl
 
 {{< figure src="/wp-content/old-images/18.jpg" >}}
 
-Der Wohnraum. Die meisten Häuser in Thailand sind so gebaut, dass es einen gro?en Wohnraum gibt, in dem Spüle, Kühlschrank, Couch und Tisch stehen und &#8230;
+Der Wohnraum. Die meisten Häuser in Thailand sind so gebaut, dass es einen gro?en Wohnraum gibt, in dem Spüle, Kühlschrank, Couch und Tisch stehen und ...
 
 {{< figure src="/wp-content/old-images/19.jpg" >}}
 
-&#8230;einem Schlafraum mit Schrank. Das ist schon ganz angenehm so. 
+...einem Schlafraum mit Schrank. Das ist schon ganz angenehm so. 
 
 Im Wohnzimmer um die Ecke ist das Bad, in das ungefähr ein Mensch passt, weshalb auch alles auf die Raummitte ausgerichtet ist. Nach dem Duschen kann man es erstmal ein paar Stunden lang nicht nutzen. Au?erdem fehlt mir hier ein Wasserkocher oder irgendwas anderes, um Wärme auf Nahrungsmittel zu übertragen. Rausstellen geht nicht, kommen die Fliegen ;)
 
-Ich glaube aber nicht, dass ich hier bleiben werde. Ich hab da so ein Holz-Thaihaus gesehen&#8230; das hat mich gleich beim ersten Mal sehr sehr angesprochen. Und ich vertraue immer meinem ersten Eindruck. Nagut. Ich vertraue nicht immer meinem ersten Eindruch, aber mit sehr guten ersten Eindrücken habe ich gute Erfahrungen gemacht. Jedenfalls entfleuchte mir ein &#8220;Geil&#8221; beim Anblick &#8220;meines Thaistylehauses&#8221;. Wir werden sehen, was sich ergibt.
+Ich glaube aber nicht, dass ich hier bleiben werde. Ich hab da so ein Holz-Thaihaus gesehen... das hat mich gleich beim ersten Mal sehr sehr angesprochen. Und ich vertraue immer meinem ersten Eindruck. Nagut. Ich vertraue nicht immer meinem ersten Eindruch, aber mit sehr guten ersten Eindrücken habe ich gute Erfahrungen gemacht. Jedenfalls entfleuchte mir ein "Geil" beim Anblick "meines Thaistylehauses". Wir werden sehen, was sich ergibt.
 
 {{< figure src="/wp-content/old-images/16.jpg" >}}
 

@@ -13,7 +13,7 @@ Heute mittag wurde die Website des Information and Communications Technology Min
 
 Seit gestern dürfen die Herrschaften ja nun unangemeldet mit Ausweis ausgestattet Durchsuchungen vornehmen und private Computer beschlagnahmen. Ohne Beschlüsse. Bspw. wenn man unanständige Bildchen auf der Festplatte hat. Ich hab meine Pornosammlung gleich mal verschlüsselt.
 
-Das &#8220;Verbergen&#8221; der eigenen IP (sprich Nutzen von Proxys) ist nun auch bei Strafe verboten. 
+Das "Verbergen" der eigenen IP (sprich Nutzen von Proxys) ist nun auch bei Strafe verboten. 
 
 Jaja.
 

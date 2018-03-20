@@ -9,6 +9,6 @@ url: /2006/10/lauf-solange-du-kannst/
 
 
 ---
-Alle die nun erraten, was f&uuml;r eine Information hinter dieser &Uuml;berschrift steckt, erhalten ein Bienchen. Die Antworten auf die h&auml;ufigsten Fragen zu diesem Thema lauten &uuml;brigens &#8220;Ja&#8221;, &#8220;Ja&#8221;, &#8220;Nein&#8221;, &#8220;Eventuell&#8221;, &#8220;Das sind ja faktisch nur 29 Tage&#8221;, &#8220;Weil sie erst ab Oktober z&auml;hlen&#8221; und &#8220;Das wei&szlig; allein der Wind&#8221;. 
+Alle die nun erraten, was f&uuml;r eine Information hinter dieser &Uuml;berschrift steckt, erhalten ein Bienchen. Die Antworten auf die h&auml;ufigsten Fragen zu diesem Thema lauten &uuml;brigens "Ja", "Ja", "Nein", "Eventuell", "Das sind ja faktisch nur 29 Tage", "Weil sie erst ab Oktober z&auml;hlen" und "Das wei&szlig; allein der Wind". 
 
 Wir lesen uns wieder. Ganz sicher. Bin gespannt von wo aus.

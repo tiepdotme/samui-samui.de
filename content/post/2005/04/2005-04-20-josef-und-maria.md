@@ -9,7 +9,7 @@ url: /2005/04/josef-und-maria/
 
 
 ---
-<img src="/images/105.jpg" style="height:75px;width:75px;float:left;margin-right:10px;" />(12:34:26) Gunnar: BILD: &#8220;Sein Vater (Gendarm) hie&szlig; Joseph. Seine Mutter Maria. Seine Geburt war ein Zeichen.&#8221;
+<img src="/images/105.jpg" style="height:75px;width:75px;float:left;margin-right:10px;" />(12:34:26) Gunnar: BILD: "Sein Vater (Gendarm) hie&szlig; Joseph. Seine Mutter Maria. Seine Geburt war ein Zeichen."
   
 (12:34:34) Patrick: zeichen?
   
@@ -17,11 +17,11 @@ url: /2005/04/josef-und-maria/
   
 (12:34:42) Patrick: herrje. bin ich langsam
   
-(12:34:44) Gunnar: was weiss ich &#8230;
+(12:34:44) Gunnar: was weiss ich ...
   
 (12:34:53) Patrick: josef und maria
   
-(12:35:12) Gunnar: hiessen meine urgrosseltern auch &#8230;
+(12:35:12) Gunnar: hiessen meine urgrosseltern auch ...
   
 (12:35:19) Gunnar: ob ich noch chancen habe?
   

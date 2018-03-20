@@ -15,7 +15,7 @@ dsq_thread_id:
   
 
 
-> The son of a top ranking Norwegian diplomat has been arrrested in Thailand for allegedly having insulted a princess of the country&#8217;s Royal Family. He may now face a long prison term.
+> The son of a top ranking Norwegian diplomat has been arrrested in Thailand for allegedly having insulted a princess of the country's Royal Family. He may now face a long prison term.
 
 Yepp. [Das ist hier strafbar][1].
 

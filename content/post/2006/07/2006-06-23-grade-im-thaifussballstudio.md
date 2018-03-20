@@ -9,7 +9,7 @@ url: /2006/06/grade-im-thaifussballstudio/
 
 
 ---
-Grade hat im Thaifussball&trade;studio der FIFA-Chef Blatter eine Ansprache gehalten wo er dem K&ouml;nig von Thailand alles Gute zum 60ten Thronjubil&auml;um w&uuml;nschte. Er endete mit &#8220;lonng laiff to s&auml;h gingg&#8221;. Jaja. Das hei&szlig;t long live the king bittesehr. Naja.
+Grade hat im Thaifussball&trade;studio der FIFA-Chef Blatter eine Ansprache gehalten wo er dem K&ouml;nig von Thailand alles Gute zum 60ten Thronjubil&auml;um w&uuml;nschte. Er endete mit "lonng laiff to s&auml;h gingg". Jaja. Das hei&szlig;t long live the king bittesehr. Naja.
 
 Jetzt fehlt eigentlich nur noch die Ansprache vom IKEA-Gr&uuml;nder.
 

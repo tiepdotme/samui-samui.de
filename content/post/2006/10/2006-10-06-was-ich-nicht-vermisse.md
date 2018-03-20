@@ -12,7 +12,7 @@ url: /2006/10/was-ich-nicht-vermisse/
 Was ich vermisse:
 
   * Klopse (Mammastyle)
-  * Sauerbraten (Mammastyle)<txp:gho_footnote>Obwohl ich in Maenam einen Noodle-Shop kenne, dessen Nudelsuppe wie der Sauerbraten schmeckt&#8230;</txp:gho_footnote>
+  * Sauerbraten (Mammastyle)<txp:gho_footnote>Obwohl ich in Maenam einen Noodle-Shop kenne, dessen Nudelsuppe wie der Sauerbraten schmeckt...</txp:gho_footnote>
   * K&ouml;stritzer Schwarzbier
   * Jever (Lime, normal, Schwarz)
   * Glennmorangie im Portweinfass gereift<txp:gho_footnote>Ich bin mir fast definitiv sicher, dass man den auf Suvarnabhumi bekommt (dem neuen Flughafen in Krungthep, der wohl auf der n&auml;chsten Tourismus-BKK-Abhakliste steht).</txp:gho_footnote>
@@ -24,4 +24,4 @@ Was ich nicht vermisse:
 
   * alles andere, vor allem die unbedingte Kompliziertheit des Lebens.
 
-(Sie lasen einen halbfertigen Eintrag der so seit 2 Monaten im Entwurfsordner lag und sich zwischen &#8220;raus und blamieren&#8221; und &#8220;M&uuml;lltonne&#8221; zu entscheiden hatte. Man sollte es doch den Eintr&auml;gen nicht &uuml;berlassen &#8230;)
+(Sie lasen einen halbfertigen Eintrag der so seit 2 Monaten im Entwurfsordner lag und sich zwischen "raus und blamieren" und "M&uuml;lltonne" zu entscheiden hatte. Man sollte es doch den Eintr&auml;gen nicht &uuml;berlassen ...)

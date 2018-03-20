@@ -21,4 +21,4 @@ dsq_thread_id:
   <a href="http://www.flickr.com/photos/schreibblogade/8383478222/" title="Chilling by Patrick Kollitsch, on Flickr"><img src="//farm9.staticflickr.com/8194/8383478222_e8c6be9a0f_z.jpg" width="640" height="480" alt="Chilling" /><span>Wir chillen</span></a>
 </div>
 
-Pokki und Soosie, die beiden Shih-Tzu&#8217;s, chillen auf der Couch und sehen den Dingen die da kommen mögen gelassen entgegen.
+Pokki und Soosie, die beiden Shih-Tzu's, chillen auf der Couch und sehen den Dingen die da kommen mögen gelassen entgegen.

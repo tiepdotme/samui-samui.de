@@ -19,4 +19,4 @@ Soosie lässt es einige Stunden über sich ergehen und beisst dann empört zurü
 
 Ich hab sie dann in der Nacht in zwei verschiedene Räume gepackt. Ein Fehler, denn geschlafen habe ich ungefähr 2 Stunden. Den Rest der Zeit haben sie sich durch den Schlitz unter der Tür einander zugeschnauft, -gejault und -gefiept. Nervige kleine Fellbündel.
 
-Ich bin ja schon ganz froh, dass die Show nur zweimal im Jahr laufen soll&#8230;
+Ich bin ja schon ganz froh, dass die Show nur zweimal im Jahr laufen soll...

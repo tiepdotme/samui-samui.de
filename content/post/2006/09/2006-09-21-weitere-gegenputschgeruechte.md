@@ -11,7 +11,7 @@ url: /2006/09/weitere-gegenputschgeruechte/
 ---
 Es gibt immer noch Ger&uuml;chte &uuml;ber die M&ouml;glichkeit eines Gegenputsches.
 
-> Sources said the Military Council for Political Reform, as the generals are calling themselves, were not fully at ease because some of ousted Prime Minister Thaksin Shinawatra&#8217;s key ministers were gathering at air force bases. 
+> Sources said the Military Council for Political Reform, as the generals are calling themselves, were not fully at ease because some of ousted Prime Minister Thaksin Shinawatra's key ministers were gathering at air force bases. 
 > 
 > The group included Defense Minister General Thammarak Issarangkura Na Ayutthaya, Air Chief Marshall Kongsak Vantana and Police General Jumpol Manmai, who is the head of the National Intelligence Agency.
 

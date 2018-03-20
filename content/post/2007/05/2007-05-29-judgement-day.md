@@ -9,15 +9,15 @@ url: /2007/05/judgement-day/
 
 
 ---
-Morgen ist &#8220;Judgement Day&#8221; in Thailand. Es wird vom obersten Gerichtshof entschieden, ob Parteien wie die Demokraten und Thai Rak Thai aufgelöst werden sollen. Angeklagt sind sie, weil sie bei der letzten Wahl, die Thaksin Shinawatra, der Vorsitzende des Golfverbandes von Thailand, mit eindeutiger Mehrheit gewonnen hatte. <txp:permlink id="777">Anscheinend war der Gewinn nicht ganz sauber</txp:permlink>. 
+Morgen ist "Judgement Day" in Thailand. Es wird vom obersten Gerichtshof entschieden, ob Parteien wie die Demokraten und Thai Rak Thai aufgelöst werden sollen. Angeklagt sind sie, weil sie bei der letzten Wahl, die Thaksin Shinawatra, der Vorsitzende des Golfverbandes von Thailand, mit eindeutiger Mehrheit gewonnen hatte. <a href="777">Anscheinend war der Gewinn nicht ganz sauber</a>. 
 
 The Nation hat gleich mal wieder [ein Special][1] ins Web gebracht, in welchem [die möglichen Ergebnisse ausgewertet werden][2]. Es wird nicht nur entschieden werden, ob die Parteien aufgelöst werden, sondern auch, ob die bisherigen Parteispitzen ein 5jähriges Verbot von politischer Tätigkeit ausgesprochen bekommen.
 
-Ich denke es wird zu etwas Unruhe kommen, wenn nur eine der beiden gro?en Parteien aufgelöst wird. Ansonsten sind die Vorbereitungen für [die Neugründung der Nachfolgeparteien schon in der Mache][3] und wenn sie nicht aufgelöst werden&#8230; auch gut. 
+Ich denke es wird zu etwas Unruhe kommen, wenn nur eine der beiden gro?en Parteien aufgelöst wird. Ansonsten sind die Vorbereitungen für [die Neugründung der Nachfolgeparteien schon in der Mache][3] und wenn sie nicht aufgelöst werden... auch gut. 
 
 [Der König hat vergangene Woche eine Rede vor den Richtern des Verfassungsgerichts gehalten][4], in der er sagt, dass die entscheidenden Richter in einer misslichen Lage sind, denn wie auch immer sie entscheiden, eine politische Krise ist vorprogrammiert. Die Rede selbst lässt mal wieder viele Interpretationen zu, unter anderem auch die, dass der König mit den aktuellen Verhältnissen weniger zufrieden ist.
 
-> Please keep on trying to improve our country&#8217;s situation, which is not good at all this year.
+> Please keep on trying to improve our country's situation, which is not good at all this year.
 
 Die Regierung bereitet sich auf altbekannte Weise auf die Ergebnisse vor: Sie sperrt Pro-Thaksin-Webseiten und bekräftigt, der Meinung zu sein, dass alles sicher ist und keine Unruhen zu erwarten sind.
 

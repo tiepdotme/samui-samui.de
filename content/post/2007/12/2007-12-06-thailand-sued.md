@@ -17,4 +17,4 @@ url: /2007/12/thailand-sued/
   </p>
 </div>
 
-Das ist ein Farbfoto. <txp:permlink id="1453">Vom Visarun neulich</txp:permlink>.
+Das ist ein Farbfoto. <a href="1453">Vom Visarun neulich</a>.

@@ -11,7 +11,7 @@ url: /2006/09/englischsprachige-newsquellen-aus-thailand/
 ---
 Die folgenden englischsprachigen nationalen Newsseiten kann ich empfehlen, wenn es darum geht, einen halbwegs ausf&uuml;hrlichen aktuellen Bericht aus Thailand zu bekommen. Man darf dabei aber nicht vergessen, dass alle Medien aufgefordert sind, putschkritische Berichterstattung zu zensieren. 
 
-Unter [ict.go.th][1] soll eine Webseite erreichbar sein, die aktuelle Meldungen des <span class="caps">CDRM</span> bringt und von der Armee direkt gef&uuml;hrt wird. Ich habe die Seite bisher nicht aufrufen k&ouml;nnen. Der Fehler &#8220;Server not found&#8221; kommt derzeit bei allen zensierten Seiten. Eventuell ist auch einfach nur der Link falsch (warum sollten sie sich selbst zensieren?). Ich bin noch auf der Suche.
+Unter [ict.go.th][1] soll eine Webseite erreichbar sein, die aktuelle Meldungen des <span class="caps">CDRM</span> bringt und von der Armee direkt gef&uuml;hrt wird. Ich habe die Seite bisher nicht aufrufen k&ouml;nnen. Der Fehler "Server not found" kommt derzeit bei allen zensierten Seiten. Eventuell ist auch einfach nur der Link falsch (warum sollten sie sich selbst zensieren?). Ich bin noch auf der Suche.
 
 Das [National News Bureau][2] ist die offizielle Newssite der Regierung und eigentlich immer ein verl&auml;sslicher Lieferant aktueller Neuigkeiten gewesen. Seit dem Putsch sind sie mit der Ver&ouml;ffentlichung der Meldungen sehr langsam aus verst&auml;ndlichen Gr&uuml;nden. Man kann die Seite aber nutzen, um herauszubekommen, welche der vielen Meldungen der letzten Tage offiziell sind und welche eher Ger&uuml;chte und Meinungen.
 

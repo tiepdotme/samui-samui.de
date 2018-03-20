@@ -13,4 +13,4 @@ Heute ist ein gro?artiger Tag für mich, denn ich habe nach fünfundeinhalb Jahr
 
 Ich habe tatsächlich die vergangenen Jahre damit verbracht, irgendwie mit zittrigen Fingern um die Flaschenhälse herum die Pappe auf- und abzurei?en. Das ging hin und wieder mit Schnittwunden einher. Was man nicht alles für das abendliche Bier tut. 
 
-Hab mir gleich noch einen Zweierpack zur Verifizierung geholt&#8230;
+Hab mir gleich noch einen Zweierpack zur Verifizierung geholt...

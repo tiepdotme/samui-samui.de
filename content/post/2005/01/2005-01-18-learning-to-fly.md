@@ -15,7 +15,7 @@ Stellen wir uns diese Seite als Comic vor:
 
 Bild 1: Konzentriert arbeitender Patrick arbeitet konzentriert arbeitend vor sich hin. Im Hintergrund ein Fenster, Palmen, grün.
 
-Bild 2: Orange gefärbte mit 14 Zacken versehene Sprechblase &#8220;PLOMMK&#8221;
+Bild 2: Orange gefärbte mit 14 Zacken versehene Sprechblase "PLOMMK"
 
 Bild 3: Nicht mehr konzentriert arbeitender Patrick schaut verwirrt zum Fenster an dem viele kleine Federn langsam und gemütlich der Erde entgegen säuseln.
 

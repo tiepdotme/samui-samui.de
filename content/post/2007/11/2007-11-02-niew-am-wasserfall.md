@@ -17,4 +17,4 @@ url: /2007/11/niew-am-wasserfall/
   </p>
 </div>
 
-Wasserfälle haben eine magische Wirkung auf Thais&#8230;
+Wasserfälle haben eine magische Wirkung auf Thais...

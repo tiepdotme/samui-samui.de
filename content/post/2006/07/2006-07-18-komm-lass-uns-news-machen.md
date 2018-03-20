@@ -15,7 +15,7 @@ Die News gestern abend lauteten so:
 
 [Thailand spared!][1]
 
-> &#8220;Thailand Monday remained unscathed from a powerful earthquake, which sent deadly two-metre-high wave to Indonesia&#8217;s Java Island.&#8221; [[The Nation][2]]
+> "Thailand Monday remained unscathed from a powerful earthquake, which sent deadly two-metre-high wave to Indonesia's Java Island." [[The Nation][2]]
 
 Inzwischen sind die Berichte zum Thema weniger skandaltr&auml;chtig und [n&uuml;chterner][3]. Leider gibt es (noch?) keine Berichte, was das neu installierte und hoch gelobte Warnsystem geleistet hat. Ich denke, es hat versagt. 
 

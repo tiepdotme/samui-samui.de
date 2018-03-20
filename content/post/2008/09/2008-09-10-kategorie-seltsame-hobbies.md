@@ -11,8 +11,8 @@ dsq_thread_id:
 
 
 ---
-Bei [hi5.com][1] alle User als Contacts adden, die &#8222;Samui&#8220; im Username haben. (Ein Satz mit 7:5 Denglish-Ratio. Das schaffen nur Samui-Portale!)
+Bei [hi5.com][1] alle User als Contacts adden, die "Samui" im Username haben. (Ein Satz mit 7:5 Denglish-Ratio. Das schaffen nur Samui-Portale!)
 
-PS: arbeite gerade an einem längeren Artikel zu sozialen Netzwerken (für alle älteren Leser hier &#8211; das ist Internetkram) und deren Nutzung in Thailand.
+PS: arbeite gerade an einem längeren Artikel zu sozialen Netzwerken (für alle älteren Leser hier --- das ist Internetkram) und deren Nutzung in Thailand.
 
  [1]: http://hi5.com

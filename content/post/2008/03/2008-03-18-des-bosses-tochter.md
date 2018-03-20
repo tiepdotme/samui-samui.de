@@ -17,4 +17,4 @@ url: /2008/03/des-bosses-tochter/
   </p>
 </div>
 
-&#8230;an einem ihrer freundlicheren Tage&#8230;
+...an einem ihrer freundlicheren Tage...

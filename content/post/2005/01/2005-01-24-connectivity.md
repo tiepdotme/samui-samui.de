@@ -17,7 +17,7 @@ Jedenfalls packte ich mein Notebook ein und nahm mir vor, zu Hause lokal einen S
 
 Jedenfalls ergab es sich, dass gegen fünf das Buch zu Ende war. Ich setzte mich wieder auf mein Moped und fuhr ins Büro. Das gleiche Ergebnis. 
 
-Den Rest des Abends verbrachte ich dann mit &#8220;Memento&#8221; linear gesehen und meinen Gedanken dazu, dass es mir gelingt auch in dieser Umgebung überaus nörgelig zu werden, wenn man mich vom Internet abschneidet. 
+Den Rest des Abends verbrachte ich dann mit "Memento" linear gesehen und meinen Gedanken dazu, dass es mir gelingt auch in dieser Umgebung überaus nörgelig zu werden, wenn man mich vom Internet abschneidet. 
 
 **If you want an evil kampfmaschine, kappt my internet!**
 

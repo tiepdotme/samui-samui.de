@@ -11,7 +11,7 @@ url: /2005/08/warmduschen/
 ---
 1 Stunde nachdem ich mein Haus bezahlt hatte rief mich Kiew (man spricht das etwa Kiiiechähooooh, mit leichtem Katzenfauchen beim ch) meine Vermieterin an und meinte, dass ihr gerade eingefallen wäre, dass ich kein Warmwasser im Bad hätte. Nun, das ist kein Problem für mich, weil ich eigentlich nicht warm dusche ;) Jedenfalls einigten wir uns darauf, dass ihr Bruder (Landkeeper unserer kleinen Bergsiedlung) das am Samstag erledigen würde. Diesen Samstag. Also übermorgen.
 
-Heute morgen stand ein kleiner Thai vor meinem Haus und meinte zu mir &#8220;This afternoon I will make warm water in you house&#8221;. Ich schaute ihn ein bisschen entgeistert an und meinte dann &#8220;Ok. But I will not be here, I am working.&#8221; (Ich arbeite hart, den ganzen Tag. Und manchmal auch wenn die Sonne scheint.) Er jedenfalls meinte, kein Problem, er hat ja den Schlüssel. Gut zu wissen.
+Heute morgen stand ein kleiner Thai vor meinem Haus und meinte zu mir "This afternoon I will make warm water in you house". Ich schaute ihn ein bisschen entgeistert an und meinte dann "Ok. But I will not be here, I am working." (Ich arbeite hart, den ganzen Tag. Und manchmal auch wenn die Sonne scheint.) Er jedenfalls meinte, kein Problem, er hat ja den Schlüssel. Gut zu wissen.
 
 Ich rannte also in mein Haus welches derzeit ein wenig messie-haft aussieht und warf schnell alles, was mich den Eindruck eines unputzenden Singlemannes erwecken lassen könnte auf die Spielwiese und schloss da ab. Hoffen wir, dass er diesen Schlüssel nicht verwendet.
 

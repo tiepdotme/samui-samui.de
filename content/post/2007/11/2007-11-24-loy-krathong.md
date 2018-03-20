@@ -19,4 +19,4 @@ Für die Jugend ist Loy Krathong auch ein sehr wichtiges Datum. Ich habe vor Jah
 
 Insofern ist verständlich, warum heute abend so viel Verkehr auf der Stra?e ist.
 
-Ich hingegen habe mich gemütlich ins Bett gewickelt um der pünktlich zum Wochenende eingetretenen übergro?en Müdigkeit entgegenzuwirken. Ich denke (noch), dass es daran liegt, dass es so kalt ist. Den ganzen Tag lag ein schleiriger Nebel über dem Klong vor dem Haus&#8230; Gefühlte 20° Celcius. Winter. Schlaf.
+Ich hingegen habe mich gemütlich ins Bett gewickelt um der pünktlich zum Wochenende eingetretenen übergro?en Müdigkeit entgegenzuwirken. Ich denke (noch), dass es daran liegt, dass es so kalt ist. Den ganzen Tag lag ein schleiriger Nebel über dem Klong vor dem Haus... Gefühlte 20° Celcius. Winter. Schlaf.

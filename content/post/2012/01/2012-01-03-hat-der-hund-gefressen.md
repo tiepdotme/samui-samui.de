@@ -9,4 +9,4 @@ url: /2012/01/hat-der-hund-gefressen/
 
 
 ---
-Habe gerade tats&auml;chlich die &#8220;My dog ate it&#8221;-Ausrede benutzt, um den Hausherren abzuwimmeln der nach der unbezahlten 150 Baht-Rechnung (um die 4 Euro) f&uuml;rs Wasser fragte. Hmm. Eigentlich wollte ich das irgendwann f&uuml;r gr&ouml;&szlig;ere Betr&auml;ge verwenden&#8230;
+Habe gerade tats&auml;chlich die "My dog ate it"-Ausrede benutzt, um den Hausherren abzuwimmeln der nach der unbezahlten 150 Baht-Rechnung (um die 4 Euro) f&uuml;rs Wasser fragte. Hmm. Eigentlich wollte ich das irgendwann f&uuml;r gr&ouml;&szlig;ere Betr&auml;ge verwenden...

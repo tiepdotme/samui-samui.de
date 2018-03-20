@@ -21,9 +21,9 @@ dsq_thread_id:
 
 In einem Baum direkt neben meinem Haus hat sich der obige Nachbar eingemistet. Gr&uuml;n, [sehr lang][1], schlangig.
 
-Hab das kurz bei meiner Hausbesitzerin angesprochen, die pl&ouml;tzlich sehr gesch&auml;ftig nach dem Gemahl suchte &#8211; meine letzten Schlangenmeldungen wurden noch sehr entspannt abgenickt. Wie auch immer, nach einigem Hin und Her bekam ich folgendes zu h&ouml;ren:
+Hab das kurz bei meiner Hausbesitzerin angesprochen, die pl&ouml;tzlich sehr gesch&auml;ftig nach dem Gemahl suchte --- meine letzten Schlangenmeldungen wurden noch sehr entspannt abgenickt. Wie auch immer, nach einigem Hin und Her bekam ich folgendes zu h&ouml;ren:
 
-> Green Snake &#8211; your friend, brown or black snake bad, red snake &#8211; very bad &#8211; you scream!
+> Green Snake --- your friend, brown or black snake bad, red snake --- very bad --- you scream!
 
 Ok. Will do.
 

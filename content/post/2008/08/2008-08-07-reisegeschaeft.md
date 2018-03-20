@@ -13,4 +13,4 @@ Manch einem mag es aufgefallen sein, dass ich gestern Abend schnell noch die res
 
 Die Voraussetzungen sind gegeben (je nach Interpretation des Versprechens), also verlasse ich fluchtartig die Insel. Es geht Richtung Bangkok und dann lass ich mich treiben. Ein paar Tage. Mal sehen wie lang. Bestimmte Dinge wollen gekl&auml;rt werden.
 
-Hin und wieder stimmt es: &#8222;Samui is a small island&#8230;&#8220;
+Hin und wieder stimmt es: "Samui is a small island..."

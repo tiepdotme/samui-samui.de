@@ -21,7 +21,7 @@ In sechs Monaten dann haben alle Thais gelernt, dass man zur Mülltonne an der S
 
 Dummerweise nur (Sonnenalleemusik an) haben Brot und Spiele noch nie zu dauerhaft bestehender Volkszufriedenheit geführt (Sonnenalleemusik aus).
 
-Ich geh jetzt tanken&#8230;
+Ich geh jetzt tanken...
 
  [1]: http://www.nationmultimedia.com/breakingnews/read.php?newsid=30078877
  [2]: http://www.nationmultimedia.com/2008/07/22/business/business_30078632.php

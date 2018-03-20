@@ -9,9 +9,9 @@ url: /2005/09/tanyong-limo/
 
 
 ---
-&#8220;Two Thai soldiers, who had been held hostage in a mosque in southern Thailand (Tanyong Limo village, in Thailand&#8217;s disturbed Narathiwat province), were beaten to death 18 hours after they were seized, an army officer said. As some 2,000 anger villagers prevented authorities from entering the mosque, the two were stabbed in their stomachs and badly beaten about their heads.&#8221; 
+"Two Thai soldiers, who had been held hostage in a mosque in southern Thailand (Tanyong Limo village, in Thailand's disturbed Narathiwat province), were beaten to death 18 hours after they were seized, an army officer said. As some 2,000 anger villagers prevented authorities from entering the mosque, the two were stabbed in their stomachs and badly beaten about their heads." 
 
-[Photos][1] (manche explizit, oben auf &#8220;Event&#8221; klicken (auch ein bisschen zynisch die Wortwahl))
+[Photos][1] (manche explizit, oben auf "Event" klicken (auch ein bisschen zynisch die Wortwahl))
 
 Mir fehlen die Worte. Manchmal liest man in der Bangkok-Post, dass viele Moslems den S&uuml;den Thailands verlassen und nach Malaysia auswandern. Es gibt immer mehrere Wege, ein Problem zu l&ouml;sen. Diese beiden sind falsch. Wenn es Tote aus religi&ouml;sen Gr&uuml;nden gibt, dann stimmt was mit den Religionen nicht.
 

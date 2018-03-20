@@ -15,6 +15,6 @@ Mit h&ouml;hnischem Grinsen hat sich vor ca. 30 Minuten die Sonne aufmacht, uns 
 
 Ich glaubs erst, wenn ich trocken nach Hause komme. Wenn man bedenkt, dass ich tropfender Klamotten beschwert das B&uuml;ro heute morgen nach einer Flutungsfahrt ohnegleichen erreichte ist es doch eher Hohn als ehrlich gemeinte UV-Strahlung.
 
-Bitch. W&uuml;rde ich mal sagen. In den meisten Sprachen dieser Welt ist die Sonne&#8230; ehm&#8230; ich arbeite mal eben weiter&#8230;
+Bitch. W&uuml;rde ich mal sagen. In den meisten Sprachen dieser Welt ist die Sonne... ehm... ich arbeite mal eben weiter...
 
  [1]: http://www.flickr.com/photos/schreibblogade/71090194/ "Sneering Sun"

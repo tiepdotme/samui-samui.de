@@ -15,6 +15,6 @@ Wir beobachten das mit Interesse und machen uns so unsere Gedanken.
 
 Die Regierung in Bangkok macht sich auch so ihre Gedanken und überlegt, [ob sie Thaksin seinen Diplomatenpass wegnehmen soll][1]. Rechtlich gesehen dürfen alle ehemaligen Premierminister, auch wenn ihre Amtszeit durch einen Putsch beendet wurde, ihren Diplomatenpass behalten. Au?enminister Nitya Phibulsonggram prüft derzeit, ob man Thaksin den Pass abnehmen kann (was ich nur wegen seines Namens erwähne). 
 
-PS: Sorry, ich will das nochmal gesondert erwähnen: Auch wenn in Thailand durch einen Putsch seine Amtszeit beendete darf er weiterhin mit dem Diplomatenpass in der Gegend rumreisen. Dass man den Teilsatz &#8220;auch wenn &#8230; durch einen Putsch seine Amtszeit beendet wurde&#8221; verwenden kann &#8211; das ist nur in Thailand möglich.
+PS: Sorry, ich will das nochmal gesondert erwähnen: Auch wenn in Thailand durch einen Putsch seine Amtszeit beendete darf er weiterhin mit dem Diplomatenpass in der Gegend rumreisen. Dass man den Teilsatz "auch wenn ... durch einen Putsch seine Amtszeit beendet wurde" verwenden kann --- das ist nur in Thailand möglich.
 
  [1]: http://www.nationmultimedia.com/2006/11/14/headlines/headlines_30018950.php

@@ -17,6 +17,6 @@ url: /2008/12/als-die-erde-bebte/
   </p>
 </div>
 
-Man sagt, hier hätte grade (vor einer Stunde) die Erde gebebt. Bildzeitungen weltweit werden morgen &#8222;Weihnachtsgeschenk! Die Flut blieb aus!&#8220; titeln und vier Jahre alte Bilder auf die ersten Seiten packen.
+Man sagt, hier hätte grade (vor einer Stunde) die Erde gebebt. Bildzeitungen weltweit werden morgen "Weihnachtsgeschenk! Die Flut blieb aus!" titeln und vier Jahre alte Bilder auf die ersten Seiten packen.
 
-Gemerkt haben wir nichts, es fühlte sich nur kurz so an als ob ich mal wieder körpervolumenbedingt zu wenig gegessen hätte, was ja nicht selten ist in diesen Tagen&#8230;
+Gemerkt haben wir nichts, es fühlte sich nur kurz so an als ob ich mal wieder körpervolumenbedingt zu wenig gegessen hätte, was ja nicht selten ist in diesen Tagen...

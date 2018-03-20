@@ -21,6 +21,6 @@ Thailand wäre nicht Thailand, wenn [die Geburt von Sechslingen][1] in der verg
 
 > The six babies were named after their parents&#8216; favourite car brands: Audi (girl), Fortune (Toyota Fortuner) (girl), Porsche (boy), Mini (girl), Volks (boy) and Fiat (boy).
 
-&#8230;
+...
 
  [1]: http://www.bangkokpost.com/breakingnews/301288/woman-gives-birth-to-thailand-first-sextuplets

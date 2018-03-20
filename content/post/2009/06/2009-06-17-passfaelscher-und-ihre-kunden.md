@@ -19,7 +19,7 @@ Neu war wohl, dass das Fälscher-Pärchen (hehe, no pun intended) ihre Leistunge
 
 Kunden finden die Passfälscher der Nation auch in (vermeintlich) (unschuldigen) [Mordverdächtigen][2], die sich nicht der Thaijustiz stellen wollen. 
 
-Wer in der Thailand Straftaten begeht, sollte damit leben können, dass selbige in Thailand geahndet werden. Und wer in Thailand IT-Experten tötet&#8230; naja, lassen wir das&#8230;
+Wer in der Thailand Straftaten begeht, sollte damit leben können, dass selbige in Thailand geahndet werden. Und wer in Thailand IT-Experten tötet... naja, lassen wir das...
 
  [1]: http://www.nationmultimedia.com/2009/06/18/national/national_30105419.php
  [2]: http://www.abendzeitung.de/bayern/113135

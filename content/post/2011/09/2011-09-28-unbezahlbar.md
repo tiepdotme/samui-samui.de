@@ -19,4 +19,4 @@ url: /2011/09/unbezahlbar/
 
 H&uuml;tte am Meer: 6000THB im Monat (ca. 150 Euro)
   
-Das Versprechen &#8220;Ich komme dich wirklich mal auf Samui besuchen&#8221; bereits 2 Wochen nach Verk&uuml;ndigung wahr gemacht zu haben: Unbezahlbar.
+Das Versprechen "Ich komme dich wirklich mal auf Samui besuchen" bereits 2 Wochen nach Verk&uuml;ndigung wahr gemacht zu haben: Unbezahlbar.

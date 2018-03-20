@@ -13,7 +13,7 @@ In Thailand sollte man ja tunlichst vermeiden, über die königliche Familie zu 
 
 Daher hier nur ein paar unkommentierte Zitate aus einem [Artikel von jemandem anderen][1]:
 
-> The Princess of Thailand, Dr. <span class="caps">HRH</span> Princess Chulabhorn Mahidol met with President Shimon Peres on Monday in his office in Jerusalem, where she expressed her fondness for Israel. Mahidol told Peres, &#8220;In my heart I feel half Israeli. I think like an Israeli. I visited here for the first time in the 1970s, and since then I keep looking for opportunities to return.&#8221;
+> The Princess of Thailand, Dr. <span class="caps">HRH</span> Princess Chulabhorn Mahidol met with President Shimon Peres on Monday in his office in Jerusalem, where she expressed her fondness for Israel. Mahidol told Peres, "In my heart I feel half Israeli. I think like an Israeli. I visited here for the first time in the 1970s, and since then I keep looking for opportunities to return."
 
 Einen Autounfall hatte sie auch noch:
 

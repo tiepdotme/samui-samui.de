@@ -29,6 +29,6 @@ Nach kurzem Googlen des Herren fand ich folgenden recht beschreibenden Satz, den
 
 Siehe Logfiles:
 
-3:34:16 Uhr <txp:permlink id="1861">Friedliche Demonstranten in Bangkok</txp:permlink>
+3:34:16 Uhr <a href="1861">Friedliche Demonstranten in Bangkok</a>
   
 3:34:29 Uhr Kontakt

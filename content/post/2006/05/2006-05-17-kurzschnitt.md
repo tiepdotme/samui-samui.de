@@ -9,7 +9,7 @@ url: /2006/05/kurzschnitt/
 
 
 ---
-Aus der Kategorie &#8220;Das gibts nur in unserem Thailand&#8221; eine Lektion in Einflussnahme auf staatliche Organe: &#8220;der Film &#8220;Da Vinci Code [muss in Thailand auf Forderung christlicher Organisationen um 10 Minuten verk&uuml;rzt aufgef&uuml;hrt werden][1]. Ausz&uuml;ge aus der Bibel die im Vor- und Abspann gezeigt werden m&uuml;ssen durch andere Spr&uuml;che ersetzt werden.
+Aus der Kategorie "Das gibts nur in unserem Thailand" eine Lektion in Einflussnahme auf staatliche Organe: "der Film "Da Vinci Code [muss in Thailand auf Forderung christlicher Organisationen um 10 Minuten verk&uuml;rzt aufgef&uuml;hrt werden][1]. Ausz&uuml;ge aus der Bibel die im Vor- und Abspann gezeigt werden m&uuml;ssen durch andere Spr&uuml;che ersetzt werden.
 
 Und hier noch [ein Auszug aus Wikipedia][2]: 
 

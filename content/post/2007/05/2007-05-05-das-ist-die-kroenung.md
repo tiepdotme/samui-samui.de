@@ -13,6 +13,6 @@ url: /2007/05/das-ist-die-kroenung/
 
 Dummerweise ist das wiedermal ein so sensibles Thema, dass man darüber nichts im Internet findet. Den Thais die ich hier kenne ist der Feiertag übrigens ziemlich egal. Da ist der Geburtstag des Königs (am 5. Dezember) schon wichtiger. Oder Songkran. Oder der zusätzliche ersatzfreie Tag am Montag. 
 
-PS: Nur falls sich jetzt jemand wundert, warum man vergangenes Jahr das 60järige Thronjubiläum feierte, König Bhumibol Adulyadej aber erst am 5. Mai 1950 gekrönt wurde &#8211; das ist ganz einfach: Ananda Mahidol, Rama <span class="caps">VIII</span>, starb am 9. Juni 1946. An diesem Tag begann die Regierungszeit von Rama IX, Seiner Majestät König Bhumibol Adulyadejs, der sich damals noch in Lausanne, der Schweiz, aufhielt. Man studierte. Die Krönung wurde dann durchgeführt, als er zurück ins Land der Freien kam.
+PS: Nur falls sich jetzt jemand wundert, warum man vergangenes Jahr das 60järige Thronjubiläum feierte, König Bhumibol Adulyadej aber erst am 5. Mai 1950 gekrönt wurde --- das ist ganz einfach: Ananda Mahidol, Rama <span class="caps">VIII</span>, starb am 9. Juni 1946. An diesem Tag begann die Regierungszeit von Rama IX, Seiner Majestät König Bhumibol Adulyadejs, der sich damals noch in Lausanne, der Schweiz, aufhielt. Man studierte. Die Krönung wurde dann durchgeführt, als er zurück ins Land der Freien kam.
 
  [1]: http://sunsite.au.ac.th/thailand/special_event/coronation/index.html

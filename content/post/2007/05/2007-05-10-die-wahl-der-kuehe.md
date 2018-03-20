@@ -9,14 +9,14 @@ url: /2007/05/die-wahl-der-kuehe/
 
 
 ---
-<txp:permlink id="1259">Die heiligen Kühe</txp:permlink> haben <del>gesprochen</del> [gefressen][1]:
+<a href="1259">Die heiligen Kühe</a> haben <del>gesprochen</del> [gefressen][1]:
 
-> The Sacred Cows used in the Royal Ploughing Ceremony Thursday predicted that Thailand&#8217;s harvests and foods produce as well as water would be abundant.
+> The Sacred Cows used in the Royal Ploughing Ceremony Thursday predicted that Thailand's harvests and foods produce as well as water would be abundant.
 > 
 > During the ceremony, the Sacre Cows ate paddy and maize, giving a prophecy that the harvests and food produce would be abundant.
 > 
 > The cows also ate grass, which predicted that water would be abundant while food supply would be rich.
 
-Soso, also keinen Likör. Schlechte Exportgeschäfte&#8230;
+Soso, also keinen Likör. Schlechte Exportgeschäfte...
 
  [1]: http://www.nationmultimedia.com/breakingnews/read.php?newsid=30033869

@@ -9,7 +9,7 @@ url: /2006/10/vegetarisch/
 
 
 ---
-Vor einer Woche &uuml;berraschte mich Fu mit der Ank&uuml;ndigung, dass ich ab dem 20. Oktober kein totes Tier mehr essen darf. Ich grinste und sagte jaja. Heute Nacht nun kam eine SMS &#8220;so now is the vegetarian festival and you eat sausage no more!&#8221;.
+Vor einer Woche &uuml;berraschte mich Fu mit der Ank&uuml;ndigung, dass ich ab dem 20. Oktober kein totes Tier mehr essen darf. Ich grinste und sagte jaja. Heute Nacht nun kam eine SMS "so now is the vegetarian festival and you eat sausage no more!".
 
 Das Vegetarian Festival findet immer im neunten lunaren Monat des chinesischen Kalenders (im Prinzip vom 20. bis zum 30. Oktober) statt und ist eher eines der chinesischen Geisterfester als ein buddhistisches. Man h&auml;lt eine vegetarische oder sogar vegane Di&auml;t ein, um sich zu reinigen und dadurch Verdienste f&uuml;r die n&auml;chste Inkarnation zu sammeln. In den chinesischen Schreinen werden heilige Rituale durchgef&uuml;hrt. 
 

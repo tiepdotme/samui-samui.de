@@ -11,7 +11,7 @@ url: /2009/09/krankenhausnews/
 ---
 König Bhumibol Aduljadey ist am Samstag mit Fieber und Appetitlosigkeit ins Krankenhaus eingeliefert worde. Zuerst hat man es totgeschwiegen, dann hat man es zur Routineuntersuchung gemacht und seit Montag berichtet man in nahezu stündlichen Veröffentlichungen über den aktuellen [Stand][1]. 
 
-Jede Krankheit des Königs wird zum Politikum, denn mit 81 Jahren kann auch ein Halbgott nicht jede Erkältung bezwingen &#8211; und Thailand würde sich sehr schnell in neuen Gewässern wieder finden.
+Jede Krankheit des Königs wird zum Politikum, denn mit 81 Jahren kann auch ein Halbgott nicht jede Erkältung bezwingen --- und Thailand würde sich sehr schnell in neuen Gewässern wieder finden.
 
 Diesmal ging aber alles gut und der König ist auf dem Weg der Besserung.
 

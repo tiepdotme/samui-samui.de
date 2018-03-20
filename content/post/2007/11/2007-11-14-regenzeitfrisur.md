@@ -17,4 +17,4 @@ url: /2007/11/regenzeitfrisur/
   </p>
 </div>
 
-Finden Sie bitte den Regenbogen im Hintergrund&#8230;
+Finden Sie bitte den Regenbogen im Hintergrund...

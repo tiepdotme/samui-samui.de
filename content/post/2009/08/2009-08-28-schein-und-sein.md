@@ -11,7 +11,7 @@ url: /2009/08/schein-und-sein/
 ---
 Für Morgen (Sonntag) war eine Gro?demonstration der rot behemdeten Freunde der thailändischen Demokratie zur Unterstützung des Präsidenten des thailändischen Profigolferverbandes geplant. Die Regierung hat Präventivma?nahmen ergriffen. Heute nun [die folgende Verkündung][1]:
 
-> Red shirted protesters announced Saturday they decided to postpone their mass rally planned for Sunday, citing the government&#8217;s imposing of internal security laws. Their leaders said they are not allowed to gather under the internal security laws imposed in Dusit district from Saturday to Monday. They said they plan to defer the rally to September 5. They would again postpone their rally if the government enforce the Internal Security Act for their Sept 5 rally.
+> Red shirted protesters announced Saturday they decided to postpone their mass rally planned for Sunday, citing the government's imposing of internal security laws. Their leaders said they are not allowed to gather under the internal security laws imposed in Dusit district from Saturday to Monday. They said they plan to defer the rally to September 5. They would again postpone their rally if the government enforce the Internal Security Act for their Sept 5 rally.
 
 Die Demonstration ist also abgesagt. Erstmal. Bisher haben die Rothemden sich nicht durch solche kleinen Sicherheitsgesetze oder Ausnahmezustände aufhalten lassen. Falls sich diese Gesetzestreue jetzt hält, hat man ja endlich das probate Mittel gefunden, um Ruhe ins Land zu bringen.
 

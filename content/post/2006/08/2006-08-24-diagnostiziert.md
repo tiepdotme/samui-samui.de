@@ -9,9 +9,9 @@ url: /2006/08/diagnostiziert/
 
 
 ---
-Da hab ich den gestrigen Tag nun die ganze Zeit darauf gewartet, <txp:gho_permalink id="850">Thaksins Diagnose</txp:gho_permalink> zu h&ouml;ren &#8211; nichts. Vermutlich war sie so niederschmetternd dass sie eine Geheimstufe bekommen hat.
+Da hab ich den gestrigen Tag nun die ganze Zeit darauf gewartet, <txp:gho_permalink id="850">Thaksins Diagnose</txp:gho_permalink> zu h&ouml;ren --- nichts. Vermutlich war sie so niederschmetternd dass sie eine Geheimstufe bekommen hat.
 
-Daf&uuml;r hat man heute mit gro&szlig;em Brimborium einen Lieutnant festgenommen, der einen [Wagen mit explosivem Material in der N&auml;he von Thaksins Villa][1] gefahren hat. Am Anfang hie&szlig; es eine Autobombe wurde entsch&auml;rft &#8211; das relativierte sich aber im Verlauf des Tages und nun war es nur noch Sprengstoff. 
+Daf&uuml;r hat man heute mit gro&szlig;em Brimborium einen Lieutnant festgenommen, der einen [Wagen mit explosivem Material in der N&auml;he von Thaksins Villa][1] gefahren hat. Am Anfang hie&szlig; es eine Autobombe wurde entsch&auml;rft --- das relativierte sich aber im Verlauf des Tages und nun war es nur noch Sprengstoff. 
 
 Am Dienstag wurde auf Thaksins Villa geschossen. 10 Minuten nachdem er sie verlassen hat, zeitiger als sonst. Der Sicherheitsbeamte der als T&auml;ter festgenommen wurde sagt aber, wenn er auf Thaksin schie&szlig;en w&uuml;rde dann w&uuml;rde er auch treffen.
 

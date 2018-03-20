@@ -9,4 +9,4 @@ url: /2005/08/temperatur-umstellung/
 
 
 ---
-Es ist eigentlich warm. Hei?. 32 Grad nach Gustav Zelsius. Interessanterweise merke ich nicht viel davon. Dafür frieren wir wenn &#8220;unter der Woche&#8221; die Klimaanlage läuft bei 24 Grad und ich trage meine dicken Laufsocken. Sehr bedenklich. Dieses Land hat Einflüsse auf meinen Körper, die ich nicht gut hei?en kann. Was soll das nächsten Winter nur in Island werden?
+Es ist eigentlich warm. Hei?. 32 Grad nach Gustav Zelsius. Interessanterweise merke ich nicht viel davon. Dafür frieren wir wenn "unter der Woche" die Klimaanlage läuft bei 24 Grad und ich trage meine dicken Laufsocken. Sehr bedenklich. Dieses Land hat Einflüsse auf meinen Körper, die ich nicht gut hei?en kann. Was soll das nächsten Winter nur in Island werden?

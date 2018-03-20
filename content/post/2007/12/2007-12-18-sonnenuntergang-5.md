@@ -17,4 +17,4 @@ url: /2007/12/sonnenuntergang-5/
   </p>
 </div>
 
-Vom gleichen Strand wie <txp:permlink id="1464">der Fischer</txp:permlink>.
+Vom gleichen Strand wie <a href="1464">der Fischer</a>.

@@ -17,7 +17,7 @@ url: /2012/01/neues-geld-braucht-das-land/
   </p>
 </div>
 
-Am 18. Januar 2012 gibt die Thail&auml;ndische Staatsbank (<span class="caps">BOT</span>) eine neue 50Baht-Note heraus. Das Datum ist genau gew&auml;hlt, weil auf der R&uuml;ckseite (auf der Vorderseite ist wie immer K&ouml;nig Bhumibol abgebildet) K&ouml;nig Naresuan dargestellt ist und am 18. Januar &#8220;sein&#8221; Feiertag ist.
+Am 18. Januar 2012 gibt die Thail&auml;ndische Staatsbank (<span class="caps">BOT</span>) eine neue 50Baht-Note heraus. Das Datum ist genau gew&auml;hlt, weil auf der R&uuml;ckseite (auf der Vorderseite ist wie immer K&ouml;nig Bhumibol abgebildet) K&ouml;nig Naresuan dargestellt ist und am 18. Januar "sein" Feiertag ist.
 
 Auf die gleiche Art und Weise werden in den n&auml;chsten Jahren vermutlich die anderen neuen Banknoten herausgegeben, eine pro Jahr:
 

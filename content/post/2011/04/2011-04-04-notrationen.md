@@ -11,7 +11,7 @@ dsq_thread_id:
 
 
 ---
-Da die &#8220;Convenience Stores&#8221; der Insel erhebliche logistische Probleme haben, gab ich meinem Freund (der im Makro einkaufen gehen kann, unserem Inselgro?handel, der bereits am Freitag komplett neu ausgestattet wieder eröffnete) heute einen Tausend-Baht-Schein in die Hand (er hat es selbst angeboten) und hoffte auf das Beste.
+Da die "Convenience Stores" der Insel erhebliche logistische Probleme haben, gab ich meinem Freund (der im Makro einkaufen gehen kann, unserem Inselgro?handel, der bereits am Freitag komplett neu ausgestattet wieder eröffnete) heute einen Tausend-Baht-Schein in die Hand (er hat es selbst angeboten) und hoffte auf das Beste.
 
 Und hier eine Liste der Waren, die ein Thai einkauft, wenn ein dicklicher mittelalter Deutscher am Leben erhalten werden muss:
 
@@ -28,7 +28,7 @@ Und hier eine Liste der Waren, die ein Thai einkauft, wenn ein dicklicher mittel
   * einen gro&szlig;en Pack Scheibenk&auml;se
   * eine 2l-Flasche Ketchup
 
-und&#8230;
+und...
 
   * einen 500g-Plastik-Pack Senf
 

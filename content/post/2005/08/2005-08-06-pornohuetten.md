@@ -9,19 +9,19 @@ url: /2005/08/pornohuetten/
 
 
 ---
-(<txp:permlink id="101">Kleine Alien-Reminiszenz am Rande</txp:permlink>)
+(<a href="101">Kleine Alien-Reminiszenz am Rande</a>)
 
 Warnung: explizite Lyrik. Wirklich.
 
-Meine <txp:permlink id="293">aktuelle Behausung</txp:permlink> befindet sich inmitten verschiedener Pornohütten. Es ist ein kleines bisschen lustig. Hier wohnen einerseits Familien mit kleinen Kindern, die bis 23 Uhr rumschreien und die Hunde zum Bellen bringen und andererseits Sextouristen (ST) aus Italien und Deutschland, die dann ab 23 Uhr die Frauen von der Beachstreet verschämt an meiner Veranda vorbeiführen (Insomnia mal wieder. Ich lese immer vor der Hütte bis in den frühen Morgen).
+Meine <a href="293">aktuelle Behausung</a> befindet sich inmitten verschiedener Pornohütten. Es ist ein kleines bisschen lustig. Hier wohnen einerseits Familien mit kleinen Kindern, die bis 23 Uhr rumschreien und die Hunde zum Bellen bringen und andererseits Sextouristen (ST) aus Italien und Deutschland, die dann ab 23 Uhr die Frauen von der Beachstreet verschämt an meiner Veranda vorbeiführen (Insomnia mal wieder. Ich lese immer vor der Hütte bis in den frühen Morgen).
 
-Jedenfalls hatte in den vergangenen Nächten jede Hütte rings um meine Sex. Manchmal laut. Manchmal nur klopfend. Manchmal klatschend. Eigentlich meistens klatschend, wenn Thaifrauen involviert waren. So bekommt der Begriff &#8220;knallen&#8221;, den eine informierte Quelle neulich prägte, eine selbst mir verständliche Bedeutung. Muss eine interkulturelle Sache sein.
+Jedenfalls hatte in den vergangenen Nächten jede Hütte rings um meine Sex. Manchmal laut. Manchmal nur klopfend. Manchmal klatschend. Eigentlich meistens klatschend, wenn Thaifrauen involviert waren. So bekommt der Begriff "knallen", den eine informierte Quelle neulich prägte, eine selbst mir verständliche Bedeutung. Muss eine interkulturelle Sache sein.
 
 So ungefähr eine Stunde nach dem Eintritt in die jeweilige Hütte kommt die Thai dann meistens strauchelnd wieder raus und flaniert an meiner Veranda vorbei gen Moped. Nicht ohne mich vorher zu fragen, ob ich denn heute nicht ausgehen möchte. Möchte ich nicht. 
 
 ?berhaupt werde ich neuerdings häufiger von Thais (abseits der Beachstreat) angesprochen. Scheint sich rumgesprochen zu haben, dass ich wieder Single bin. Mal sehen.
 
-Heute morgen hörte ich durch meine gut isolierten Wände einen deutschdialektischen ST sich von seiner nächtlichen Thai verabschieden. Mit den folgenden Worten: &#8220;Ok. Bye then. Thank you. ?hm, my friend paid you?&#8221;
+Heute morgen hörte ich durch meine gut isolierten Wände einen deutschdialektischen ST sich von seiner nächtlichen Thai verabschieden. Mit den folgenden Worten: "Ok. Bye then. Thank you. ?hm, my friend paid you?"
 
 Und in der Hütte vor mir entspann sich gestern abend der folgende Dialog zwischen zwei deutschen Sextouristinnen (ja, solls auch geben): 
 

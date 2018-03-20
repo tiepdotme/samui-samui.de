@@ -13,7 +13,7 @@ url: /2007/07/parkplatz/
   <a href="http://www.flickr.com/photos/schreibblogade/950516648/" title="Something happens..."><img src="//farm2.static.flickr.com/1140/950516648_7a86303092.jpg" alt="Something happens..." /></a></p> 
   
   <p>
-    Something happens&#8230;
+    Something happens...
   </p>
 </div>
 
@@ -23,4 +23,4 @@ Entweder es ist eine Party (darauf deuten die gerösteten Gerüche und die Abwes
 
 Mal sehen, werd mal vorbei sehen gehen.
 
-PS: 18:30 Uhr und schon ist alles vorbei. Das war mal wieder sehr seltsam. Sehr sehr seltsam. Mal die Informanten ansetzen was da los war&#8230;
+PS: 18:30 Uhr und schon ist alles vorbei. Das war mal wieder sehr seltsam. Sehr sehr seltsam. Mal die Informanten ansetzen was da los war...

@@ -21,6 +21,6 @@ Weihnachten ist kein thailändischer Feiertag. Und das ist auch gut so. Vollmond
 
 Auch im Tesko waren diesmal nicht schon seit Mitte November weihnachtliche Zwangsgefühle angesagt, weil des Königs 80. Geburtstag am 5. Dezember anstand. Weiss-rot versteht sich nicht mit gold-gelb. Danke.
 
-Gestern war dann ein Feiertag, aber auch nur wegen der Wahlen. Nach den Anstrengungen des Kreuzelns muss man sich logischerweise ausruhen&#8230;
+Gestern war dann ein Feiertag, aber auch nur wegen der Wahlen. Nach den Anstrengungen des Kreuzelns muss man sich logischerweise ausruhen...
 
  [1]: http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake

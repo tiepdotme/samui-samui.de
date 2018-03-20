@@ -14,7 +14,7 @@ Seit gestern Abend brennt es auf dem Berg zwischen Maenam und Bophut, und zwar z
 
 Wie es zum Brand kam, kann man noch nicht so genau sagen. Die Spekulationen gehen aber dahin, dass da Brandrodung betrieben wurde. Andererseits kann es auch durchaus sein, dass eine ung&uuml;nstig als Abfall abgelegte Flasche in Verbindung mit ein wenig Sonneneinstrahlung und optischen Grundgesetzen das durch eine seit 8 Wochen anhaltende D&uuml;rre leicht entflammbare Laub entflammte(n?). 
 
-Erw&auml;hnte D&uuml;rre-Periode ist &uuml;brigens die l&auml;ngste und w&auml;rmste der vergangenen 65 Jahre. (Relationen, klar&#8230;)
+Erw&auml;hnte D&uuml;rre-Periode ist &uuml;brigens die l&auml;ngste und w&auml;rmste der vergangenen 65 Jahre. (Relationen, klar...)
 
 Hier noch ein Video (auf Thai) mit n&auml;chtlichem Brand.
 

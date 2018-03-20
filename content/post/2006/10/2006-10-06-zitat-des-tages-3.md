@@ -9,4 +9,4 @@ url: /2006/10/zitat-des-tages-3/
 
 
 ---
-&#8220;Wenn ich kein Familienblog sein w&ouml;llte h&auml;tte ich ein paar nette Photos&#8230;&#8221;
+"Wenn ich kein Familienblog sein w&ouml;llte h&auml;tte ich ein paar nette Photos..."

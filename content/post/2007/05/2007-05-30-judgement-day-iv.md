@@ -11,7 +11,7 @@ url: /2007/05/judgement-day-iv/
 ---
 Im Fernsehen werden gerade Anklage und Verteidigung für den Fall der Demokraten verlesen. Live auf allen Thai-Kanälen. Nur die Farangsender bringen das übliche Durcheinander.
 
-Gerüchteweise soll Thai Rak Thai (<span class="caps">TRT</span>) aufgelöst und die Demokraten &#8220;verschont&#8221; werden. Das würde den Nachfolgern von <span class="caps">TRT</span> viel Sympathiepunkte bei der nächsten Wahl einbringen. 
+Gerüchteweise soll Thai Rak Thai (<span class="caps">TRT</span>) aufgelöst und die Demokraten "verschont" werden. Das würde den Nachfolgern von <span class="caps">TRT</span> viel Sympathiepunkte bei der nächsten Wahl einbringen. 
 
 Das Ganze Spektakel kann man sich auch [im Livestream][1] ansehen, wenn man ein dickes Kabel hat.
 
@@ -19,7 +19,7 @@ Update 15:28: Dem Jubel nach zu urteilen werden die Demokraten nicht aufgelöst.
 
 Update 17:00: Nun sagen sie, dass die Demokratische Partei tatsächlich nicht des Wahlbetruges schuldig ist. Da kann man viel drüber reden und verlesen. Vier Stunden pro Verkündung, da kann man auf das TRT-Urteil dann um neun Abends hoffen.
 
-Update 17:45: Die Demokraten sind von allen Vorwürfen frei gesprochen worden und werden nicht aufgelöst. Es ist interessant, wieviel Gerede da drum gemacht wird. Jetzt haben alle Sender ihre greisen Analysten vor der Kamera sitzen die erzählen, dass das ja von vorneherein schon klar war und auch richtig ist und blablabla&#8230; Der Demokratenführer gibt auf Channel 11 gerade ein sehr selbstzufriedenes Interview. Ich bin gespannt, wie es <span class="caps">TRT</span> ergehen wird.
+Update 17:45: Die Demokraten sind von allen Vorwürfen frei gesprochen worden und werden nicht aufgelöst. Es ist interessant, wieviel Gerede da drum gemacht wird. Jetzt haben alle Sender ihre greisen Analysten vor der Kamera sitzen die erzählen, dass das ja von vorneherein schon klar war und auch richtig ist und blablabla... Der Demokratenführer gibt auf Channel 11 gerade ein sehr selbstzufriedenes Interview. Ich bin gespannt, wie es <span class="caps">TRT</span> ergehen wird.
 
 Update 17:50: Die Stra?enreporterinnen in Thailand sind allesamt ziemlich niedlich.
 
@@ -31,11 +31,11 @@ Update 22:55: Ach fast hätte ich es vergessen, die Progressive Demokratische Pa
 
 Update 23:10: Im [Blog des Editors von The Nation Online, Tulsathit Taptim, schreibt dieser][2]:
 
-> At certain points, the Tribunal sounded almost sympathetic with the <span class="caps">TRT</span> regarding the deadlock created by the major parties&#8217; boycott. But it&#8217;s delivering damning ruling on how such illegal activities simply meant trying to acquire parliamentary power, or power to govern the country, through a fraud.
+> At certain points, the Tribunal sounded almost sympathetic with the <span class="caps">TRT</span> regarding the deadlock created by the major parties' boycott. But it's delivering damning ruling on how such illegal activities simply meant trying to acquire parliamentary power, or power to govern the country, through a fraud.
 
 Sehr nett. <span class="caps">TRT</span> musste in manchen Gegenden Gegner bezahlen, dass diese antreten, um die 20% Regel (wenn eine Liste ohne Gegner antritt, muss sie mindestens 20% der Stimmen erhalten) zu umgehen.
 
-Update 23:15: Es hagelt gerade &#8220;guiltys&#8221; &#8211; <span class="caps">TRT</span> hat die Verfassung gebrochen, Wahlbetrug begangen, kleinere Parteien fürs Antreten bezahlt, die Nation beschädigt, unmoralisch gehandelt, Artikel 66 der Verfassung (ehm, welcher denn, der von 97 oder 06?) verletzt&#8230; und so weiter und so fort. Wir warten minütlich auf &#8220;is to be dissolved&#8221;. 
+Update 23:15: Es hagelt gerade "guiltys" --- <span class="caps">TRT</span> hat die Verfassung gebrochen, Wahlbetrug begangen, kleinere Parteien fürs Antreten bezahlt, die Nation beschädigt, unmoralisch gehandelt, Artikel 66 der Verfassung (ehm, welcher denn, der von 97 oder 06?) verletzt... und so weiter und so fort. Wir warten minütlich auf "is to be dissolved". 
 
 Update 23:20: Wow. Die haben grade echt gesagt, Thaksin hätte das Parlament vergangenen Frühling aus privaten Gründen (die Steuergeschichte rund um Shin Corp.) aufgelöst und nicht wegen politscher Probleme im Land. Das ist erstaunlicherweise das erste Mal, dass er heute erwähnt wird. Glaube ich. 
 

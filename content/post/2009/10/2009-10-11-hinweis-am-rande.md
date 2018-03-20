@@ -9,7 +9,7 @@ url: /2009/10/hinweis-am-rande/
 
 
 ---
-Man sieht die Kommentare auf diesen redaktionell missratenen Seiten wieder. Irgendwann zwischen (<span class="caps">ACHTUNG</span> <span class="caps">TECHTALK</span>!!!) Version 4.0.6 und Version 4.2.0 der besten Inhaltsverwaltungssoftware der Welt hat man begonnen, in Kommentaren so einfache Befehle wie &#8222;message&#8220; nicht mehr zu verstehen. &#8222;comment message&#8220; will man hören. 
+Man sieht die Kommentare auf diesen redaktionell missratenen Seiten wieder. Irgendwann zwischen (<span class="caps">ACHTUNG</span> <span class="caps">TECHTALK</span>!!!) Version 4.0.6 und Version 4.2.0 der besten Inhaltsverwaltungssoftware der Welt hat man begonnen, in Kommentaren so einfache Befehle wie "message" nicht mehr zu verstehen. "comment message" will man hören. 
 
 So sei es. Kannst du haben. Schnösel.
 

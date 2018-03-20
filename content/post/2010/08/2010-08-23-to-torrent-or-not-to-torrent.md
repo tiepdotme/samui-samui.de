@@ -11,13 +11,13 @@ url: /2010/08/to-torrent-or-not-to-torrent/
 ---
 Seit etwas über einer Woche wird (laut Expat-Foren, und Expat-Foren haben immer Recht) von Thailands Providern Bittorrent geblockt. Nun kann man also nicht mehr mit nur einem Bein im Knast stehen. Bittorrent ist bekannlicherma?en total illegal.
 
-Genausolang dümpelte mein nicht illegaler Openoffice.org-Download auch vor sich hin. 0.4 kB lie?en sich da pro Sekunde downloaden &#8211; 1 Jahr, 2 Wochen und ein paar Stunden sagte mein Programm mir solle ich warten, bis ich das Update installieren kann. Nun, ich bin geduldig.
+Genausolang dümpelte mein nicht illegaler Openoffice.org-Download auch vor sich hin. 0.4 kB lie?en sich da pro Sekunde downloaden --- 1 Jahr, 2 Wochen und ein paar Stunden sagte mein Programm mir solle ich warten, bis ich das Update installieren kann. Nun, ich bin geduldig.
 
 Die Blocker wohl auch, denn heute plötzlich saugt es ganz normal langsam schnell mit dreistelligen Kilobytes herunter. 
 
-Wikileaks soll ja auch geblockt sein &#8211; nur merkt man davon nichts, wenn man Direktlinks folgt. 
+Wikileaks soll ja auch geblockt sein --- nur merkt man davon nichts, wenn man Direktlinks folgt. 
 
-Nicht dass man mich falsch versteht, ich beschwer mich nicht. Ich sehe hier nur extrem gutes Marktpotential für Beraterfirmen. &#8222;Wie blocke ich (als <span class="caps">ISP</span>) Torrents (richtig)&#8220; oder &#8222;Wie blocke ich (als <span class="caps">ISP</span>) Webseiten (richtig)&#8220; und so weiter und so fort.
+Nicht dass man mich falsch versteht, ich beschwer mich nicht. Ich sehe hier nur extrem gutes Marktpotential für Beraterfirmen. "Wie blocke ich (als <span class="caps">ISP</span>) Torrents (richtig)" oder "Wie blocke ich (als <span class="caps">ISP</span>) Webseiten (richtig)" und so weiter und so fort.
 
 Mal angenommen ich wäre jetzt IT-Supporter und das bin ich wie bekannt ist nicht dann würde ich mir da jetzt meine Kontaktedatenbank genauer ankucken.
 

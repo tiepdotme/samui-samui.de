@@ -23,7 +23,7 @@ Dass man nur Bilder aus den sagen wir mal jüngeren Jahren der Königsfamilie au
 
 Wir Thais lieben unsere Königin. 
 
-Tja, und weil sie Geburtstag hat, stehen überall Plakate rum und wir haben einen Feiertag (und damit arbeitsfrei), um diesen Tag gehörig zu begehen. Es regnet das erste Mal diese Woche. Die Menschen im Isaan werden sicherlich noch Jahre sagen &#8220;Wisst ihr noch, Sirikits Geburtstag damals 2005? Das war der Tag als der Regen kam!&#8221; so wie sie sagen &#8220;Wisst ihr noch, im Juli 2005, als Yai diesen Farang mit brachte? Das war der Tag als der Regen kam!&#8221;. Regen im Isaan ist gut. Für Feld und Getier. Und die Menschen.
+Tja, und weil sie Geburtstag hat, stehen überall Plakate rum und wir haben einen Feiertag (und damit arbeitsfrei), um diesen Tag gehörig zu begehen. Es regnet das erste Mal diese Woche. Die Menschen im Isaan werden sicherlich noch Jahre sagen "Wisst ihr noch, Sirikits Geburtstag damals 2005? Das war der Tag als der Regen kam!" so wie sie sagen "Wisst ihr noch, im Juli 2005, als Yai diesen Farang mit brachte? Das war der Tag als der Regen kam!". Regen im Isaan ist gut. Für Feld und Getier. Und die Menschen.
 
 König und Königin haben sich übrigens in der Schweiz kennen gelernt. Aber das ist eine ganz andere Geschichte.
 

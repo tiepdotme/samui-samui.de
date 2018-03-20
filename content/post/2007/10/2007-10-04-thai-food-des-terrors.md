@@ -13,7 +13,7 @@ In London hat ein Thairestaurant neulich eine Anti-Terror-Gro?aktion ausgelöst.
 
 > Baffled chef Chalemchai Tangjariyapoon, who had been cooking a spicy dip, was amazed to find himself at the centre of the terror scare.
 > 
-> &#8220;We only cook it once a year &#8212; it&#8217;s a spicy dip with extra hot chillies that are deliberately burned,&#8221; he said.
+> "We only cook it once a year &#8212; it's a spicy dip with extra hot chillies that are deliberately burned," he said.
 
 Ich frag mich gerade was sie bei getrockneten Tintenfisch oder fermentierter Fischsuppe machen würden.
 

@@ -13,7 +13,7 @@ url: /2011/04/der-tag-danach/
   <a href="http://www.flickr.com/photos/schreibblogade/5580538061/" title="The day after - road works ahead"><img src="//farm6.static.flickr.com/5299/5580538061_c32145a614_z.jpg" width="640" height="480" alt="The day after - road works ahead" /></p> 
   
   <p>
-    The day after &#8211; road works ahead
+    The day after --- road works ahead
   </p>
   
   <p>
@@ -24,7 +24,7 @@ url: /2011/04/der-tag-danach/
     </p>
     
     <p>
-      Die Stra?en sind an vielen Stellen zerstört oder von Schlaglöchern übersät. Die vielen Erdrutsche in den Bergen sind erstaunlicherweise recht schnell behoben worden &#8211; bis auf den Steinbruch in Lamai. Dort drägelt sich der Verkehr &#8211; ohne Polizei oder Verkehrsregelung &#8211; auf einem Drittel der normalen Stra?enbreite durch die Landschaft.
+      Die Stra?en sind an vielen Stellen zerstört oder von Schlaglöchern übersät. Die vielen Erdrutsche in den Bergen sind erstaunlicherweise recht schnell behoben worden --- bis auf den Steinbruch in Lamai. Dort drägelt sich der Verkehr --- ohne Polizei oder Verkehrsregelung --- auf einem Drittel der normalen Stra?enbreite durch die Landschaft.
     </p>
     
     <p>

@@ -20,5 +20,5 @@ url: /2010/06/coming-soon/
     </a></div> 
     
     <p>
-      &#8230; im Sinne von lieber jetzt gleich aber wahrscheinlich eher übernächstes Wochenende&#8230; Der Grund für rund zwei Jahre eingeschränktes Bloggen ;)
+      ... im Sinne von lieber jetzt gleich aber wahrscheinlich eher übernächstes Wochenende... Der Grund für rund zwei Jahre eingeschränktes Bloggen ;)
     </p>

@@ -13,11 +13,11 @@ Gut. Also Thaksin Shinawatra, der Präsident des Profigolferverbands von Thailan
 
 > Be patient with the headache-inducing situation until July 2
 
-Also Putsch am 2. Juli. Das letzte Mal, <txp:permlink id="1560">als er einen Putsch vorher gesagt hat</txp:permlink>, hat ein Wahrsager in Chiang Mai die Sterne im Mai als passend angesehen&#8230; Mai.
+Also Putsch am 2. Juli. Das letzte Mal, <a href="1560">als er einen Putsch vorher gesagt hat</a>, hat ein Wahrsager in Chiang Mai die Sterne im Mai als passend angesehen... Mai.
 
 Wie schön, dass es nicht mehr strafbar ist, über diesen Mann zu lachen.
 
-?brigens will er Ronaldinho [für Manchester City einkaufen][2]&#8230;
+?brigens will er Ronaldinho [für Manchester City einkaufen][2]...
 
  [1]: http://www.telegraph.co.uk/news/newstopics/howaboutthat/2145141/Thaksin-Shinawatra-looks-to-planets-for-end-to-Thailand's-turmoil.html
  [2]: http://sportsillustrated.cnn.com/2008/soccer/06/16/bc.as.spt.soc.mancity.r.ap/

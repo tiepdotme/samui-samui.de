@@ -23,4 +23,4 @@ Jedenfalls gab es in den vergangenen Wochen mehrere Tick- und Bugattentate, die 
 
 Bereut haben wir es nicht. Zum einen haben wir nun klare Geschlechtsverhältnisse farblich durch Halstücher gekennzeichnet und niemand wird Pokki jemals wieder für ein Mädchen halten und zum Anderen sind die beiden so hyperaktiv wie lange nicht mehr. Den ganzen Morgen schon kommt Pokki mit Tennisball bewaffnet und lässt sich so schnell nicht weg schicken und selbst Soosie, die normalerweise gelangweilt auf der Veranda liegt und dem Verkehr auf der Ringroad zu schaut rennt hinter Pokki hinterher.
 
-Und zwei Monate keine Hundehaare zusammen kehren ist auch ganz nett&#8230;
+Und zwei Monate keine Hundehaare zusammen kehren ist auch ganz nett...

@@ -19,4 +19,4 @@ Nun, was wird der Mai bringen? Ich habe ihn zum Monat der Selbstexperimente erko
 
 Es gibt viel zu tun. Der Mai ist da.
 
-PS: 11 Jahre Grausinn. Ein Hoch auf, ähm, &#8230;
+PS: 11 Jahre Grausinn. Ein Hoch auf, ähm, ...

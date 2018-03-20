@@ -17,4 +17,4 @@ url: /2008/04/neue-kaeferart-entdeckt/
   </p>
 </div>
 
-Was <txp:permlink="1564">Thaiforscher k&ouml;nnen</txp:permlink>, kann ich schon lange. Dieser Geselle hier schwirrt seit gestern Abend in meiner kleinen Behausung herum. So lange Fühler wie der hat&#8230; das hat bestimmt noch niemand entdeckt&#8230; 5cm lang ist er&#8230;
+Was <txp:permlink="1564">Thaiforscher k&ouml;nnen</a>, kann ich schon lange. Dieser Geselle hier schwirrt seit gestern Abend in meiner kleinen Behausung herum. So lange Fühler wie der hat... das hat bestimmt noch niemand entdeckt... 5cm lang ist er...

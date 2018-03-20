@@ -11,12 +11,12 @@ dsq_thread_id:
 
 
 ---
-[Tatsächlich][1]. Ich habe das tote Internet wegen eines Erdbebens ja zuerst für einen Witz gehalten. Anscheinend sind aber jede Menge Tiefseekabel zerstört und man kommt nicht oder nur schleichend auf die Server in Taiwan, USA usw. &#8211; das soll rund drei Wochen anhalten. 
+[Tatsächlich][1]. Ich habe das tote Internet wegen eines Erdbebens ja zuerst für einen Witz gehalten. Anscheinend sind aber jede Menge Tiefseekabel zerstört und man kommt nicht oder nur schleichend auf die Server in Taiwan, USA usw. --- das soll rund drei Wochen anhalten. 
 
 Angeblich sollen die Leitungen nur verdünnt worden sein, ich bekomme mit meiner Handy-Modem-Leitung allerdings nur Time-Outs.
 
 Warum bittesehr gibt es in Zeiten da man allen möglichen Kram ins All schie?t immer noch Tiefseeleitungen die wenn sie von Monsterkraken zerfressen werden alles lahm legen? Und warum sind die meisten Seiten, die ich nutze in den USA gehostet? Das muss sich ändern! Und warum ist Google so super cool, super gross und super reich, hat aber nur Server in den USA?
 
-Ich sehe schon. Wird Zeit, dass ich wieder eine ordentliche Leitung bekomme.<txp:gho_footnote>Was eine Art Ank&uuml;ndigung ist&#8230;</txp:gho_footnote>
+Ich sehe schon. Wird Zeit, dass ich wieder eine ordentliche Leitung bekomme.<txp:gho_footnote>Was eine Art Ank&uuml;ndigung ist...</txp:gho_footnote>
 
  [1]: http://nationmultimedia.com/worldhotnews/read.php?newsid=30022655

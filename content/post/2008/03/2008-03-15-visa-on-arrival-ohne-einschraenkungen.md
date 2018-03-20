@@ -13,7 +13,7 @@ dsq_thread_id:
 ---
 Jawohl! Und wenn es dann in ein paar Tagen die Papierspatzen von den D&auml;chern pfeifen, dann sagt denen bitte, ihr h&auml;ttet es hier zuerst gelesen.
 
-Seit kurzem kann man wieder &#8220;unbegrenzt&#8221; mit _Visa on Arrival_ in Thailand einreisen. Das ist die 30-Tage-Aufenthaltsgenehmigung, die man als Europ&auml;er bei der Einreise in Thailand bekommt. Seit Oktober 2006 gab es eine Regelung, die nur 90 Tage in einem Zeitrahmen von 180 Tagen (und sp&auml;ter drei Einreisen auf Visa on Arrival pro sechs Monate) erlaubte. 
+Seit kurzem kann man wieder "unbegrenzt" mit _Visa on Arrival_ in Thailand einreisen. Das ist die 30-Tage-Aufenthaltsgenehmigung, die man als Europ&auml;er bei der Einreise in Thailand bekommt. Seit Oktober 2006 gab es eine Regelung, die nur 90 Tage in einem Zeitrahmen von 180 Tagen (und sp&auml;ter drei Einreisen auf Visa on Arrival pro sechs Monate) erlaubte. 
 
 Diese Regelung wurde nun au&szlig;er Kraft gesetzt und man kann wieder ungez&auml;hlt auf dieser Basis einreisen. 
 

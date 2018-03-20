@@ -20,7 +20,7 @@ url: /2010/10/der-nationale-tag-der-polizei/
     </a></div> 
     
     <p>
-      Das die Polizei in Thailand etwas übereifrig ist, wenn es darum geht, das Gesicht zu wahren oder gar die Popularität zu verbessern, habe ich schon <txp:permlink id="1346">das eine oder andere Mal</txp:permlink> angemerkt.
+      Das die Polizei in Thailand etwas übereifrig ist, wenn es darum geht, das Gesicht zu wahren oder gar die Popularität zu verbessern, habe ich schon <a href="1346">das eine oder andere Mal</a> angemerkt.
     </p>
     
     <p>
@@ -28,11 +28,11 @@ url: /2010/10/der-nationale-tag-der-polizei/
     </p>
     
     <p>
-      <strong>Aktion 1 &#8211; Neue Plastik-Polizisten</strong>
+      <strong>Aktion 1 --- Neue Plastik-Polizisten</strong>
     </p>
     
     <p>
-      Jeder, der schonmal in Thailand war, wird sie kennen &#8211; An Kreuzungen und unübersichtlichen Stellen im Strassenverkehr stehen Papp- (siehe Bild oben) und Plastik-Polizisten. Das soll den Bürgern ein gutes Gefuehl geben und die Fahrer zu Vorsicht mahnen. Die Psychologie dahinter ist wohl, dass man (wenn man das erste Mal vorbei kommt) nicht erkennen kann, ob da nun ein echter oder ein Papp-Polizist steht &#8211; und manch ein Thai hat noch Respekt vor den Gesetzeshütern.
+      Jeder, der schonmal in Thailand war, wird sie kennen --- An Kreuzungen und unübersichtlichen Stellen im Strassenverkehr stehen Papp- (siehe Bild oben) und Plastik-Polizisten. Das soll den Bürgern ein gutes Gefuehl geben und die Fahrer zu Vorsicht mahnen. Die Psychologie dahinter ist wohl, dass man (wenn man das erste Mal vorbei kommt) nicht erkennen kann, ob da nun ein echter oder ein Papp-Polizist steht --- und manch ein Thai hat noch Respekt vor den Gesetzeshütern.
     </p>
     
     <p>
@@ -44,11 +44,11 @@ url: /2010/10/der-nationale-tag-der-polizei/
     </p>
     
     <p>
-      Mechanisch winken sollen sie auch noch &#8211; also die Statuen, nicht die Stars.
+      Mechanisch winken sollen sie auch noch --- also die Statuen, nicht die Stars.
     </p>
     
     <p>
-      Laut den Verantwortlichen des Projektes braucht man eine Woche, um die Plastikpolizisten zu &#8222;designen&#8220; und weitere 10 Tage, um sie zu produzieren und aufzustellen. Klingt mir sehr nach einer sehr spontanen Idee und typisch thailändischer Projektplanung.
+      Laut den Verantwortlichen des Projektes braucht man eine Woche, um die Plastikpolizisten zu "designen" und weitere 10 Tage, um sie zu produzieren und aufzustellen. Klingt mir sehr nach einer sehr spontanen Idee und typisch thailändischer Projektplanung.
     </p>
     
     <p>
@@ -56,11 +56,11 @@ url: /2010/10/der-nationale-tag-der-polizei/
     </p>
     
     <p>
-      <strong>Aktion 2 &#8211; Der &#8222;No Traffic Tickets&#8220;-Tag:</strong>
+      <strong>Aktion 2 --- Der "No Traffic Tickets"-Tag:</strong>
     </p>
     
     <p>
-      Mittwoch war dann nicht nur der Tag der Polizisten, es war auch der &#8222;No Traffic Tickets&#8220;-Tag, an dem keine Strafzettel verteilt wurden. Verkehrssünder wurden nur verwarnt und Leute, die ausstehende Strafzettel bezahlten, erhielten wohl einen Nachlass oder mussten nur einen Mindestbetrag zahlen.
+      Mittwoch war dann nicht nur der Tag der Polizisten, es war auch der "No Traffic Tickets"-Tag, an dem keine Strafzettel verteilt wurden. Verkehrssünder wurden nur verwarnt und Leute, die ausstehende Strafzettel bezahlten, erhielten wohl einen Nachlass oder mussten nur einen Mindestbetrag zahlen.
     </p>
     
     <p>
@@ -68,7 +68,7 @@ url: /2010/10/der-nationale-tag-der-polizei/
     </p>
     
     <p>
-      <strong>Aktion 3 &#8211; Die Leute, die den Kopf lieben</strong>
+      <strong>Aktion 3 --- Die Leute, die den Kopf lieben</strong>
     </p>
     
     <p>

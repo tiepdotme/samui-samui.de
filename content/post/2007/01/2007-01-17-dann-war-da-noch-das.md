@@ -9,4 +9,4 @@ url: /2007/01/dann-war-da-noch-das/
 
 
 ---
-Ich bin übrigens wieder &#8220;da&#8221; (seit gut drei Stunden). In meinem Januar-Heim. Also nicht zuhause aber so halb. Bericht folgt. Ich versuche das diesmal ein bisschen angenehmer lesbar aufzuarbeiten. Gebt mir eine Woche.
+Ich bin übrigens wieder "da" (seit gut drei Stunden). In meinem Januar-Heim. Also nicht zuhause aber so halb. Bericht folgt. Ich versuche das diesmal ein bisschen angenehmer lesbar aufzuarbeiten. Gebt mir eine Woche.

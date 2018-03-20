@@ -9,7 +9,7 @@ url: /2006/09/naechtliche-kommentare/
 
 
 ---
-Wenn man ein &#8220;Weblog&#8221; hat und Eintr&auml;ge schreibt, muss man damit leben, dass bei eingeschalter Kommentarfunktion auch Kommentare eingehen. In der die schreiBBloga.de sind das in der Regel Hundeliebhaber, die kommentieren ;) Ich habe durch die Kommentare und [Kontaktformularemails][1] in den vergangenen 20 Monaten viele sehr nette Menschen kennen gelernt. 
+Wenn man ein "Weblog" hat und Eintr&auml;ge schreibt, muss man damit leben, dass bei eingeschalter Kommentarfunktion auch Kommentare eingehen. In der die schreiBBloga.de sind das in der Regel Hundeliebhaber, die kommentieren ;) Ich habe durch die Kommentare und [Kontaktformularemails][1] in den vergangenen 20 Monaten viele sehr nette Menschen kennen gelernt. 
 
 Manchmal allerdings gibt es hier Kommentare die tief in die verbale Klosch&ouml;ssel gegriffen sind, spammen oder mich kritisieren. Da gehe ich meistens sehr pragmatisch vor (glaube ich).
 

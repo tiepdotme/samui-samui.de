@@ -23,13 +23,13 @@ Jo, da haben wir mal ein Thema wo ich die deutschen Begriffe nachschlagen musste
   <cite title="Quelle: de.wikipedia.org">Weiterlesen auf <a href="https://de.wikipedia.org/wiki/Portugiesische_Galeere">de.wikipedia.org</a></cite></footer>
 </blockquote>
 
-Jedes Jahr kommt es hier auf der Insel zu Verletzungen und (vergangenes Jahr sogar zu) Toten durch verschiedene Quallenarten, die nicht unbedingt als gesund eingestuft werden können. Die _Portugiesische Gallere_ oder &#8222;Man&#8217;o&#8217;war&#8220; ist ein Beispiel.
+Jedes Jahr kommt es hier auf der Insel zu Verletzungen und (vergangenes Jahr sogar zu) Toten durch verschiedene Quallenarten, die nicht unbedingt als gesund eingestuft werden können. Die _Portugiesische Gallere_ oder "Man'o'war" ist ein Beispiel.
 
 Das sind Quallen mit sehr langen Tentakeln, die giftige Stoffe absondern, welche recht schnell zum Herzstillstand führen können.
 
 Dieses Jahr nun hat man auf der Insel beschlossen, etwas anderes, als nur die altbekannten roten Flaggen einzusetzen. Die Flaggen nämlich haben wenig Wirkung gezeigt, weil Touristen nun mal im Urlaub ins Wasser gehen müssen und Warnsysteme keine große Bedeutung für sie haben und (wirklich?) die Krankenversicherung sich eh um alle Probleme k&uuml;mmert.
 
-Um Touristen und andere Freunde des Wassersports nun vor diesen Quallen zu sch&uuml;tzen, wird man Netze an den Str&auml;nden auslegen. Auf der L&auml;nge von gut 100 Metern und bis in 7 Metern Tiefe sollen f&uuml;r mindestens 4 Monate nun Netze an der K&uuml;ste von Lamai h&auml;ngen, welche die Quallen im Abstand halten sollen. [Aller 2 Wochen will man pr&uuml;fen][1], ob die Netze noch ganz sind. Nun ja&#8230; Mal sehen ob das was bringt.
+Um Touristen und andere Freunde des Wassersports nun vor diesen Quallen zu sch&uuml;tzen, wird man Netze an den Str&auml;nden auslegen. Auf der L&auml;nge von gut 100 Metern und bis in 7 Metern Tiefe sollen f&uuml;r mindestens 4 Monate nun Netze an der K&uuml;ste von Lamai h&auml;ngen, welche die Quallen im Abstand halten sollen. [Aller 2 Wochen will man pr&uuml;fen][1], ob die Netze noch ganz sind. Nun ja... Mal sehen ob das was bringt.
 
 [Ein interessantes Video von National Geographic &uuml;ber die Portugiesische Gallere kann man hier betrachten][2]. B&ouml;sartige Viecher!
 

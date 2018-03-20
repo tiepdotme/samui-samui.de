@@ -15,7 +15,7 @@ Die Frage, die täglich 3 meiner Leser beschäftigt (es lebe Google Analytics), 
 
 [Thaksin ist in Moskau][1].
 
-[Dort wurde ihm der Pass geklaut und er muss nun einen neuen beantragen][2]. Mal sehen ob er einen bekommt, hehe&#8230; Interessant dabei finde ich, dass der bei einem McDonalds-Besuch geklaute Koffer Bargeld, eine Kamera und den Pass &#8220;enthalten&#8221; haben soll &#8211; im Gesamtwert von <txp:gho_baht value="1.200.000"/>. Das sind runde 27241,77?. Viel Geld für eine kleine Stippvisite zur Entgegennahme eines &#8220;wissenschaftlichen&#8221; Titels.
+[Dort wurde ihm der Pass geklaut und er muss nun einen neuen beantragen][2]. Mal sehen ob er einen bekommt, hehe... Interessant dabei finde ich, dass der bei einem McDonalds-Besuch geklaute Koffer Bargeld, eine Kamera und den Pass "enthalten" haben soll --- im Gesamtwert von 1.200.000 THB. Das sind runde 27241,77?. Viel Geld für eine kleine Stippvisite zur Entgegennahme eines "wissenschaftlichen" Titels.
 
 Ich mag Russland neuerdings. Vielleicht lohnen sich ja irgendwann die 6 Jahre erzwungenen Russisch-Unterrichts doch noch.
 

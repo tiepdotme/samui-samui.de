@@ -13,7 +13,7 @@ dsq_thread_id:
 ---
 **Szene:**
   
-Solo-Club. Dancefloor hinten links. Flackernde Lichter, 160bpm mit ?bergängen aus Leftfield- und Faithless-Zitaten zwischen Default-Technoklängen. 4 Uhr morgens. Pat steht an einem Stehtisch, eine Flasche Bier in der Hand und beobachtet den Praktikanten, der eine eigenwillige Interpretation von Travoltas Luftpiecker hinlegt und sich einer aufdringlichen jungen Dame aus dem Isaan eher halbherzig zu erwehren versucht. Ein magerer junger relativ sehr unhübscher Mann südostasiatischer Herkunft mit einem Schnauzbart der wie eine beginnende Glatze aussieht tritt heran&#8230;
+Solo-Club. Dancefloor hinten links. Flackernde Lichter, 160bpm mit ?bergängen aus Leftfield- und Faithless-Zitaten zwischen Default-Technoklängen. 4 Uhr morgens. Pat steht an einem Stehtisch, eine Flasche Bier in der Hand und beobachtet den Praktikanten, der eine eigenwillige Interpretation von Travoltas Luftpiecker hinlegt und sich einer aufdringlichen jungen Dame aus dem Isaan eher halbherzig zu erwehren versucht. Ein magerer junger relativ sehr unhübscher Mann südostasiatischer Herkunft mit einem Schnauzbart der wie eine beginnende Glatze aussieht tritt heran...
 
 **Sak:** Hello, how are yuu?
   
@@ -31,7 +31,7 @@ Solo-Club. Dancefloor hinten links. Flackernde Lichter, 160bpm mit ?bergängen a
   
 **Pat:** Ehm, Phukk?
   
-**Sak:** Noooo. Haha. Sak, look (entblö?t seinen Unterarm und zeigt ein Tattoo das in Frakturbuchstaben seinen Namen &#8211; &#8220;<span class="caps">SAK</span>&#8221; &#8211; enthüllt &#8211; das nenne ich mal Kundenservice).
+**Sak:** Noooo. Haha. Sak, look (entblö?t seinen Unterarm und zeigt ein Tattoo das in Frakturbuchstaben seinen Namen --- "<span class="caps">SAK</span>" --- enthüllt --- das nenne ich mal Kundenservice).
   
 **Ich:** Aaaah. Sak. I see.
   

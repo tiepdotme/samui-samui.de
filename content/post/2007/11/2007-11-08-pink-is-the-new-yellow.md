@@ -13,7 +13,7 @@ Gestern wurde König Bhumibol nach längerer Krankheit aus dem Krankenhaus entla
 
 Ein Zeichen für die Thais, dass Halbgötter nicht unsterblich sind, wurde allemal gesetzt.
 
-[Bei seiner Entlassung trug er Pink][1]. Ich meinte im Office vorhin &#8220;Ojeh, pink&#8221; und bekam vom einzigen deutschsprechenden Thai als Antwort &#8220;Wieso, ist doch in derzeit&#8221; zu hören.
+[Bei seiner Entlassung trug er Pink][1]. Ich meinte im Office vorhin "Ojeh, pink" und bekam vom einzigen deutschsprechenden Thai als Antwort "Wieso, ist doch in derzeit" zu hören.
 
 Die einschlägigen Gelbe-Hemden-Händler der Insel fangen schon an, auf Pink umzustellen.
 

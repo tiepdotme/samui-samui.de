@@ -9,7 +9,7 @@ url: /2011/10/wasser-in-massen-ii/
 
 
 ---
-Vor ein paar Tagen hat die Regierung &#8220;beschlossen&#8221;, Bangkok &#8220;fluten zu lassen&#8221;. So martialisch das klingt &#8211; es hat mal wieder politische Gr&uuml;nde. Irgendein Berater hat unserer Prime Ministress schonend beigebracht, dass es seltsam aussieht, wenn man sich nur um die Bangkoker Bev&ouml;lkerung sorgt und andere Landesteile derweil k&uuml;nstlich unter Wasser gesetzt werden, nur damit Bangkok trocken bleibt. Und so steigt das Wasser nun auch in Bangkok unter der Massgabe &#8220;Bangkok muss einen Teil der Fluten mit tragen&#8221;. 
+Vor ein paar Tagen hat die Regierung "beschlossen", Bangkok "fluten zu lassen". So martialisch das klingt --- es hat mal wieder politische Gr&uuml;nde. Irgendein Berater hat unserer Prime Ministress schonend beigebracht, dass es seltsam aussieht, wenn man sich nur um die Bangkoker Bev&ouml;lkerung sorgt und andere Landesteile derweil k&uuml;nstlich unter Wasser gesetzt werden, nur damit Bangkok trocken bleibt. Und so steigt das Wasser nun auch in Bangkok unter der Massgabe "Bangkok muss einen Teil der Fluten mit tragen". 
 
 Den aktuellen Wasserstand kann man im [Thailand Flood Monitoring System][1] betrachten (nur auf Thai) oder bei [Google][2] (gr&ouml;&szlig;tenteils auf Thai).
 

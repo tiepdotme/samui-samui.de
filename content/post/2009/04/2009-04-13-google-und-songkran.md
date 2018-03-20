@@ -11,4 +11,4 @@ url: /2009/04/google-und-songkran/
 ---
 {{< figure src="/wp-content/old-images/264" wraptag="div.jpg" >}}
 
-Google hat auch dieses Jahr <txp:permlink id="1563">wieder</txp:permlink> ein Songkran-Doodle.
+Google hat auch dieses Jahr <a href="1563">wieder</a> ein Songkran-Doodle.

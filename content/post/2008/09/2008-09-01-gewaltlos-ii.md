@@ -9,7 +9,7 @@ url: /2008/09/gewaltlos-ii/
 
 
 ---
-Auf allen Thaikanälen sieht man derzeit Live-Bilder von <span class="caps">PAD</span>-&#8222;Demonstranten&#8220;, die friedfertig mit Eisenstangen und Elektroschockern auf Gegendemonstranten ein-&#8222;wirken&#8220;. Würde mich nicht wundern, wenn wir morgen früh mit einer Armee-Regierung aufwachen.
+Auf allen Thaikanälen sieht man derzeit Live-Bilder von <span class="caps">PAD</span>-"Demonstranten", die friedfertig mit Eisenstangen und Elektroschockern auf Gegendemonstranten ein-"wirken". Würde mich nicht wundern, wenn wir morgen früh mit einer Armee-Regierung aufwachen.
 
 Vor gut einer Stunde begannen regierungsfreundliche Demonstranten, in Richtung des von <span class="caps">PAD</span>-Demonstranten besetzten Regierungsgeb&auml;udes [zu ziehen][1].
 

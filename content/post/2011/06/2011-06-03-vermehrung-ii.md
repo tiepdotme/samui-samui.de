@@ -17,4 +17,4 @@ url: /2011/06/vermehrung-ii/
   </p>
 </div>
 
-Inzwischen ist <txp:permlink id="1995">meine kleine Orchidee</txp:permlink> ausgewachsen und zufrieden. Eine zweite Pflanze hat etwas violetter zu bl&uuml;hen begonnen und hier und da kommen weitere Rispen. K&ouml;nnte sich glatt zu einem Hobby entwickeln&#8230;
+Inzwischen ist <a href="1995">meine kleine Orchidee</a> ausgewachsen und zufrieden. Eine zweite Pflanze hat etwas violetter zu bl&uuml;hen begonnen und hier und da kommen weitere Rispen. K&ouml;nnte sich glatt zu einem Hobby entwickeln...

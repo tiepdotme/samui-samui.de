@@ -11,9 +11,9 @@ url: /2005/12/glatte-welle/
 ---
 Im letzten Eintrag gabs einen [Kommentar][1] von [Dee][2] zu den glatten Haaren der Thais. Dazu m&ouml;chte der Autor Folgendes bemerken. 
 
-Die Thais haben oft gewellte Haare und geben Unmengen aus um die Haare glatt zu bekommen. Ich bekam am Wochenende einen Blick aus schmalen Augen zugeworfen mit der Bemerkung: &#8220;Maybe you need something to put in you hair to get it straight.&#8221; Ich hab dann zur&uuml;ckgefragt &#8220;H&auml;h?&#8221; und ein &#8220;ehm nothing&#8221; zu h&ouml;ren bekommen.
+Die Thais haben oft gewellte Haare und geben Unmengen aus um die Haare glatt zu bekommen. Ich bekam am Wochenende einen Blick aus schmalen Augen zugeworfen mit der Bemerkung: "Maybe you need something to put in you hair to get it straight." Ich hab dann zur&uuml;ckgefragt "H&auml;h?" und ein "ehm nothing" zu h&ouml;ren bekommen.
 
-&#8220;Sure you look like your mother&#8221; war noch einer der besseren Kommentare ;) Grunds&auml;tzlich stehen sie schon auf glatt. Was sie nicht am Fummeln hindert. Die Thais.
+"Sure you look like your mother" war noch einer der besseren Kommentare ;) Grunds&auml;tzlich stehen sie schon auf glatt. Was sie nicht am Fummeln hindert. Die Thais.
 
 **Die Ingenieurserkl&auml;rung meiner Locken**
 

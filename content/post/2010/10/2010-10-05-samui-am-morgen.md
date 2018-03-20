@@ -20,5 +20,5 @@ url: /2010/10/samui-am-morgen/
     </a></div> 
     
     <p>
-      Neulich durfte ich mal wieder einen Visarun unternehmen. Viele Stunden thailändischen Stra?enverkehrs, ein paar Minuten Borderhopping und zwei Fährfahrten ohne Untergang. Dafür scheint es auf der Insel (siehe Photo) ein wenig geregnet zu haben&#8230;
+      Neulich durfte ich mal wieder einen Visarun unternehmen. Viele Stunden thailändischen Stra?enverkehrs, ein paar Minuten Borderhopping und zwei Fährfahrten ohne Untergang. Dafür scheint es auf der Insel (siehe Photo) ein wenig geregnet zu haben...
     </p>

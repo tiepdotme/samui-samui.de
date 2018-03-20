@@ -9,4 +9,4 @@ url: /2010/03/blutvergiessen/
 
 
 ---
-Das gibts nur in Thailand: In Bangkok kam es heute zum Blutvergie?en. Die Protestanten &#8222;spendeten&#8220; Blut, das anschlie?end vor den Toren des Parlaments vergossen wurde. Ein Brahmane hat das Ganze dann noch mit einem Fluch belegt.
+Das gibts nur in Thailand: In Bangkok kam es heute zum Blutvergie?en. Die Protestanten "spendeten" Blut, das anschlie?end vor den Toren des Parlaments vergossen wurde. Ein Brahmane hat das Ganze dann noch mit einem Fluch belegt.

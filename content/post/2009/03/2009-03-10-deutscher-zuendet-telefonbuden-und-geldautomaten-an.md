@@ -21,6 +21,6 @@ Seine ganz persönliche Thailand-Geschichte ist in zwei Sätzen erzählt:
 
 > Mr Becker, 64, said he entered Thailand on Oct 5 last year. He met a Thai woman in Pattaya and she left him financially destitute.
 
-Die Frau hat er noch nicht angezündet&#8230;
+Die Frau hat er noch nicht angezündet...
 
  [1]: http://www.bangkokpost.com/breakingnews/137213/german-arsonist-arrested

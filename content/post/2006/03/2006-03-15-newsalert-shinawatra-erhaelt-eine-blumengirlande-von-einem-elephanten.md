@@ -13,9 +13,9 @@ url: /2006/03/newsalert-shinawatra-erhaelt-eine-blumengirlande-von-einem-elephan
   
 
 
-> Thailand&#8217;s Prime Minister Thaksin Shinawatra receives garlands of flowers from an elephant in Surin province, about 430 km (267 miles) east of Bangkok March 14, 2006. [via [Reuters][1]]
+> Thailand's Prime Minister Thaksin Shinawatra receives garlands of flowers from an elephant in Surin province, about 430 km (267 miles) east of Bangkok March 14, 2006. [via [Reuters][1]]
 
-Derweil protestieren in Bangkok Zehntausende (100.000 sagt Reuters, das stimmt aber nicht ganz). Thaksin macht Wahlkampf auf dem Land, wo &#8220;seine&#8221; W&auml;hler leben (und das sind viele). Die &#8220;Opposition&#8221; boykottiert die Neuwahlen und demonstriert. [Werden die Demonstrationen gewaltsam wird <del>das Kriegsrecht</del> der Ausnahmezustand verh&auml;ngt][2].
+Derweil protestieren in Bangkok Zehntausende (100.000 sagt Reuters, das stimmt aber nicht ganz). Thaksin macht Wahlkampf auf dem Land, wo "seine" W&auml;hler leben (und das sind viele). Die "Opposition" boykottiert die Neuwahlen und demonstriert. [Werden die Demonstrationen gewaltsam wird <del>das Kriegsrecht</del> der Ausnahmezustand verh&auml;ngt][2].
 
 Im Radio wurde eine Ansprache des K&ouml;nigs abgespielt, die dieser bei den blutigen Aufst&auml;nden 1992 gehalten hat. F&uuml;r die einen ein Zeichen es mal mit Dialog zu versuchen, f&uuml;r die anderen ein Zeichen, dass es bereits zu sp&auml;t ist.
 

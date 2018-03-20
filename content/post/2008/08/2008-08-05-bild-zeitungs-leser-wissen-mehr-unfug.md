@@ -9,7 +9,7 @@ url: /2008/08/bild-zeitungs-leser-wissen-mehr-unfug/
 
 
 ---
-Bei [Bild Online][1] kann der geneigte Leser heute einen Beitrag über den &#8222;Inkognito&#8220;-Besuch des thailändischen Kronprinzen in Deutschland lesen.
+Bei [Bild Online][1] kann der geneigte Leser heute einen Beitrag über den "Inkognito"-Besuch des thailändischen Kronprinzen in Deutschland lesen.
 
 Toller Titel:
 
@@ -17,7 +17,7 @@ Toller Titel:
 
 Da fehlen mindestens drei Ausrufezeichen. Im Text wird einmal quer durch das Abendmahl des Prinzen gegangen und die Autoren fragen sich (natürlich gerechtfertigt im Auftrag des unwissenden Lesers der Unterschichtengazette), was der Mann da so in Deutschland macht (Flugzeug fliegen, schlie?lich ist er Luftwaffen-Pilot und noch nicht König) und warum er seinen Chauffeur durch die City chauffiert (Stra?enqualität und Rechtsverkehr).
 
-Viel interessanter ist die Frage, warum die gelehrten Autoren der spannenden Reportage nicht darauf eingehen, die wievielte Ehefrau&#8230; hupps&#8230; nein&#8230; ich wollte [doch][2]&#8230;
+Viel interessanter ist die Frage, warum die gelehrten Autoren der spannenden Reportage nicht darauf eingehen, die wievielte Ehefrau... hupps... nein... ich wollte [doch][2]...
 
 PS: Prinz Maha, wie er so schelmisch bei Bild genannt wird, hei?t im wahren Leben Maha Vajiralongkorn und ihn nur Prinz Maha zu nennen dürfte mit Sexverbot beim nächsten Urlaub der Autoren in Pattaya bestraft werden.
 

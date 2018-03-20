@@ -9,11 +9,11 @@ url: /2007/08/city-manchester/
 
 
 ---
-Thaksin, der Shinawatra, der Präsident des Thailändischen Profigolfervereins hat mal wieder [eine Party geschmissen][1] und dafür [jede Menge Briten und ein paar Thais][2] eingeladen. Mit Musik, einem Freundschaftsspiel, das Manchester City 1:0 verloren hat und &#8220;We want Thaksin back&#8221;-T-Shirts. 
+Thaksin, der Shinawatra, der Präsident des Thailändischen Profigolfervereins hat mal wieder [eine Party geschmissen][1] und dafür [jede Menge Briten und ein paar Thais][2] eingeladen. Mit Musik, einem Freundschaftsspiel, das Manchester City 1:0 verloren hat und "We want Thaksin back"-T-Shirts. 
 
 Und dann hat er [was gesagt][3]. Unpolitisch natürlich denn er hat sich ja (offiziell, man verzeihe mir diesen unoffiziellen Zusatz) aus dem Politikgeschäft zurück gezogen:
 
-> The majority of Thai voters support me and I&#8217;m certain that I could win a free and fair election again. My involvement with Manchester City will show that I don&#8217;t only have the support of the majority of Thais but also from people in England.
+> The majority of Thai voters support me and I'm certain that I could win a free and fair election again. My involvement with Manchester City will show that I don't only have the support of the majority of Thais but also from people in England.
 
 Demnächst kauft er noch den Zwickauer FC auf (gibts den noch?), damit die Deutschen ihn (Thaksin) auch unterstützen. 
 

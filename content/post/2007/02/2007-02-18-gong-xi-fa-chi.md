@@ -17,4 +17,4 @@ url: /2007/02/gong-xi-fa-chi/
   </p>
 </div>
 
-Das Jahr des goldenen Schweins beginnt. Kann gar nicht besser gehen&#8230;
+Das Jahr des goldenen Schweins beginnt. Kann gar nicht besser gehen...

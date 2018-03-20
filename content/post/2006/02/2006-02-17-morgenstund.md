@@ -17,6 +17,6 @@ url: /2006/02/morgenstund/
   </p>
 </div>
 
-Heute bin ich mal &#8220;etwas fr&uuml;her&#8221; auf Arbeit gefahren, weil ich eine bestimmte Sonnenaufgangsthese &uuml;berpr&uuml;fen wollte. 
+Heute bin ich mal "etwas fr&uuml;her" auf Arbeit gefahren, weil ich eine bestimmte Sonnenaufgangsthese &uuml;berpr&uuml;fen wollte. 
 
 Hat alles geklappt (berichte sp&auml;ter) bis auf die Tatsache, dass mein Vorderreifen wieder keine Luft hat. Das ist das 5. Mal in drei Monaten. Ab wievielen Malen darf ich mich beschweren?

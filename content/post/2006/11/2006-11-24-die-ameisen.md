@@ -19,4 +19,4 @@ url: /2006/11/die-ameisen/
 
 Diesmal zwei Ameisen die eine Biene abschleppen. Hehehehe. 
 
-PS: Jaja, ich weiss&#8230;
+PS: Jaja, ich weiss...

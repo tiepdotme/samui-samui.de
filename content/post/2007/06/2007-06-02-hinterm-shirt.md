@@ -21,12 +21,12 @@ Die Geschichte hinter dem Shirt (aufs Bild klicken und bei flickr.com nach links
 
 Und so kam es, dass sich nun auf dem Kleiderschrank im Schlafzimmer eine Reisetasche voller Klamotten befindet, die mir alle zu klein sind. Zurückbringen war keine Option, wer wälzt sich schon fett ins Geschäft und gibt zu, dass man seine Ausma?e falsch bewertet hat.
 
-Neulich nun fand ich Photos aus dem Jahre 2004. Mit mir drauf. Und dann glaubte sogar ich, dass ich &#8220;etwas&#8221; abgenommen hätte. Vergangenes Wochenende habe ich also mal die Reisetasche entstaubt und Klamotten getestet. Und siehe da, einige passen. Nicht alle, man muss ja noch ein Ziel vor Augen haben. 
+Neulich nun fand ich Photos aus dem Jahre 2004. Mit mir drauf. Und dann glaubte sogar ich, dass ich "etwas" abgenommen hätte. Vergangenes Wochenende habe ich also mal die Reisetasche entstaubt und Klamotten getestet. Und siehe da, einige passen. Nicht alle, man muss ja noch ein Ziel vor Augen haben. 
 
 Dieses Shirt beispielsweise war der pure Horror. Man kriecht da ja von unten rein und als ich das vor zwei Jahren versuchte, blieb ich hängen (bzw. das Shirt um meine Schultern) und ich kam nicht mehr raus. Ich glaube das waren 5 Minuten bis ich mit Knacken und Krachen im Stoff und den Knochen wieder befreit auf dem Bett lag. 
 
-Wie auch immer. Nur so am Rande. Für euch Fettsäcke da draussen! So. Und jetzt erstmal ein paar Würstchen in die Pfanne hauen&#8230;
+Wie auch immer. Nur so am Rande. Für euch Fettsäcke da draussen! So. Und jetzt erstmal ein paar Würstchen in die Pfanne hauen...
 
 PS: Und Kontaktlinsen trage ich seit heute auch wieder. Ich muss da ein paar Autorenphotos schie?en und halbwegs interessant aussehen. Verwirrung der Massen.
 
-PPS: Mist, da hab ich den ganzen Tag so einen Spruch vorformuliert und dann doch vergessen, ihn hinzuschreiben. Irgendwas mit &#8220;stolzgeschwellter Brust die den Bauch weniger auslandend aussehen l&auml;sst&#8221;&#8230;
+PPS: Mist, da hab ich den ganzen Tag so einen Spruch vorformuliert und dann doch vergessen, ihn hinzuschreiben. Irgendwas mit "stolzgeschwellter Brust die den Bauch weniger auslandend aussehen l&auml;sst"...

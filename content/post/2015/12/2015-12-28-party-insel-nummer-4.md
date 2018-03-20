@@ -20,4 +20,4 @@ Sie schreiben:
 
 Dass in der Liste von 10 Inseln allein 4 thailändische Inseln vertreten sind (Samui davon mit der besten Position, natürlich) spricht für sich selbst.
 
-Seltsam nur, dass Koh Tao nicht (mehr) auftaucht. Oder auch nicht, abhängig davon, welchen News man folgt&#8230;
+Seltsam nur, dass Koh Tao nicht (mehr) auftaucht. Oder auch nicht, abhängig davon, welchen News man folgt...

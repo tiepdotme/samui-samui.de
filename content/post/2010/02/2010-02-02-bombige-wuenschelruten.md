@@ -17,8 +17,8 @@ W&auml;re nicht weiter bemerkenswert, wenn die vergangenen zwei Wochen im Thai-T
 
 Der Detektorteil besteht bspw. aus [zwei Papierstreifen im Kreditkartenformat, die aneinandergeklebt sind][1]. 
 
-F&uuml;hlt man sich bei Fahrten in den S&uuml;den Thailands doch viel sicherer&#8230;
+F&uuml;hlt man sich bei Fahrten in den S&uuml;den Thailands doch viel sicherer...
 
-PS: Im <span class="caps">BBC</span>-Artikel kommt zum Ende Stephen Fry zu Wort, der die Dinger in Kenja in Verwendung sah &#8211; als Elfenbein-Detektoren.
+PS: Im <span class="caps">BBC</span>-Artikel kommt zum Ende Stephen Fry zu Wort, der die Dinger in Kenja in Verwendung sah --- als Elfenbein-Detektoren.
 
  [1]: http://www.nationmultimedia.com/news/30121663/PM-assigns-Science-Ministry-to-test-GT200-bomb-det

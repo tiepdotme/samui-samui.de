@@ -9,7 +9,7 @@ url: /2007/06/der-ball-rollt/
 
 
 ---
-Wie es aussieht, hat Thaksin den Zuschlag bekommen und darf nun endlich einen Fu?ballclub der Premier League sein Eigen nennen. [Manchester City][1]. Jetzt muss er nur noch den Premier-League &#8220;Right and Proper Persons Test&#8221; bestehen. Hehehe&#8230; 
+Wie es aussieht, hat Thaksin den Zuschlag bekommen und darf nun endlich einen Fu?ballclub der Premier League sein Eigen nennen. [Manchester City][1]. Jetzt muss er nur noch den Premier-League "Right and Proper Persons Test" bestehen. Hehehe... 
 
 Update: [81,6 Millionen Pfund][2] hat er geboten.
 

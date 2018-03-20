@@ -17,4 +17,4 @@ url: /2008/06/berlin-der-flughafen-mit-dem-t-am-anfang/
   </p>
 </div>
 
-Es war kalt. Es war Mai. Und es war der Flughafen mit dem T im Namen. In Berlin&#8230;
+Es war kalt. Es war Mai. Und es war der Flughafen mit dem T im Namen. In Berlin...

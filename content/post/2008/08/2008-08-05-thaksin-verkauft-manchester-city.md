@@ -19,6 +19,6 @@ Ich persönlich denke ja eher, dass es etwas mit dem drohenden Gesichtsverlust z
 
 Aber wie auch immer, er will ja gar nicht verkaufen, man hat nur gerade keine anderen Themen bei der Hand:
 
-> Last night a Manchester City spokesman said: &#8216;It is not true to say that Dr Thaksin Shinawatra is trying to sell Manchester City, nor that he is looking for a buyer. Since he bought the club a number of potential investors from his wide network of business associates have spoken to Dr Thaksin about investing in the club. These discussions have been nothing more than exploratory.&#8217;
+> Last night a Manchester City spokesman said: 'It is not true to say that Dr Thaksin Shinawatra is trying to sell Manchester City, nor that he is looking for a buyer. Since he bought the club a number of potential investors from his wide network of business associates have spoken to Dr Thaksin about investing in the club. These discussions have been nothing more than exploratory.'
 
  [1]: http://www.nationmultimedia.com/2008/08/06/headlines/headlines_30079893.php

@@ -15,7 +15,7 @@ Au&szlig;erdem wurde festgelegt, dass der Premierminister der zivilen &Uuml;berg
 
   * <em style="text-align:left;">strong>Akrathorn</strong> Chularat</em>, der Pr&auml;sident des Supreme Administrative Court (oberstes Verwaltungsgericht)
   * <em style="text-align:left;">strong>Pridiyathorn</strong> Devakula</em>, der Governor der Bank of Thailand
-  * <em style="text-align:left;">strong>Supachai</strong> Panitchpakdi</em>, ehemaliger Generaldirektor der <span class="caps">UNO</span> Handels- und Entwicklungskonferenz &#8211; und der einzige Kandidat, der heute, nach mehreren Dementi, zugegeben hat, dass das <span class="caps">CDRM</span> ihn angesprochen hat und er sich Bedenkzeit ausgebeten hat.
+  * <em style="text-align:left;">strong>Supachai</strong> Panitchpakdi</em>, ehemaliger Generaldirektor der <span class="caps">UNO</span> Handels- und Entwicklungskonferenz --- und der einzige Kandidat, der heute, nach mehreren Dementi, zugegeben hat, dass das <span class="caps">CDRM</span> ihn angesprochen hat und er sich Bedenkzeit ausgebeten hat.
 
 Das <span class="caps">CDRM</span> hat derweil seine [Website][2] [zerschossen][3].
 

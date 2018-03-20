@@ -24,25 +24,25 @@ Die fünf Farben versinnbildlichen verschiedene buddhistische Konzepte:
   
   <tr style="vertical-align:middle;background-color:#ff0;color:#000;">
     <td>
-      Gelb symbolisiert den Mittleren Weg (The Middle Path &#8211; avoiding extremes, emptiness)
+      Gelb symbolisiert den Mittleren Weg (The Middle Path --- avoiding extremes, emptiness)
     </td>
   </tr>
   
   <tr style="vertical-align:middle;background-color:#f00;color:#000;">
     <td>
-      Rot symbolisiert den Segen der Praxis (Vollendung, Weisheit, Tugend, Glück und Erhabenheit), (Blessings of practice &#8211; achievement, wisdom, virtue, fortune and dignity)
+      Rot symbolisiert den Segen der Praxis (Vollendung, Weisheit, Tugend, Glück und Erhabenheit), (Blessings of practice --- achievement, wisdom, virtue, fortune and dignity)
     </td>
   </tr>
   
   <tr style="vertical-align:middle;background-color:#fff;color:#000;">
     <td>
-      Wei? symbolisiert die Reinheit des Dharma (der Lehre) und vollkommende Befreiung jenseits von Zeit- und Raumgebundenheit. (Purity of Dharma &#8211; it leads to liberation, outside of time or space)
+      Wei? symbolisiert die Reinheit des Dharma (der Lehre) und vollkommende Befreiung jenseits von Zeit- und Raumgebundenheit. (Purity of Dharma --- it leads to liberation, outside of time or space)
     </td>
   </tr>
   
   <tr style="vertical-align:middle;background-color:#f60;color:#000;">
     <td>
-      Orange symbolisiert die Weisheit der Buddhalehre (The Buddha&#8217;s Teaching &#8211; wisdom)<txp:gho_footnote>die fünfte Farbe ist je nach Land unterschiedlich, bspw. in Kambodscha pink und in Tibet orangebraun</txp:gho_footnote>
+      Orange symbolisiert die Weisheit der Buddhalehre (The Buddha's Teaching --- wisdom)<txp:gho_footnote>die fünfte Farbe ist je nach Land unterschiedlich, bspw. in Kambodscha pink und in Tibet orangebraun</txp:gho_footnote>
     </td>
   </tr>
 </table>

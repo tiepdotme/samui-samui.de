@@ -17,4 +17,4 @@ url: /2007/04/dont-you-know/
   </p>
 </div>
 
-It&#8217;s always the same.
+It's always the same.

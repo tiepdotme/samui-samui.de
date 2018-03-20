@@ -23,7 +23,7 @@ Ich: Sawadee krap!
   
 Sie: How are you today.
   
-Ich: I&#8217;m good. I mean. Ehm. Fine. I hope you too.
+Ich: I'm good. I mean. Ehm. Fine. I hope you too.
   
 Sie: Yes. I am. Signature here.
 
@@ -35,7 +35,7 @@ Ich: You too. See you on friday!
   
 Sie: Yes! See you!
 
-Und ich verlies die Bank. Ein ganz normaler Bankbesuch. Wirklich nichts Aufregendes. &Uuml;berhaupt ist das Leben hier nicht wirklich aufregend. Eventuell sollte auf meinem Grabstein mal stehen: &#8220;Dieses Schlagloch kannte er noch nicht&#8221; oder was in der Art. Aber wirklich aufregend ist _das_ auch nicht.
+Und ich verlies die Bank. Ein ganz normaler Bankbesuch. Wirklich nichts Aufregendes. &Uuml;berhaupt ist das Leben hier nicht wirklich aufregend. Eventuell sollte auf meinem Grabstein mal stehen: "Dieses Schlagloch kannte er noch nicht" oder was in der Art. Aber wirklich aufregend ist _das_ auch nicht.
 
  [1]: http://www.krungsri.com/eng/
  [2]: http://www.thaitravel.info/Ayuthaya/

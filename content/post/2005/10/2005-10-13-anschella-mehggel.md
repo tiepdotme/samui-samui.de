@@ -31,9 +31,9 @@ T: Achso. Chancellour. Und Schrodder wird dann wohl Pr&auml;sident?
   
 I: Nein. Der ist aus dem Rennen.
   
-T: Was bedeutet &#8220;Aus dem Rennen&#8221;?
+T: Was bedeutet "Aus dem Rennen"?
 
-&#8230;
+...
 
 T: So. Was ist jetzt eigentlich der Unterschied zwischen Kanzler und Pr&auml;sident?
   
@@ -55,10 +55,10 @@ T: Und wen hast du nun gew&auml;hlt?
   
 I: Niemanden. Weil ich nicht leiden kann, wie die bisherige Regierung sich aus der Verantwortung stiehlt und die restlichen Parteien einfach nur Schmonz sind.
   
-T: Was ist &#8220;Aus der Verantwortung stehlen&#8221; und &#8220;Schmonz&#8221;?
+T: Was ist "Aus der Verantwortung stehlen" und "Schmonz"?
 
-&#8230;
+...
 
-Inzwischen gibts ja &#8220;Die Gro&szlig;e Koalition&#8221;. Nett. In jeder der zynischen Bedeutungen des Wortes die ich anzubieten habe. In der Bangkok Post stand was von &#8220;Chancellour Kohls little girl&#8221;.
+Inzwischen gibts ja "Die Gro&szlig;e Koalition". Nett. In jeder der zynischen Bedeutungen des Wortes die ich anzubieten habe. In der Bangkok Post stand was von "Chancellour Kohls little girl".
 
 PS: Ja, ich war auch verwundert, dass sich ein Thai mit mir &uuml;ber deutsche Politik unterh&auml;lt, aber wenn man Deutsch lernt, besch&auml;ftigt man sich auch mal mit Deutschland selber, nehme ich an.

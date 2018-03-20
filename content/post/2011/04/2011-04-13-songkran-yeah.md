@@ -20,7 +20,7 @@ url: /2011/04/songkran-yeah/
     </a></div> 
     
     <p>
-      Yeah! Und wieder einmal feiern wir Songkran, das Thailändische Neujahr. Google hat auch dieses Jahr <txp:permlink id="1744">wieder</txp:permlink> ein Songkran Doodle und endlich einmal auf den Wasser-Aspekt verzichtet (Songkran ist kein Wasserfest). Zu sehen sind sogenannte Sand-Pagoden (den krampfhaften Versuch von Thaibuchstaben übersehen wir einfach mal).
+      Yeah! Und wieder einmal feiern wir Songkran, das Thailändische Neujahr. Google hat auch dieses Jahr <a href="1744">wieder</a> ein Songkran Doodle und endlich einmal auf den Wasser-Aspekt verzichtet (Songkran ist kein Wasserfest). Zu sehen sind sogenannte Sand-Pagoden (den krampfhaften Versuch von Thaibuchstaben übersehen wir einfach mal).
     </p>
     
     <p>
@@ -32,5 +32,5 @@ url: /2011/04/songkran-yeah/
     </p>
     
     <p>
-      PS: Der Hovertext bei Google lautet übrigens &#8220;รื???ริ?สามั??ี ก?อ???ีย??รายร?วมกั?วั?ส?กรา???&#8221;, was übersetzt soviel wie &#8220;Das Fest der Harmonie. Baut zusammen Sandpagoden an Songkran&#8221;. Es scheint politisch korrekt zu sein, den Wasser-Aspekt Songkrans nicht zu erwähnen solange noch in 4 Provinzen das Wasser steht und in mehr als 40 Provinzen gro?e Trockenheit herrscht.
+      PS: Der Hovertext bei Google lautet übrigens "รื???ริ?สามั??ี ก?อ???ีย??รายร?วมกั?วั?ส?กรา???", was übersetzt soviel wie "Das Fest der Harmonie. Baut zusammen Sandpagoden an Songkran". Es scheint politisch korrekt zu sein, den Wasser-Aspekt Songkrans nicht zu erwähnen solange noch in 4 Provinzen das Wasser steht und in mehr als 40 Provinzen gro?e Trockenheit herrscht.
     </p>

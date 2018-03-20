@@ -13,7 +13,7 @@ url: /2006/02/thai-police-block-access-to-website-promoting-kings-biography/
   
 
 
-> Police in Thailand have blocked access to a publishing website promoting an unflattering new biography of the Kingdom&#8217;s revered monarch, King Bhumipol. 
+> Police in Thailand have blocked access to a publishing website promoting an unflattering new biography of the Kingdom's revered monarch, King Bhumipol. 
   
 > Our South East Asia correspondent, Peter Lloyd, says in a country where criticism of the royal family is a crime, the authorities claim the website violates national security.
   

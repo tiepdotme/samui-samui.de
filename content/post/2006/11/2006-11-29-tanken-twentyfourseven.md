@@ -13,7 +13,7 @@ url: /2006/11/tanken-twentyfourseven/
 
 Das alles machte nichts, denn Benzin bekommt man hier &uuml;berall am Stra&szlig;enrand. 
 
-Nun d&uuml;rfen die Tankstellen also wieder 24/7 (welche Regierung hat schon den Begriff &#8220;24/7&#8221; in offiziellen Verlautbarungen?) ge&ouml;ffnet sein, sagt Energieminister Piyasvasti Amranand. Die Begr&uuml;ndung f&uuml;r die ge&auml;nderten &Ouml;ffnungszeiten (offiziell mussten Tankstellen sp&auml;testens 22 Uhr schlie&szlig;en) war das Energiesparen. Nun hat man aber festgestellt, dass dadurch keine Energie gespart wurde.
+Nun d&uuml;rfen die Tankstellen also wieder 24/7 (welche Regierung hat schon den Begriff "24/7" in offiziellen Verlautbarungen?) ge&ouml;ffnet sein, sagt Energieminister Piyasvasti Amranand. Die Begr&uuml;ndung f&uuml;r die ge&auml;nderten &Ouml;ffnungszeiten (offiziell mussten Tankstellen sp&auml;testens 22 Uhr schlie&szlig;en) war das Energiesparen. Nun hat man aber festgestellt, dass dadurch keine Energie gespart wurde.
 
 Tanken rund um die Uhr. Das Paradies wird ein St&uuml;ckchen paradiesischer.
 

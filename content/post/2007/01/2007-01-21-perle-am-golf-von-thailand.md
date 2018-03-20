@@ -15,7 +15,7 @@ Das liegt unter anderem daran, dass ich in Ban Chang bin und Rayong nur die Prov
 
 Nun, Rayong gl&auml;nzt vor allem durch einen einzigen Absatz in den einschl&auml;gigen deutsch- und englischsprachigen Reisef&uuml;hrern, in welchem beschrieben wird, dass man durch Rayong muss, um nach Ko Samet, einer Backpackerinsel im Golf von Thailand, zu gelangen.
 
-Viel mehr gibt es nicht zu sagen. Es ist eine industrialisierte Gegend, deren News etwa so lauten: [Pollution puts Bt140-bn plan at risk][1]. Es gibt einen Tesko und einen Big C &#8211; zentrale Treffpunkte am Wochenende.
+Viel mehr gibt es nicht zu sagen. Es ist eine industrialisierte Gegend, deren News etwa so lauten: [Pollution puts Bt140-bn plan at risk][1]. Es gibt einen Tesko und einen Big C --- zentrale Treffpunkte am Wochenende.
 
 Der Bus nach Bangkok f&auml;hrt aller halbe Stunde und ist immer voll.
 

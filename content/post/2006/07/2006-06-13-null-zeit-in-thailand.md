@@ -9,7 +9,7 @@ url: /2006/06/null-zeit-in-thailand/
 
 
 ---
-Auch mal die anderen erz&auml;hlen lassen: Helene, oder ([nullzeit][1])generator, war im M&auml;rz in Thailand und berichtet in ihrem Blog dar&uuml;ber. Leider haben wir uns trotz nettem Emailkontakts (das ist ja mal wieder ein sch&ouml;ner Genitiv gewesen) nicht getroffen, was eventuell an meiner Beschreibung der Sehensw&uuml;rdigkeiten der Insel gelegen haben k&ouml;nnte (&#8220;Ballermann im Golf&#8221; &#8211; sehr nett umschrieben von ihr). Macht nichts, die Beschreibungen von Land und Leuten des Isaans sind Belohnung genug. 
+Auch mal die anderen erz&auml;hlen lassen: Helene, oder ([nullzeit][1])generator, war im M&auml;rz in Thailand und berichtet in ihrem Blog dar&uuml;ber. Leider haben wir uns trotz nettem Emailkontakts (das ist ja mal wieder ein sch&ouml;ner Genitiv gewesen) nicht getroffen, was eventuell an meiner Beschreibung der Sehensw&uuml;rdigkeiten der Insel gelegen haben k&ouml;nnte ("Ballermann im Golf" --- sehr nett umschrieben von ihr). Macht nichts, die Beschreibungen von Land und Leuten des Isaans sind Belohnung genug. 
 
 [singha-bier und generalstreik?][2]
   

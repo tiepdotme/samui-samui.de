@@ -13,7 +13,7 @@ fb_author_post_id:
 ---
 Normalerweise fällt ja in Thailand nie der Strom aus, weil alle Kabelnetze perfekt gewartet werden, immer genügend Strom vorhanden ist, alle Netze mit Backups versehen sind und überhaupt. Der Drei-Tages-Ausfall im letzten Dezember war ja mehr oder weniger ein Test wie man ohne Strom Kaffee kochen kann und nach wieviel Stunden die Ideen für Offline-Beschäftigungen aus gehen.
 
-Gestern jedoch ging um 6.53 Uhr auf Samui der Strom aus und kam so schnell nicht wieder. Ich entsinne mich, dass in der Nacht dann kurz für 5 Minuten Strom kam &#8211; genug Zeit, um von Kopf bis Fuss eingeseift zu sein &#8211; und weg war er wieder (zumindest in unserer Gegend).
+Gestern jedoch ging um 6.53 Uhr auf Samui der Strom aus und kam so schnell nicht wieder. Ich entsinne mich, dass in der Nacht dann kurz für 5 Minuten Strom kam --- genug Zeit, um von Kopf bis Fuss eingeseift zu sein --- und weg war er wieder (zumindest in unserer Gegend).
 
 Anscheinend war ganz Südthailand ohne Strom (Phuket, Hat Yai, Samui und 14 südliche Provinzen)
 

@@ -27,7 +27,7 @@ Summsumm. Wedel. Klatsch. Wedel. Summsumm. Picks. Manchmal frage ich mich wirkli
 
 Vorstehende zwei Absätze wiederholten sich dann die folgenden drei Stunden bis ich um halb sieben wieder Strom hatte, unter die Dusche schlüpfen konnte (Wasser kommt nur, wenn die Pumpe (auf Basis von Energiezufuhr) pumpt) und Moskitos mit dem Wasserstrahl jagte. 3 Stiche. 5 Frags. Ich bin der Held und Geduld zahlt sich am Ende doch immer aus.
 
-PS: Ich habe mich den ganzen Morgen darauf gefreut, einen Eintrag zu schreiben, in dem das Wort Repellent inflationär vorkommt. Hoffentlich habe ich es richtig geschrieben. Auf der Verpackung steht zwar &#8220;Liquid Electric Mosquito Repellent&#8221; aber Thais haben ihre eigene Ansicht von orthographischem Englisch.
+PS: Ich habe mich den ganzen Morgen darauf gefreut, einen Eintrag zu schreiben, in dem das Wort Repellent inflationär vorkommt. Hoffentlich habe ich es richtig geschrieben. Auf der Verpackung steht zwar "Liquid Electric Mosquito Repellent" aber Thais haben ihre eigene Ansicht von orthographischem Englisch.
 
 PPS: Ich glaube, ich versorge mir heute ein energieautarkes Repellent für nächtliche Notf&aum;lle. Weil wenn der Strom mal wirklich weg ist, kann man eigentlich gut schlafen, da es ganz dunkel ist. Sonst haben die Thais immer irgendwo Lichter und Musik an.
 

@@ -21,7 +21,7 @@ Ein wunderbares Portrait über Thaksin Shinawatra, das, trotzdem es in English g
 
 > Somehow, Thaksin keeps a straight face as he compares himself to South Africa’s Nelson Mandela or India’s Mahatma Gandhi. Yet every stop Thaksin makes is an opportunity to play the martyr for the local media. Each visit is a chance to organize major rallies and embarrass officials in Bangkok.
 
-William Pesek in &#8222;[The Silvio Berlusconi of Thailand][1]&#8222;/Bloomberg.com
+William Pesek in "[The Silvio Berlusconi of Thailand][1]"/Bloomberg.com
 
 Lesen! Oder Englisch lernen und dann lesen, bis dahin zieht sich der Ist-Zustand sowieso noch hin.
 

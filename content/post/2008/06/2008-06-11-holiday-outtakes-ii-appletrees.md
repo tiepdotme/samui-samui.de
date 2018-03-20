@@ -17,4 +17,4 @@ url: /2008/06/holiday-outtakes-ii-appletrees/
   </p>
 </div>
 
-Marienthal in Zwickau. Am Ende einer Stra?enbahnstrecke. Blauer Himmel, ein paar W&ouml;kchen, ein paar Apfelbäme. Reicht aus&#8230;
+Marienthal in Zwickau. Am Ende einer Stra?enbahnstrecke. Blauer Himmel, ein paar W&ouml;kchen, ein paar Apfelbäme. Reicht aus...

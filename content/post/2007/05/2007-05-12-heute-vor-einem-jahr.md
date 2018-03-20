@@ -9,10 +9,10 @@ url: /2007/05/heute-vor-einem-jahr/
 
 
 ---
-&#8230; sagte ich zu Fu: I guess I will be fired soon. Sie meinte darauf: That good. You will be free. 
+... sagte ich zu Fu: I guess I will be fired soon. Sie meinte darauf: That good. You will be free. 
 
-War ich dann auch. Nichtsdestotrotz haben &#8220;wir&#8221; das &#8220;Spiel&#8221; dann noch 19 Tage lang durchgehalten. 
+War ich dann auch. Nichtsdestotrotz haben "wir" das "Spiel" dann noch 19 Tage lang durchgehalten. 
 
-<txp:permlink id="733">Verr&uuml;ckt ist eben doch mehr Spa&szlig; als besorgt zu sein</txp:permlink>.
+<a href="733">Verr&uuml;ckt ist eben doch mehr Spa&szlig; als besorgt zu sein</a>.
 
-PS: <txp:permlink id="786">Dieser Dialog</txp:permlink> wird mir auch unvergessen bleiben&#8230;
+PS: <a href="786">Dieser Dialog</a> wird mir auch unvergessen bleiben...

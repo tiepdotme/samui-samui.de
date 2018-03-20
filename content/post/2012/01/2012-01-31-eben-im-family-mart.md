@@ -9,6 +9,6 @@ url: /2012/01/eben-im-family-mart/
 
 
 ---
-&#8220;Hey, bist du nicht der Patrick aus&#8217;m Blog?&#8221;
+"Hey, bist du nicht der Patrick aus'm Blog?"
 
-Hat auch nur 7 Jahre (und ein paar Tage) gedauert ;) Ich glaube meine Antwort war &#8220;Oh Gott&#8221;.
+Hat auch nur 7 Jahre (und ein paar Tage) gedauert ;) Ich glaube meine Antwort war "Oh Gott".

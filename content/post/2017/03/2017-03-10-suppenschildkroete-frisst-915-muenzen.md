@@ -15,7 +15,7 @@ tags:
 format: link
 
 ---
-Die Schildkröte &#8222;Omsin&#8220; (&#8222;Sparschwein&#8220;) lebte in einem Gewässer im thailändischen Sriracha, etwa 120 Kilometer südöstlich von Bangkok. Als auffiel, dass die Meeresschildkröte beim Schwimmen ein Bein nicht benutzte und zunehmend Schwierigkeiten beim Atmen hatte, wurde sie in eine Schutzanlage gebracht und dort untersucht.
+Die Schildkröte "Omsin" ("Sparschwein") lebte in einem Gewässer im thailändischen Sriracha, etwa 120 Kilometer südöstlich von Bangkok. Als auffiel, dass die Meeresschildkröte beim Schwimmen ein Bein nicht benutzte und zunehmend Schwierigkeiten beim Atmen hatte, wurde sie in eine Schutzanlage gebracht und dort untersucht.
 
 Zunächst glaubten die Veterinäre noch, das Tier leide an einem Tumor. Röntgenuntersuchung und Computertomographie zeigten dann aber, dass der Magen des 25-jährigen Weibchens komplett mit Münzen gefüllt war.
 

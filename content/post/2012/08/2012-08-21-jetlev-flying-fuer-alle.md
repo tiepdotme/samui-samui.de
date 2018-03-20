@@ -17,7 +17,7 @@ fb_status_messages:
 
 
 ---
-Was ich [im Januar schon][1] sagte, [hat nun auch der Spiegel entdeckt][2]: Jetlev-Flyer &#8211; nette wasserbetriebene Flugspielzeuge. Für die Reichen und &#8211; hier auf Koh Samui &#8211; für Jedermann.
+Was ich [im Januar schon][1] sagte, [hat nun auch der Spiegel entdeckt][2]: Jetlev-Flyer --- nette wasserbetriebene Flugspielzeuge. Für die Reichen und --- hier auf Koh Samui --- für Jedermann.
 
  [1]: /weblog/2012/01/der-naechste-trend
  [2]: http://www.spiegel.de/karriere/berufsleben/jetlev-flyer-deutscher-unternehmer-laesst-millionaere-fliegen-a-850475.html

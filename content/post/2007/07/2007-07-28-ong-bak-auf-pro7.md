@@ -17,7 +17,7 @@ Ong Bak war _der_ Thaifilm des Jahres 2003. Die Geschichte ist schnell erzählt:
 
 Tony Jaa ist [ein][2] [ziemlich][3] [sü?es][4] [Stück][5] Mann. Leider fühle ich mich derzeit aus verschiedenen Gründen nicht zu ausführlicheren Erläuterungen in der Lage, also sei nur angemerkt, dass man diesen Film zwar nicht gesehen haben muss aber sollte. Mehr darüber vielleicht später.
 
-Nur am Rande: Alle Actionszenen wurden ohne die Seile und Kabel gedreht, mit denen Jet Li und Jackie Chan ihre &#8220;Stunts&#8221; zu drehen pflegen.
+Nur am Rande: Alle Actionszenen wurden ohne die Seile und Kabel gedreht, mit denen Jet Li und Jackie Chan ihre "Stunts" zu drehen pflegen.
 
  [1]: http://imdb.com/title/tt0368909/
  [2]: http://images.google.com/images?q=Tony+Jaa

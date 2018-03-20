@@ -9,7 +9,7 @@ url: /2010/11/babies-in-tueten/
 
 
 ---
-Eine Geschichte die Drehbuch für einen thailändischen Horrorfilm sein könnte, trug sich heute in Bangkok zu: Dort fand man in einem Tempel [mehr als 50 Säuglingsleichen][1] in (&#8220;verschiedenfarbigen&#8221;) Plastiktüten. 
+Eine Geschichte die Drehbuch für einen thailändischen Horrorfilm sein könnte, trug sich heute in Bangkok zu: Dort fand man in einem Tempel [mehr als 50 Säuglingsleichen][1] in ("verschiedenfarbigen") Plastiktüten. 
 
 Bin gespannt, wie sich die Geschichte entwickelt. Normalerweise kommt noch ein Schwarze Magie praktizierender Mönch, eine schwangere tote Krankenschwester und ein Transvestit als Comic Relief hinzu.
 

@@ -20,10 +20,10 @@ Maak kommt aus dem Krieg zurück und trifft auf seine Braut und ihren gemeinsame
 
 Nun, Maak ist relativ geschockt und verlässt sie sofort. Mae Naak folgt ihm und tötet alles und jeden der zwischen sie beide kommt. Maak flüchtet sich schlie?lich in einen Tempel, den Mönchen gelingt es, sie in einem Gefäss einzuschlie?en und diesen in den Fluss zu werfen. 
 
-Man sagt, dass man mit der Erwähnung des Namens &#8220;Mae Naak&#8221; Kindern einen Riesenschrecken einjagen kann. 
+Man sagt, dass man mit der Erwähnung des Namens "Mae Naak" Kindern einen Riesenschrecken einjagen kann. 
 
 ?brigens ist das eine Geschichte, die je nach Region anders erzählt wird. In manchen Versionen meldet sich Maak freiwillig zum Militärdienst, in manchen Versionen befreien Bauern Naak aus ihrem Gefä? und sie geistert und mordet weiter, in manchen Versionen wird Maak später zum Mönch, in manchen Versionen heiratet er wieder (was Naak erzürnt und wieder erscheinen und morden lässt).
 
-Alle Erzählungen sind sich aber darin einig, dass Naak aus tiefer Liebe heraus die Kraft zum &#8220;Herumgeistern&#8221; zieht und keine Ruhe findet und als Maak sie zurück weist zum Rachegeist wird, der sie am Ende ist. Manchmal ist sie sogar der Held der Geschichte.
+Alle Erzählungen sind sich aber darin einig, dass Naak aus tiefer Liebe heraus die Kraft zum "Herumgeistern" zieht und keine Ruhe findet und als Maak sie zurück weist zum Rachegeist wird, der sie am Ende ist. Manchmal ist sie sogar der Held der Geschichte.
 
 Demn&auml;chst kann man sich dann die gef&uuml;hlte hundertste Verfilmung der Geistergeschichte in 3D im Kino ansehen.

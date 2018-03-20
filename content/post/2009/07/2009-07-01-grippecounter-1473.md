@@ -26,7 +26,7 @@ Leider sind seit gut einer Woche die ersten Todesfälle in Thailand bekannt:
   * Am 29.06.09 starb ein Navy-Kadett.
   * Heute starben ein 47jähriger Mann (Kettenraucher und Trinker) und ein 15jähriges Mädchen.
 
-Das Gesundheitsministerium beginnt Kampagnen zu organisieren, um die Bevölkerung zu einem &#8222;gesünderen Leben&#8220; zu erziehen. 
+Das Gesundheitsministerium beginnt Kampagnen zu organisieren, um die Bevölkerung zu einem "gesünderen Leben" zu erziehen. 
 
 <div class="flickr">
   <img src="/system/graphs/1781-1.php" style="width:500px;height:300px;" alt="A(H1N1) Erkrankungen in Thailand" />
@@ -44,4 +44,4 @@ Nach den beiden Todesfällen von heute besteht eine 0,35%ige Mortalitätsrate, d
   <img src="/system/graphs/1781-3.php" style="width:500px;height:300px;" alt="A(H1N1) Mortalitätsrate in Thailand" />
 </div>
 
-Das ist im Vergleich zu &#8222;normalen&#8220; Grippeverläufen eine noch niedrige Rate.
+Das ist im Vergleich zu "normalen" Grippeverläufen eine noch niedrige Rate.

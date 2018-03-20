@@ -9,7 +9,7 @@ url: /2015/06/ko-phi-phi-in-thailand-nichts-neues-nach-dem-tsunami/
 
 
 ---
-Wow. Im Spiegel. Einer dieser tollen wahren grundlagengestützten Artikel über, ehm, &#8230; ja über was eigentlich?
+Wow. Im Spiegel. Einer dieser tollen wahren grundlagengestützten Artikel über, ehm, ... ja über was eigentlich?
 
 > Thomas ist ein deutscher Tourist und will am tropischen Strand nur feiern. Shila ist Prostituierte und wartet auf Kundschaft. Was sie verbindet? Man könnte sagen, die gleiche Trostlosigkeit.
 

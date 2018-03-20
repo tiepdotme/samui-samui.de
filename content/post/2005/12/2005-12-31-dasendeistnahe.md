@@ -11,7 +11,7 @@ url: /2005/12/dasendeistnahe/
 ---
 [<img width="455" src="//static.flickr.com/42/79628578_8368acd571.jpg" alt="Hin Da Hin Yai, New Years Eve Morning." />][1]
 
-Nu isses also vorbei. Das alte Jahr. Das neue wird kommen (f&uuml;hrt kein Weg dran vorbei und schon Nostradamus, die Zeugen Jehovas und alle Jahr 2000ler haben es nicht geschafft, daran was zu &auml;ndern) und alles wird sch&ouml;ner, besser, gr&ouml;&szlig;er und &uuml;berhaupt. Wir nehmen uns eine Menge Gutes vor und halten uns mindestens eine Woche daran. Meine Vors&auml;tze sind &#8220;kein Alkohol und kein S&auml;ugetierfleisch in 2006&#8221; und &#8220;mehr Slow Motion&#8221; (das erkl&auml;r ich mal sp&auml;ter).
+Nu isses also vorbei. Das alte Jahr. Das neue wird kommen (f&uuml;hrt kein Weg dran vorbei und schon Nostradamus, die Zeugen Jehovas und alle Jahr 2000ler haben es nicht geschafft, daran was zu &auml;ndern) und alles wird sch&ouml;ner, besser, gr&ouml;&szlig;er und &uuml;berhaupt. Wir nehmen uns eine Menge Gutes vor und halten uns mindestens eine Woche daran. Meine Vors&auml;tze sind "kein Alkohol und kein S&auml;ugetierfleisch in 2006" und "mehr Slow Motion" (das erkl&auml;r ich mal sp&auml;ter).
 
 Bleibt mir nur Dir wertem Leser je nach Zelebrationsform des Tages einen guten Rutsch oder einen geruhsamen Jahresausklang zu w&uuml;nschen. Im Neuen Jahr wird alles sch&ouml;ner, besser, gr&ouml;&szlig;er und &uuml;berhaupt.
 

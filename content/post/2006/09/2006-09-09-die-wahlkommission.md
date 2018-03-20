@@ -14,7 +14,7 @@ Gestern wurde [die neue Election Commission][1] gew&auml;hlt. F&uuml;r die Bekan
 Die gew&auml;hlten Kommission&auml;re:
 
   * Apichart Sukhakkanon, chief justice of the Environment Division of the Supreme Court
-  * Somchai Jung-prasert, chief of the Supreme Court judges&#8217; quorum
+  * Somchai Jung-prasert, chief of the Supreme Court judges' quorum
   * Prapan Naikowit, deputy attorney-general
   * Sumet Oupanisakorn, senior judge of the Southern Bangkok Criminal Court
   * Sodsri Satayathum, senior Supreme Court judge and the only female nomimee

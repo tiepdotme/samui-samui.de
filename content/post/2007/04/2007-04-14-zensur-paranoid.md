@@ -11,7 +11,7 @@ url: /2007/04/zensur-paranoid/
 ---
 {{< figure src="/wp-content/old-images/229.jpg" >}}
 
-Ein Film, der international geachtet wird (ein Preis aus Hong Kong, Er&ouml;ffnungsfilm des Internationalen Filmfestivals von Venedig) wird in Thailand nicht in die Kinos kommen. Es ist ein thail&auml;ndischer Film. Es wird von einem &#8220;Board&#8221; verlangt, dass 4 Szenen geschnitten werden:
+Ein Film, der international geachtet wird (ein Preis aus Hong Kong, Er&ouml;ffnungsfilm des Internationalen Filmfestivals von Venedig) wird in Thailand nicht in die Kinos kommen. Es ist ein thail&auml;ndischer Film. Es wird von einem "Board" verlangt, dass 4 Szenen geschnitten werden:
 
 > The scenes the board found objectionable show a young monk playing a guitar, a group of doctors drinking whisky in a hospital basement, a doctor kissing his girlfriend in a hospital locker room, and two monks playing with a radio-controlled flying saucer.
 

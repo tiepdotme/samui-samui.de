@@ -11,7 +11,7 @@ dsq_thread_id:
 
 
 ---
-Hier ist er also, der erste wahre Eintrag zum Thema Sex! Edukativ und informativ! Ich war am Sonntag auf Lerntour. Vergessen wir kurz die <txp:permlink id="101">Porno-Hütte</txp:permlink> und wenden wir uns den angenehmeren Dingen des Lebens zu. Zum Beispiel Kartoffeln, die amerikanischen Präsidenten ähnlich sehen. Oder Wolken, die wie Tiere aussehen. Erdnussflips in der Form von Früchten. Oder Toastbrote mit Mutter Theresa in der Butterecke.
+Hier ist er also, der erste wahre Eintrag zum Thema Sex! Edukativ und informativ! Ich war am Sonntag auf Lerntour. Vergessen wir kurz die <a href="101">Porno-Hütte</a> und wenden wir uns den angenehmeren Dingen des Lebens zu. Zum Beispiel Kartoffeln, die amerikanischen Präsidenten ähnlich sehen. Oder Wolken, die wie Tiere aussehen. Erdnussflips in der Form von Früchten. Oder Toastbrote mit Mutter Theresa in der Butterecke.
 
 Oder aber Steinen, die aussehen, als ob, und dann, überhaupt. Aber lassen wir die Bilder sprechen.
 
@@ -19,11 +19,11 @@ Oder aber Steinen, die aussehen, als ob, und dann, überhaupt. Aber lassen wir d
 
 Die Thais nennen diese Steingruppierung Hin Da Hin Yai (Grossvater- und Grossmutter-Stein). Sie sehen anatomisch korrekt (vielleicht ein bisschen kurz) aus. Allerdings nur, wenn man von der Seite schaut. Die Touristen konzentrieren sich an dieser Stelle an die steinerne Varianten von Penis und Vagina. Ich habe aber einige andere Dinge beobachtet. Auf dem Photo oben sehe ich eine Hand.
 
-Auf den folgenden Fotos sind wieder Hände zu sehen. Mal ganz normal ertrinkend&#8230;
+Auf den folgenden Fotos sind wieder Hände zu sehen. Mal ganz normal ertrinkend...
 
 {{< figure src="/wp-content/old-images/64.jpg" >}}
 
-&#8230; mal mit mahnend erhobenem Mittelfinger &#8230;
+... mal mit mahnend erhobenem Mittelfinger ...
 
 {{< figure src="/wp-content/old-images/65.jpg" >}}
 

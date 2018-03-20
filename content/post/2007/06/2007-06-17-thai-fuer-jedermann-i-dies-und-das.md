@@ -19,13 +19,13 @@ Doch lassen Sie uns nicht ums Lard Na herum eiern, fangen wir an mit einer Auswa
 
 Oftmals hat man niemanden zur Hand, wenn es eben mal irgendwo drückt. Dann behilft man sich selbst. Mit den folgenden Worten können Sie nun dieses Tatbestand auch Ihren thailändischen Freunden, Frauen oder Urlaubsfreuden gegenüber artikulieren:
 
-<span class="thai">??วย?ัว?อ?</span> (sprechen Sie dies wie &#8220;schuai tduah ääng&#8221; aus)
+<span class="thai">??วย?ัว?อ?</span> (sprechen Sie dies wie "schuai tduah ääng" aus)
 
 **Einen Drachen steigen lassen**
 
 Sicherlich kennen Sie das auch: Sie laufen auf der durch den Südwest-Monsun bestürmten Wiese hinterm Haus vor Freude schreiend herum, ein Seil in der Hand haltend das mit einem fragilen in den Lüften nur durch die Macht des Windes schwebend gehaltenen Gebildes verbunden ist. Nun können auch Sie Ihren Liebenden zuhause gegenüber ausdrücken, was Sie da eigentlich machen:
 
-<span class="thai">?ักว?าว</span> (sprechen Sie dies wie &#8220;tschack waau&#8221; aus)
+<span class="thai">?ักว?าว</span> (sprechen Sie dies wie "tschack waau" aus)
 
 Bitte beachten Sie, dass Sie nur als Mann einen Drachen steigen lassen sollten. Frauen lassen keine Drachen steigen (siehe unten).
 
@@ -33,7 +33,7 @@ Bitte beachten Sie, dass Sie nur als Mann einen Drachen steigen lassen sollten. 
 
 Oftmals gibt es unfaire Situationen im Leben. Wenn es mal wieder Fünf gegen Einen hei?t, dann können auch Sie nun verlauten lassen, was gerade vor sich geht:
 
-<span class="thai">ห?ารุมห?ึ??</span> (sprechen Sie dies wie &#8220;haa rumm nünng&#8221;)
+<span class="thai">ห?ารุมห?ึ??</span> (sprechen Sie dies wie "haa rumm nünng")
 
 Bitte beachten Sie, dass nur Männer solch unfaire Situationen durchleben. Frauen nicht (siehe unten).
 
@@ -41,7 +41,7 @@ Bitte beachten Sie, dass nur Männer solch unfaire Situationen durchleben. Fraue
 
 Hier kommen wir nun zu den Freizeitbeschäftigungen der Frau in der thailändischen Kultur: Sie fischen. Mit einem Haken. Falls Sie weiblich sind und gerne mit dem Haken fischen, dann nutzen Sie bitte die folgenden Silben, um Ihrer Begierde Ausdruck zu verleihen:
 
-<span class="thai">?ก????</span> (sprechen Sie dies wie &#8220;Dtock bädd&#8221;)
+<span class="thai">?ก????</span> (sprechen Sie dies wie "Dtock bädd")
 
 Bitte beachten Sie, dass Sie, falls Sie dem männlichen Geschlecht angehören, nur unter extrem seltenen Umständen (operational) mit einem Haken fischen können und diese Phrase lieber einem Mitglied des weiblichen Geschlechts überlassen.
 

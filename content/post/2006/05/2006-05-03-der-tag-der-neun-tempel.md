@@ -10,7 +10,7 @@ url: /2006/05/der-tag-der-neun-tempel/
 
 
 ---
-Neulich war Songkran, das buddhistische Neujahrsfest. Bis vor einigen Jahren war das identisch mit dem thailändischen kalendarischen Neujahr. Inzwischen ist auch hier der 1. Januar der erste Tag des Jahres. Das hält die Thailänder nicht davon ab auch Songkran zu feiern. Es findet jedes Jahr vom 13. bis zum 15. April statt. Am Tag vor Songkran sollte man sein Haus säubern, damit der &#8222;Dreck des alten Jahres&#8220; nicht mit ins neue Jahr kommt. 
+Neulich war Songkran, das buddhistische Neujahrsfest. Bis vor einigen Jahren war das identisch mit dem thailändischen kalendarischen Neujahr. Inzwischen ist auch hier der 1. Januar der erste Tag des Jahres. Das hält die Thailänder nicht davon ab auch Songkran zu feiern. Es findet jedes Jahr vom 13. bis zum 15. April statt. Am Tag vor Songkran sollte man sein Haus säubern, damit der "Dreck des alten Jahres" nicht mit ins neue Jahr kommt. 
 
 Eine der vielen Traditionen zu Songkran ist &uuml;brigens der Besuch von neun Tempeln, was wir dann auch gemacht haben. Man bringt den M&ouml;nchen verschiedene Dinge f&uuml;rs t&auml;gliche Leben (das kann ein Eimer voller Lebensmittel sein oder auch nur ein bisschen Medizin) und tut damit Gutes (tham bon) f&uuml;rs n&auml;chste Leben. </div> 
 
@@ -33,7 +33,7 @@ Eine der vielen Traditionen zu Songkran ist &uuml;brigens der Besuch von neun Te
       </p>
       
       <p>
-        Das ist der &#8222;Wat nebenan&#8220;. Ich komme nahezu t&auml;glich dran vorbei.<br /> Die Leute aus Ban Maenam feiern hier ihre Feste, gehen w&auml;hlen und<br /> sitzen auch sonst immer hier herum. Die M&ouml;nche allerdings waren nicht sehr nett (m&uuml;ssen sie auch nicht).
+        Das ist der "Wat nebenan". Ich komme nahezu t&auml;glich dran vorbei.<br /> Die Leute aus Ban Maenam feiern hier ihre Feste, gehen w&auml;hlen und<br /> sitzen auch sonst immer hier herum. Die M&ouml;nche allerdings waren nicht sehr nett (m&uuml;ssen sie auch nicht).
       </p>
       
       <p>
@@ -159,5 +159,5 @@ Eine der vielen Traditionen zu Songkran ist &uuml;brigens der Besuch von neun Te
   </p>
   
   <p>
-    PS: Dem ein oder anderen mag auffallen, dass ich die &#8222;berühmten raditionellen Wasserschlachten&#8220; nicht erwähnt habe. Das liegt daran, dass sie nicht traditionell sind. Man gie?t Wasser über Buddhastatuen oder die Hände der älteren Familienmitglieder.
+    PS: Dem ein oder anderen mag auffallen, dass ich die "berühmten raditionellen Wasserschlachten" nicht erwähnt habe. Das liegt daran, dass sie nicht traditionell sind. Man gie?t Wasser über Buddhastatuen oder die Hände der älteren Familienmitglieder.
   </p>

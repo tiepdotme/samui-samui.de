@@ -13,7 +13,7 @@ Der [amerikanische Botschafter zu Bangkok][1], Mr. Ralph Boyce, hat vergangenen 
 
 Ein nettes webchattiges Beieinander also. (Ich finde die Zeitstempel im Transkript interessant.)
 
-Anders schon reagierte der Deutsche Botschafter zu Bangkok, Hr. Dr Christoph Bruemmer auf sein mangelndes Au?enwerbungsprofil. Der musste sich zu einem Leserbrief von Kulkumut Singhara Na Ayudhya, Generaldirektor des Büros für Europäische Angelegenheiten (grins) am Thailändischen Au?enministerium, äu?ern und brachte in verschwurbelten Schachtelsätzen etwa Folgendes zum Ausdruck: [Heute ist ein schöner Tag][3] und bringt gefälligst ans Tageslicht, wo unsere Tsunamimillionen verschwunden sind. Und wir mögen euch ja schon noch&#8230;
+Anders schon reagierte der Deutsche Botschafter zu Bangkok, Hr. Dr Christoph Bruemmer auf sein mangelndes Au?enwerbungsprofil. Der musste sich zu einem Leserbrief von Kulkumut Singhara Na Ayudhya, Generaldirektor des Büros für Europäische Angelegenheiten (grins) am Thailändischen Au?enministerium, äu?ern und brachte in verschwurbelten Schachtelsätzen etwa Folgendes zum Ausdruck: [Heute ist ein schöner Tag][3] und bringt gefälligst ans Tageslicht, wo unsere Tsunamimillionen verschwunden sind. Und wir mögen euch ja schon noch...
 
 ?brigens treffen sich die Thailand-Botschafter der Staaten der europäischen Union während der Ratspräsidentschaft Deutschlands monatlich in der [Deutschen Botschaft zu Bangkok][4], um, ehm, europäische Dinge zu diskutieren. Gemeinsamer Standpunkt und so. 
 

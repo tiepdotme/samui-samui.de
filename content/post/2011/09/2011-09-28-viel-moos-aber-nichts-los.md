@@ -17,4 +17,4 @@ url: /2011/09/viel-moos-aber-nichts-los/
   </p>
 </div>
 
-&#8230; was den echten Urlauber ja nicht wirklich st&ouml;rt. Sorry, bin heute in Marketinggelaberlaune.
+... was den echten Urlauber ja nicht wirklich st&ouml;rt. Sorry, bin heute in Marketinggelaberlaune.

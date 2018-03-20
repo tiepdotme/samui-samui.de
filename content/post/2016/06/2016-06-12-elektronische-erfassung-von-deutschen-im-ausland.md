@@ -13,7 +13,7 @@ tags:
   - sicherheit
 
 ---
-Was wie der Titel eine politikwissenschaftlichen Diplomarbeit klingt, ist eine sehr nützliche Einrichtung der Deutschen Botschaften &#8211; die Liste der Deutschen im Ausland. 
+Was wie der Titel eine politikwissenschaftlichen Diplomarbeit klingt, ist eine sehr nützliche Einrichtung der Deutschen Botschaften --- die Liste der Deutschen im Ausland. 
 
 Unter dem (zumindest für Thailand) passenden aber falsch geschriebenem Namen Elefand kann man sich als Auswanderer&trade; oder Langzeitreisender im Ausland eintragen, die Dauer des Aufenthalts im jeweiligen Land angeben, Kontaktmöglichkeiten im Land mitteilen und Notfall-Kontakte in der Heimat hinterlegen. 
 

@@ -27,8 +27,8 @@ Dafür ist Koh Samui das Safe-Food-District Nummer 1 Thailands. Auch gut zu wiss
 
 Wenn man ganz genau sucht, findet man auch die Kalenderfotoplätze. Muss nur noch eine bessere Kamera her.
 
-Und wie man im folgenden Bild von der Welle verwaschen nur noch schemenhaft erkennen kann &#8211; ja, ich habe meine Fü?e ins Chinesische Meer getaucht. Mission accomplished.
+Und wie man im folgenden Bild von der Welle verwaschen nur noch schemenhaft erkennen kann --- ja, ich habe meine Fü?e ins Chinesische Meer getaucht. Mission accomplished.
 
 {{< figure src="/wp-content/old-images/25.jpg" >}}
 
-Jedenfalls sind es 87 Kilometer, wenn man die &#8220;Ringstra?e&#8221; fährt und alle halbwegs ausgebauten Stra?en dazunimmt, die ein wenig weiter um die Ringstra&szlig;e gehen. Verfährt man sich dann und wann noch ein wenig, kann man viel Spa? haben und einen gut verbrachten Tag erleben.
+Jedenfalls sind es 87 Kilometer, wenn man die "Ringstra?e" fährt und alle halbwegs ausgebauten Stra?en dazunimmt, die ein wenig weiter um die Ringstra&szlig;e gehen. Verfährt man sich dann und wann noch ein wenig, kann man viel Spa? haben und einen gut verbrachten Tag erleben.

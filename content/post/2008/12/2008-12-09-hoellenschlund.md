@@ -17,4 +17,4 @@ url: /2008/12/hoellenschlund/
   </p>
 </div>
 
-Die Regenzeit fordert ihren Zoll&#8230;
+Die Regenzeit fordert ihren Zoll...

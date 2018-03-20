@@ -9,7 +9,7 @@ url: /2008/09/swimming-pool/
 
 
 ---
-Dass der Swimming-Pool ziehen würde, wusste ich schon. Irgendwie denken alle Leute immer, das &#8222;wir Farangs in Thailand&#8220; den ganzen Tag am Pool oder in der Hängematraze liegen. Was grö?tenteils daran liegen könnte, dass viele Farangs, die ich kenne, ihre Telephonate nach Hause mit weitschweifigen Erklärungen beginnen, dass sie gerade am Pool in der Hängematte liegen&#8230; auch wenn es gerade aus Kübeln gie?t.
+Dass der Swimming-Pool ziehen würde, wusste ich schon. Irgendwie denken alle Leute immer, das "wir Farangs in Thailand" den ganzen Tag am Pool oder in der Hängematraze liegen. Was grö?tenteils daran liegen könnte, dass viele Farangs, die ich kenne, ihre Telephonate nach Hause mit weitschweifigen Erklärungen beginnen, dass sie gerade am Pool in der Hängematte liegen... auch wenn es gerade aus Kübeln gie?t.
 
 Jedenfalls hat mein neues Haus auch ein ganz fancy aussehendes Waschbecken im Bad, das rund ist. Rund. Ich fühle mich gleich eine ganze Farangkategorie aufgewertet. Von Holzhaus zu Steinhaus zu rundem Waschbecken.
 
@@ -17,6 +17,6 @@ Und dann ist das Wasser bis zum Rand gefüllt (ich bin schon wieder beim Pool), 
 
 Eigentlich mag ich ja Swimming-Pools nicht, aber für Photozwecke werde ich wohl mal nach Mitternacht reinschlüpfen. Bis an den Hals, ich hoffe, die Gesetze der Optik werden gnädig zu mir sein. 
 
-Und: Das Beste am _neuen Haus_&trade; &#8211; fast keine Farangs in der Gegend. &#8222;Nur Koreaner&#8220;. Sagte der Vermieter, nicht dass jetzt wieder die Rassistenvergleiche kommen. Und auf Koreaner stehe ich.
+Und: Das Beste am _neuen Haus_&trade; --- fast keine Farangs in der Gegend. "Nur Koreaner". Sagte der Vermieter, nicht dass jetzt wieder die Rassistenvergleiche kommen. Und auf Koreaner stehe ich.
 
 PS: Freitag ziehe ich um. Ich zähle die Stunden. In beiderlei Hinsicht.

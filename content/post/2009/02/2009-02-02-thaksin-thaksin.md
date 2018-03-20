@@ -15,7 +15,7 @@ Im Prinzip erklärt er immer wieder, dass die Thailändische Justiz ihm übel mi
 
 Dieses Wochenende allerdings hat er relativ unbeobachtet [folgendes abgesondert][1]:
 
-> I would like to tell the people that I&#8217;ll be ready to return to the post of prime minister again if the people are also ready.
+> I would like to tell the people that I'll be ready to return to the post of prime minister again if the people are also ready.
 
 Er will also zurück. Das wäre dann endlich mal ein Premierminister, mit dem die Hälfte der Thais zufrieden ist. 
 

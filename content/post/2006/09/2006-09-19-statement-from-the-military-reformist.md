@@ -15,7 +15,7 @@ There has been social division like never before. Each side has been trying to c
 
 State units and independent organisations have been politically meddled, not able to deliver their services as specified in the Constitution.
 
-The administration is also usually bordering on &#8220;lest majest&#8221; actions against the revered King. Despite attempts from social units for compromises, there is no way to end the conflicts.
+The administration is also usually bordering on "lest majest" actions against the revered King. Despite attempts from social units for compromises, there is no way to end the conflicts.
 
 The revolution body thus needs to seize power. We have no intention to rule but to return the power to the people as soon as possible, to preserve peace and honour the King who is the most revered to all Thais. 
 

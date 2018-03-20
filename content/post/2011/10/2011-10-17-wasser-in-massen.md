@@ -15,4 +15,4 @@ Dass es seit rund 8 Wochen im Norden regnet und D&ouml;rfer und Felder seither u
 
 Da m&uuml;ssen erst irgendwelche reichen Leute von knietiefem Wasser bedroht werden, damit sich mal jemand medienwirksam &uuml;ber Holzplanken st&ouml;ckelnd um die Probleme k&uuml;mmert. 
 
-Auf Samui ist es verd&auml;chtig trocken und sonnig &#8211; vermutlich einer der Gr&uuml;nde, warum der Tourismusminister neulich noch gemeint hat, der Tourismus sei nicht von der Flut beeintr&auml;chtigt. Anders kann man solche fr&ouml;hlichen Meldungen nicht erkl&auml;ren, wenn zwei Drittel des Landes &uuml;berschwemmt sind.
+Auf Samui ist es verd&auml;chtig trocken und sonnig --- vermutlich einer der Gr&uuml;nde, warum der Tourismusminister neulich noch gemeint hat, der Tourismus sei nicht von der Flut beeintr&auml;chtigt. Anders kann man solche fr&ouml;hlichen Meldungen nicht erkl&auml;ren, wenn zwei Drittel des Landes &uuml;berschwemmt sind.

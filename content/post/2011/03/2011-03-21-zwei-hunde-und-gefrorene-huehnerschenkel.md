@@ -22,5 +22,5 @@ dsq_thread_id:
     </a></div> 
     
     <p>
-      Wir waren heute wieder beim Tierarzt. Soosie geht es besser, gefressen hat sie trotzdem seit Mittwoch fast nichts &#8211; mehr schreib ich, wenn die ganze Sache ausgestanden ist.
+      Wir waren heute wieder beim Tierarzt. Soosie geht es besser, gefressen hat sie trotzdem seit Mittwoch fast nichts --- mehr schreib ich, wenn die ganze Sache ausgestanden ist.
     </p>

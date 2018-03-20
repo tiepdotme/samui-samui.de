@@ -11,4 +11,4 @@ dsq_thread_id:
 
 
 ---
-&#8230; wir lesen uns im nächsten Jahr wieder.
+... wir lesen uns im nächsten Jahr wieder.

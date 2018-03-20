@@ -9,7 +9,7 @@ url: /2009/04/thailaendische-farbenlehre/
 
 
 ---
-Dass man mit der Vorliebe für eine Farbe hier in Thailand immer eine politische Meinung hat, habe ich häufiger anmerken lassen. Gestern gab es wieder eines der Beispiele dafür: In Pattaya bekäpften sich &#8222;Rote&#8220; und &#8222;Blaue&#8220; T-Shirts. 
+Dass man mit der Vorliebe für eine Farbe hier in Thailand immer eine politische Meinung hat, habe ich häufiger anmerken lassen. Gestern gab es wieder eines der Beispiele dafür: In Pattaya bekäpften sich "Rote" und "Blaue" T-Shirts. 
 
 Die Roten wollen Ex-Premier Thaksin wieder haben und den aktuellen Premierminister verscheuchen. Die Blauen sind neu, aber anscheinend gegen die Roten. 
 

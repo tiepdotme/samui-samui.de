@@ -19,7 +19,7 @@ url: /2007/03/feuer-hinterm-haus/
 
 Die gro&szlig;en Ereignisse finden immer ohne mich statt. Eben kam ich aus dem Tesko zur&uuml;ck und die B&uuml;sche hinterm Haus brennen lichterloh. Die Stra&szlig;e 5 Meter weiter ist voller Aschefussel, es qualmt und knackt.
 
-Am Haus angekommen jaulen die Hunde vor sich hin, weil alle Fenster offen sind &#8211; 33 Grad, ein bisschen L&uuml;ftung muss ja sein. Dummerweise war die L&uuml;ftung in diesem Fall Qualm. Also liess ich sie schnell raus und sie gingen, sich das Feuer aus der N&auml;he zu betrachten. 
+Am Haus angekommen jaulen die Hunde vor sich hin, weil alle Fenster offen sind --- 33 Grad, ein bisschen L&uuml;ftung muss ja sein. Dummerweise war die L&uuml;ftung in diesem Fall Qualm. Also liess ich sie schnell raus und sie gingen, sich das Feuer aus der N&auml;he zu betrachten. 
 
 Mein Hausherr war auch schon in Aktion und l&ouml;schte mit dem Gartenschlauch (und meinem Wasser. Was f&uuml;r ein Gl&uuml;ck, dass das gratis ist). Er war ziemlich w&uuml;tend, sofern man sein Stirnrunzeln so deuten kann. Gef&uuml;hle artikuliert er lieber subtil.
 

@@ -13,11 +13,11 @@ tags:
   - tierwelt
 
 ---
-Von den Pandas Chiang Mai&#8217;s habe ich [schon häufiger][1] im Blog geschrieben. Hin und wieder werden sie schwanger. Dann müssen sie zurück ins (chinesische) Heimatreich, oder auch nicht.
+Von den Pandas Chiang Mai's habe ich [schon häufiger][1] im Blog geschrieben. Hin und wieder werden sie schwanger. Dann müssen sie zurück ins (chinesische) Heimatreich, oder auch nicht.
 
-Jedenfalls gibt es jederzeit in Chiang Mai Panda&#8217;s, die als chinesische Leihgabe für 10 Jahre in den Zoo gegeben werden und dann von hoffnungsvollen Wissenschaftlern und Pflegern aktiv zum Vermehren angeregt werden.
+Jedenfalls gibt es jederzeit in Chiang Mai Panda's, die als chinesische Leihgabe für 10 Jahre in den Zoo gegeben werden und dann von hoffnungsvollen Wissenschaftlern und Pflegern aktiv zum Vermehren angeregt werden.
 
-Lin Hui, aktuelle tierische Leihgabe, wurde im Juni &#8222;besamt&#8220; und hatte ihren Pflegern bereits Hoffnung auf ein weiteres eigenes Panda-Baby gegeben. Leider wurde nichts draus und so hat sie wieder ein paar Monate Ruhe, bevor man das nächste Erfolgserlebnis anstrebt.
+Lin Hui, aktuelle tierische Leihgabe, wurde im Juni "besamt" und hatte ihren Pflegern bereits Hoffnung auf ein weiteres eigenes Panda-Baby gegeben. Leider wurde nichts draus und so hat sie wieder ein paar Monate Ruhe, bevor man das nächste Erfolgserlebnis anstrebt.
 
 [via [Bangkok Post][2]]
 

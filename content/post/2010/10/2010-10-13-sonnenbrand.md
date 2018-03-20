@@ -13,7 +13,7 @@ url: /2010/10/sonnenbrand/
   <a href="http://www.flickr.com/photos/schreibblogade/5077509575/" title="Me now. Burnt in 70's style."><img src="//farm5.static.flickr.com/4051/5077509575_7a27e64644.jpg" alt="Me now. Burnt in 70's style." /></p> 
   
   <p>
-    Me now. Burnt in 70&#8217;s style.
+    Me now. Burnt in 70's style.
   </p>
   
   <p>

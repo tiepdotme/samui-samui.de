@@ -17,6 +17,6 @@ url: /2006/03/vorteilefruehenarbeitsanfanges/
   </p>
 </div>
 
-Manchmal h&auml;lt mich ja nun wirklich nichts in den vielen W&auml;nden meines Bungalows. Heute bspw. bin ich nach durchwachter Nacht einfach mal &#8220;eher&#8221; auf Arbeit gefahren. Am Geisterhausfriedhof wird des guten Willens wegen trotz allem immer gehalten (wegen Pokki, dem die Wiese dort f&uuml;r das morgendliche H&auml;ufchen sehr gelegen kommt).
+Manchmal h&auml;lt mich ja nun wirklich nichts in den vielen W&auml;nden meines Bungalows. Heute bspw. bin ich nach durchwachter Nacht einfach mal "eher" auf Arbeit gefahren. Am Geisterhausfriedhof wird des guten Willens wegen trotz allem immer gehalten (wegen Pokki, dem die Wiese dort f&uuml;r das morgendliche H&auml;ufchen sehr gelegen kommt).
 
 Ich hatte ja schon l&auml;nger die Theorie, dass hier der Sonnenaufgang besonders gut zu sehen sein d&uuml;rfte und wollte schon mal fr&uuml;h vor dem ersten Licht mit Begleitung und Stativ hierher kommen (das scheiterte an gewissen Schlafbed&uuml;rfnissen). Ich denke mal, dass dieses Photo dann &uuml;berzeugen wird.

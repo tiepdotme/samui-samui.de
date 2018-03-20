@@ -12,7 +12,7 @@ url: /2011/05/neulich-in-hat-yai/
 <div class="media video">
 </div>
 
-(Salem &#8220;Till the world ends&#8221; &#8211; nach ca. 40 Sekunden ist das Video &#8220;safe for work&#8221;)
+(Salem "Till the world ends" --- nach ca. 40 Sekunden ist das Video "safe for work")
 
 Hin und wieder tangiert unsereins auch mal Hat Yai, seines Zeichens Strandhauptstadt Südthailands und relativ sicher vor Bomben, Enthauptungen und ähnlichen südprovinzialen Unabhängigkeitsbestrebungen.
 

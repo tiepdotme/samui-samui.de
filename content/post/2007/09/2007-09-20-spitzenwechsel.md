@@ -9,7 +9,7 @@ url: /2007/09/spitzenwechsel/
 
 
 ---
-<txp:permlink id="932">General Sonthi Boonyaratglin</txp:permlink>, der freundliche Mann mit der Militäruniform der vor einem Jahr Thailand von seinem damals noch zukünftigen Profigolfer-Präsidenten befreite, hat ja nun nur eine befristete Militärlaufbahn als Armeechef, die Ende diesen Monats, ehm, endet. Also in nicht ganz 10 Tagen. Dann ist er kein Militärchef mehr. Schade.
+<a href="932">General Sonthi Boonyaratglin</a>, der freundliche Mann mit der Militäruniform der vor einem Jahr Thailand von seinem damals noch zukünftigen Profigolfer-Präsidenten befreite, hat ja nun nur eine befristete Militärlaufbahn als Armeechef, die Ende diesen Monats, ehm, endet. Also in nicht ganz 10 Tagen. Dann ist er kein Militärchef mehr. Schade.
 
 Im vergangenen Jahr hat man viel spekuliert, was er denn so machen wird, im Ruhestand. 
 
@@ -19,12 +19,12 @@ Die anderen (also die Presse und Leute, die ganz ganz viel Ahnung haben), meinte
 
 Nun ist das Ende nahe und alles Spekulieren ist relativ langweilig, die 10 Tage kann man ja noch warten. 
 
-{{< figure src="/wp-content/old-images/240" style="float:left;margin-right:10px;.jpg" >}}Neuer Armeechef wird übrigens dieser nette Mann hier: General Anupong Paochinda. Mit seiner Ernennung hat niemand gerechnet, denn er war einmal ein Gefolgsmann der &#8220;Gegenseite&#8221;. Er besuchte und absolvierte die selbe Klasse in der Militärschule wie Thaksin Shinawatra, oben erwähnter Golfer, lies ihn dann aber fallen, als er merkte, dass der Putsch bevorstand und unterstützte als Chef der Armee in der Zentralen Region Thailands die Putschenden in Bangkok mit Personal. Er ist weniger politisch ambitioniert als andere Kandidaten und wird daher als stabilisierende Kraft angesehen.
+{{< figure src="/wp-content/old-images/240" style="float:left;margin-right:10px;.jpg" >}}Neuer Armeechef wird übrigens dieser nette Mann hier: General Anupong Paochinda. Mit seiner Ernennung hat niemand gerechnet, denn er war einmal ein Gefolgsmann der "Gegenseite". Er besuchte und absolvierte die selbe Klasse in der Militärschule wie Thaksin Shinawatra, oben erwähnter Golfer, lies ihn dann aber fallen, als er merkte, dass der Putsch bevorstand und unterstützte als Chef der Armee in der Zentralen Region Thailands die Putschenden in Bangkok mit Personal. Er ist weniger politisch ambitioniert als andere Kandidaten und wird daher als stabilisierende Kraft angesehen.
 
 General Saprang Kalayanamitr, der Hauptanwärter (in den Augen der Spekulierenden) auf den Posten wurde nur stellvertretender Generalsekretär im Verteidigungsministerium.
 
 Sonthi ist sich derweil gewiss, dass der neue Armeechef keine politische oder gesellschaftliche Instabilität bringen wird. Auf die Frage was er selbst denn im wohlverdienten Ruhestand machen wird, lächelte er nur weise.
 
-[Das neueste Gerücht aber besagt][1], dass er stellvertretender Ministerpräsident und Sicherheitsminister (ein Posten, der extra für ihn eingerichtet wird) wird. &#8220;Angeregt&#8221; wurde das vom Verteidigungsminister Boonrawd Somtas.
+[Das neueste Gerücht aber besagt][1], dass er stellvertretender Ministerpräsident und Sicherheitsminister (ein Posten, der extra für ihn eingerichtet wird) wird. "Angeregt" wurde das vom Verteidigungsminister Boonrawd Somtas.
 
  [1]: http://www.nationmultimedia.com/breakingnews/read.php?newsid=30049632

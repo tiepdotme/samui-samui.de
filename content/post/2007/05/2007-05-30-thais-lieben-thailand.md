@@ -9,7 +9,7 @@ url: /2007/05/thais-lieben-thailand/
 
 
 ---
-[Thai Rak Thai][1] (<span class="caps">TRT</span>, Thais lieben Thais/Thailand) wurde soeben per Gerichtsbeschluss aufgelöst. Es gilt als erwiesen, dass die Partei Wahlergebnisse gefälscht hat (unter anderem durch das bezahlte Antretenlassen von &#8220;politischen Gegnern&#8221; bei der ansonsten von den Parteien Thailands boykottierten Wahl, damit für <span class="caps">TRT</span> abgegebene Stimmen gezählt würden).
+[Thai Rak Thai][1] (<span class="caps">TRT</span>, Thais lieben Thais/Thailand) wurde soeben per Gerichtsbeschluss aufgelöst. Es gilt als erwiesen, dass die Partei Wahlergebnisse gefälscht hat (unter anderem durch das bezahlte Antretenlassen von "politischen Gegnern" bei der ansonsten von den Parteien Thailands boykottierten Wahl, damit für <span class="caps">TRT</span> abgegebene Stimmen gezählt würden).
 
 Die Partei wurde 1998 vom damaligen Telekommunikationsunternehmer und Multimilliardär und heutigen Vorsitzenden des Thailändischen Golfverbandes Thaksin Shinawatra und anderen gegründet worden. Sie bestand grö?tenteils aus ehemaligen Bestandteilen anderer Parteien und mit der politischen Gesamtsituation unzufriedenen Gruppierungen.
 
@@ -21,6 +21,6 @@ Bei der Wahl 2006 (um deren Fälschung es heute ging) erhielten sie sogar 62% un
 
 Die Wahlen haben sie auf populistische Weise gewonnen, indem armen Regionen finanzielle Mittel versprochen wurden, viel Gutes für die leider zahlreiche arme Bevölkerung getan wurde und (so meinen manche) Stimmen bezahlt wurden. Geld ist immer noch eine Währung. 
 
-Der kometenhafte Aufstieg der Partei und ihres Führers nahm sein Ende am 19. September vergangenen Jahres. Seit dem Putsch ist jegliche politische Tätigkeit verboten. <txp:permlink id="1279">Heute nun wurde die Partei vom Verfassungsgericht aufgelöst</txp:permlink>. Schade eigentlich. Sie hatte einen so symbolischen Namen.
+Der kometenhafte Aufstieg der Partei und ihres Führers nahm sein Ende am 19. September vergangenen Jahres. Seit dem Putsch ist jegliche politische Tätigkeit verboten. <a href="1279">Heute nun wurde die Partei vom Verfassungsgericht aufgelöst</a>. Schade eigentlich. Sie hatte einen so symbolischen Namen.
 
  [1]: http://www.thairakthai.or.th/index.asp

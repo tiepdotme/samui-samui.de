@@ -17,11 +17,11 @@ url: /2009/04/parlamentarisches-desaster/
   </p>
 </div>
 
-Das Parlament Thailands hat immer viel zu tun um das Land in eine bessere Zukunft zu führen und hatte neulich [eine erregte halbstündige erregte Diskussion][1] darüber, ob ein bestimmtes Wort nun unhöflich im täglichen Debattengebrauch sei. Es ging um &#8222;chip hai&#8220;, was soviel wie &#8222;Desaster&#8220; bedeutet und ein eher umgangssprachliches Wort ist. (Im Bild oben ist chip hai das Wort ohne ?bersetzung in der Mitte ;)
+Das Parlament Thailands hat immer viel zu tun um das Land in eine bessere Zukunft zu führen und hatte neulich [eine erregte halbstündige erregte Diskussion][1] darüber, ob ein bestimmtes Wort nun unhöflich im täglichen Debattengebrauch sei. Es ging um "chip hai", was soviel wie "Desaster" bedeutet und ein eher umgangssprachliches Wort ist. (Im Bild oben ist chip hai das Wort ohne ?bersetzung in der Mitte ;)
 
 Am Ende wurde dann (zwar ohne demokratische Abstimmung aber nichtsdestotrotz wirksam) durch den Haussprecher festgelegt, dass chip hai nicht Vulgärthai ist.
 
-Man darf also ungestraft Sachen wie bspw. &#8222;Thaksin ben chip hai mueang thai&#8220; sagen. Zumindest in Hinsicht auf die Sprachwahl.
+Man darf also ungestraft Sachen wie bspw. "Thaksin ben chip hai mueang thai" sagen. Zumindest in Hinsicht auf die Sprachwahl.
 
 Wenn das Parlament nicht gerade Wortwahl betreibt, dann wählt es sich neu, löst sich auf oder verteilt (einmalig) 2000 Baht an jeden Thai der weniger als 12000 Baht (weniger als 300 Euro) im Monat verdient.
 

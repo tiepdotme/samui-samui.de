@@ -17,7 +17,7 @@ url: /2006/09/noch-einen-tag/
   </p>
 </div>
 
-&#8220;Neung wuan, then finish&#8221; sagte mir eben mein Landlord als wir uns &uuml;ber die t&auml;glich durch den Vorgarten gallopierenden B&uuml;ffel unterhielten. Letzten Mittwoch gab es wohl Verletzte so dass am Donnerstag das Geb&uuml;ffel verboten war. Ab Freitag dann liefen sie aber wieder vorbei am Haus. Ich habe so langsam aber sicher das Gef&uuml;hl, dass es bei diesen B&uuml;ffelk&auml;mpfen darum geht, welcher B&uuml;ffel als erster die Absperrung durchbricht.
+"Neung wuan, then finish" sagte mir eben mein Landlord als wir uns &uuml;ber die t&auml;glich durch den Vorgarten gallopierenden B&uuml;ffel unterhielten. Letzten Mittwoch gab es wohl Verletzte so dass am Donnerstag das Geb&uuml;ffel verboten war. Ab Freitag dann liefen sie aber wieder vorbei am Haus. Ich habe so langsam aber sicher das Gef&uuml;hl, dass es bei diesen B&uuml;ffelk&auml;mpfen darum geht, welcher B&uuml;ffel als erster die Absperrung durchbricht.
 
 F&uuml;r alle, die auf dem Bild wie ich auch nichts erkennen k&ouml;nnen: rechts von der im Weg stehenden Palme sieht man zwei B&uuml;ffelr&uuml;cken durch die Pampa rasen und links von der Palme die Staubspur, die sie hinterlassen. 
 

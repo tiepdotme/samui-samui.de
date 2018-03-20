@@ -13,11 +13,11 @@ Es hat ein wenig den Anschein einer Wirtschaftskrise, was in der Finanzwelt Thai
 
 Das haben sie heute getan. Mit für Laien wie mich erstaunlich drastischen Mitteln:
 
-Die Banken wurden aufgefordert von allen Investitionen und ins Land gebrachten Geldmittel über 20.000 US$ 30% sofort einzufrieren und erst nach einem Jahr freizugeben. Zieht man das Geld in den ersten drei bis sechs Monaten wieder ab, verliert man die eingefrorenen Finanzmittel, danach &#8220;nur&#8221; die Hälfte davon.
+Die Banken wurden aufgefordert von allen Investitionen und ins Land gebrachten Geldmittel über 20.000 US$ 30% sofort einzufrieren und erst nach einem Jahr freizugeben. Zieht man das Geld in den ersten drei bis sechs Monaten wieder ab, verliert man die eingefrorenen Finanzmittel, danach "nur" die Hälfte davon.
 
 Als Reaktion darauf gingen die Indizes an der thailändischen Börse auf Tauchkurs und der Handel wurde vorläufig eingestellt. Man spricht von [500 Milliarden Baht Verlust][1].
 
-Für Leute die Dollar in Baht umtauschen wollen, hat das ganze natürlich Vorteile, weil der [Kurs][2] &#8220;fällt&#8221;, man also mehr Baht für den Dollar bekommt. 
+Für Leute die Dollar in Baht umtauschen wollen, hat das ganze natürlich Vorteile, weil der [Kurs][2] "fällt", man also mehr Baht für den Dollar bekommt. 
 
 PS: Sie (die Bank of Thailand) geben jedenfalls schon mal zu, [dass die Kurse und Indizes unerwartet stark gefallen sind][3].
 

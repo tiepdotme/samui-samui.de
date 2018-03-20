@@ -17,4 +17,4 @@ url: /2007/09/sonnenuntergang-3/
   </p>
 </div>
 
-Ich glaube die Farben w&uuml;rden mir fehlen&#8230; irgendwann&#8230;
+Ich glaube die Farben w&uuml;rden mir fehlen... irgendwann...

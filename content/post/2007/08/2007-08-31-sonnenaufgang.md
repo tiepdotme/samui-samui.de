@@ -19,4 +19,4 @@ dsq_thread_id:
   </p>
 </div>
 
-Eine der Ansichten aus meinem Schlafzimmerfenster die mir fehlen werden. Das neue Haus wird nicht so günstig stehen&#8230;
+Eine der Ansichten aus meinem Schlafzimmerfenster die mir fehlen werden. Das neue Haus wird nicht so günstig stehen...

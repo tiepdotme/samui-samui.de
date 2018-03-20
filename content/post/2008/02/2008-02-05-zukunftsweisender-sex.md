@@ -17,7 +17,7 @@ url: /2008/02/zukunftsweisender-sex/
   </p>
 </div>
 
-In einem Land in dem Verdienste länger honoriert werden als Schandtaten erinnert, ist es relativ verständlich, wenn die westlich edukierten Medien die &#8220;alten&#8221; Mittel nutzen, um Meinung zu bilden. Heute: _Das Waranorakel_.
+In einem Land in dem Verdienste länger honoriert werden als Schandtaten erinnert, ist es relativ verständlich, wenn die westlich edukierten Medien die "alten" Mittel nutzen, um Meinung zu bilden. Heute: _Das Waranorakel_.
 
 Kurz gesagt: Wenn Warane in den Tagen einer Regierungsbildung Sex in der Nähe der Volksversammlung haben, dann ist das ein schlechtes Omen für die jeweilige Regierung. 
 

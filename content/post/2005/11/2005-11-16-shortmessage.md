@@ -9,6 +9,6 @@ url: /2005/11/shortmessage/
 
 
 ---
-&#8220;Yes,&#8221;
+"Yes,"
 
 (to be remembered)

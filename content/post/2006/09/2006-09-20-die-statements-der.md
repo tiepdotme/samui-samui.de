@@ -10,7 +10,7 @@ url: /2006/09/die-statements-der/
 
 
 ---
-Leaders of Thailand&#8217;s military coup have released a series of statements. The initial statement and communiques 1 to 4 were read out on army television and a sixth statement appeared in English on the website of The Nation newspaper. The texts of the four statements follow: 
+Leaders of Thailand's military coup have released a series of statements. The initial statement and communiques 1 to 4 were read out on army television and a sixth statement appeared in English on the website of The Nation newspaper. The texts of the four statements follow: 
 
 **<span class="caps">INITIAL</span> STATEMENT**
   
@@ -18,19 +18,19 @@ Now the Administrative Reform Group under the Democratic System with the King as
 
 For the sake of maintaining peace and order in the country, people are asked to render their co-operation. We apologise for the inconvenience. 
 
-**&#8216;No intention to rule&#8217;**
+**'No intention to rule'**
   
 There has been social division like never before. Each side has been trying to conquer another with all possible means and the situation tends to intensify with growing doubts on the administration amid widespread reported corruption. 
 
 State units and independent organisations have been politically meddled [with], not able to deliver their services as specified in the Constitution. 
 
-The administration is also usually bordering on &#8220;lest majest&#8221; [as published] actions against the revered King. Despite attempts from social units for compromises, there is no way to end the conflicts. 
+The administration is also usually bordering on "lest majest" [as published] actions against the revered King. Despite attempts from social units for compromises, there is no way to end the conflicts. 
 
 The revolution body thus needs to seize power. We have no intention to rule but to return the power to the people as soon as possible, to preserve peace and honour the King who is the most revered to all Thais. 
 
 **<span class="caps">COMMUNIQUE</span> NO 1**
   
-It has been clear that the administration of the country&#8217;s affairs by the current caretaker government has created conflicts and division, and sowed discord among the people of the nation. 
+It has been clear that the administration of the country's affairs by the current caretaker government has created conflicts and division, and sowed discord among the people of the nation. 
 
 It is unprecedented in the history of the Thai nation that groups were determined to win through ways and means. 
 
@@ -42,7 +42,7 @@ Independent agencies and organisations have been dominated by politics and unabl
 
 Consequently, political activities have encountered numerous problems and obstacles. 
 
-Frequently, the dignity of the Thai people&#8217;s king was affected. 
+Frequently, the dignity of the Thai people's king was affected. 
 
 The efforts exerted by several sectors of society to alleviate the situation have failed to bring an end to the conflict. 
 
@@ -56,7 +56,7 @@ The administrative power under the democratic system with the king as the head o
   
 All military and police personnel are ordered to report themselves to their respective commanding officers. 
 
-All forces&#8217; movements from their barracks are strictly prohibited without orders from the Administrative Reform Group under the Democratic System with the King as the Head of State. 
+All forces' movements from their barracks are strictly prohibited without orders from the Administrative Reform Group under the Democratic System with the King as the Head of State. 
 
 **<span class="caps">COMMUNIQUE</span> NO 3**
   

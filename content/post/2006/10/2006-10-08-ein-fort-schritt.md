@@ -13,7 +13,7 @@ Eben habe ich Fu eine Emailadresse eingerichtet. Das ging etwa so:
 
 Sie: Okay. I now need a address with Hotmail.
   
-Ich: We don&#8217;t like Hotmail. We like maybe Yahoo, but sure we like Gmail.
+Ich: We don't like Hotmail. We like maybe Yahoo, but sure we like Gmail.
   
 Sie: But can I have a address with Jmail?
   

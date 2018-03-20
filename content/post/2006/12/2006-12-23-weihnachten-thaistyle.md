@@ -13,7 +13,7 @@ dsq_thread_id:
 ---
 Gestern fragte [Lowlander][1] in den Kommentaren, wie denn in Thailand Weihnachten gefeiert w&uuml;rde. Die Antwort darauf ist einfach: Gar nicht. 
 
-Zwar sind die Thais Weltmeister im Aufnehmen fremder Feste und Br&auml;uche, aber Weihnachten hat es noch nicht geschafft. Neujahr ist der n&auml;chste offizielle Feiertag, die restlichen Tage sind &#8220;ganz normale&#8221; Tage. Aus diesem Grund schreiben Reiseunternehmen auch unter Thailand, Sonne, Strand ein &#8220;entfliehen Sie dem Weihnachtsstress&#8221;. (Kleiner Hinweis am Rande: Das mit der Sonne k&ouml;nnte zur Zeit nicht ganz stimmen.)
+Zwar sind die Thais Weltmeister im Aufnehmen fremder Feste und Br&auml;uche, aber Weihnachten hat es noch nicht geschafft. Neujahr ist der n&auml;chste offizielle Feiertag, die restlichen Tage sind "ganz normale" Tage. Aus diesem Grund schreiben Reiseunternehmen auch unter Thailand, Sonne, Strand ein "entfliehen Sie dem Weihnachtsstress". (Kleiner Hinweis am Rande: Das mit der Sonne k&ouml;nnte zur Zeit nicht ganz stimmen.)
 
 Trotz allem kann man in Gegenden touristischer Konzentration ein gewisses weihnachliches Stimmungsmachen entdecken. Soweit ich wei&szlig; servieren einige Restaurants speziell an Weihnachten europ&auml;ische und amerikanische Weihnachtsgerichte (tote Fl&uuml;gelviecher). Und die Ladyboys auf der Beachstreet tragen neben den engen kleinen H&ouml;schen auch Weihnachtsmannm&uuml;tzen, je nach Laune mit blinkenden Accessoires oder ohne. Um die Ecke in der hei&szlig;en Pfanne tragen sie auch M&uuml;tzen, allerdings voll bekleidet.
 

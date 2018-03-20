@@ -23,6 +23,6 @@ Seither ist es jedenfalls nicht ruhig geworden am Poolhaus. Jeder hat irgendeine
 
 Heute Abend nun verl&auml;sst uns Nummer Zwei in liebevolle H&auml;nde zu einer Familie mit einer weiteren 8 Monate alten Shihtzu-H&uuml;ndin (nicht aus Ressortbekanntschaften resultierend). Kann eigentlich nur gut sein, ich gehe davon aus, dass ich nur noch halb soviele Pf&uuml;tzen aufwischen muss, denn die beiden anderen wissen, wie man sich benimmt.
 
-Die drei sind inzwischen so gro&szlg; wie Pokki und Soosie waren, als sie ein paar Wochen schon bei mir gelebt haben. Entweder wurden die beiden schlecht gef&uuml;ttert oder sie waren wenn es hoch kommt nur 4 Wochen alt (da waren meine Welpen so gro&szlig; wie Pokki bei seiner Ankunft), als sie verkauft wurden. Soosie war definitiv j&uuml;nger, denn sie versteht nicht, zu spielen. Beides wirft ein eher bedenkliches Licht auf die &#8222;Z&uuml;chter&#8220;.
+Die drei sind inzwischen so gro&szlg; wie Pokki und Soosie waren, als sie ein paar Wochen schon bei mir gelebt haben. Entweder wurden die beiden schlecht gef&uuml;ttert oder sie waren wenn es hoch kommt nur 4 Wochen alt (da waren meine Welpen so gro&szlig; wie Pokki bei seiner Ankunft), als sie verkauft wurden. Soosie war definitiv j&uuml;nger, denn sie versteht nicht, zu spielen. Beides wirft ein eher bedenkliches Licht auf die "Z&uuml;chter".
 
 Die Welpen gedeihen und ich k&auml;pfe hart mit mir, ob ich zwei oder drei abgebe. Ist ja schon etwas viel Arbeit. Aber sie sind doch soooooo s&uuml;&szlig;!

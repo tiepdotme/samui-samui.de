@@ -11,7 +11,7 @@ dsq_thread_id:
 
 
 ---
-Ich fass es nicht. Auf UBC (ach nein, wir hei?en True visions now) kommt &#8220;Goodbye Lenin&#8221;. Auf Deutsch. Gewohnt bin ich auf dem Moviekanal nur Japanisch, Englisch, Französisch und Spanisch. Das ist das erste Mal, dass ein deutscher Film kommt (den ich dazu auch noch nicht mal gesehen habe).
+Ich fass es nicht. Auf UBC (ach nein, wir hei?en True visions now) kommt "Goodbye Lenin". Auf Deutsch. Gewohnt bin ich auf dem Moviekanal nur Japanisch, Englisch, Französisch und Spanisch. Das ist das erste Mal, dass ein deutscher Film kommt (den ich dazu auch noch nicht mal gesehen habe).
 
 Gleich mal kucken.
 

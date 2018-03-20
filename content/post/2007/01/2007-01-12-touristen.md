@@ -17,4 +17,4 @@ url: /2007/01/touristen/
   </p>
 </div>
 
-Hin Da Hin Yai auf Ko Samui. Immer wieder eine Freude, da hin zu gehen&#8230;
+Hin Da Hin Yai auf Ko Samui. Immer wieder eine Freude, da hin zu gehen...

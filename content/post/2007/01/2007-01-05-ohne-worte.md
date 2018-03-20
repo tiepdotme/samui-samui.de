@@ -17,4 +17,4 @@ url: /2007/01/ohne-worte/
   </p>
 </div>
 
-_(Dieses Bild habe ich aufgenommen im September. Es gibt es noch mehr lustige Photos in dieser Art, die ich bei fehlenden Themen posten werde. Hin Da Hin Yai ist immer ein springender Quell an Motiven&#8230; )_
+_(Dieses Bild habe ich aufgenommen im September. Es gibt es noch mehr lustige Photos in dieser Art, die ich bei fehlenden Themen posten werde. Hin Da Hin Yai ist immer ein springender Quell an Motiven... )_

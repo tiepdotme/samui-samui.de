@@ -15,8 +15,8 @@ dsq_thread_id:
   <a href="http://www.flickr.com/photos/schreibblogade/2182530265/" title="Oops! We did it again..."><img src="//farm3.static.flickr.com/2298/2182530265_f8f13087ed.jpg" alt="Oops! We did it again..." /></a></p> 
   
   <p>
-    Oops! We did it again&#8230;
+    Oops! We did it again...
   </p>
 </div>
 
-Ich hoffe nur, dass sie so unfruchtbar bleiben wie beim letzten mal :( sonst gibts viel Arbeit&#8230;
+Ich hoffe nur, dass sie so unfruchtbar bleiben wie beim letzten mal :( sonst gibts viel Arbeit...

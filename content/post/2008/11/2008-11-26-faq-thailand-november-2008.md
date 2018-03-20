@@ -25,11 +25,11 @@ A: Die Regierung. Die aktuelle (Stand 25. November 2008). <span class="caps">PPP
 
 **F: Und die Gelben?**
 
-A: <span class="caps">PAD</span>. Das sind &#8216;die Guten&#8217;. Die demonstrieren gewaltfrei für eine Ständeregierung und sind auch sonst ganz gut organisiert.
+A: <span class="caps">PAD</span>. Das sind 'die Guten'. Die demonstrieren gewaltfrei für eine Ständeregierung und sind auch sonst ganz gut organisiert.
 
 **F: Ständeregierung?**
 
-A: Ja. Die wollen eine Regierung, in der 50% oder lieber mehr der &#8216;Volksvertreter&#8217; nicht vom Volk gewählt sondern von vereinzelten Berufsständen (Taxifahrer, ?rzte, Journalisten, <span class="caps">PAD</span>-Führer) delegiert werden. 
+A: Ja. Die wollen eine Regierung, in der 50% oder lieber mehr der 'Volksvertreter' nicht vom Volk gewählt sondern von vereinzelten Berufsständen (Taxifahrer, ?rzte, Journalisten, <span class="caps">PAD</span>-Führer) delegiert werden. 
 
 **F: Thailand ist also sicher?**
 
@@ -41,4 +41,4 @@ A: Einfach im Krankenhaus dran denken, dass du sagst, dass du für die <span cla
 
 **F: Und wann wird wieder Ordnung einkehren?**
 
-A: Am Freitag. Dann entscheidet ein Gericht darüber, ob die drei Regierungsparteien aufgelöst werden müssen. Ohne Partei keine Regierung, so die Hoffnung. Sollte das nicht der Fall sein, dann endet das Ganze bestimmt kurz nach dem Start von Ong Bak 2 (am 5. Dezember) in den thailändischen Kinos. Wenn das nicht hilft &#8211; Thaksin (war auch schon mal Premierminister) hat ein Telefonat für den 14. Dezember angekündigt. Wenn sich auch dann nichts tut, dann hätten wir noch Weihnachten mit einer obskuren Ankunft. Oder an einem der anderen Tage durch Mithilfe des Militärs. Hilft das alles nicht, dann wird genau das passieren, was auch die vergangenen 76 Jahre bereits passierte. Demokratie Thaistyle.
+A: Am Freitag. Dann entscheidet ein Gericht darüber, ob die drei Regierungsparteien aufgelöst werden müssen. Ohne Partei keine Regierung, so die Hoffnung. Sollte das nicht der Fall sein, dann endet das Ganze bestimmt kurz nach dem Start von Ong Bak 2 (am 5. Dezember) in den thailändischen Kinos. Wenn das nicht hilft --- Thaksin (war auch schon mal Premierminister) hat ein Telefonat für den 14. Dezember angekündigt. Wenn sich auch dann nichts tut, dann hätten wir noch Weihnachten mit einer obskuren Ankunft. Oder an einem der anderen Tage durch Mithilfe des Militärs. Hilft das alles nicht, dann wird genau das passieren, was auch die vergangenen 76 Jahre bereits passierte. Demokratie Thaistyle.

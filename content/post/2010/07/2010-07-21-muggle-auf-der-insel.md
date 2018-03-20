@@ -9,7 +9,7 @@ url: /2010/07/muggle-auf-der-insel/
 
 
 ---
-Ich weiss, so langsam verkommen diese Seiten hier zu einem &#8222;wer ist auf Samui&#8220;-Magazin &#8211; was solls&#8230;
+Ich weiss, so langsam verkommen diese Seiten hier zu einem "wer ist auf Samui"-Magazin --- was solls...
 
 Vor einer Woche schon sind [Bilder einer gejetlaggten Emma Watson auf dem Samui-Flughafen][1] aufgetaucht. Gary Oldman Fans werden sie aus einer ihrer Rollen in diesen Harry Potter Filmen kennen. 
 

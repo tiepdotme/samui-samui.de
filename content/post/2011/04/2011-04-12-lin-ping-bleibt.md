@@ -22,11 +22,11 @@ tags:
     </a></div> 
     
     <p>
-      &#8220;Unser&#8221; kleiner Panda in Chiang Mai hat in den vergangenen Jahren immer nützliche Dienste in der Landespresse verrichtet, wenn die Aufmerksamkeit von anderen Ereignissen abgelenkt werden sollte.
+      "Unser" kleiner Panda in Chiang Mai hat in den vergangenen Jahren immer nützliche Dienste in der Landespresse verrichtet, wenn die Aufmerksamkeit von anderen Ereignissen abgelenkt werden sollte.
     </p>
     
     <p>
-      Da stimmt es uns natürlich glücklich, dass die Chinesen nach langen Verhandlungen zugestimmt haben, dass <a href="http://www.bangkokpost.com/learning/easier-stuff/231308/lin-ping-stays-on">Lin Ping noch zwei Jahre in Thailand bleiben darf</a>. Lt. &#8220;Leasingvertrag&#8221; der Eltern Lin Hui und Chuang Chuang, die für 10 Jahre an Thailand ausgeliehen wurden, gehört jeglicher Nachwuchs nämlich China und muss nach den ersten beiden Lebensjahren nach China umsiedeln.
+      Da stimmt es uns natürlich glücklich, dass die Chinesen nach langen Verhandlungen zugestimmt haben, dass <a href="http://www.bangkokpost.com/learning/easier-stuff/231308/lin-ping-stays-on">Lin Ping noch zwei Jahre in Thailand bleiben darf</a>. Lt. "Leasingvertrag" der Eltern Lin Hui und Chuang Chuang, die für 10 Jahre an Thailand ausgeliehen wurden, gehört jeglicher Nachwuchs nämlich China und muss nach den ersten beiden Lebensjahren nach China umsiedeln.
     </p>
     
     <p>

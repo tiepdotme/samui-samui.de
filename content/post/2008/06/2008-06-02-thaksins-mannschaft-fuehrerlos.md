@@ -15,7 +15,7 @@ Als dann der Präsident des Thailändischen Profigolferverbands Thaksin Shinawat
 
 Dann kamen die schlechten Ergebnisse, Thaifahnen mit Thaksins Namen drauf, die hier in Thailand Sondersitzungen des Parlaments zur Folge hatten und Erikssons schlechtestes Fussballspiel, in dem seine Mannschaft 8:1 gegen Middlesborough verlor. 
 
-> Eriksson&#8217;s departure had been inevitable for a couple of months. The Swede demanded talks over his future after City&#8217;s season ended with an 8-1 thrashing at Middlesbrough, yet Thaksin responded only by saying he was undergoing a thorough review of the season, leaving Eriksson to take charge of a two-match tour of the Far East.
+> Eriksson's departure had been inevitable for a couple of months. The Swede demanded talks over his future after City's season ended with an 8-1 thrashing at Middlesbrough, yet Thaksin responded only by saying he was undergoing a thorough review of the season, leaving Eriksson to take charge of a two-match tour of the Far East.
 
 Das ist nicht unbedingt Thaistyle, eher Thaksinstyle, hat aber ein bisschen was von den alljährlichen Putschvorbereitungen.
 

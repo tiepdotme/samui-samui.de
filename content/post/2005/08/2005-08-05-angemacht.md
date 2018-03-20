@@ -23,7 +23,7 @@ Sie: Your hair is longer.
   
 Ich: Yes it grows fast. Two months.
   
-Sie: Two months? (\_kuckt in den Pass\_) Right. June. Grows really fast (\_grinst\_) May I &#8230; ? (\_touch touch touch fummel\_) Nice. 
+Sie: Two months? (\_kuckt in den Pass\_) Right. June. Grows really fast (\_grinst\_) May I ... ? (\_touch touch touch fummel\_) Nice. 
   
 Ich: ?hm. (\_rosa\_) Yes. Need lot of care. (\_ich weiss, sehr einfallsreich\_)
   
@@ -35,6 +35,6 @@ Sie: When you come back, we go to dinner. Have a nice trip! (\_gibt den Pass zur
   
 Ich: Ok. (\_Abgang nach rechts\_)
 
-Etwas später fiel mir dann auf, dass ich zumindest ihre Nummer hätte mitnehmen können, der Flughafen ist etwas gro? um sie beim nächsten Mal zu finden. Und Uniform und Punkt auf der Stirn sehen einfach nur, ähm, ja &#8211; gut aus.
+Etwas später fiel mir dann auf, dass ich zumindest ihre Nummer hätte mitnehmen können, der Flughafen ist etwas gro? um sie beim nächsten Mal zu finden. Und Uniform und Punkt auf der Stirn sehen einfach nur, ähm, ja --- gut aus.
 
 Man kann von den Südostasiaten ja noch _\*so viel\*_ lernen. Wirklich ;0]

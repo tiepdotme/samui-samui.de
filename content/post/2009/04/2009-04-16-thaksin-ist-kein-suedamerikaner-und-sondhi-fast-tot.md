@@ -11,7 +11,7 @@ url: /2009/04/thaksin-ist-kein-suedamerikaner-und-sondhi-fast-tot/
 ---
 [Es sieht so aus][1], als ob die nikaraguanische Passgeschichte Thaksins ein gut gemachter Photoshopscherz ist, der weder bestätigt werden kann noch verneint wird. Sehr beruhigend und vor allem ein klares Licht auf Thaksin werfend.
 
-Unterdessen hat man [Sondhi Limthongkul (der Führer der <span class="caps">PAD</span>) heute morgen angeschossen][2] &#8211; er war gewarnt worden, dass ein Attentat auf ihn geplant war und hat das ignoriert. 
+Unterdessen hat man [Sondhi Limthongkul (der Führer der <span class="caps">PAD</span>) heute morgen angeschossen][2] --- er war gewarnt worden, dass ein Attentat auf ihn geplant war und hat das ignoriert. 
 
 So löst man Probleme in Thailand: Mit Propaganda und einer AK-16.
 

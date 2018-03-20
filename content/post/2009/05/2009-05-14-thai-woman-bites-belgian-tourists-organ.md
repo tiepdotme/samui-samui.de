@@ -11,9 +11,9 @@ url: /2009/05/thai-woman-bites-belgian-tourists-organ/
 ---
 [Der][1] ist so gut, den muss man einfach voll zitieren:
 
-> Pattaya &#8211; A Belgian tourist was severely injured early Thursday when his Thai bit his male organ and almost severed it, police said.
+> Pattaya --- A Belgian tourist was severely injured early Thursday when his Thai bit his male organ and almost severed it, police said.
 > 
-> The tourist, Eddy Iam De Velde, 56, was rushed to the Pattaya Memorial Hospital and doctors managed to save the man&#8217;s organ.
+> The tourist, Eddy Iam De Velde, 56, was rushed to the Pattaya Memorial Hospital and doctors managed to save the man's organ.
 > 
 > The hospital reported the event to police at 5:30 am.
 > 
@@ -27,9 +27,9 @@ url: /2009/05/thai-woman-bites-belgian-tourists-organ/
 
 Ich sage mal, man sollte darauf achten was man sagt, wenn man seine Genitalien nicht alle bei sich hat.
 
-PS: The Nation war mir eigentlich immer als seriöses wenn auch parteiisches Organ bekannt&#8230; 
+PS: The Nation war mir eigentlich immer als seriöses wenn auch parteiisches Organ bekannt... 
 
-<span class="caps">PPS</span>: Gibt es eigentlich eine Organisation die sich um Opfer abgebissener Fortpflanzungsorgane kümmert? Das gibt es häufiger in den einschlägigen Touristenorten&#8230;
+<span class="caps">PPS</span>: Gibt es eigentlich eine Organisation die sich um Opfer abgebissener Fortpflanzungsorgane kümmert? Das gibt es häufiger in den einschlägigen Touristenorten...
 
 <span class="caps">PPPS</span>: Einen letzten organischen hab ich noch, ein Insider: Sie war bestimmt kein Muslim.
 

@@ -33,4 +33,4 @@ Für die Freunde der wechselnden Bildschirm- oder Desktophintergründe gibt es d
 
 ### Lizenz
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/de/"><br /> <img alt="Creative Commons License" style="display:inline;float:left;margin-right:10px;" src="//i.creativecommons.org/l/by-nc-nd/2.0/de/88x31.png" /><br /> </a> Die Desktophintergründe sind unter der <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/de/">Namensnennung &#8211; Keine kommerzielle Nutzung &#8211; Keine Bearbeitung 2.0 Deutschland</a> Lizenz frei verfügbar und können weiter gegeben werden.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/de/"><br /> <img alt="Creative Commons License" style="display:inline;float:left;margin-right:10px;" src="//i.creativecommons.org/l/by-nc-nd/2.0/de/88x31.png" /><br /> </a> Die Desktophintergründe sind unter der <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/de/">Namensnennung --- Keine kommerzielle Nutzung --- Keine Bearbeitung 2.0 Deutschland</a> Lizenz frei verfügbar und können weiter gegeben werden.

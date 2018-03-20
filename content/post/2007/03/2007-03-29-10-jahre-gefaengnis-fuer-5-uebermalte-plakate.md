@@ -19,6 +19,6 @@ Ursprünglich wurde Lufer zu 20 Jahren verurteilt, die Haftstrafe aber halbiert,
 
 Ich persönlich habe ehrlich gesagt weniger Mitleid mit ihm. Wenn man wie er mehr als 10 Jahre in Thailand lebt, sollte man auch im betrunkenen Zustand sehr gut beurteilen können, was man sich mit dem ?bermalen von Königsplakaten einhandelt.
 
-Ein Gutes wird der Prozess, über den man in Deutschland in den einschlägigen Medien berichten wird, haben: Neben den Regeln &#8220;nimm keinen Stein aus der Türkei mit&#8221; und &#8220;fische nicht in iranischen Grenzgebieten&#8221; wird die Regel &#8220;beleidige nicht das Königshaus in Thailand&#8221; sich in den Köpfen der Bildzeitungsleser fest setzen. Man sollte noch &#8220;renne nicht mit nacktem Oberkörper weiter als 10 Meter vom Strand herum&#8221; aufnehmen.
+Ein Gutes wird der Prozess, über den man in Deutschland in den einschlägigen Medien berichten wird, haben: Neben den Regeln "nimm keinen Stein aus der Türkei mit" und "fische nicht in iranischen Grenzgebieten" wird die Regel "beleidige nicht das Königshaus in Thailand" sich in den Köpfen der Bildzeitungsleser fest setzen. Man sollte noch "renne nicht mit nacktem Oberkörper weiter als 10 Meter vom Strand herum" aufnehmen.
 
  [1]: http://www.magicvalley.com/articles/2007/03/28/ap/international/d8o5jpt80.txt

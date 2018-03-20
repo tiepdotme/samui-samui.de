@@ -19,4 +19,4 @@ dsq_thread_id:
   </p>
 </div>
 
-<txp:permlink id="1409">Siehe auch hier</txp:permlink>.
+<a href="1409">Siehe auch hier</a>.

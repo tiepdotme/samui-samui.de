@@ -25,7 +25,7 @@ Hey. 60 Euro!!!! Das sind hier zwei Thaifrauen für mindestens zwei Tage. Oder e
 
 Da könnte ich mir glatt nen neuen Rechner für kaufen.
 
-Schöner Mist. Und dann steht auf dem Netzteil noch in frechen Buchstaben &#8220;Made in Thailand&#8221; drauf.
+Schöner Mist. Und dann steht auf dem Netzteil noch in frechen Buchstaben "Made in Thailand" drauf.
 
 Hat zufülligerweise jemand da draussen der in den nächsten Wochen nach Thailand reist ein Netzteil rumliegen das in meinen kleinen Inspiron reinpasst und braucht es nicht mehr?
 

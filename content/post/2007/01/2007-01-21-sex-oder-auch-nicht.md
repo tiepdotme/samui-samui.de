@@ -11,13 +11,13 @@ dsq_thread_id:
 
 
 ---
-Der Premierminister hat der Jugend Thailands ja angeraten, mit dem Sex zu warten, bis sie [im richtigen Alter][1] daf&uuml;r ist. Wenn man allerdings ein Panda ist und keine Lust auf Sex hat, dann wird man in Thailand gezwungen oder &#8220;angeregt&#8221;, dem freudigen Treiben zu fr&ouml;hnen.
+Der Premierminister hat der Jugend Thailands ja angeraten, mit dem Sex zu warten, bis sie [im richtigen Alter][1] daf&uuml;r ist. Wenn man allerdings ein Panda ist und keine Lust auf Sex hat, dann wird man in Thailand gezwungen oder "angeregt", dem freudigen Treiben zu fr&ouml;hnen.
 
 Der Zoo in Chiang Mai hat zwei Pandab&auml;ren, seit 2003 f&uuml;r 10 Jahre von einem Zoo in China geborgt. Chuang Chuang ist ein M&auml;nnchen und Lin Hui ein Weibchen. Nun s&auml;he es doch super progressiv und wissenschaftlich erfolgreich aus, wenn die beiden hier in Thailand kleine Babyb&auml;rchen werfen w&uuml;rden. Dummerweise nur wollen sie nicht.
 
 Seit gut einem Jahr h&ouml;rt und liest man immer wieder &uuml;ber die beiden armen Z&ouml;libaten und die vergeblichen Versuche Chuang Chuang erregt Lin Hui besteigen zu lassen. 
 
-Pandas haben keinen sonderlich gro&szlig;en Sexdrang. (An dieser Stelle m&uuml;sste jetzt ein Tr&auml;nendr&uuml;sensatz a la &#8220;weshalb sie vom Aussterben bedroht sind&#8221; kommen, ich nehme aber an, es gibt andere Gr&uuml;nde daf&uuml;r.) Vergangenes Jahr wurden sie mit gro&szlig;em Brimborium verheiratet, hatten aber in der Hochzeitnacht offenbar keinerlei menschlich logisch auf Hochzeiten folgende Gel&uuml;ste. Auch eine Trennung beider B&auml;ren f&uuml;r einige Zeit wurde eher mit stoischer Freude angenommen. Neulich nun sollte Chuang Chuang mit Tierpornos<txp:gho_footnote>
+Pandas haben keinen sonderlich gro&szlig;en Sexdrang. (An dieser Stelle m&uuml;sste jetzt ein Tr&auml;nendr&uuml;sensatz a la "weshalb sie vom Aussterben bedroht sind" kommen, ich nehme aber an, es gibt andere Gr&uuml;nde daf&uuml;r.) Vergangenes Jahr wurden sie mit gro&szlig;em Brimborium verheiratet, hatten aber in der Hochzeitnacht offenbar keinerlei menschlich logisch auf Hochzeiten folgende Gel&uuml;ste. Auch eine Trennung beider B&auml;ren f&uuml;r einige Zeit wurde eher mit stoischer Freude angenommen. Neulich nun sollte Chuang Chuang mit Tierpornos<txp:gho_footnote>
   
 T&uuml;rklingel: Klingelt
   
@@ -25,7 +25,7 @@ Panda-Dame: Leckt sich gerade die Tatzen. Sie schreitet zur T&uuml;r und &ouml;f
   
 Vor der T&uuml;r steht ein Panda-Herr mit einem Werkzeugkoffer in der Hand.
   
-Panda-Herr: Hallo, ich soll hier ein Rohr verlegen&#8230;
+Panda-Herr: Hallo, ich soll hier ein Rohr verlegen...
   
 Panda-Dame: Ja, kommen Sie ruhig herein, die Waschmaschine steht im Schlafzimmer!
   
@@ -39,7 +39,7 @@ Panda-Herr: Ja, was ist das denn?
   
 Panda-Dame: Das war schon hier als ich eingezogen bin.
   
-Panda-Herr: Na dann lassen Sie uns das mal testen&#8230;
+Panda-Herr: Na dann lassen Sie uns das mal testen...
   
 Kamera zoomt ins Schwarze.
   

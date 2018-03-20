@@ -17,7 +17,7 @@ Das Bild im Header wird sich regelm&auml;&szlig;ig &auml;ndern (irgendwie muss m
 
 **Schriften**
 
-Die Header haben eine andere Schriftart (Century Gothic ff.) als der Rest des Textes (Verdana ff.). Leider sieht das &#8216;S&#8217; im Header f&uuml;rchterlich aus, vor allem, wenn es mal doppelt auftritt. 
+Die Header haben eine andere Schriftart (Century Gothic ff.) als der Rest des Textes (Verdana ff.). Leider sieht das 'S' im Header f&uuml;rchterlich aus, vor allem, wenn es mal doppelt auftritt. 
 
 **Farben**
 

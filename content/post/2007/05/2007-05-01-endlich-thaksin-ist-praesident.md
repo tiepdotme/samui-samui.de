@@ -13,7 +13,7 @@ Thaksin Shinawatra, f&uuml;r meine seltener lesenden Leser: der war mal Minister
 
 Thaksin sei ein Golfer, der kein Interesse daran h&auml;tte, in die Politik zur&uuml;ck zu kehren. Au&szlig;erdem scheint er ein h&uuml;bsches S&uuml;mmchen gezahlt zu haben.
 
-Golf spielen <txp:permlink id="1102">kann er ja</txp:permlink>.
+Golf spielen <a href="1102">kann er ja</a>.
 
 Sonthi war dar&uuml;ber [erstaunt][2] :
 

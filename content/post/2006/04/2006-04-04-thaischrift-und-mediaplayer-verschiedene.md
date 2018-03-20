@@ -13,4 +13,4 @@ Also irgendwie bin ich ja ziemlich angefressen. Ich suche seit Wochen einen Medi
 
 Die Player spielen entweder ohne Titelanzeige oder sie st&uuml;rzen ab beim Versuch Buchstaben zu zeigen. Da hat man nun Gigabyte &uuml;ber Gigabyte an Thaimusik und kann sie nicht h&ouml;ren. 
 
-(Ich muss mich auf meinen Karaoke-Bar-Besuch demn&auml;chst) vorbereiten. Neben &#8220;Fan Ja&#8221; von Bird(, ehm,) Thomtschai(, oder?) will ich noch ein paar andere St&uuml;cke in der Patrick-Version urauff&uuml;hren.)
+(Ich muss mich auf meinen Karaoke-Bar-Besuch demn&auml;chst) vorbereiten. Neben "Fan Ja" von Bird(, ehm,) Thomtschai(, oder?) will ich noch ein paar andere St&uuml;cke in der Patrick-Version urauff&uuml;hren.)

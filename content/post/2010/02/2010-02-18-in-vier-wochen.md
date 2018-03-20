@@ -20,5 +20,5 @@ url: /2010/02/in-vier-wochen/
     </a></div> 
     
     <p>
-      Zeit, eine Checkliste zu machen&#8230;
+      Zeit, eine Checkliste zu machen...
     </p>

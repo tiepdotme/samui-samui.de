@@ -11,6 +11,6 @@ url: /2007/02/the-beginning-of-the-end/
 ---
 <img src="//die.schreibbloga.de/images/222.jpg" width="520" />
 
-Jaja. [Jahr Null][1]. Kommt gleich nach <txp:permlink id="1023">Neunundneunzig</txp:permlink>.
+Jaja. [Jahr Null][1]. Kommt gleich nach <a href="1023">Neunundneunzig</a>.
 
  [1]: http://yearzero.nin.com/

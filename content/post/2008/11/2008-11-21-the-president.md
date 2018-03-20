@@ -13,5 +13,5 @@ Dialog eben:
 
 He: That the german president?   
 Me: Yes. He likes to talk.   
-He: Wasn&#8217;t he a woman?   
+He: Wasn't he a woman?   
 Me: No, a banker.

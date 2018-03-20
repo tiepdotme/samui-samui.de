@@ -17,4 +17,4 @@ Nun. Nett. Ich hab dann um sieben begonnen, Samstagsputz in meiner Hütte zu mac
 
 Im Augenblick sind es 36 Grad, was mich dazu veranlasst, ins tiefgekühlte Büro zu migrieren. Wenn das jetzt noch ein paar Monate so gehen soll, dann brauch ich eine tragbare Klimaanlage. Oder so nen Gummianzug mit integrierter Kühlung.
 
-It&#8217;s hot in the city.
+It's hot in the city.

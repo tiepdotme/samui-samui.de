@@ -15,7 +15,7 @@ Die Map ist wie gesagt von Google, die Wetterdaten sind von Yahoo (bspw. [Ko Sam
 
 Damit ergibt sich ein Mashup mit dem aktuellen Wetter in Thailand.
 
-Es w&auml;re kein &#8220;echter Patrick&#8221; ohne Todo-Liste: Die Icons sind noch ein wenig fehlplatziert und die Daten manchmal fehlerhaft.
+Es w&auml;re kein "echter Patrick" ohne Todo-Liste: Die Icons sind noch ein wenig fehlplatziert und die Daten manchmal fehlerhaft.
 
  [1]: /thailand-wetter/
  [2]: http://grauhirn.org/twittermap

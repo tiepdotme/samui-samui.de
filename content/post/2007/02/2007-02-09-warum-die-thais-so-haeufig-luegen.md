@@ -15,4 +15,4 @@ Heute mal ein kleiner sprachwissenschaftlicher Witz: Warum lügen Thais so häuf
 
 Englisch: right, rice, light, lie, like, lice, life, ripe, rhyme, line, ride, rite, rife, rise, wry, lime, rye
 
-Thenglisch: lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, &#8230; stiwpid langwit!!
+Thenglisch: lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, lie, ... stiwpid langwit!!

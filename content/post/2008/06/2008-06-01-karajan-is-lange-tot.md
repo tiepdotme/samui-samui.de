@@ -17,7 +17,7 @@ url: /2008/06/karajan-is-lange-tot/
   </p>
 </div>
 
-&Uuml;brigens brannte die Philharmonie in Berlin, als wir da waren. Live vor Ort sozusagen. Es qualmte erst gelb, dann schwarz, dann wieder gelb und es wurde viel Wasser in das h&auml;ssliche gelbe Geb&auml;ude gekippt. Man vergewisserte uns, es w&auml;re nicht ungesund, wir assen Bagels und tranken Kaffee bei Dunking Donoughts und warteten, dass irgenwer uns als Augenzeuge befragte. Tat aber niemand. Es kamen immer nur Fahradfahrer vorbei, die anhielten, ihre Photohandies z&uuml;ckten und &#8222;Oh Gott&#8220; und &auml;hnliche Platit&uuml;den murmelten.
+&Uuml;brigens brannte die Philharmonie in Berlin, als wir da waren. Live vor Ort sozusagen. Es qualmte erst gelb, dann schwarz, dann wieder gelb und es wurde viel Wasser in das h&auml;ssliche gelbe Geb&auml;ude gekippt. Man vergewisserte uns, es w&auml;re nicht ungesund, wir assen Bagels und tranken Kaffee bei Dunking Donoughts und warteten, dass irgenwer uns als Augenzeuge befragte. Tat aber niemand. Es kamen immer nur Fahradfahrer vorbei, die anhielten, ihre Photohandies z&uuml;ckten und "Oh Gott" und &auml;hnliche Platit&uuml;den murmelten.
 
 Abends brachte sogar <span class="caps">CNN</span> die brennende Musikerhalle.
 

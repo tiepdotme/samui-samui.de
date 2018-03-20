@@ -9,7 +9,7 @@ url: /2005/12/wetterbericht-2/
 
 
 ---
-Ich bin heute mal um die Insel gefahren um für meine Leser die aktuelle Situation auf der Insel aufzunehmen. (Eigentlich habe ich jemanden bei &#8220;kein Regen&#8221; nach Nathon zur Fähre gebracht und wurde dann von einem Regengebiet einmal um die Insel bis nach Lamai getrieben wo ich nun im Office ausharre und flehentlich um schöneres Wetter bitte. Wobei, es kann ruhig regnen. Hab heut nichts weiter vor. Oder warte mal. Ne. Doch.)
+Ich bin heute mal um die Insel gefahren um für meine Leser die aktuelle Situation auf der Insel aufzunehmen. (Eigentlich habe ich jemanden bei "kein Regen" nach Nathon zur Fähre gebracht und wurde dann von einem Regengebiet einmal um die Insel bis nach Lamai getrieben wo ich nun im Office ausharre und flehentlich um schöneres Wetter bitte. Wobei, es kann ruhig regnen. Hab heut nichts weiter vor. Oder warte mal. Ne. Doch.)
 
 **Im Norden** steht alles unter Wasser. Die Stra?e in Bophut wurde am Montag bevor der Regen begann aufgepickert um sie zu reparieren. Mittwoch kam der Regen und nun gibts die Stra?e relativ gesehen nicht mehr, denn eine Hälfte wurde abgetragen. Das aber sieht man nur, wenn das Wasser mal weniger hoch steht, wie beispielsweise vorgestern, als es mal 10 Stunden lang nur nieselte. Ansonsten spürt man es wenn man durch die Löcher rattert.
 

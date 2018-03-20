@@ -9,6 +9,6 @@ url: /2006/09/der-beschuetzer-film/
 
 
 ---
-Zum &#8220;<txp:gho_permalink id="882">Protector</txp:gho_permalink>&#8221; gibts sogar [eine s&uuml;&szlig;e multimediale Website][1].
+Zum "<txp:gho_permalink id="882">Protector</txp:gho_permalink>" gibts sogar [eine s&uuml;&szlig;e multimediale Website][1].
 
  [1]: http://www.theprotectormovie.com/

@@ -13,4 +13,4 @@ Der Nachteil von Palmen, Strand, willigen Gespr&auml;chspartnerinnen und Thaifoo
 
 <del>(F&uuml;gen Sie hier noch einen Kommentar zur Entscheidung eine Internetcompany auf einer Insel einzurichten ein)</del>
 
-H&auml;ufiger Ruf im B&uuml;ro in den letzten Tagen: &#8220;Schnell an deinen Rechner, Internet geht grade!&#8221;
+H&auml;ufiger Ruf im B&uuml;ro in den letzten Tagen: "Schnell an deinen Rechner, Internet geht grade!"

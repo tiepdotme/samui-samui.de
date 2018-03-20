@@ -15,10 +15,10 @@ Soviel zum Thema Planung.
 
 Muss ich halt irgend ne tolle Blogsuchmaschine entwickeln. Wobei Blogs. Naja. Absteigender Ast und so.
 
-PS: Stimmt. Man schreibt nicht &#8220;dunkel wie&#8221;. Richtig muss es hei?en &#8220;dunkel als wie da wo&#8221;. Ich bitte vielmals um Entschuldigung.
+PS: Stimmt. Man schreibt nicht "dunkel wie". Richtig muss es hei?en "dunkel als wie da wo". Ich bitte vielmals um Entschuldigung.
 
-PPS: Es regnet jetzt seit über einer Stunde. Inzwischen bin ich mir nicht mehr so sicher, ob es &#8220;nur ein kleines Unwetter&#8221; ist, weil man die Spitze des Berges gegenüber nicht mehr sehen kann. Es hat sich zu einem richtigen Gewitter ausgewaschen. Die Stra?e ist ein Fluss. Regen und Luft sind kalt. Es ist dunkel wie kurz _nach_ dem Sonnenuntergang. Es donnert (was anders klingt als in Deutschland) und blitzt. Nur der Strom, der ist noch da. Und, was ich nun gar nicht erwartet hätte, die Fenster hier sind dicht. 
+PPS: Es regnet jetzt seit über einer Stunde. Inzwischen bin ich mir nicht mehr so sicher, ob es "nur ein kleines Unwetter" ist, weil man die Spitze des Berges gegenüber nicht mehr sehen kann. Es hat sich zu einem richtigen Gewitter ausgewaschen. Die Stra?e ist ein Fluss. Regen und Luft sind kalt. Es ist dunkel wie kurz _nach_ dem Sonnenuntergang. Es donnert (was anders klingt als in Deutschland) und blitzt. Nur der Strom, der ist noch da. Und, was ich nun gar nicht erwartet hätte, die Fenster hier sind dicht. 
 
 PPPS: Man kann nun gar keinen Berg mehr sehen. Die Palmenspitzen auf der gegenüberliegenden Stra?enseite sind in den Wolken verschwunden. Koh Samui ist eingehüllt in eine graue Masse. Ist dies das Ende? Wird die Sintflut uns alle verschlingen? Bestimmt nicht, denn Rolands Gärtner Nummer zwei (Roland ist der Cheffe von IT-Zentrum und hat drei Gärtner) klaubt schon runtergefallene Blätter aus den Regenrinnen. Wie auch immer. Das ist hier so wie anderswo. Hat man was vor am Wochenende, regnet es.
 
-PPPPS: Es ist jetzt halb eins und es regnet immer noch. Mich würde dann schon mal interessieren, wer mir das Märchen vom Regen erzählt hat, der hier zwar stark aber nur 10 Minuten fallen soll. Und derjenige, der die Story von &#8220;die Regenzeit ist vorbei&#8221; gebracht hat, kann gleich mitkommen.
+PPPPS: Es ist jetzt halb eins und es regnet immer noch. Mich würde dann schon mal interessieren, wer mir das Märchen vom Regen erzählt hat, der hier zwar stark aber nur 10 Minuten fallen soll. Und derjenige, der die Story von "die Regenzeit ist vorbei" gebracht hat, kann gleich mitkommen.

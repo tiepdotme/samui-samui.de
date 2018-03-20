@@ -9,11 +9,11 @@ url: /2006/08/pluto-und-er-bleibt-doch-ein-planet/
 
 
 ---
-Ich finde ja, dass man Wissenschaftlern jegliches Stimmrecht entziehen sollte. &#8220;Seit gestern ist Pluto nur noch ein Zwerg-Planet und kein &#8220;richtiger [Planet mehr][1]. Warum? Weil Wissenschaftler erst diskutiert haben, die Definition eines Planeten zu &auml;ndern und dann nur ein paar davon (um die 400) &uuml;ber eine wissenschaftlich allgemeing&uuml;ltige Definition abgestimmt haben. Dummerweise haben gr&ouml;&szlig;tenteils die Falschen abgestimmt. 
+Ich finde ja, dass man Wissenschaftlern jegliches Stimmrecht entziehen sollte. "Seit gestern ist Pluto nur noch ein Zwerg-Planet und kein "richtiger [Planet mehr][1]. Warum? Weil Wissenschaftler erst diskutiert haben, die Definition eines Planeten zu &auml;ndern und dann nur ein paar davon (um die 400) &uuml;ber eine wissenschaftlich allgemeing&uuml;ltige Definition abgestimmt haben. Dummerweise haben gr&ouml;&szlig;tenteils die Falschen abgestimmt. 
 
 Die thail&auml;ndische Schulkommission will [noch ein bisschen warten][2] bis sie die Schulb&uuml;cher &auml;ndert.
 
-Die Definition f&uuml;r einen Planeten ist jetzt &uuml;brigens irgendwas mit Himmelsk&ouml;rpern die sich all ihrer &#8220;debris&#8221; im Orbit entledigt haben. 
+Die Definition f&uuml;r einen Planeten ist jetzt &uuml;brigens irgendwas mit Himmelsk&ouml;rpern die sich all ihrer "debris" im Orbit entledigt haben. 
 
 Bombt den Mond weg! Sonst leben wir nur noch auf einem Heimatzwergplaneten!
 

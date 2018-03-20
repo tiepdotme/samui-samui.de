@@ -9,7 +9,7 @@ url: /2007/12/datentransport/
 
 
 ---
-Unter dem Titel [Die Top-10 der Daten-Desaster][1] bringt der Spiegel eine Topliste der Datendesaster&#8230; Jaja. Auf Platz Eins? Ein Photograph in Thailand:
+Unter dem Titel [Die Top-10 der Daten-Desaster][1] bringt der Spiegel eine Topliste der Datendesaster... Jaja. Auf Platz Eins? Ein Photograph in Thailand:
 
 > Verwundert darüber, dass sich in seiner Festplatte Ameisen eingenistet hatten, griff ein Fotograf in Thailand zur chemischen Keule. Er öffnete Gehäuse und sprühte Insektenspray ins Innere. Die Ameisen waren damit hinüber, die Daten leider auch.
 

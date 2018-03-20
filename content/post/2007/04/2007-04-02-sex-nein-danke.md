@@ -11,7 +11,7 @@ url: /2007/04/sex-nein-danke/
 ---
 Das wars. Nun ist Schluss mit lustig. 
 
-Gestern &#8220;peakte&#8221; der Hormonspiegel einer <txp:permlink id="1193">bisher unbefruchteten 5j&auml;hrigen Panda-Dame</txp:permlink> im Chiang Maier Zoo. Der Panda-Herr Chuang Chuang, seit gut einer Woche mit Panda-Porno bedr&ouml;hnt, wurde mit ihr im gleichen K&auml;fig eingesperrt &#8211; doch nichts passierte. 
+Gestern "peakte" der Hormonspiegel einer <a href="1193">bisher unbefruchteten 5j&auml;hrigen Panda-Dame</a> im Chiang Maier Zoo. Der Panda-Herr Chuang Chuang, seit gut einer Woche mit Panda-Porno bedr&ouml;hnt, wurde mit ihr im gleichen K&auml;fig eingesperrt --- doch nichts passierte. 
 
 Entweder war er durch die Filme bereits ges&auml;ttigt oder er findet Lin Hui nicht sonderlich erregend, denn alles blieb kalt im airconditionierten Liebesnest.
 

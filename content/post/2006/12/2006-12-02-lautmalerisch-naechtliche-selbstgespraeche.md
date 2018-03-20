@@ -21,7 +21,7 @@ Ich versuche ja seit langem, in meinem kleinen Blog sowas wie eine Lautschrift f
 
 In der ersten Reihe ist ein aufsteigender Strich, in der zweiten ein fallender, in der dritten ein oberer Bogen, in der vierten ein unterer Bogen und alle sind genau **über** jeweiligen dem Vokal (in manchen Schriften sind sie irgendwohin verschoben, nur nicht drüber.
 
-Das nächste Problem: Phonetische Zeichen sind in den meisten Fonts so gestaltet, dass man sie mit &#8220;normalen&#8221; Buchstaben nur nutzen kann, wenn selbige fett dargestellt sind, womit sich das folgende Beispiel ergibt:
+Das nächste Problem: Phonetische Zeichen sind in den meisten Fonts so gestaltet, dass man sie mit "normalen" Buchstaben nur nutzen kann, wenn selbige fett dargestellt sind, womit sich das folgende Beispiel ergibt:
 
 <span style="font: 20px 'Courier New', Courier, monospace"><strong>d</strong>&#x025c;&#x025c;<strong>m bia!</strong></span>
 

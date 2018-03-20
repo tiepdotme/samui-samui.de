@@ -9,4 +9,4 @@ url: /2006/03/bin-gluecklich/
 
 
 ---
-Keine Zeit. Muss&#8230; installieren&#8230; konfigurieren&#8230; Namen finden&#8230;
+Keine Zeit. Muss... installieren... konfigurieren... Namen finden...

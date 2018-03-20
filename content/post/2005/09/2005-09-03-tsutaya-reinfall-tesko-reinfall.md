@@ -13,15 +13,15 @@ Ich m&ouml;chte dieses Forum mal eben nutzen um meine tiefe Entt&auml;uschung un
 
 Da bleibt unsereins nichts anderes &uuml;brig als sich eine Thai zu suchen, die den Kram mit einem ankuckt und auf Zuruf erz&auml;hlen kann, was passiert. Und dass die nach dem Filmkucken nicht wieder verschwinden ist ja auch bekannt. 
 
-Nagut. Zwei Filmchen habe ich noch im Originalton ergattern k&ouml;nnen: &#8220;The Ring 2&#8221; (jaja, ich weiss) und &#8220;In good company&#8221; &#8211; ein Film von dem ich noch nie was geh&ouml;rt habe, auf dessen Cover aber Scarlet &#8220;Hot Lips&#8221; (ja, Fabio, ich glaube das hat was mit den Unterlippen zu tun) Johansson nicht unreizend in der Gegend rum kuckt. Muss also ein worther Film sein.
+Nagut. Zwei Filmchen habe ich noch im Originalton ergattern k&ouml;nnen: "The Ring 2" (jaja, ich weiss) und "In good company" --- ein Film von dem ich noch nie was geh&ouml;rt habe, auf dessen Cover aber Scarlet "Hot Lips" (ja, Fabio, ich glaube das hat was mit den Unterlippen zu tun) Johansson nicht unreizend in der Gegend rum kuckt. Muss also ein worther Film sein.
 
 > **Update** Na, das muss ich doch gleich mal revidieren wie mir mein Gewissen eben mitteilt:
 > 
-> [16:41:23] _Gewissen_ &#8220;???In good company??? ??? ein Film von dem ich noch nie was geh??rt habe&#8221;
+> [16:41:23] _Gewissen_ "???In good company??? ??? ein Film von dem ich noch nie was geh??rt habe"
   
 > [16:41:32] _Patrick Kollitsch_ jupp
   
-> [16:41:46] _Gewissen_ ich hatte ihn dir gegen??ber mal erw??hnt&#8230;
+> [16:41:46] _Gewissen_ ich hatte ihn dir gegen??ber mal erw??hnt...
   
 > [16:41:52] _Patrick Kollitsch_ hmm
   
@@ -33,9 +33,9 @@ Nagut. Zwei Filmchen habe ich noch im Originalton ergattern k&ouml;nnen: &#8220;
   
 > [16:42:09] _Patrick Kollitsch_ ich werde das gleich mal aendern
 
-Dann hab ich mir die Thai-Horror-Ecke mal zu Gem&uuml;te gezogen. Wenn schon Thai dann blutig und weiblich. Einmal &#8220;Lizard woman&#8221;, einmal &#8220;on ryou&#8221; (wobei ich annehme, dass das auch was koreanisches sein k&ouml;nnte) und dann noch &#8220;Bunshinsaba&#8221; was schon aufgrund des &#8220;bunshin&#8221; in der Japan-Kategorie einzuordnen ist. 
+Dann hab ich mir die Thai-Horror-Ecke mal zu Gem&uuml;te gezogen. Wenn schon Thai dann blutig und weiblich. Einmal "Lizard woman", einmal "on ryou" (wobei ich annehme, dass das auch was koreanisches sein k&ouml;nnte) und dann noch "Bunshinsaba" was schon aufgrund des "bunshin" in der Japan-Kategorie einzuordnen ist. 
 
-Und dann (ja, wir sind noch nicht am Ende, neulich war Zahltag) hab ich mir noch ne DVD gekauft mit dem Film &#8220;The holy man&#8221;. Das ist einer dieser Filme wo die vier Thais mitspielen, die in jedem Thaifilm mitspielen. Dazu erz&auml;hl ich sp&auml;ter mal was. Jedenfalls hat man f&uuml;r diesen Film als ich im Juli in Krungthep war massiv Werbung gemacht. Und womit lockt man Thaifrauen zum &Uuml;bersetzen schlecht synchronisierter Filme besser an als mit einem Film, &#8220;der supergut in Bangkok lief&#8221;? Hmm? Siehste.
+Und dann (ja, wir sind noch nicht am Ende, neulich war Zahltag) hab ich mir noch ne DVD gekauft mit dem Film "The holy man". Das ist einer dieser Filme wo die vier Thais mitspielen, die in jedem Thaifilm mitspielen. Dazu erz&auml;hl ich sp&auml;ter mal was. Jedenfalls hat man f&uuml;r diesen Film als ich im Juli in Krungthep war massiv Werbung gemacht. Und womit lockt man Thaifrauen zum &Uuml;bersetzen schlecht synchronisierter Filme besser an als mit einem Film, "der supergut in Bangkok lief"? Hmm? Siehste.
 
 Es kommt immer nur auf die Strategie an, die Kundschaft steht schon vor der T&uuml;r.
 

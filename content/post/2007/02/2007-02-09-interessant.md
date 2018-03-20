@@ -19,4 +19,4 @@ url: /2007/02/interessant/
 
 Als ich vergangene Woche wieder nach Hause kam, war erstens der Garten voller Orchideen gepflanzt und zweitens stand ein kleines Kanu im Garten, voller Wasser und Fische. 
 
-Pokki trinkt die Brühe und Soosie hat ihren ersten Kontakt mit lebenden Fischen&#8230; Viel Spass.
+Pokki trinkt die Brühe und Soosie hat ihren ersten Kontakt mit lebenden Fischen... Viel Spass.

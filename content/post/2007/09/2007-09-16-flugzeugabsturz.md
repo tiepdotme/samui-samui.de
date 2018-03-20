@@ -13,7 +13,7 @@ In Phuket ist ein Flugzeug vom Himmel gefallen. Anscheinend hatte man schon mehr
 
 Die [Airline 12Go][2] hat bereits angekündigt, [Kompensation zahlen zu wollen][3]. 
 
-Für weite Teile Thailands gibt es schon seit geraumer Weile wieder regelmä?ig Wetterwarnungen &#8211; die Regenzeit setzt langsam ein.
+Für weite Teile Thailands gibt es schon seit geraumer Weile wieder regelmä?ig Wetterwarnungen --- die Regenzeit setzt langsam ein.
 
  [1]: http://www.nationmultimedia.com/2007/09/16/headlines/headlines_30049141.php
  [2]: http://www.fly12go.com/

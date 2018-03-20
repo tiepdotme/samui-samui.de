@@ -17,4 +17,4 @@ In Thailand müssen die Provider Webseiten blockieren, die das <span class="caps
 
 Dummerweise haben die Providertechniker in den seltensten Fällen auch nur den Ansatz einer Ahnung, wie man eine bestimmte Seite oder <span class="caps">URL</span> sperrt, so dass schon mal YouTube komplett abgeschaltet wird oder die Ernte in Farmville verrottet, weil die <span class="caps">MICT</span>-Server überlastet sind. Muahahaha.
 
-Wie gut zu wissen, dass es mit Tor oder https immer einen Weg gibt, auf den Seiten zu landen &#8211; solange man bei den Internetprovidern niemanden einstellt, der <span class="caps">DNS</span> or Proxies versteht.
+Wie gut zu wissen, dass es mit Tor oder https immer einen Weg gibt, auf den Seiten zu landen --- solange man bei den Internetprovidern niemanden einstellt, der <span class="caps">DNS</span> or Proxies versteht.

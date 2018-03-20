@@ -34,6 +34,6 @@ Die nach Angaben des thailändischen Innenministeriums [beliebtesten (männliche
 
 Irgendwie scheint Som ein recht gerne genutzter Namensbestandteil zu sein. Einfach übersetzt bedeutet Som Orange oder säuerlich. Jeder kennt mindestens einen Somporn, Somsak oder Somchai, richtig?
 
-Übrigens gab es zum Jahreswechsel genau 64076033 Thais, davon waren nur 31529148 Personen männlich &#8211; womit geklärt wäre, warum soviele Thaifrauen ihre Männer aus anderen Bevölkerungsgruppen wählen :)
+Übrigens gab es zum Jahreswechsel genau 64076033 Thais, davon waren nur 31529148 Personen männlich --- womit geklärt wäre, warum soviele Thaifrauen ihre Männer aus anderen Bevölkerungsgruppen wählen :)
 
  [1]: http://www.bangkokpost.com/breakingnews/301977/somchai-most-popular-name

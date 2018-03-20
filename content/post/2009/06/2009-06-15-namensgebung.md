@@ -13,7 +13,7 @@ dsq_thread_id:
 ---
 Der kleine Panda in Chiang Mai lebt noch und ist weiblich. Nun dürfen die Thais den Namen der Kleinen festlegen und es wurde aus vielen Einsendungen eine Liste von 4 Namen [gewählt][1]: Ying Ying, Thai Jeen, Lin Ping und Khwan Thai. 
 
-Ich finde ja die Namen zwei und vier etwas sehr symbolisch (heissen wohl Thai-China und Thai-Achse) und stimme daher für Ying Ying&#8230; zumal der Vater Chuang Chuang hei?t. Immer schön im Schema bleiben.
+Ich finde ja die Namen zwei und vier etwas sehr symbolisch (heissen wohl Thai-China und Thai-Achse) und stimme daher für Ying Ying... zumal der Vater Chuang Chuang hei?t. Immer schön im Schema bleiben.
 
 Der gewählte Name wird am 12. August (in Thailand Muttertag) bekannt gegeben. An der Wahl beteiligen kann man sich durch Postkarten, die in den nächsten Tagen thailandweit _verkauft_ werden. 
 

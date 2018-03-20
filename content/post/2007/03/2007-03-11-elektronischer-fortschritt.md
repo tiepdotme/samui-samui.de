@@ -15,7 +15,7 @@ Es war tatsächlich bisher nicht möglich, Geld von einer Bank in Thailand auf e
 
 Das soll nun alles besser werden. Beginnend im April wird die National Inter-Bank Transaction-Management Exchange (National <span class="caps">ITMX</span>) von der National <span class="caps">ITMX</span> Company betrieben [in drei Schritten][2] die elektronischen Zahlungswege erweitern.
 
-Schritt 1: <span class="caps">SMART</span> (small and medium amount retail transaction) &#8211; wird direkte Zahlungen zwischen den Banken erlauben. Rechnungen bezahlen wird somit viel einfacher. Das ganze soll zuerst für die Zahlung über Telephon oder Internet eingerichtet werden.
+Schritt 1: <span class="caps">SMART</span> (small and medium amount retail transaction) --- wird direkte Zahlungen zwischen den Banken erlauben. Rechnungen bezahlen wird somit viel einfacher. Das ganze soll zuerst für die Zahlung über Telephon oder Internet eingerichtet werden.
 
 Schritt 2: Errichtung eines Sicherheitssystems für diese Transaktionen.
 

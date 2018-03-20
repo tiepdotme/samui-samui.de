@@ -17,7 +17,7 @@ tags:
 
 Fox-News ist ja eigentlich nicht f&uuml;r clevere Inhalte bekannt. Jetzt hat man dort aber eine [Liste der 8 seltsamsten Hotel-Pools weltweilt][1] ver&ouml;ffentlicht. Und siehe da, Samui ist auf der Liste vertreten. 
 
-Der Pool im Library Resort in Chaweng ist rot. Weshalb man ihn &#8222;[The Red Pool][2]&#8220; getauft hat. Die interessante F&auml;rbung wird durch rote Kacheln erzeugt. Bei Tag und Nacht ein interessanter Anblick.
+Der Pool im Library Resort in Chaweng ist rot. Weshalb man ihn "[The Red Pool][2]" getauft hat. Die interessante F&auml;rbung wird durch rote Kacheln erzeugt. Bei Tag und Nacht ein interessanter Anblick.
 
  [1]: http://www.foxnews.com/travel/2015/07/24/8-worlds-weirdest-hotel-pools/
  [2]: http://www.thelibrary.co.th/the-red-pool.html

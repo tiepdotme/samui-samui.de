@@ -1162,7 +1162,7 @@ Mobiles Bezahlen (MPay) beispielsweise wurde vergangenes Jahr eingef&uuml;hrt. W
 
 SMS ist auch weit verbreitet und viele Thais kommunizieren ausschlie&szlig;lich &uuml;ber SMS miteinander. Ich habe bspw. 200 SMS f&uuml;r 150 Baht im Monat (runde 3 Euro) zur Verf&uuml;gung und brauche das Kontingent immer auf. 
 
-Gewinnspiele und Wettbewerbe in der Art von &#8220;Deutschland sucht den Superstar&#8221; werden hier ausschlie&szlig;lich &uuml;ber SMS entschieden.
+Gewinnspiele und Wettbewerbe in der Art von "Deutschland sucht den Superstar" werden hier ausschlie&szlig;lich &uuml;ber SMS entschieden.
 
 Wie gesagt. Ich hab da einige Ideen mit Mobilfunk im Kopf. Mal sehen was sich da machen l&auml;sst. Man kommt in Thailand einfacher an Entscheidungstr&auml;ger in derartigen Firmen heran und kann auch schon mal eine kleine Aktion platzieren ohne viel investieren zu m&uuml;ssen.
 

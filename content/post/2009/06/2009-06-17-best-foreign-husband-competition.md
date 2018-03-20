@@ -14,4 +14,4 @@ dsq_thread_id:
 <div class="flickr">
 </div>
 
-Die <txp:permlink id="1768">andere</txp:permlink> Seite der Thai-Farang-Beziehungen.
+Die <a href="1768">andere</a> Seite der Thai-Farang-Beziehungen.

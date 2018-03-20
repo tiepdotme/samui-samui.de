@@ -9,4 +9,4 @@ url: /2006/08/4-mal-zweimonatsregel-widerlegt/
 
 
 ---
-&#8230; and counting &#8230;
+... and counting ...

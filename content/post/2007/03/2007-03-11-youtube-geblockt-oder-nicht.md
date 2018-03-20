@@ -19,11 +19,11 @@ Zweitens: Ich konnte YouTube die ganze Zeit erreichen und habe jede Menge Nine I
 
 Drittens: Schon die ganze Woche hatte ich Probleme, auf Blogs zuzugreifen, die bei WordPress.com gehostet waren. Subdomains dort waren einfach nicht abrufbar. Die Hauptseite selbst war sichtbar, ohne Stylesheets allerdings.
 
-Ehe wir hier also von Zensur, Blocken und anderem Kram sprechen, stelle ich einfach mal fest, dass die &#8222;Techniker&#8220; vom &#8222;Zwangsproxy&#8220; in Bangkok einfach nur Mist gebaut haben. (Alle Anfragen ans Web werden durch zwei IPs in Bangkok geleitet wo bestimmte Seiten geblockt werden k&ouml;nnen).
+Ehe wir hier also von Zensur, Blocken und anderem Kram sprechen, stelle ich einfach mal fest, dass die "Techniker" vom "Zwangsproxy" in Bangkok einfach nur Mist gebaut haben. (Alle Anfragen ans Web werden durch zwei IPs in Bangkok geleitet wo bestimmte Seiten geblockt werden k&ouml;nnen).
 
 Thaksin-Interviews werden nicht mehr geblockt, sie werden mit Reaktionen torpediert. Ob man nun seinen ehemaligen Finanzminister als Regierungsberater einstellt oder seine Frau der Steuerhinterziehung anklagt. Seine Interviews blockieren will man nicht mehr.
 
-Eine Liste der geblockten Webseiten (Stand 11.Januar) kann man übrigens bei [<span class="caps">FACT</span> &#8211; Freedom against censorship in Thailand][4] downloaden. Falls man gerne Pornoseiten absurft, dann ist das eine sehr ergiebige <span class="caps">URL</span>-Quelle &#8211; au?erhalb Thailands. 
+Eine Liste der geblockten Webseiten (Stand 11.Januar) kann man übrigens bei [<span class="caps">FACT</span> --- Freedom against censorship in Thailand][4] downloaden. Falls man gerne Pornoseiten absurft, dann ist das eine sehr ergiebige <span class="caps">URL</span>-Quelle --- au?erhalb Thailands. 
 
 Seit dem Putsch sind übrigens [500% mehr][5] Webseiten geblockt worden.
 

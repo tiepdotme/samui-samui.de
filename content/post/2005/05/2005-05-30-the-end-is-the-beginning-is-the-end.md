@@ -13,9 +13,9 @@ Liebes Tagebuch,
 
 Ich bin der Böse in dieser Geschichte. Das ist eventuell das Interessanteste. Allerdings nur, wenn man an meiner Psyche interessiert ist so wie du. Sonst wäre der interessante Punkt, dass ich nicht mehr mit Antje, Schnute, zusammen bin. (Schock!!! Kann man das nicht etwas schonender rüberbringen?) Könnte man, aber der Krug ist schon zerbrochen.
 
-&#8220;Ich habe da eine Frau kennengelernt.&#8221; Ein ziemlich platitüder Satz. Und trotzdem passend. Ich mag garnicht viel dazu schreiben und vermutlich ist es auch viel zu privat als hier breit getreten zu werden. Aber das Ergebnis vieler schlaflos durchdachter Nächte ist gewesen, dass es einen Vertrauensbruch gegenüber Schnute darstellen würde und letztendlich auch einer ist. So führt man keine Beziehung. Vor allem Antje hat das nicht verdient. Und ich bin für klare Worte. Ich habe immer gesagt, wenn es mal vorbei ist oder wir &#8220;jemanden anderen haben&#8221;, sagen wir es uns. Nur dachte ich, es wäre nicht ich der das sagen würde ;]=
+"Ich habe da eine Frau kennengelernt." Ein ziemlich platitüder Satz. Und trotzdem passend. Ich mag garnicht viel dazu schreiben und vermutlich ist es auch viel zu privat als hier breit getreten zu werden. Aber das Ergebnis vieler schlaflos durchdachter Nächte ist gewesen, dass es einen Vertrauensbruch gegenüber Schnute darstellen würde und letztendlich auch einer ist. So führt man keine Beziehung. Vor allem Antje hat das nicht verdient. Und ich bin für klare Worte. Ich habe immer gesagt, wenn es mal vorbei ist oder wir "jemanden anderen haben", sagen wir es uns. Nur dachte ich, es wäre nicht ich der das sagen würde ;]=
 
-Jedenfalls habe ich &#8220;Schluss gemacht&#8221;. Es war schwer und hat uns beiden weh getan, nicht nur ihr. Aber wir reden noch miteinander. Und wenn wir uns was vorwerfen, dann geschieht es in der üblichen Art. Wie bisher. Nicht verletzend.
+Jedenfalls habe ich "Schluss gemacht". Es war schwer und hat uns beiden weh getan, nicht nur ihr. Aber wir reden noch miteinander. Und wenn wir uns was vorwerfen, dann geschieht es in der üblichen Art. Wie bisher. Nicht verletzend.
 
 So kann man sich täuschen. Es waren 4,5 sehr schöne Jahre, ich habe mich mit Antje sehr weiter entwickelt und würde sie gerne lange als beste Freundin haben. Aber das liegt bei ihr (und den nun auf sie einredenden Freunden und Familienmitgliedern). Empfehlen würde ich ihr es nicht, denn ich bin wie gesagt der Böse und wäre auch gegen mich, denn wer einmal verletzt tut es immer wieder. Wenn ich nicht ich wäre. Da ich aber ich bin, werde ich es tragen und weiter gehen.
 
@@ -67,7 +67,7 @@ A: Ja. Ich lerne Thai, sie Englisch. Dann und wann verstehen wir uns. Ansonsten 
 
 F: Und was sagen deine Familie und deine Freunde dazu?
   
-A: Nun, ich muss gestehen, dass mich eigentlich nur interessiert, was meine Freunde dazu sagen und von den drei Menschen, die von mir die Bezeichnung &#8220;Freund&#8221; verpasst bekommen haben und deren Meinung mir wichtig ist, sind mir zwei durchaus verständnisvoll und unterstützend entgegengetreten. Den Dritten im Bunde muss ich noch erreichen. Was die Familie betrifft, so lege ich weniger Wert auf eine _Meinung_. Es sollte ein gewisses Verständnis und die Beruhigung mich glücklich zu wissen vorhanden sein.
+A: Nun, ich muss gestehen, dass mich eigentlich nur interessiert, was meine Freunde dazu sagen und von den drei Menschen, die von mir die Bezeichnung "Freund" verpasst bekommen haben und deren Meinung mir wichtig ist, sind mir zwei durchaus verständnisvoll und unterstützend entgegengetreten. Den Dritten im Bunde muss ich noch erreichen. Was die Familie betrifft, so lege ich weniger Wert auf eine _Meinung_. Es sollte ein gewisses Verständnis und die Beruhigung mich glücklich zu wissen vorhanden sein.
 
 Dein Tagebuch.
 

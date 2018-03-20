@@ -13,7 +13,7 @@ dsq_thread_id:
 ---
 Hmm. So richtig einig werden kann ich mir nicht mit dem Titel für diesen Eintrag. Mal sehen, vielleicht wirds ja noch.
 
-Jedenfalls hat vorhin das werte Dell-Kabel (<txp:permlink id="111">ich berichtete</txp:permlink>&trade;) überaus laut Funken geschlagen und dann vollständig seinen Dienst eingestellt. Das wäre nicht sehr schlimm, wenn es ein Standard-Stromkabel wäre. Ist es aber nicht. Es ist ein Dell. Und nun mal die Fakten meiner überaus panischen Bestandsaufnahme:
+Jedenfalls hat vorhin das werte Dell-Kabel (<a href="111">ich berichtete</a>&trade;) überaus laut Funken geschlagen und dann vollständig seinen Dienst eingestellt. Das wäre nicht sehr schlimm, wenn es ein Standard-Stromkabel wäre. Ist es aber nicht. Es ist ein Dell. Und nun mal die Fakten meiner überaus panischen Bestandsaufnahme:
 
   1. Dell hat keine Niederlassungen, sondern nur Webseiten, über die man bestellen kann
   2. Dell Deutschland hat mein Stromkabel für rund 40 Euro (Sonderaktion bis 28.3.)
@@ -21,7 +21,7 @@ Jedenfalls hat vorhin das werte Dell-Kabel (<txp:permlink id="111">ich berichtet
   4. Dell Thailand hat keine Inspirons, damit auch kein Stromkabel für meinen Rechner
   5. Dell Malaysia hat zwar das Stromkabel, liefert aber nur nach Malaysia
   6. Anderswo (also au?erhalb von Dell-Webseiten) gibts keine Dell-Kabel
-  7. Mein altes Dell-Kabel ist &#8220;Made in Thailand&#8221; (der pure Hohn)
+  7. Mein altes Dell-Kabel ist "Made in Thailand" (der pure Hohn)
 
 Was lernen wir daraus? Nichts. Au?er dass es nun sehr lange dauern kann, bis ich wieder Strom im Notebook habe.
 

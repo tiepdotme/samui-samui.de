@@ -9,13 +9,13 @@ url: /2007/10/ein-minister-fuer-die-sicherheit/
 
 
 ---
-General Sonthi Boonyaratkalin, ehemaliger Armeechef und Putschführer des am nächsten zurückliegenden Putsches, hat heute [seinen ersten Arbeitstag][1] als &#8211; <txp:permlink id="1391">genau</txp:permlink> &#8211; &#8220;Deputy Prime Minister in charge of security&#8221;. Also so ein kleiner thailändischer Schäuble.
+General Sonthi Boonyaratkalin, ehemaliger Armeechef und Putschführer des am nächsten zurückliegenden Putsches, hat heute [seinen ersten Arbeitstag][1] als --- <a href="1391">genau</a> --- "Deputy Prime Minister in charge of security". Also so ein kleiner thailändischer Schäuble.
 
 Vergangene Woche wurden einige Ministerposten neu besetzt: ein kleiner Skandal erschütterte die ?bergangsregierung. Als Minister darf man an Firmen und Organisationen nur einen Anteil von maximal 5% halten. Einige (wie beispielsweise der Zensur- und Youtube-Minister) wussten nicht so genau, wie man diese Regel interpretieren solle und mussten leider gehen. 
 
 Gesagt hat er übrigens auch was, [der Sonthi][2]:
 
-> &#8220;This is not an attempt to cling to power. My good intention towards the country _should not be interpreted_ as an attempt to cling to power. _You should be able_ to separate the desire to cling to power and the good intention towards the country, otherwise the country will not be in peace.&#8221;
+> "This is not an attempt to cling to power. My good intention towards the country _should not be interpreted_ as an attempt to cling to power. _You should be able_ to separate the desire to cling to power and the good intention towards the country, otherwise the country will not be in peace."
 
 Mal sehen, was sich aus diesen klaren Worten (Hervorhebungen subjektiv von mir gesetzt) nach drei Monaten ergeben hat.
 
