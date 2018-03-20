@@ -4,15 +4,10 @@ author: Patrick Kollitsch
 type: post
 date: 2005-12-30T21:47:00+00:00
 url: /2005/12/neu2bahtmuenzen/
-dsq_thread_id:
-  - "3191392769"
-
-
-
-
 ---
+
 <div class="flickr">
-  <a href="http://www.flickr.com/photos/schreibblogade/79618772/" title="2 Baht. Now here too."><img width="455" src="//static.flickr.com/38/79618772_a5669b6621.jpg" alt="2 Baht. Now here too." /></a>
+  <a href="http://www.flickr.com/photos/schreibblogade/79618772/" title="2 Baht. Now here too."><img src="//static.flickr.com/38/79618772_a5669b6621.jpg" alt="2 Baht. Now here too." /></a>
 </div>
 
 Gestern beim Aussortieren meines Klimpergeldes (die kleinen (1 und 5 Baht) in die Tempelbüchse) und die gro?en (10 Baht) zurück ins Portemonaie) entdeckte ich zwei seltsame neue Münzen. 
