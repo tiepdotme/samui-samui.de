@@ -9,6 +9,6 @@ tags:
   - soosie
 ---
 
-{{< figure src="/2017/07/liebes-tagebuch/soosie-960x805.jpg" >}}
+{{< figure src="/2017/07/liebes-tagebuch/soosie-960x805.jpg" caption="Soosie, 1. Mai 2006 - 18. Juli 2017" >}}
 
 Heute habe ich den &#8222;about&#8220;-Text unten in der Fusszeile dieser Website ge&auml;ndert.
