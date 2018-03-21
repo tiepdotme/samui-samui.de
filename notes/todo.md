@@ -61,3 +61,6 @@ https://www.google.com/doodles/payom-sinawats-109th-birthday
 
 # twitter
 - embedder: https://publish.twitter.com/#
+
+
+https://github.com/gohugoio/hugo/blob/ff28120e53c7d3d5fce9941082f72eb89adb43b7/tpl/template_embedded.go

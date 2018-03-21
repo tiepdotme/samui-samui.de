@@ -1,0 +1,36 @@
+{{/*
+see http://gohugo.io/content-management/image-processing/
+```{{< imgproc sunset Resize "300x" />}}```
+```{{< imgproc sunset Resize "300x" />}}text{{< /imgproc >}}```
+*/}}
+
+{{/*
+Fit Resize Fill... 
+see http://gohugo.io/content-management/image-processing/#image-processing-methods
+*/}}
+{{ $original := .Page.Resources.GetMatch (printf "%s*" (.Get "name")) }}
+{{ $command := .Get "command" }}
+{{ $options := .Get "options" }}
+{{ if eq $command "Fit"}}
+{{ .Scratch.Set "image" ($original.Fit $options) }}
+{{ else if eq $command "Resize"}}
+{{ .Scratch.Set "image" ($original.Resize $options) }}
+{{ else if eq $command "Fill"}}
+{{ .Scratch.Set "image" ($original.Fill $options) }}
+{{ else }}
+{{ errorf "Invalid image processing command: Must be one of Fit, Fill or Resize."}}
+{{ end }}
+{{ $image := .Scratch.Get "image" }}
+<figure {{ with .Get "class" }}class="{{.}}"{{ end }} style="width: {{ add $image.Width 3 }}px;">
+	{{ with .Get "link"}}<a href="{{.}}">{{ end }}
+		<img 
+		src="{{ $image.RelPermalink }}" 
+		width="{{ $image.Width }}" 
+		height="{{ $image.Height }}" 
+ 		{{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"  {{ end }}
+		>
+	{{ if .Get "link"}}</a>{{ end }}
+	{{ with .Inner }}
+		<figcaption>{{ . }}</figcaption>
+	{{ end }}
+</figure>

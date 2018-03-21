@@ -2,6 +2,7 @@
 /.sass-cache
 /tmp
 /.env
+/resources
 
 # logfiles
 /log.txt

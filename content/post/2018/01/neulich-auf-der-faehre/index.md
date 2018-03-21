@@ -8,8 +8,10 @@ tags:
 - faehre
 - visarun
 - photo
-images:
-- /2018/01/neulich-auf-der-faehre/neulich-auf-der-faehre-930x523.jpg
+resources :
+- src: "neulich-auf-der-faehre.jpg"
+  name: "neulich"
+  title: "Neulich auf der Fähre"
 ---
 
-{{< figure src="/2018/01/neulich-auf-der-faehre/neulich-auf-der-faehre-930x523.jpg" caption="Neulich auf der Fähre" width="930" height="523" >}}
+{{% figure2 name="neulich" command="Resize" options="930x" %}}Neulich auf der Fähre{{% /figure2 %}}

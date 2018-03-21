@@ -9,8 +9,13 @@ slug:
 tags:
 - tollwut
 - gesundheit
+resources:
+- src: "strassenkoeter.jpg"
+  name: "strassenkoeter"
+  title: "Straßenköter (Symbolphoto, Pokki, ca. 2007)"
 ---
-{{< figure src="/2018/03/tollwuetige-menschen/strassenkoeter-930x600.jpg" caption="Straßenköter (Symbolphoto, Pokki, ca. 2007)" attr="Photo von Patrick Kollitsch" attrlink="https://samui-samui.de/" width="930" height="600" >}}
+
+{{% figure2 name="strassenkoeter" command="Resize" options="930x" class="bla" %}}Straßenköter (Symbolphoto, Pokki, ca. 2007) --- <a href="https://samui-samui.de/">Photo von Patrick Kollitsch</a>{{% /figure2 %}}
 
 In Thailand geht die Tollwut um. Seit Jahresbeginn sind bereits 6 Menschen gestorben. Das ist wieder ein Beispiel dafür, wie in Thailand nur reagiert, anstatt vorgebeugt wird. Über die Anzahl der Hunde und Katzen, die wegen der Tollwut gestorben sind, wird nichts ausgeführt. Erst wenn Menschen sterben und das lang und breit in den Medien und auf Social Media diskutiert wird, dann wird reagiert. 
 

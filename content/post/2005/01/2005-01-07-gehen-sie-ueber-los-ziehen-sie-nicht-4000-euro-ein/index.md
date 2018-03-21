@@ -5,12 +5,14 @@ type: post
 date: 2005-01-07T03:00:00+00:00
 url: /2005/01/gehen-sie-ueber-los-ziehen-sie-nicht-4000-euro-ein/
 tags:
-  - wie alles begann
-
+- wie alles begann
 ---
+
 So. Morgen ist es also soweit. Das Notebook ist eingepackt, die Geräte auseinandergestöpselt, der Seesack gepackt. Nach Wochen der Planung und des Hin und Her beginnt morgen Mittag mein eigenes kleines Abenteuer.
 
-Aber beginnen wir am Anfang&trade;! Im Sommer war ich (wie so häufig in den letzten Jahren) arbeitslos und Sozialhilfeempfänger. Wenn man selbständig war hat man wenig Chancen auf Arbeitslosengeld oder -hilfe, wenn man sich nicht selbst versichert und das war ich nicht ;) Jedenfalls musste ich um mein "Anrecht" auf Sozialhilfe zu behalten im Monat mindestens 15 Bewerbungen abschicken. Das klingt etwas salopp, ist es aber auch, denn ich habe nie gemerkt, dass die Leute interessiert hätte, wo und als was ich mich bewerben würde. Im August jedenfalls hatte ich nach zwei Ingeneurmonaten (hat doch was Gutes, wenn man sich breit gefächert bewerben kann) mal wieder einen ITler-Monat. Neben einigen Bewerbungen als Projektmanager, ein paar als Webdesigner und eine auf [diese interessante Stellenbeschreibung hin][1]{.url-gone}.
+Aber beginnen wir am Anfang&trade;! Im Sommer war ich (wie so häufig in den letzten Jahren) arbeitslos und Sozialhilfeempfänger. Wenn man selbständig war hat man wenig Chancen auf Arbeitslosengeld oder -hilfe, wenn man sich nicht selbst versichert und das war ich nicht ;) 
+
+Jedenfalls musste ich um mein "Anrecht" auf Sozialhilfe zu behalten im Monat mindestens 15 Bewerbungen abschicken. Das klingt etwas salopp, ist es aber auch, denn ich habe nie gemerkt, dass die Leute interessiert hätte, wo und als was ich mich bewerben würde. Im August jedenfalls hatte ich nach zwei Ingeneurmonaten (hat doch was Gutes, wenn man sich breit gefächert bewerben kann) mal wieder einen ITler-Monat. Neben einigen Bewerbungen als Projektmanager, ein paar als Webdesigner und eine auf [diese interessante Stellenbeschreibung hin][1].
 
 Anschlie&szlig;end fuhr ich ein paar Tage nach Zwickau, Familie und Freunde besuchen, da die Antworten erfahrungsgemä&szlig; einige Tage auf sich warten lie&szlig;en und sowieso immer negativ waren.
 
@@ -26,10 +28,9 @@ Jedenfalls wird es viel zu erzählen geben.
 
 _Update im Dezember 2006_: Inzwischen lebe ich seit 2 Jahren in Thailand, arbeite nicht mehr für oben genannten Arbeitgeber und habe jede Menge zu erzählen gehabt. Im [Archiv][4] findet man alle Einträge.
 
-_Update im August 2015_: 10.5 Jahre. Wollte es nur erw&auml;hnen. Die Zeit vergeht recht schnell. Alle Eintr&auml;ge findet man immer noch [im Archiv][5]. Auswandern leicht gemacht ;)
+_Update im August 2015_: 10.5 Jahre. Wollte es nur erw&auml;hnen. Die Zeit vergeht recht schnell. Alle Eintr&auml;ge findet man immer noch [im Archiv][4]. Auswandern leicht gemacht ;)
 
  [1]: http://www.akademie.de/info-bereich/unit-202/index.html
  [2]: http://de.wikipedia.org/wiki/Aviophobie
  [3]: http://de.wikipedia.org/wiki/Akrophobie
- [4]: /archiv
- [5]: /archiv/
+ [4]: /archiv/
