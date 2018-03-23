@@ -1,0 +1,13 @@
+<figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
+	{{ with .Get "link"}}<a href="{{.}}">{{ end }}
+		<img 
+		src="{{ with .Get "src" }}{{ . }}{{ end }}" 
+		{{ with "width" }}width="{{.}}" {{ end }}
+		{{ with "height" }}height="{{.}}" {{ end }}
+ 		{{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"  {{ end }}
+		>
+	{{ if .Get "link"}}</a>{{ end }}
+	{{ with .Inner }}
+		<figcaption>{{ . }}</figcaption>
+	{{ end }}
+</figure>

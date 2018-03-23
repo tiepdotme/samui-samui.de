@@ -11,7 +11,7 @@ tags:
 - eua sunthornsanan
 ---
 
-{{< figure src="images/google-doodles/eua-sunthornsanans-108th-birthday.png" caption="Google Doodle zum 108en Geburtstag von Eua Sunthornsanan" width="930" >}}
+{{< figure src="images/google-doodles/eua-sunthornsanans-108th-birthday.png" width="930" >}}Google Doodle zum 108en Geburtstag von Eua Sunthornsanan{{< /figure >}}
 
 Die länderspezifischen Google Doodles für Thailand sind immer wieder ein guter Weg, um etwas über die Kultur Thailands zu lernen.
 
