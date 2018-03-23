@@ -9,9 +9,13 @@ tags:
 - thai musik
 - personen
 - eua sunthornsanan
+resources:
+- src: "eua-sunthornsanans-108th-birthday.png"
+  name: "googledoodle"
+  title: "Google Doodle zum 108en Geburtstag von Eua Sunthornsanan"
 ---
 
-{{< figure src="images/google-doodles/eua-sunthornsanans-108th-birthday.png" width="930" >}}Google Doodle zum 108en Geburtstag von Eua Sunthornsanan{{< /figure >}}
+{{% image name="googledoodle" command="Resize" options="930x" %}}Google Doodle zum 108en Geburtstag von Eua Sunthornsanan{{% /image %}}
 
 Die länderspezifischen Google Doodles für Thailand sind immer wieder ein guter Weg, um etwas über die Kultur Thailands zu lernen.
 
