@@ -15,7 +15,7 @@
 	{{ end }}
 {{ end }}
 {{ $image := .Scratch.Get "image" }}
-{{ if $image }}
+{{ if or ($image) (.Get "src") }}
 	<figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
 		{{ with .Get "link"}}<a href="{{.}}">{{ end }}
 			<img 
