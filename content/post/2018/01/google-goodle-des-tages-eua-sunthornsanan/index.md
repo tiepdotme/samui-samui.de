@@ -15,7 +15,7 @@ resources:
   title: "Google Doodle zum 108en Geburtstag von Eua Sunthornsanan"
 ---
 
-{{% image name="googledoodle" command="Resize" options="930x" %}}Google Doodle zum 108en Geburtstag von Eua Sunthornsanan{{% /image %}}
+{{% figure name="googledoodle" command="Resize" options="930x" %}}Google Doodle zum 108en Geburtstag von Eua Sunthornsanan{{% /figure %}}
 
 Die länderspezifischen Google Doodles für Thailand sind immer wieder ein guter Weg, um etwas über die Kultur Thailands zu lernen.
 

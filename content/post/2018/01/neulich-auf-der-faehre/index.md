@@ -14,4 +14,4 @@ resources :
   title: "Neulich auf der Fähre"
 ---
 
-{{% image name="neulich" command="Resize" options="930x" %}}Neulich auf der Fähre{{% /image %}}
+{{% figure name="neulich" command="Resize" options="930x" %}}Neulich auf der Fähre{{% /figure %}}

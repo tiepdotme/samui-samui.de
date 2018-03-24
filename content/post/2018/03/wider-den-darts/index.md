@@ -15,7 +15,7 @@ resources:
   title: "Terrorist an Zielscheibe"
 ---
 
-{{% image name="darts" command="Resize" options="930x" %}}Terrorist an Zielscheibe --- ([Photo von Clem Onojeghuo](https://unsplash.com/photos/8AiDiLLGmJs)){{% /image %}}
+{{% figure name="darts" command="Resize" options="930x" %}}Terrorist an Zielscheibe --- ([Photo von Clem Onojeghuo](https://unsplash.com/photos/8AiDiLLGmJs)){{% /figure %}}
 
 In ihrem nicht enden wollendem Kampf gegen alles unstaatliche und nicht genehmigte k&auml;pft die Regierung Thailands nun gegen unregistrierte Dartscheiben im ganzen Land. 
 
