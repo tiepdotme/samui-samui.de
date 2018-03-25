@@ -14,7 +14,7 @@ resources :
   title: "Prayuth Chanocha spricht zur Presse"
 ---
 
-{{< figure name="prayuth" command="Resize" options="930x" }}Prayuth Chanocha spricht zur Presse{{< /figure >}}
+{{< figure name="prayuth" command="Resize" options="930x" >}}Prayuth Chanocha spricht zur Presse{{< /figure >}}
 
 {{% quote source="spiegel.de" src="http://www.spiegel.de/politik/ausland/thailand-will-journalisten-konstruktive-fragen-beibringen-a-1153911.html" %}}
 Der thailändische Junta-Chef Prayuth Chan-o-cha ist bislang nicht mit Bemühungen um ein besseres Verhältnis zu den Berichterstattern im Land aufgefallen. Im Gegenteil: Seit seinem Amtsantritt hat er ein äußerst angespanntes Verhältnis zur Presse. Deren Vertreter werden durch die Gefahr einer Anwendung des sogenannten Majestätsbeleidigungsparagrafen zunehmend an der freien Berichterstattung gehindert.

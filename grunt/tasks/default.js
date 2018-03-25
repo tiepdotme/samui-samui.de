@@ -21,7 +21,7 @@ module.exports = function (grunt) {
 
         'exec:compileSass',
         'cssmin',
-        'copy:stylesheet'
+        'copy:stylesheet',
 
         'exec:gitprocesschanges'
 
