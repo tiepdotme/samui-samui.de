@@ -17,7 +17,7 @@ disableHugoGeneratorInject = true # Do not inject generator meta tag on homepage
 watch = true # watch filesystem for changes and recreate as needed
 
 # pagination
-#paginate = 10 # 5 items per page
+paginate = 10 # default 5 items per page
 paginatePath = "seite"
 
 rssLimit = 10
