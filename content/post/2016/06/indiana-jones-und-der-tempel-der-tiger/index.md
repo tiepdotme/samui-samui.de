@@ -4,17 +4,18 @@ author: Patrick Kollitsch
 type: post
 date: 2016-06-02T15:19:56+00:00
 url: /2016/06/indiana-jones-und-der-tempel-der-tiger/
-instant_articles_submission_id:
-  - "1098924053525245"
-
-
 tags:
-  - tempel
-  - tiger
-  - tigertempel
-
+- tempel
+- tiger
+- tigertempel
+- tierwelt
+resources:
+- src: "Cj7f9WqVAAAiqPj.jpg"
+  name: "Cj7f9WqVAAAiqPj"
+  title: "Pickled Tigers from Kanchanaburi, via [Richart Miyer](https://twitter.com/Richart_NOW26/status/738273658137804801)"
 ---
-<figure id="attachment_4648" style="max-width: 360px" class="wp-caption alignleft">[<img src="/site/2016/06/indiana-jones-und-der-tempel-der-tiger/Cj7f9WqVAAAiqPj-360x270.jpg" alt="Pickled Tigers from Kanchanaburi, via Richart Miyer" width="360" height="270" class="size-thumbnail wp-image-4648" srcset="/wp-content/uploads/2016/06/indiana-jones-und-der-tempel-der-tiger/Cj7f9WqVAAAiqPj-360x270.jpg 360w, /wp-content/uploads/2016/06/indiana-jones-und-der-tempel-der-tiger/Cj7f9WqVAAAiqPj.jpg 600w" sizes="(max-width: 360px) 100vw, 360px" />][1]<figcaption class="wp-caption-text">Pickled Tigers from Kanchanaburi, via [Richart Miyer][2]</figcaption></figure> 
+
+{{% figure name="Cj7f9WqVAAAiqPj" command="Resize" options="930x" %}} Pickled Tigers from Kanchanaburi, via [Richart Miyer](https://twitter.com/Richart_NOW26/status/738273658137804801) {{% /figure %}}
 
 Eine besonders beliebte Attraktion in Thailand ist der ber&uuml;hmte Tiger-Tempel Luangta Maha Bua in Kanchanaburi. Ich kenne keinen Thailand-Reisenden der nicht gerne einen Selfie mit einem Tiger in seine Social Media Str&ouml;me stellt. Dummerweise nur gibt es seit Jahren "Tiersch&uuml;tzer", die gegen diesen Tempel und die Praxis demonstrieren. 
 
@@ -26,7 +27,6 @@ Interessant ist, was am Rande auftaucht. Beispielsweise [40 eingefrorene Tiger-B
 
 Kurzum: Bist auf Urlaubsreise und bieten sie dir ein "einzigartiges" Erlebnis mit "echten" wilden Tieren an, dann ist es meistens sehr unangenehm f&uuml;r die Tiere und sp&auml;ter f&uuml;r dich --- wenn du ein Gewissen hast.
 
- [1]: /site/2016/06/indiana-jones-und-der-tempel-der-tiger/Cj7f9WqVAAAiqPj.jpg
- [2]: https://twitter.com/Richart_NOW26/status/738273658137804801
- [3]: http://www.spiegel.de/panorama/thailand-40-tote-tigerbabys-in-tempel-gefunden-a-1095235.html
- [4]: https://asiancorrespondent.com/2016/06/thailand-tiger-temple-charged-animal-products/
+[1]: /site/2016/06/indiana-jones-und-der-tempel-der-tiger/Cj7f9WqVAAAiqPj.jpg
+[3]: http://www.spiegel.de/panorama/thailand-40-tote-tigerbabys-in-tempel-gefunden-a-1095235.html
+[4]: https://asiancorrespondent.com/2016/06/thailand-tiger-temple-charged-animal-products/
