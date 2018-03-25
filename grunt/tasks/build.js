@@ -12,6 +12,10 @@ module.exports = function (grunt) {
         // doing stuff once at work flow start
         'create-versionfiles',
 
+        // bump version
+        'bump',
+        'replace:version',
+
         // processing the dynamic parts once
         'process-javascripts',
 
