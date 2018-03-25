@@ -24,8 +24,10 @@ https://eloquent-morse-196fd2.netlify.com/* https://samui-samui.de/:splat 301!
 
 /sitemap /archiv/
 /sitemap/ /archiv/
+/service* /
 /suchen* /suche:splat
 /tag/* /tags/:splat
 /page/* /seite/:splat
 /abonnieren* /
 /txp* /
+/instagram* /
