@@ -14,10 +14,7 @@ module.exports = {
       "git add config.toml ",
       "git commit -m 'build: theme v<%= pkg.version %>' "
     ].join(' && '),
-    
-    stylefmt: {
-        command: 'stylefmt -R src/scss/'
-    },
+
     hugo: 'hugo',
 
     compileSass: 'npm run-script css'
