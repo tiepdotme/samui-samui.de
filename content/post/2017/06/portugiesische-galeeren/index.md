@@ -4,24 +4,15 @@ author: Patrick Kollitsch
 type: post
 date: 2017-06-28T15:44:53+00:00
 url: /2017/06/portugiesische-galeeren/
-dnb_samuisamui_article_image_size:
-  - "1"
-
-
 tags:
   - portugiesische galleren
   - tierwelt
-
 ---
 Jo, da haben wir mal ein Thema wo ich die deutschen Begriffe nachschlagen musste. Soweit ist es also schon gekommen mit mir ;) Jeh oh jeh!
 
-<blockquote class="blockquote">
-  <p>
-    Die Portugiesische Galeere (Physalia physalis) ist eine Art aus der Gattung der Seeblasen (Physalia), die zu den Staatsquallen (Siphonophorae) gezählt wird. Im weiteren Sinne werden manchmal auch eng verwandte Arten aus derselben Gattung wie z. B. Physalia utriculus als Portugiesische Galeere bezeichnet. Die am weitesten verbreitete und im engeren Sinne gemeinte Art ist jedoch Physalia physalis.
-  </p><footer class="blockquote-footer">
-  
-  <cite title="Quelle: de.wikipedia.org">Weiterlesen auf <a href="https://de.wikipedia.org/wiki/Portugiesische_Galeere">de.wikipedia.org</a></cite></footer>
-</blockquote>
+{{% quote source="de.wikipedia.org" src="https://de.wikipedia.org/wiki/Portugiesische_Galeere" %}}
+Die Portugiesische Galeere (Physalia physalis) ist eine Art aus der Gattung der Seeblasen (Physalia), die zu den Staatsquallen (Siphonophorae) gezählt wird. Im weiteren Sinne werden manchmal auch eng verwandte Arten aus derselben Gattung wie z. B. Physalia utriculus als Portugiesische Galeere bezeichnet. Die am weitesten verbreitete und im engeren Sinne gemeinte Art ist jedoch Physalia physalis.
+{{% /quote %}}
 
 Jedes Jahr kommt es hier auf der Insel zu Verletzungen und (vergangenes Jahr sogar zu) Toten durch verschiedene Quallenarten, die nicht unbedingt als gesund eingestuft werden können. Die _Portugiesische Gallere_ oder "Man'o'war" ist ein Beispiel.
 
@@ -33,5 +24,5 @@ Um Touristen und andere Freunde des Wassersports nun vor diesen Quallen zu sch&u
 
 [Ein interessantes Video von National Geographic &uuml;ber die Portugiesische Gallere kann man hier betrachten][2]. B&ouml;sartige Viecher!
 
- [1]: http://www.nationmultimedia.com/news/breakingnews/30319350
- [2]: http://video.nationalgeographic.com/video/manowar_portuguese
+[1]: http://www.nationmultimedia.com/news/breakingnews/30319350
+[2]: http://video.nationalgeographic.com/video/manowar_portuguese

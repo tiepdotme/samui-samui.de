@@ -64,3 +64,5 @@ https://www.google.com/doodles/payom-sinawats-109th-birthday
 
 
 https://github.com/gohugoio/hugo/blob/ff28120e53c7d3d5fce9941082f72eb89adb43b7/tpl/template_embedded.go
+
+https://www.webpagefx.com/tools/emoji-cheat-sheet/

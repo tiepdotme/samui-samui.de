@@ -67,3 +67,15 @@ $pagination-disabled-color: lighten(theme-color("yellowish"), 40%);
 $progress-bg: theme-color("yellowish");
 $progress-bar-color: theme-color("darktext");
 $progress-bar-bg: theme-color("redish");
+
+
+// carousel
+$carousel-control-width:            15% !default;
+$carousel-control-opacity:          .5 !default;
+$carousel-indicator-width:          20px !default;
+$carousel-indicator-height:         9px !default;
+$carousel-indicator-spacer:         3px !default;
+$carousel-indicator-active-bg:      theme-color("redish") !default;
+$carousel-caption-width:            70% !default;
+$carousel-caption-color:            theme-color("redish") !default;
+$carousel-control-icon-width:       20px !default;
