@@ -79,3 +79,7 @@ $carousel-indicator-active-bg:      theme-color("redish") !default;
 $carousel-caption-width:            70% !default;
 $carousel-caption-color:            theme-color("redish") !default;
 $carousel-control-icon-width:       20px !default;
+
+// cards
+$card-cap-bg:                       rgba($primary, .03);
+$card-bg:                           darken(theme-color("yellowish"), 5%);

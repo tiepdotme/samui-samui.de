@@ -1,8 +1,8 @@
 {{ define "main" }}
 
-<h1>Das Archiv</h1>
-<p>W&auml;hrend ich auf diesen Seiten ein paar Umbauten vornehme, wird das Archiv leider nur eine liste mit Links zu den Artikeln sein. <p>
-    <hr/>
+    <h1>{{ .Page.Title }}</h1>
+
+    {{ .Page.Content }}
 
     {{ range (where .Site.Pages "Section" "post").GroupByDate "January 2006"}}
 
@@ -20,6 +20,6 @@
 		        {{ index $.Site.Data.months.months .Date.Month }}
 		        {{ .Date.Format "2006" }} - <a href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
-    </ul>
+        </ul>
     {{ end }}
 {{ end }}
