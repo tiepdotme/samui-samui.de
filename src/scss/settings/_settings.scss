@@ -81,5 +81,5 @@ $carousel-caption-color:            theme-color("redish") !default;
 $carousel-control-icon-width:       20px !default;
 
 // cards
-$card-cap-bg:                       rgba($primary, .03);
-$card-bg:                           darken(theme-color("yellowish"), 5%);
+$card-cap-bg:                       rgba($primary, .3);
+$card-bg:                           darken(theme-color("yellowish"), 3%);
