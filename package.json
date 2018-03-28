@@ -45,7 +45,12 @@
     "pixrem": "^4.0.1",
     "popper.js": "^1.13.0",
     "request": "^2.83.0",
-    "time-grunt": "^1.4.0"
+    "time-grunt": "^1.4.0",
+    "webdash": "^1.2.0",
+    "webdash-npm-scripts": "^1.2.0",
+    "webdash-package-json": "^1.2.0",
+    "webdash-performance-budget": "^1.2.0",
+    "webdash-pwa-manifest": "^1.2.0"
   },
   "config": {
     "commitizen": {
