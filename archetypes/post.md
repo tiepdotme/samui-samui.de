@@ -12,7 +12,7 @@ tags:
 - tag1
 - tag2
 linktitle: "use for linking to this post"
-resources :
+resources:
 - src: "file"
   name: "name"
   title: "title"
