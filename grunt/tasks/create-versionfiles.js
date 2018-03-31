@@ -6,8 +6,7 @@ module.exports = function(grunt) {
     grunt.registerTask('create-versionfiles', [
 
         'writefile:versioncssfile',
-        'writefile:versionjsfile',
-        'writefile:tmpheader'
+        'writefile:versionjsfile'
 
     ]);
 
