@@ -13,7 +13,13 @@
 
 	<div class="text-center">
 
-	{{ range $name, $taxonomy := $.Site.Taxonomies.tags }}
+	{{ $.Scratch.Set "tags" (slice) }}
+	{{ range $name, $taxonomy := ($.Site.Taxonomies.tags) }}
+	    {{ $.Scratch.Add "tags" $name }}
+	{{ end }}
+	{{ range $name := $.Scratch.Get "tags" | shuffle }}
+		{{ $taxonomy := index $.Site.Taxonomies.tags $name }}
+
 	    {{ $currentTagCount := len $taxonomy.Pages }}
 	    {{ $currentFontSize := (add $smallestFontSize (mul (sub $currentTagCount $min) $fontStep) ) }}
 	    {{ $count := len $taxonomy.Pages }}
