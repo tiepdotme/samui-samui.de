@@ -22,6 +22,15 @@ footer#tagcloud .container {
                 color: darken(theme-color("yellowish"), 20%);
             }
         }
+
+    }
+    
+}
+
+footer#tagcloud {
+    line-height: 1rem;
+    a:hover {
+    text-decoration:none;
     }
 }
 

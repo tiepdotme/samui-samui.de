@@ -29,7 +29,9 @@ module.exports = {
                     'Android 4'
                 ]
             }), // add vendor prefixes
-            require('cssnano')() // minify the result
+            require('cssnano')(), // minify the result  
+            // require('cssnext')(),
+            // require('precss')()
         ]
     },
     dist: {

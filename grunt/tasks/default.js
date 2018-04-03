@@ -20,6 +20,7 @@ module.exports = function (grunt) {
         'process-javascripts',
 
         'exec:compileSass',
+        'postcss',
         'cssmin',
         'copy:stylesheet',
 

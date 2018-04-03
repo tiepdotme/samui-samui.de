@@ -20,6 +20,7 @@
     "cssnext": "^1.8.4",
     "cz-conventional-changelog": "^2.1.0",
     "cz-customizable": "^5.2.0",
+    "glyphhanger": "^3.0.3",
     "grunt": "^1.0.2",
     "grunt-available-tasks": "^0.6.3",
     "grunt-bump": "^0.8.0",
