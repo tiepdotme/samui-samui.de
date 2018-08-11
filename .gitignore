@@ -10,3 +10,6 @@
 # theme files
 /static/assets/js/*
 /static/assets/css/*
+
+# IDE files
+*.sublime-workspace
