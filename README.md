@@ -7,9 +7,8 @@
 
 - copy `.env.sample` to `.env`
 - fill in the info from https://www.algolia.com/apps > API keys
-- run `npm run algolia` whenever there are updates to the content
-
-
+- run `npm install -g atomic-algolia` to install globally 
+- run `npm run algolia` or `atomic-algolia` whenever there are updates to the content
 
 # preparing fonts
 

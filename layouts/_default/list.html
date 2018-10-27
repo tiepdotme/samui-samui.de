@@ -1,7 +1,7 @@
 {{ define "main" }}
 
-  {{ range $index, .Paginator.Pages }}
-  <article class="{{ if eq $index 0 }}first{{ end }}">
+  {{ range $elem_index, $value := .Paginator.Pages }}
+  <article class="{{ if eq $elem_index 0 }}first{{ end }}">
     {{ .Scratch.Set "firstitem" "" }}
     <header class="title">
       <h2 class="entry-title">

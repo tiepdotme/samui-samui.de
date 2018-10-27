@@ -5,5 +5,5 @@
 [context.production]
   command = "grunt build"
   [context.production.environment]
-    HUGO_VERSION = "0.46"
+    HUGO_VERSION = "0.49.2"
     HUGO_ENV = "production"
