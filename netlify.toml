@@ -107,12 +107,12 @@
     # An example CSP from https://vincent.bernat.im/en/blog/2018-more-privacy-blog#memento-csp:
     #   Content-Security-Policy:
     #     default-src 'self' blob:;
-    #     script-src  'self' blob: https://d1g3mdmxf8zbo9.cloudfront.net/js/;
+    #     script-src  'self' blob: https://d33wubrfki0l68.cloudfront.net/js/;
     #     object-src  'self' https://d1g3mdmxf8zbo9.cloudfront.net/images/;
-    #     img-src     'self' data: https://d1g3mdmxf8zbo9.cloudfront.net/images/;
-    #     frame-src   https://d1g3mdmxf8zbo9.cloudfront.net/images/;
-    #     style-src   'self' 'unsafe-inline' https://d1g3mdmxf8zbo9.cloudfront.net/css/;
-    #     font-src    'self' about: data: https://d1g3mdmxf8zbo9.cloudfront.net/fonts/;
+    #     img-src     'self' data: https://d33wubrfki0l68.cloudfront.net/images/;
+    #     frame-src   https://d33wubrfki0l68.cloudfront.net/images/;
+    #     style-src   'self' 'unsafe-inline' https://d33wubrfki0l68.cloudfront.net/css/;
+    #     font-src    'self' about: data: https://d33wubrfki0l68.cloudfront.net/fonts/;
     #     worker-src  blob:;
     #     media-src   'self' blob: https://luffy-video.sos-ch-dk-2.exo.io;
     #     connect-src 'self' https://luffy-video.sos-ch-dk-2.exo.io https://comments.luffy.cx;
@@ -284,7 +284,6 @@
       ; frame-ancestors 'none'
       ; base-uri 'self'
       ; block-all-mixed-content
-      ; report-uri https://c571407e2c6d71ed2021633b7fdad0de.report-uri.com/r/d/csp/enforce
     """
     # Do NOT end CSP with a semi-colon. See
     # https://scotthelme.co.uk/a-new-security-header-feature-policy/#comment-4128686467
