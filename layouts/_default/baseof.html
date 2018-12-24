@@ -8,9 +8,8 @@
     {{ partial "head/metadata.html" . }}
     {{ partial "head/open_graph.html" . }}
     {{ partial "head/twitter.html" . }}
-    {{ partialCached "head/favicon.html" . }}
-    {{ $path := printf "assets/css/theme-%s.css" $.Site.Params.version }}
-    <link rel="stylesheet" href="{{ $path | absURL }}">
+    {{ partialCached "head/favicon.html" . }}   
+    {{ partialCached "head/css.html" . }} 
     {{ .Hugo.Generator }}
   </head>
   <body id="{{ .Site.Params.Siteslug }}">
@@ -27,7 +26,12 @@
     {{ partialCached "footer/tagcloud.html" . }}  
     {{ partialCached "footer/copyright.html" . }}
     {{ partialCached "footer/finisher.html" . }}
+
+
+    {{ partialCached "footer/js.html" . }}
     {{ $path := printf "assets/js/script-%s.js" $.Site.Params.version }}
     <script src="{{ $path | absURL | safeURL }}"></script>
+
+
   </body>
 </html>
