@@ -22,7 +22,7 @@ module.exports = {
     },
     {
       value: 'codestyle',
-      name: 'style: Changes that do not affect the meaning of the code\n            (white-space, formatting, missing semi-colons, etc)'
+      name: 'style: Changes that do not affect the meaning of the code'
     },
     {
       value: 'perf',
@@ -30,7 +30,7 @@ module.exports = {
     },
     {
       value: 'chore',
-      name: 'chore: Changes to the build process or auxiliary tools\n            and libraries such as documentation generation'
+      name: 'chore: Changes to the build process, tools, documentation'
     }
   ],
 
