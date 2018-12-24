@@ -1,4 +1,4 @@
-git st[build]
+[build]
   publish = "public/"
   command = "grunt build"
 
