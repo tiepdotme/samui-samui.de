@@ -1,0 +1,6 @@
+{{ with .Get "name" }}
+{{ else }}
+{{ errorf "missing value for param 'name': %s" .Position }}
+{{ end }}
+
+http://latitudelongitude.org/th/ko-samui/

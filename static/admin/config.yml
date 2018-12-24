@@ -42,7 +42,7 @@ collections:
         widget: "markdown"
 
 backend:
-  name: bitbucket
-  repo: pkollitsch/samui-samui.de
+  name: git-gateway
   branch: master
- 
+
+publish_mode: editorial_workflow 

@@ -12,6 +12,7 @@
     {{ $path := printf "assets/css/theme-%s.css" $.Site.Params.version }}
     <link rel="stylesheet" href="{{ $path | absURL }}">
     {{ .Hugo.Generator }}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body id="{{ .Site.Params.Siteslug }}">
     {{ partialCached "header/brand.html" . }}
@@ -29,5 +30,16 @@
     {{ partialCached "footer/finisher.html" . }}
     {{ $path := printf "assets/js/script-%s.js" $.Site.Params.version }}
     <script src="{{ $path | absURL | safeURL }}"></script>
+    <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
   </body>
 </html>
