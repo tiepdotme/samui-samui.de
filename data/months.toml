@@ -1,4 +1,5 @@
 # a hacked translation of monthnames to german
+# counting from 0 so first item is empty
 # see /layouts/partials/meta.top.html for usage
 months = [
   "",
