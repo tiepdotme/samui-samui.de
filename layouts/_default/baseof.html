@@ -26,12 +26,6 @@
     {{ partialCached "footer/tagcloud.html" . }}  
     {{ partialCached "footer/copyright.html" . }}
     {{ partialCached "footer/finisher.html" . }}
-
-
     {{ partialCached "footer/js.html" . }}
-    {{ $path := printf "assets/js/script-%s.js" $.Site.Params.version }}
-    <script src="{{ $path | absURL | safeURL }}"></script>
-
-
   </body>
 </html>

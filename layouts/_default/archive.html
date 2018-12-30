@@ -1,0 +1,21 @@
+{{/*
+layout for single items without template in TYPE/single.html
+page layout
+*/}}
+{{ define "main" }}
+<nav aria-label="Archive Navigation">
+<ul class="pagination">
+	{{ range (where .Site.Pages "Section" "post").GroupByDate "2006" "asc" }}
+		{{ range first 1 .Pages }}
+		<li class="page-item">
+			<a class="page-link" href="/archive/{{ .Date.Format "2006" }}">
+				{{ .Date.Format "2006" }}
+			</a>
+		</li>
+		{{ end }}
+	{{ end }}
+</ul>
+</nav>
+{{ end }}
+
+

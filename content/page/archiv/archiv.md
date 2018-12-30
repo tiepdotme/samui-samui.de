@@ -116,4 +116,11 @@ W&auml;hrend ich auf diesen Seiten ein paar Umbauten vornehme, wird das Archiv l
 <a href="/archiv/2018/" class="btn btn-primary">Zum 2018er Archiv</a>
 </div>
 </div>
+<div class="card">
+<div class="card-header">2019</div>
+<div class="card-body">
+<p>tbd...</p>
+<a href="/archiv/2019/" class="btn btn-primary">Zum 2019er Archiv</a>
+</div>
+</div>
 </div>

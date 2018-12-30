@@ -12,4 +12,7 @@
 /static/assets/css/*
 
 # IDE files
-*.sublime-workspace
+/*.sublime-workspace
+
+# scratch files
+/notes.txt

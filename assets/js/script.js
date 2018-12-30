@@ -1,10 +1,10 @@
-/*global l32n:true*/
+
 function loadTagManager(){
   var html = "<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P8XWV7K');</script>";
-  $('head').append(html);
+  jQuery('head').append(html);
 
   var html2 = '<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P8XWV7K" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>';
-  $('body').append(html2);
+  jQuery('body').append(html2);
 
 }
 
@@ -12,16 +12,13 @@ jQuery(document).ready(function ($) {
 
     'use strict';
 
-    // headline design
-    //jQuery(".entry-title, .slabbing").slabText();
-
     // starting up tagmanager
     window.dataLayer = window.dataLayer || [];
-    setTimeout("loadTagManager()", 2500);
+    setTimeout("loadTagManager()", 500);
 
-    // little workaround for single blog posts and archive pages that are not
-    // automatically shown in active navigation
-    $('body.blog.paged #topnavigation li:nth-child(2), body.single #topnavigation li:nth-child(2), body.archive #topnavigation li:nth-child(2)').addClass('active');
+    // a little workaround for single blog posts and archive pages 
+    // that are not automatically shown in active navigation
+    jQuery('body.blog.paged #topnavigation li:nth-child(2), body.single #topnavigation li:nth-child(2), body.archive #topnavigation li:nth-child(2)').addClass('active');
 
     // back to top link
     var offset = 220;
@@ -34,15 +31,16 @@ jQuery(document).ready(function ($) {
             jQuery('#back-to-top').fadeOut(duration);
         }
     });
-
     jQuery('#back-to-top').on('click', function (event) {
         event.preventDefault();
         jQuery('html, body').animate({scrollTop: 0}, 1000, 'swing');
         return false;
     });
 
+    // @todo check if we use this and disable
     $('[data-toggle="tooltip"]').tooltip();
 
+    // @todo check if we use this and disable
     jQuery('.is-datediff').each(function(item, index){
       var $this = $(this);
       var $date1 = moment($this.data('from'));
@@ -50,6 +48,7 @@ jQuery(document).ready(function ($) {
       $this.text($date2.diff($date1, 'days')+1);
     });
 
+    // @todo check if we use this and disable
     jQuery('.is-datediff-month').each(function(item, index){
       var $this = $(this);
       var $date1 = moment($this.data('from'));

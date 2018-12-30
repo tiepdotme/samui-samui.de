@@ -51,7 +51,7 @@ tag = "tags"
 # See https://github.com/disintegration/imaging
 resampleFilter = "lanczos"
 # Defatult JPEG quality setting. Default is 75.
-quality = 85
+quality = 95
 # Anchor used when cropping pictures.
 # Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
 # Smart Cropping is content aware and tries to find the best crop for each image.
