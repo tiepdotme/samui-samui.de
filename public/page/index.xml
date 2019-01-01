@@ -8,10 +8,19 @@
     
     
     <copyright>All rights reserved. Copyright samui-samui.de</copyright>
-    <lastBuildDate>Tue, 27 Mar 2018 20:49:57 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 20:49:57 +0700</lastBuildDate>
     
         <atom:link href="https://samui-samui.de/page/index.xml" rel="self" type="application/rss+xml" />
     
+    
+	    <item>
+	      <title>Einträge aus 2019</title>
+	      <link>https://samui-samui.de/archiv/2019/</link>
+	      <pubDate>Thu, 27 Dec 2018 20:49:57 +0700</pubDate>
+	      
+	      <guid>https://samui-samui.de/archiv/2019/</guid>
+	      <description>  Januar 2019   1. Januar 2019 - Thirtysix-18   1. Januar 2019 - Posts   2005   2006   2007   2008   2009   2010   2011   2012   2013   2014   2015   2016   2017   2018   2019     </description>
+	    </item>
     
 	    <item>
 	      <title>Einträge aus 2005</title>
@@ -101,16 +110,6 @@
 	      <guid>https://samui-samui.de/archiv/2013/</guid>
 	      <description>Ich habe k&amp;uuml;rzlich mein Weblog in ein neues System umgezogen. Zur Zeit &amp;uuml;berarbeite ich gerade alle alten Artikel in den Formaten, Bildern usw. - Dieser Jahrgang ist noch nicht &amp;uuml;berarbeitet!
   Januar 2013   15. Januar 2013 - Wir chillen…   22. Januar 2013 - Mein (gregorianisches) Silvester    Februar 2013   25. Februar 2013 - Suchbild   25. Februar 2013 - Suchbild (Auflösung)    April 2013   13.</description>
-	    </item>
-    
-	    <item>
-	      <title>Einträge aus 2014</title>
-	      <link>https://samui-samui.de/archiv/2014/</link>
-	      <pubDate>Tue, 27 Mar 2018 20:49:57 +0700</pubDate>
-	      
-	      <guid>https://samui-samui.de/archiv/2014/</guid>
-	      <description>Ich habe k&amp;uuml;rzlich mein Weblog in ein neues System umgezogen. Zur Zeit &amp;uuml;berarbeite ich gerade alle alten Artikel in den Formaten, Bildern usw. - Dieser Jahrgang ist noch nicht &amp;uuml;berarbeitet!
-  Februar 2014   3. Februar 2014 - Thailands Food-Flagge    Mai 2014   22. Mai 2014 - Pochen.   22. Mai 2014 - Mitteilung des deutschen Botschafters   22. Mai 2014 - Updates   23.</description>
 	    </item>
     
   </channel>
