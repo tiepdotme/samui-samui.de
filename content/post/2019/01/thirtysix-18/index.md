@@ -4,7 +4,9 @@ date: 2019-01-01T21:00:00+07:00
 type: post
 url: /2019/01/thirtysix-18/
 tags:
-- samuisamui
+- wetter
+- sturm
+- koh samui
 resources:
 - src: "samui-jan-4.png"
   name: "samui-jan-4"
