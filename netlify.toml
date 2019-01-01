@@ -9,346 +9,346 @@
     HUGO_VERSION = "0.53"
     HUGO_ENV = "production"
 
-# Headers
-# https://www.netlify.com/blog/2017/10/17/introducing-structured-redirects-and-headers/
+# # Headers
+# # https://www.netlify.com/blog/2017/10/17/introducing-structured-redirects-and-headers/
 
-## Cache Control
-# Paste the below in https://play.netlify.com/headers to test
-# Set max-age to 1 year (31536000 seconds) for stuff not expected to
-# update any time soon.
-[[headers]]
-  for = "/css/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
+# ## Cache Control
+# # Paste the below in https://play.netlify.com/headers to test
+# # Set max-age to 1 year (31536000 seconds) for stuff not expected to
+# # update any time soon.
+# [[headers]]
+#   for = "/css/*"
+#   [headers.values]
+#     Cache-Control = "public, max-age=31536000"
 
-[[headers]]
-  for = "/js/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
+# [[headers]]
+#   for = "/js/*"
+#   [headers.values]
+#     Cache-Control = "public, max-age=31536000"
 
-[[headers]]
-  for = "/fonts/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
+# [[headers]]
+#   for = "/fonts/*"
+#   [headers.values]
+#     Cache-Control = "public, max-age=31536000"
 
-# Favicons
-[[headers]]
-  for = "/favicon.*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
+# # Favicons
+# [[headers]]
+#   for = "/favicon.*"
+#   [headers.values]
+#     Cache-Control = "public, max-age=31536000"
 
-[[headers]]
-  for = "/favicon-*.png"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
+# [[headers]]
+#   for = "/favicon-*.png"
+#   [headers.values]
+#     Cache-Control = "public, max-age=31536000"
 
-[[headers]]
-  for = "/mstile-*.png"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
+# [[headers]]
+#   for = "/mstile-*.png"
+#   [headers.values]
+#     Cache-Control = "public, max-age=31536000"
 
-[[headers]]
-  for = "/apple-touch-icon.png"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
+# [[headers]]
+#   for = "/apple-touch-icon.png"
+#   [headers.values]
+#     Cache-Control = "public, max-age=31536000"
 
-[[headers]]
-  for = "/manifest.json"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
+# [[headers]]
+#   for = "/manifest.json"
+#   [headers.values]
+#     Cache-Control = "public, max-age=31536000"
 
-# Also these images used by the refined theme won't be updated frequently.
-[[headers]]
-  for = "/images/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
+# # Also these images used by the refined theme won't be updated frequently.
+# [[headers]]
+#   for = "/images/*"
+#   [headers.values]
+#     Cache-Control = "public, max-age=31536000"
 
-## Security Headers
-# https://webbkoll.dataskydd.net/en/results?url=https%3A%2F%2Fscripter.co%2F
-# https://securityheaders.com/?q=https%3A%2F%2Fscripter.co&followRedirects=on
-# https://csp-evaluator.withgoogle.com/?csp=https://scripter.co
-# https://observatory.mozilla.org/analyze/scripter.co
+# ## Security Headers
+# # https://webbkoll.dataskydd.net/en/results?url=https%3A%2F%2Fscripter.co%2F
+# # https://securityheaders.com/?q=https%3A%2F%2Fscripter.co&followRedirects=on
+# # https://csp-evaluator.withgoogle.com/?csp=https://scripter.co
+# # https://observatory.mozilla.org/analyze/scripter.co
 
-[[headers]]
-  for = "/*"
-  [headers.values]
-    # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy
-    Referrer-Policy = "same-origin"
+# [[headers]]
+#   for = "/*"
+#   [headers.values]
+#     # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy
+#     Referrer-Policy = "same-origin"
 
-    # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
-    # I never intend to show any of the pages on my site in a <frame> on my site
-    # or elsewhere.
-    X-Frame-Options = "DENY"
+#     # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
+#     # I never intend to show any of the pages on my site in a <frame> on my site
+#     # or elsewhere.
+#     X-Frame-Options = "DENY"
 
-    # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-XSS-Protection
-    X-Xss-Protection = "1; mode=block"
+#     # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-XSS-Protection
+#     X-Xss-Protection = "1; mode=block"
 
-    # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Content-Type-Options
-    X-Content-Type-Options = "nosniff"
+#     # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Content-Type-Options
+#     X-Content-Type-Options = "nosniff"
 
-    # https://httpsecurityreport.com/best_practice.html#hsts
-    # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
-    # https://hstspreload.org/
-    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+#     # https://httpsecurityreport.com/best_practice.html#hsts
+#     # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
+#     # https://hstspreload.org/
+#     Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
 
-    # Fri May 04 09:19:49 EDT 2018 - kmodi
-    #   - Commented out the Expect-CT header today as it seems to be quite useless,
-    # and causes unnecessary pings to the report-uri endpoint.
-    #
-    # # https://scotthelme.co.uk/a-new-security-header-expect-ct/
-    # # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Expect-CT
-    # Expect-CT = """
-    #   max-age=86400,
-    #   report-uri="https://c571407e2c6d71ed2021633b7fdad0de.report-uri.com/r/d/ct/enforce"
-    # """
+#     # Fri May 04 09:19:49 EDT 2018 - kmodi
+#     #   - Commented out the Expect-CT header today as it seems to be quite useless,
+#     # and causes unnecessary pings to the report-uri endpoint.
+#     #
+#     # # https://scotthelme.co.uk/a-new-security-header-expect-ct/
+#     # # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Expect-CT
+#     # Expect-CT = """
+#     #   max-age=86400,
+#     #   report-uri="https://c571407e2c6d71ed2021633b7fdad0de.report-uri.com/r/d/ct/enforce"
+#     # """
 
-    ### Content Security Policy (CSP)
+#     ### Content Security Policy (CSP)
 
-    # An example CSP from https://vincent.bernat.im/en/blog/2018-more-privacy-blog#memento-csp:
-    #   Content-Security-Policy:
-    #     default-src 'self' blob:;
-    #     script-src  'self' blob: https://d33wubrfki0l68.cloudfront.net/js/;
-    #     object-src  'self' https://d1g3mdmxf8zbo9.cloudfront.net/images/;
-    #     img-src     'self' data: https://d33wubrfki0l68.cloudfront.net/images/;
-    #     frame-src   https://d33wubrfki0l68.cloudfront.net/images/;
-    #     style-src   'self' 'unsafe-inline' https://d33wubrfki0l68.cloudfront.net/css/;
-    #     font-src    'self' about: data: https://d33wubrfki0l68.cloudfront.net/fonts/;
-    #     worker-src  blob:;
-    #     media-src   'self' blob: https://luffy-video.sos-ch-dk-2.exo.io;
-    #     connect-src 'self' https://luffy-video.sos-ch-dk-2.exo.io https://comments.luffy.cx;
-    #     frame-ancestors 'none';
-    #     block-all-mixed-content;
+#     # An example CSP from https://vincent.bernat.im/en/blog/2018-more-privacy-blog#memento-csp:
+#     #   Content-Security-Policy:
+#     #     default-src 'self' blob:;
+#     #     script-src  'self' blob: https://d33wubrfki0l68.cloudfront.net/js/;
+#     #     object-src  'self' https://d1g3mdmxf8zbo9.cloudfront.net/images/;
+#     #     img-src     'self' data: https://d33wubrfki0l68.cloudfront.net/images/;
+#     #     frame-src   https://d33wubrfki0l68.cloudfront.net/images/;
+#     #     style-src   'self' 'unsafe-inline' https://d33wubrfki0l68.cloudfront.net/css/;
+#     #     font-src    'self' about: data: https://d33wubrfki0l68.cloudfront.net/fonts/;
+#     #     worker-src  blob:;
+#     #     media-src   'self' blob: https://luffy-video.sos-ch-dk-2.exo.io;
+#     #     connect-src 'self' https://luffy-video.sos-ch-dk-2.exo.io https://comments.luffy.cx;
+#     #     frame-ancestors 'none';
+#     #     block-all-mixed-content;
 
-    # https://scotthelme.co.uk/content-security-policy-an-introduction/
-    # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy
+#     # https://scotthelme.co.uk/content-security-policy-an-introduction/
+#     # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy
 
-    # default-src: Define loading policy for all resources type in case of a
-    # resource type dedicated directive is not defined (fallback). For better
-    # safety, set this to 'none'.
+#     # default-src: Define loading policy for all resources type in case of a
+#     # resource type dedicated directive is not defined (fallback). For better
+#     # safety, set this to 'none'.
 
-    # script-src: Define which scripts the protected resource can execute.  Add
-    # mathjax to the white-list. See
-    # https://github.com/mathjax/MathJax/issues/1988 to see how I don't need
-    # 'unsafe-inline' and 'unsafe-eval' just for Mathjax to work.
-    #
-    # script sha 1: 'sha256-AICaU7ez1zEahkwGOinOvyDtJHKvnJAO607ClgXh4xg=' <- "var nav=responsiveNav("#nav");"
-    # script sha 2: 'sha256-pZ00Zr8WlRr5cX4fTjQhz3jgQLofrOruiMEK+Wf73Tg=' <- minified toc_on_side script in /themes/refined/layouts/partials/toc_on_side.html
-    #
-    # script sha 3: 'sha256-Zgc2pp+yOmAVogxvTHYBMFKubY0HKk2a0+0+8sX17WY='
-    # is the hash for the special script ";undefined". This is added
-    # as a hack to prevent the below report caused by the Lastpass
-    # Extension on Firefox.
-    #   {
-    #       "csp-report": {
-    #           "blocked-uri": "self",
-    #           "document-uri": "https://scripter.co/",
-    #           "line-number": 1,
-    #           "original-policy": "default-src 'none'; script-src https://scripter.co 'sha256-AICaU7ez1zEahkwGOinOvyDtJHKvnJAO607ClgXh4xg=' 'sha256-fB1lnlS3H5DCH26tOB+Agbmbv0abX4TwU9MYAf3FJIw=' 'sha256-1iz8p6+E+t6QRucmo3ZtYZwPhxbSzs8i3JrycOAMAUU=' https://cdnjs.cloudflare.com/ajax/libs/mathjax/ 'unsafe-inline'; object-src 'none'; style-src https://scripter.co 'unsafe-inline'; img-src https://scripter.co; font-src https://scripter.co about: data: https://cdnjs.cloudflare.com/ajax/libs/mathjax/; connect-src https://scripter.co; manifest-src https://scripter.co; media-src 'none'; form-action https://scripter.co https://webmention.io/scripter.co/webmention https://quill.p3k.io/; frame-ancestors 'none'; base-uri https://scripter.co; block-all-mixed-content; report-uri https://c571407e2c6d71ed2021633b7fdad0de.report-uri.com/r/d/csp/enforce",
-    #           "script-sample": ";undefined",
-    #           "violated-directive": "script-src"
-    #       }
-    #   }
-    # https://twitter.com/kaushalmodi/status/989941320558039040
+#     # script-src: Define which scripts the protected resource can execute.  Add
+#     # mathjax to the white-list. See
+#     # https://github.com/mathjax/MathJax/issues/1988 to see how I don't need
+#     # 'unsafe-inline' and 'unsafe-eval' just for Mathjax to work.
+#     #
+#     # script sha 1: 'sha256-AICaU7ez1zEahkwGOinOvyDtJHKvnJAO607ClgXh4xg=' <- "var nav=responsiveNav("#nav");"
+#     # script sha 2: 'sha256-pZ00Zr8WlRr5cX4fTjQhz3jgQLofrOruiMEK+Wf73Tg=' <- minified toc_on_side script in /themes/refined/layouts/partials/toc_on_side.html
+#     #
+#     # script sha 3: 'sha256-Zgc2pp+yOmAVogxvTHYBMFKubY0HKk2a0+0+8sX17WY='
+#     # is the hash for the special script ";undefined". This is added
+#     # as a hack to prevent the below report caused by the Lastpass
+#     # Extension on Firefox.
+#     #   {
+#     #       "csp-report": {
+#     #           "blocked-uri": "self",
+#     #           "document-uri": "https://scripter.co/",
+#     #           "line-number": 1,
+#     #           "original-policy": "default-src 'none'; script-src https://scripter.co 'sha256-AICaU7ez1zEahkwGOinOvyDtJHKvnJAO607ClgXh4xg=' 'sha256-fB1lnlS3H5DCH26tOB+Agbmbv0abX4TwU9MYAf3FJIw=' 'sha256-1iz8p6+E+t6QRucmo3ZtYZwPhxbSzs8i3JrycOAMAUU=' https://cdnjs.cloudflare.com/ajax/libs/mathjax/ 'unsafe-inline'; object-src 'none'; style-src https://scripter.co 'unsafe-inline'; img-src https://scripter.co; font-src https://scripter.co about: data: https://cdnjs.cloudflare.com/ajax/libs/mathjax/; connect-src https://scripter.co; manifest-src https://scripter.co; media-src 'none'; form-action https://scripter.co https://webmention.io/scripter.co/webmention https://quill.p3k.io/; frame-ancestors 'none'; base-uri https://scripter.co; block-all-mixed-content; report-uri https://c571407e2c6d71ed2021633b7fdad0de.report-uri.com/r/d/csp/enforce",
+#     #           "script-sample": ";undefined",
+#     #           "violated-directive": "script-src"
+#     #       }
+#     #   }
+#     # https://twitter.com/kaushalmodi/status/989941320558039040
 
-    # Hashes for inline scripts injected by Privacy Badger Firefox extension (version 2018.04.23):
-    # https://github.com/EFForg/privacybadger/issues/1793#issuecomment-385424102
-    #
-    # Code for base64 sha256 calculation:
-    #
-    #   function _arrayBufferToBase64( buffer ) {
-    #       var binary = '';
-    #       var bytes = new Uint8Array( buffer );
-    #       var len = bytes.byteLength;
-    #       for (var i = 0; i < len; i++) {
-    #           binary += String.fromCharCode( bytes[ i ] );
-    #       }
-    #       return window.btoa( binary );
-    #   }
-    #
-    #   function sha256(input, callback) {
-    #     return window.crypto.subtle.digest(
-    #       { name: "SHA-256", },
-    #       new TextEncoder().encode(input)
-    #     ).then(hashed => {
-    #       return callback(_arrayBufferToBase64(hashed));
-    #     });
-    #   }
-    #
-    # script sha 4: 'sha256-kNsowQfHpWMrbQG7AtSzSuMQg2t/YKwmDWdqeKfm4BI='
-    # (function (NAVIGATOR, OBJECT) {\n\n    OBJ...
-    #    https://github.com/EFForg/privacybadger/blob/6c042773f398a5b86bd3e1a7cced16ebae4b1eba/src/js/contentscripts/dnt.js#L18-L36
-    #
-    # To get the actual injected script:
-    # - Copy the whole getPageScript() function from above.
-    # - Paste it in the Scratchpad (Shift + F4) in Firefox web dev tools.
-    # - Paste the above sha256 calculation code after that.
-    # - Paste "sha256(getPageScript(), r=>console.log(r));" after that.
-    # - Click the Run button in the console.
-    # - You will then find the sha256 printed in the Console.
-    #     kNsowQfHpWMrbQG7AtSzSuMQg2t/YKwmDWdqeKfm4BI=
-    #
-    # script sha 5: 'sha256-afSIEhWGAPlY458Q4YkhPLVnsVEBh/u5YNlpg6od8TU='
-    # (function (ERROR) {\n\n    const V8_STACK_...
-    #    https://github.com/EFForg/privacybadger/blob/6c042773f398a5b86bd3e1a7cced16ebae4b1eba/src/js/contentscripts/fingerprinting.js#L21-L300
-    #
-    # To get the actual injected script:
-    # - Copy the whole getFpPageScript() function from above.
-    # - Paste it in the Scratchpad (Shift + F4) in Firefox web dev tools.
-    # - Paste the above sha256 calculation code after that.
-    # - Paste "sha256(getFpPageScript(), r=>console.log(r));" after that.
-    # - You will then find the sha256 printed in the Console.
-    #     afSIEhWGAPlY458Q4YkhPLVnsVEBh/u5YNlpg6od8TU=
+#     # Hashes for inline scripts injected by Privacy Badger Firefox extension (version 2018.04.23):
+#     # https://github.com/EFForg/privacybadger/issues/1793#issuecomment-385424102
+#     #
+#     # Code for base64 sha256 calculation:
+#     #
+#     #   function _arrayBufferToBase64( buffer ) {
+#     #       var binary = '';
+#     #       var bytes = new Uint8Array( buffer );
+#     #       var len = bytes.byteLength;
+#     #       for (var i = 0; i < len; i++) {
+#     #           binary += String.fromCharCode( bytes[ i ] );
+#     #       }
+#     #       return window.btoa( binary );
+#     #   }
+#     #
+#     #   function sha256(input, callback) {
+#     #     return window.crypto.subtle.digest(
+#     #       { name: "SHA-256", },
+#     #       new TextEncoder().encode(input)
+#     #     ).then(hashed => {
+#     #       return callback(_arrayBufferToBase64(hashed));
+#     #     });
+#     #   }
+#     #
+#     # script sha 4: 'sha256-kNsowQfHpWMrbQG7AtSzSuMQg2t/YKwmDWdqeKfm4BI='
+#     # (function (NAVIGATOR, OBJECT) {\n\n    OBJ...
+#     #    https://github.com/EFForg/privacybadger/blob/6c042773f398a5b86bd3e1a7cced16ebae4b1eba/src/js/contentscripts/dnt.js#L18-L36
+#     #
+#     # To get the actual injected script:
+#     # - Copy the whole getPageScript() function from above.
+#     # - Paste it in the Scratchpad (Shift + F4) in Firefox web dev tools.
+#     # - Paste the above sha256 calculation code after that.
+#     # - Paste "sha256(getPageScript(), r=>console.log(r));" after that.
+#     # - Click the Run button in the console.
+#     # - You will then find the sha256 printed in the Console.
+#     #     kNsowQfHpWMrbQG7AtSzSuMQg2t/YKwmDWdqeKfm4BI=
+#     #
+#     # script sha 5: 'sha256-afSIEhWGAPlY458Q4YkhPLVnsVEBh/u5YNlpg6od8TU='
+#     # (function (ERROR) {\n\n    const V8_STACK_...
+#     #    https://github.com/EFForg/privacybadger/blob/6c042773f398a5b86bd3e1a7cced16ebae4b1eba/src/js/contentscripts/fingerprinting.js#L21-L300
+#     #
+#     # To get the actual injected script:
+#     # - Copy the whole getFpPageScript() function from above.
+#     # - Paste it in the Scratchpad (Shift + F4) in Firefox web dev tools.
+#     # - Paste the above sha256 calculation code after that.
+#     # - Paste "sha256(getFpPageScript(), r=>console.log(r));" after that.
+#     # - You will then find the sha256 printed in the Console.
+#     #     afSIEhWGAPlY458Q4YkhPLVnsVEBh/u5YNlpg6od8TU=
 
-    # object-src: Define from where the protected resource can load
-    # plugins. Specifies valid sources for the <object>, <embed>, and <applet>
-    # elements.
+#     # object-src: Define from where the protected resource can load
+#     # plugins. Specifies valid sources for the <object>, <embed>, and <applet>
+#     # elements.
 
-    # style-src: Define which styles (CSS) the user applies to the protected
-    # resource. Need to add 'unsafe-inline' to allow inline <style> tags to
-    # work.
-    # sha 1 : 'sha256-dz7ZpyTcIE0piEsLX0yFv48DnJBbF9O1hZFVT1dtOuM=' First inline <style> in head.html
-    # sha 2 : 'sha256-g+G3lRCw4GItB/QuA6kuqRNJQyMve2qEv7Sxbmt3qk8=' Second inline <style> in head.html
-    # sha 3 : 'sha256-xEOH5/ebfo0M+iXxRy/0p6YogpxPYmPNRqqwZr7C9zY=' style for the white "M" in Mastodon SVG icon, in svg.toml
-    #
-    # Fri Apr 27 14:17:06 EDT 2018 - kmodi - I tried setting SHA like above. It
-    # worked for those. But then there's a lot of inline styles inserted by
-    # fontawesome which I cannot get around :(. So looks like 'unsafe-inline' is
-    # here to stay for style-src.
+#     # style-src: Define which styles (CSS) the user applies to the protected
+#     # resource. Need to add 'unsafe-inline' to allow inline <style> tags to
+#     # work.
+#     # sha 1 : 'sha256-dz7ZpyTcIE0piEsLX0yFv48DnJBbF9O1hZFVT1dtOuM=' First inline <style> in head.html
+#     # sha 2 : 'sha256-g+G3lRCw4GItB/QuA6kuqRNJQyMve2qEv7Sxbmt3qk8=' Second inline <style> in head.html
+#     # sha 3 : 'sha256-xEOH5/ebfo0M+iXxRy/0p6YogpxPYmPNRqqwZr7C9zY=' style for the white "M" in Mastodon SVG icon, in svg.toml
+#     #
+#     # Fri Apr 27 14:17:06 EDT 2018 - kmodi - I tried setting SHA like above. It
+#     # worked for those. But then there's a lot of inline styles inserted by
+#     # fontawesome which I cannot get around :(. So looks like 'unsafe-inline' is
+#     # here to stay for style-src.
 
-    # img-src: Define from where the protected resource can load images.
-    # Netlify hosts images at an arbitrary https://*.cloudfront.net domain if
-    # asset/image optimization is enabled. If so, I cannot know for sure what
-    # domain to add below in the img-src rule. So ensure that asset optimization
-    # is DISABLED on Netlify.
+#     # img-src: Define from where the protected resource can load images.
+#     # Netlify hosts images at an arbitrary https://*.cloudfront.net domain if
+#     # asset/image optimization is enabled. If so, I cannot know for sure what
+#     # domain to add below in the img-src rule. So ensure that asset optimization
+#     # is DISABLED on Netlify.
 
-    # font-src: Define from where the protected resource can load fonts
-    # https://cdnjs.cloudflare.com/ajax/libs/mathjax/ needed to load MathJax
-    # fonts.
+#     # font-src: Define from where the protected resource can load fonts
+#     # https://cdnjs.cloudflare.com/ajax/libs/mathjax/ needed to load MathJax
+#     # fonts.
 
-    # manifest-src: Define which manifest can be applied to the resource. As
-    # default-src is 'none', I used to get reports like:
-    #  "csp-report": {
-    #      "document-uri": "https://scripter.co/notes/org-table-spreadsheet/",
-    #      "effective-directive": "manifest-src",
-    #      "original-policy": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdnjs.cloudflare.com/ajax/libs/mathjax/; object-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self'; font-src 'self' https://cdnjs.cloudflare.com/ajax/libs/mathjax/; connect-src 'self'; form-action 'self' https://webmention.io/scripter.co/webmention https://quill.p3k.io/; frame-ancestors 'none'; base-uri 'none'; block-all-mixed-content; report-uri https://c571407e2c6d71ed2021633b7fdad0de.report-uri.com/r/d/csp/enforce;",
-    #      "blocked-uri": "https://scripter.co/manifest.82c08ad172f33305369a0b32fae854ec.json"
-    #  }
+#     # manifest-src: Define which manifest can be applied to the resource. As
+#     # default-src is 'none', I used to get reports like:
+#     #  "csp-report": {
+#     #      "document-uri": "https://scripter.co/notes/org-table-spreadsheet/",
+#     #      "effective-directive": "manifest-src",
+#     #      "original-policy": "default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdnjs.cloudflare.com/ajax/libs/mathjax/; object-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self'; font-src 'self' https://cdnjs.cloudflare.com/ajax/libs/mathjax/; connect-src 'self'; form-action 'self' https://webmention.io/scripter.co/webmention https://quill.p3k.io/; frame-ancestors 'none'; base-uri 'none'; block-all-mixed-content; report-uri https://c571407e2c6d71ed2021633b7fdad0de.report-uri.com/r/d/csp/enforce;",
+#     #      "blocked-uri": "https://scripter.co/manifest.82c08ad172f33305369a0b32fae854ec.json"
+#     #  }
 
-    # media-src: Define from where the protected resource can load video and
-    # audio.
+#     # media-src: Define from where the protected resource can load video and
+#     # audio.
 
-    # frame-src: Define from where the protected resource can embed frames.
+#     # frame-src: Define from where the protected resource can embed frames.
 
-    # connect-src: Define which URIs the protected resource can load using
-    # script interfaces.
+#     # connect-src: Define which URIs the protected resource can load using
+#     # script interfaces.
 
-    # form-action: Define which URIs can be used as the action of HTML form elements
-    # - https://webmention.io/scripter.co/webmention <- For sending webmentions
-    # - https://quill.p3k.io/ <- For sending comments via commentpara.de
-    # - https://commentpara.de <- For sending comments via commentpara.de (above doesn't work on Chrome, so adding this too)
+#     # form-action: Define which URIs can be used as the action of HTML form elements
+#     # - https://webmention.io/scripter.co/webmention <- For sending webmentions
+#     # - https://quill.p3k.io/ <- For sending comments via commentpara.de
+#     # - https://commentpara.de <- For sending comments via commentpara.de (above doesn't work on Chrome, so adding this too)
 
-    # frame-ancestors: Specifies valid parents that may embed a page using
-    # <frame>, <iframe>, <object>, <embed>, or <applet>. I don't use frames, so
-    # set this to 'none'.
+#     # frame-ancestors: Specifies valid parents that may embed a page using
+#     # <frame>, <iframe>, <object>, <embed>, or <applet>. I don't use frames, so
+#     # set this to 'none'.
 
-    # base-uri: When set to 'none' or 'self', restricts the use of <base>
-    # tag. https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/base-uri
+#     # base-uri: When set to 'none' or 'self', restricts the use of <base>
+#     # tag. https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/base-uri
 
-    # block-all-mixed-content: Prevents loading any assets using HTTP when the
-    # page is loaded using HTTPS.
+#     # block-all-mixed-content: Prevents loading any assets using HTTP when the
+#     # page is loaded using HTTPS.
 
-    # report-uri: URI to send the CSP reports to, https://report-uri.com/
+#     # report-uri: URI to send the CSP reports to, https://report-uri.com/
 
-    # When debugging CSP rules, set the header to
-    # Content-Security-Policy-Report-Only instead of Content-Security-Policy.
-    # - https://scotthelme.co.uk/content-security-policy-an-introduction/#testingapolicy
-    # Content-Security-Policy-Report-Only = """
-    Content-Security-Policy = """
-      default-src 'none'
-      ; script-src 'self'
-                   'sha256-AICaU7ez1zEahkwGOinOvyDtJHKvnJAO607ClgXh4xg='
-                   'sha256-pZ00Zr8WlRr5cX4fTjQhz3jgQLofrOruiMEK+Wf73Tg='
-                   'sha256-Zgc2pp+yOmAVogxvTHYBMFKubY0HKk2a0+0+8sX17WY='
-                   'sha256-kNsowQfHpWMrbQG7AtSzSuMQg2t/YKwmDWdqeKfm4BI='
-                   'sha256-afSIEhWGAPlY458Q4YkhPLVnsVEBh/u5YNlpg6od8TU='
-                   https://cdnjs.cloudflare.com/ajax/libs/mathjax/
-      ; object-src 'none'
-      ; style-src 'self' 'unsafe-inline'
-      ; img-src 'self'
-      ; font-src 'self' about: data: https://cdnjs.cloudflare.com/ajax/libs/mathjax/
-      ; connect-src 'self'
-      ; manifest-src 'self'
-      ; media-src 'none'
-      ; frame-src 'none'
-      ; form-action 'self' https://webmention.io/scripter.co/webmention https://quill.p3k.io/ https://commentpara.de
-      ; frame-ancestors 'none'
-      ; base-uri 'self'
-      ; block-all-mixed-content
-    """
-    # Do NOT end CSP with a semi-colon. See
-    # https://scotthelme.co.uk/a-new-security-header-feature-policy/#comment-4128686467
+#     # When debugging CSP rules, set the header to
+#     # Content-Security-Policy-Report-Only instead of Content-Security-Policy.
+#     # - https://scotthelme.co.uk/content-security-policy-an-introduction/#testingapolicy
+#     # Content-Security-Policy-Report-Only = """
+#     Content-Security-Policy = """
+#       default-src 'none'
+#       ; script-src 'self'
+#                    'sha256-AICaU7ez1zEahkwGOinOvyDtJHKvnJAO607ClgXh4xg='
+#                    'sha256-pZ00Zr8WlRr5cX4fTjQhz3jgQLofrOruiMEK+Wf73Tg='
+#                    'sha256-Zgc2pp+yOmAVogxvTHYBMFKubY0HKk2a0+0+8sX17WY='
+#                    'sha256-kNsowQfHpWMrbQG7AtSzSuMQg2t/YKwmDWdqeKfm4BI='
+#                    'sha256-afSIEhWGAPlY458Q4YkhPLVnsVEBh/u5YNlpg6od8TU='
+#                    https://cdnjs.cloudflare.com/ajax/libs/mathjax/
+#       ; object-src 'none'
+#       ; style-src 'self' 'unsafe-inline'
+#       ; img-src 'self'
+#       ; font-src 'self' about: data: https://cdnjs.cloudflare.com/ajax/libs/mathjax/
+#       ; connect-src 'self'
+#       ; manifest-src 'self'
+#       ; media-src 'none'
+#       ; frame-src 'none'
+#       ; form-action 'self' https://webmention.io/scripter.co/webmention https://quill.p3k.io/ https://commentpara.de
+#       ; frame-ancestors 'none'
+#       ; base-uri 'self'
+#       ; block-all-mixed-content
+#     """
+#     # Do NOT end CSP with a semi-colon. See
+#     # https://scotthelme.co.uk/a-new-security-header-feature-policy/#comment-4128686467
 
-    # Feature Policy
-    # https://github.com/WICG/feature-policy/blob/master/features.md
-    # https://scotthelme.co.uk/a-new-security-header-feature-policy/
-    # https://developers.google.com/web/updates/2018/06/feature-policy
+#     # Feature Policy
+#     # https://github.com/WICG/feature-policy/blob/master/features.md
+#     # https://scotthelme.co.uk/a-new-security-header-feature-policy/
+#     # https://developers.google.com/web/updates/2018/06/feature-policy
 
-    # |----------------------+-------------------+--------------------------------------------------------------|
-    # | Feature name         | Default allowlist | Brief Description                                            |
-    # |----------------------+-------------------+--------------------------------------------------------------|
-    # | accelerometer        | self              | Controls access to accelerometer sensors on the device       |
-    # | ambient-light-sensor | self              | Controls access to ambient light sensors on the device       |
-    # | autoplay             | self              | Controls access to autoplay through `play()` and `autoplay`. |
-    # | camera               | self              | Controls access to video input devices.                      |
-    # | encrypted-media      | self              | Controls whether `requestMediaKeySystemAccess()` is allowed. |
-    # | fullscreen           | self              | Controls whether `requestFullscreen()` is allowed.           |
-    # | geolocation          | self              | Controls access to Geolocation interface.                    |
-    # | gyroscope            | self              | Controls access to gyroscope sensors on the device           |
-    # | magnetometer         | self              | Controls access to magnetometer sensors on the device        |
-    # | microphone           | self              | Controls access to audio input devices.                      |
-    # | midi                 | self              | Controls access to `requestMIDIAccess()` method.             |
-    # | payment              | self              | Controls access to PaymentRequest interface.                 |
-    # | picture-in-picture   | *                 | Controls access to Picture in Picture.                       |
-    # | speaker              | self              | Controls access to audio output devices.                     |
-    # | usb                  | self              | Controls access to USB devices.                              |
-    # | vr                   | self              | Controls access to VR displays.                              |
-    # |----------------------+-------------------+--------------------------------------------------------------|
-    Feature-Policy = """
-      accelerometer 'none'
-      ; ambient-light-sensor 'none'
-      ; autoplay 'self'
-      ; camera 'none'
-      ; encrypted-media 'none'
-      ; fullscreen 'self'
-      ; geolocation 'none'
-      ; gyroscope 'none'
-      ; magnetometer 'none'
-      ; microphone 'none'
-      ; midi 'none'
-      ; payment 'none'
-      ; picture-in-picture *
-      ; speaker 'none'
-      ; sync-xhr 'none'
-      ; usb 'none'
-      ; vr 'none'
-    """
+#     # |----------------------+-------------------+--------------------------------------------------------------|
+#     # | Feature name         | Default allowlist | Brief Description                                            |
+#     # |----------------------+-------------------+--------------------------------------------------------------|
+#     # | accelerometer        | self              | Controls access to accelerometer sensors on the device       |
+#     # | ambient-light-sensor | self              | Controls access to ambient light sensors on the device       |
+#     # | autoplay             | self              | Controls access to autoplay through `play()` and `autoplay`. |
+#     # | camera               | self              | Controls access to video input devices.                      |
+#     # | encrypted-media      | self              | Controls whether `requestMediaKeySystemAccess()` is allowed. |
+#     # | fullscreen           | self              | Controls whether `requestFullscreen()` is allowed.           |
+#     # | geolocation          | self              | Controls access to Geolocation interface.                    |
+#     # | gyroscope            | self              | Controls access to gyroscope sensors on the device           |
+#     # | magnetometer         | self              | Controls access to magnetometer sensors on the device        |
+#     # | microphone           | self              | Controls access to audio input devices.                      |
+#     # | midi                 | self              | Controls access to `requestMIDIAccess()` method.             |
+#     # | payment              | self              | Controls access to PaymentRequest interface.                 |
+#     # | picture-in-picture   | *                 | Controls access to Picture in Picture.                       |
+#     # | speaker              | self              | Controls access to audio output devices.                     |
+#     # | usb                  | self              | Controls access to USB devices.                              |
+#     # | vr                   | self              | Controls access to VR displays.                              |
+#     # |----------------------+-------------------+--------------------------------------------------------------|
+#     Feature-Policy = """
+#       accelerometer 'none'
+#       ; ambient-light-sensor 'none'
+#       ; autoplay 'self'
+#       ; camera 'none'
+#       ; encrypted-media 'none'
+#       ; fullscreen 'self'
+#       ; geolocation 'none'
+#       ; gyroscope 'none'
+#       ; magnetometer 'none'
+#       ; microphone 'none'
+#       ; midi 'none'
+#       ; payment 'none'
+#       ; picture-in-picture *
+#       ; speaker 'none'
+#       ; sync-xhr 'none'
+#       ; usb 'none'
+#       ; vr 'none'
+#     """
 
-    # Mon Sep 10 14:41:10 EDT 2018 - kmodi
-    # Removing Link headers because:
-    # From Netlify:
-    # > We are in the process of disabling server push as it is
-    # > causing server instability for us.  We're working to re-enable
-    # > it but it is not a high priority for us right now, so best
-    # > to configure your site not to use it at present.  I'll be in
-    # > touch when we have a fix so you can re-enable it.
+#     # Mon Sep 10 14:41:10 EDT 2018 - kmodi
+#     # Removing Link headers because:
+#     # From Netlify:
+#     # > We are in the process of disabling server push as it is
+#     # > causing server instability for us.  We're working to re-enable
+#     # > it but it is not a high priority for us right now, so best
+#     # > to configure your site not to use it at present.  I'll be in
+#     # > touch when we have a fix so you can re-enable it.
 
-    # # Link - HTTP/2 Push
-    # #   serif (body) - libre baskerville
-    # #   mono - iosevka
-    # #   sans serif (headings) - linux biolinum, source sans pro
-    # Link = """
-    #   </fonts/libre-baskerville/2012/subset/LibreBaskerville-Regular.woff2>; rel=preload; as=font,
-    #   </fonts/iosevka/1.14.1/subset/iosevka-ss08-regular.woff2>; rel=preload; as=font,
-    #   </fonts/linux-libertine/5.3.0/subset/LinBiolinum_Rah.woff2>; rel=preload; as=font,
-    #   </fonts/source-sans-pro/2.020R-ro-1.075R-it/subset/SourceSansPro-Regular.woff2>; rel=preload; as=font,
-    # """
+#     # # Link - HTTP/2 Push
+#     # #   serif (body) - libre baskerville
+#     # #   mono - iosevka
+#     # #   sans serif (headings) - linux biolinum, source sans pro
+#     # Link = """
+#     #   </fonts/libre-baskerville/2012/subset/LibreBaskerville-Regular.woff2>; rel=preload; as=font,
+#     #   </fonts/iosevka/1.14.1/subset/iosevka-ss08-regular.woff2>; rel=preload; as=font,
+#     #   </fonts/linux-libertine/5.3.0/subset/LinBiolinum_Rah.woff2>; rel=preload; as=font,
+#     #   </fonts/source-sans-pro/2.020R-ro-1.075R-it/subset/SourceSansPro-Regular.woff2>; rel=preload; as=font,
+#     # """
