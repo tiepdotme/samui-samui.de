@@ -17,11 +17,13 @@
     {{ partial "header/navigation.html" . }}
     <div id="content" class="container">
       <div id="contentcolumn" class="row">
-        <div class="col-9">
+        <div class="col-md-9">
           {{ block "main" . }}{{ end }}
         </div>
-        <div class="col-3">
+        <div class="col-md-3" id="sidebar">
           {{ partialCached "sidebar/widget-author.html" . }}
+          {{ partialCached "sidebar/widget-socialmedia.html" . }}
+          {{ partialCached "sidebar/widget-archive.html" . }}
         </div>
       </div>
     </div>

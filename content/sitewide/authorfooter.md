@@ -11,4 +11,4 @@ headless: true
 
 Gemeinsam mit <a class="url" href="https://samui-samui.de/tag/shihtzu/">seinem Shih-Tzu</a> Pokki (m, <span class="is-datediff-month" data-from="2005-11-15"></span> Monate alt) bewohnt er ein kleines Haus unter Palmen in Bang Por im Nordwesten der Insel.
 
-Er schreibt auf <a class="url" href="https://samui-samui.de/">diesem Weblog</a> über das ganz alltägliche Leben als Farang in Thailand und andere Dinge, die ihn interessieren.
+Er schreibt auf <a class="url" href="https://samui-samui.de/">Samui? Samui!</a> über das ganz alltägliche Leben als Farang in Thailand und andere Dinge, die ihn interessieren.

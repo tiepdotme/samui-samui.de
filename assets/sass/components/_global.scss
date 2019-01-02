@@ -22,3 +22,16 @@ h1 {
     background-color: theme-color("aubergine");
     color: theme-color("yellowish");
 }
+
+
+
+#sidebar {
+    #widget-archive ul {
+        margin-left: 1.5em;
+        li {
+            width:25%;
+            float:left;
+            margin-right:1em;
+        }
+    }
+}
