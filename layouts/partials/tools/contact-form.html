@@ -4,7 +4,7 @@
 
 */}}
 
-<form action="//formspree.io/patrick@samui-samui.de" method="post" id="contact">
+<form data-netlify="true" netlify-honeypot="makhfgr" method="post" name="kontakt" id="contact">
   <div class="row">
     <div class="col-sm-6">
       <div class="form-group">
@@ -15,10 +15,8 @@
         <label>Email</label>
         <input class="form-control" name="_replyto" type="email">
       </div>
-      {{/*<input type="hidden" name="_next" value="{{ "kontakt/email-versendet" | absURL }}" />*/}}
-      <input type="hidden" name="_subject" value="[samuisamui] Kontakt" />
-      <input type="hidden" name="_language" value="de" />
-      <input type="text" name="_gotcha" style="display:none" />
+      <div data-netlify-recaptcha="true"></div>
+      <input type="text" name="makhfgr" class="d-none" />
     </div>
     <div class="col-sm-6">
       <div class="form-group">
