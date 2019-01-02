@@ -3,8 +3,8 @@ title: "Patrick Kollitsch"
 headless: true
 ---
 
-<figure class="authorimage float-left">
-<img src="/assets/images/patrick.kollitsch.jpg" width="240" height="180" alt="Patrick Kollitsch" class="img-fluid">
+<figure class="authorimage img-fluid">
+<img src="/assets/images/patrick.kollitsch.jpg" style="width:100%;height:auto;" alt="Patrick Kollitsch" class="img-fluid">
 </figure>
 
 <span class="fn n"><a class="url" href="http://kollitsch.de/"><span class="given-name">Patrick</span> <span class="family-name">Kollitsch</span></a></span> hat die ersten <span class="is-datediff" data-from="1975-07-05"></span> Tage seines Lebens hinter sich und die letzten <span class="is-datediff" data-from="2005-01-08"></span> Tage davon in <span class="adr country-name">Thailand</span> auf Koh Samui, einer kleinen aber ausreichend großen Insel im Golf von Thailand, ge- und verbracht.
