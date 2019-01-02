@@ -12,7 +12,7 @@
         <div class="row">
           <div class="col-md-9 is--taglist">
             {{ with .Params.tags }}
-              <i class="fas fa-tags" aria-hidden="true"></i>&nbsp;
+              <i class="far fa-tags" aria-hidden="true"></i>&nbsp;
               {{ range $i, $e := . }}
                 {{ if $i }}/{{ end }}
                 <a href="{{ "tags/" | absURL }}{{ $e | urlize }}" rel="tag">{{ $e }}</a>
@@ -21,7 +21,7 @@
           </div>
           <span class="col-md-3 text-sm-left text-xs-left text-md-right">
             <time class="post-date updated" datetime="{{ .Date.Format "2006-01-02T15:04:05-0700" }}">
-              <i class="fas fa-calendar-alt" aria-hidden="true"></i>&nbsp;
+              <i class="far fa-calendar-alt" aria-hidden="true"></i>&nbsp;
               {{ .Date.Format "2" }}.
               {{ index $.Site.Data.months.months .Date.Month }}
               {{ .Date.Format "2006" }}
@@ -40,7 +40,7 @@
         <div class="row">
 
           <div class="col-md-6">
-          <i class="fas fa-pencil-alt" aria-hidden="true"></i>
+          <i class="far fa-pencil-alt" aria-hidden="true"></i>
           Von <address class="vcard author post-author"> <span
           class="fn"> <a href="https://kollitsch.de" title="Website von Patrick Kollitsch
           besuchen" rel="author external">Patrick Kollitsch</a> </span>
@@ -48,7 +48,7 @@
           </div>
           <div class="col-md-6 text-sm-left text-xs-left text-md-right">
           {{ with .Params.showcomments }}
-            <i class="fas fa-comments" aria-hidden="true"></i>
+            <i class="far fa-comments" aria-hidden="true"></i>
             <a href="https://samui-samui.de/2017/10/entscheidung-thai-style/#disqus_thread"
           data-disqus-identifier="4855 https://samui-samui.de/?p=4855">0 Kommentare</a>
           {{ end }}
