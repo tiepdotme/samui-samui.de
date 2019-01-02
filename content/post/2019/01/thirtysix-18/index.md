@@ -10,7 +10,7 @@ tags:
 resources:
 - src: "samui-jan-4.png"
   name: "samui-jan-4"
-  title: "Samui am 4. Januar 2019, ca. 14 Uhr"
+  title: "Samui am 4. Januar 2019, ca. 14 Uhr (Quelle: windy.com)"
 ---
 
 {{% figure name="samui-jan-4" command="Resize" options="1110x" %}}Samui am 4. Januar 2019, ca. 14 Uhr (Quelle: windy.com){{% /figure %}}
