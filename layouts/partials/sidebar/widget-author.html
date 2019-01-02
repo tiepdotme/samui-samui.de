@@ -1,0 +1,6 @@
+{{ with .Site.GetPage "page" "sitewide/authorfooter.md" }}
+  <div id="authorfooter">
+    <h3>{{ .Title }}</h3>
+    {{ .Content }}
+  </div>
+{{ end }}

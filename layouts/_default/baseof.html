@@ -17,12 +17,14 @@
     {{ partial "header/navigation.html" . }}
     <div id="content" class="container">
       <div id="contentcolumn" class="row">
-        <div class="col-12">
+        <div class="col-9">
           {{ block "main" . }}{{ end }}
+        </div>
+        <div class="col-3">
+          {{ partialCached "sidebar/widget-author.html" . }}
         </div>
       </div>
     </div>
-    {{ partialCached "footer/author.html" . }}  
     {{ partialCached "footer/tagcloud.html" . }}  
     {{ partialCached "footer/copyright.html" . }}
     {{ partialCached "footer/finisher.html" . }}
