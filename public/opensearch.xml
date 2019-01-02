@@ -1,7 +1,1 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Samui? Samui!</ShortName>
-  <Description>Notizen über mein Leben als Auswanderer auf Koh Samui, Thailand</Description>
-  <Url type="text/html" method="get" template="https://samui-samui.de/suche/?q={searchTerms}"/>
-  <InputEncoding>UTF-8</InputEncoding>
-  <Image height="32" width="32"type="image/png">https://samui-samui.de/assets/images/favicons/favicon-32x32.png</Image>
-</OpenSearchDescription>
+<opensearchdescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/"><shortname>Samui? Samui!</shortname><description>Notizen über mein Leben als Auswanderer auf Koh Samui, Thailand</description><url type="text/html" method="get" template="https://samui-samui.de/suche/?q={searchTerms}"><inputencoding>UTF-8</inputencoding><image height="32" width="32" type="image/png">https://samui-samui.de/assets/images/favicons/favicon-32x32.png</image></opensearchdescription>
