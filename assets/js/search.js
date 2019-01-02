@@ -8,7 +8,7 @@ jQuery(document).ready(function ($) {
     		apiKey: '7e52bca82b03b3a7eb6bbee9fa7429f3',
     		indexName: 'samui-samui-de',
     		numberLocale: 'de',
-    		urlSync: true,
+    		routing: true,
     		searchFunction: function(helper) {
     			/**
     			 * do not render a search on page load
