@@ -19,3 +19,8 @@ DEBUG=glyphhanger* glyphhanger http://localhost:1313 --spider --spider-limit=0 -
 https://github.com/filamentgroup/glyphhanger/blob/master/README.md
 https://afasterweb.com/2018/03/09/subsetting-fonts-with-glyphhanger/
 ```
+
+# Relevant Hugo Docs
+
+- shortcodes: https://gohugo.io/content-management/shortcodes/
+- references: https://gohugo.io/content-management/cross-references/
