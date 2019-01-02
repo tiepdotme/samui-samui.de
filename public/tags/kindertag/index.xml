@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?> <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kindertag on Samui? Samui!</title><link>https://samui-samui.de/tags/kindertag/<description>in Kindertag on Samui? Samui!</description><language>de-DE</language><copyright>All rights reserved. Copyright samui-samui.de</copyright><lastbuilddate>Mon, 16 Jan 2017 13:32:23 +0000</lastbuilddate><atom:link href="https://samui-samui.de/tags/kindertag/index.xml" rel="self" type="application/rss+xml"><item><title>Kinder- und Lehrertag</title><link>https://samui-samui.de/2017/01/kinder-und-lehrertag/<pubdate>Mon, 16 Jan 2017 13:32:23 +0000</pubdate><guid>https://samui-samui.de/2017/01/kinder-und-lehrertag/</guid><description>Am zweiten Samstag im Januar findet hierzulande der Kindertag statt. Während anderswo dieser Tag genutzt wird, um auf die Bedürfnisse von Kindern und Probleme speziell mit Kinderrechten hinzuweisen und einzugehen, ist er hier in Thailand ein Tag, um Maschinengewehre in jungem Alter in die Hände zu nehmen und auf Panzern herumzuklettern. Indoktrination beginnt nun mal früh. Dieses Jahr war der Tag ein wenig aufregender, weil in Hat Yai auf einer Flugschau ein Flugzeug abgestürzt ist.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kindertag on Samui? Samui!</title>
+    <link>https://samui-samui.de/tags/kindertag/</link>
+    <description>in Kindertag on Samui? Samui!</description>
+    <language>de-DE</language>
+    
+    
+    <copyright>All rights reserved. Copyright samui-samui.de</copyright>
+    <lastBuildDate>Mon, 16 Jan 2017 13:32:23 +0000</lastBuildDate>
+    
+        <atom:link href="https://samui-samui.de/tags/kindertag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+	    <item>
+	      <title>Kinder- und Lehrertag</title>
+	      <link>https://samui-samui.de/2017/01/kinder-und-lehrertag/</link>
+	      <pubDate>Mon, 16 Jan 2017 13:32:23 +0000</pubDate>
+	      
+	      <guid>https://samui-samui.de/2017/01/kinder-und-lehrertag/</guid>
+	      <description>Am zweiten Samstag im Januar findet hierzulande der Kindertag statt. Während anderswo dieser Tag genutzt wird, um auf die Bedürfnisse von Kindern und Probleme speziell mit Kinderrechten hinzuweisen und einzugehen, ist er hier in Thailand ein Tag, um Maschinengewehre in jungem Alter in die Hände zu nehmen und auf Panzern herumzuklettern. Indoktrination beginnt nun mal früh.
+Dieses Jahr war der Tag ein wenig aufregender, weil in Hat Yai auf einer Flugschau ein Flugzeug abgestürzt ist.</description>
+	    </item>
+    
+  </channel>
+</rss>

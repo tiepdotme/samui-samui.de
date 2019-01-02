@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?> <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reisewarnung on Samui? Samui!</title><link>https://samui-samui.de/tags/reisewarnung/<description>in Reisewarnung on Samui? Samui!</description><language>de-DE</language><copyright>All rights reserved. Copyright samui-samui.de</copyright><lastbuilddate>Thu, 22 Feb 2018 20:46:22 +0700</lastbuilddate><atom:link href="https://samui-samui.de/tags/reisewarnung/index.xml" rel="self" type="application/rss+xml"><item><title>Quallen Alarm (Zeit-Style)</title><link>https://samui-samui.de/2018/02/quallen-alarm-zeit-style/<pubdate>Thu, 22 Feb 2018 20:46:22 +0700</pubdate><guid>https://samui-samui.de/2018/02/quallen-alarm-zeit-style/</guid><description>Die Zeit berichtet in sehr ausf&amp;uuml;hrlicher und aufmacherische Art und Weise &amp;uuml;ber Portugiesische Galleren an Thailands Str&amp;auml;nden. Die Urlauber litten an schweren Rötungen der Haut und an Atemnot, wie die Gesundheitsbehörde mitteilte. Schuld daran ist die sogenannte Portugiesische Galeere - eine Quallenart, die im verhältnismäßig warmen Wasser gerade weit verbreitet ist. Ihr Gift kann kleinere Fische töten, Menschen aber nicht. Weiterlesen auf zeit.de Das stimmt nicht ganz, wie ich vor einer Weile schon geschrieben habe.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reisewarnung on Samui? Samui!</title>
+    <link>https://samui-samui.de/tags/reisewarnung/</link>
+    <description>in Reisewarnung on Samui? Samui!</description>
+    <language>de-DE</language>
+    
+    
+    <copyright>All rights reserved. Copyright samui-samui.de</copyright>
+    <lastBuildDate>Thu, 22 Feb 2018 20:46:22 +0700</lastBuildDate>
+    
+        <atom:link href="https://samui-samui.de/tags/reisewarnung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+	    <item>
+	      <title>Quallen Alarm (Zeit-Style)</title>
+	      <link>https://samui-samui.de/2018/02/quallen-alarm-zeit-style/</link>
+	      <pubDate>Thu, 22 Feb 2018 20:46:22 +0700</pubDate>
+	      
+	      <guid>https://samui-samui.de/2018/02/quallen-alarm-zeit-style/</guid>
+	      <description>Die Zeit berichtet in sehr ausf&amp;uuml;hrlicher und aufmacherische Art und Weise &amp;uuml;ber Portugiesische Galleren an Thailands Str&amp;auml;nden.
+Die Urlauber litten an schweren Rötungen der Haut und an Atemnot, wie die Gesundheitsbehörde mitteilte. Schuld daran ist die sogenannte Portugiesische Galeere - eine Quallenart, die im verhältnismäßig warmen Wasser gerade weit verbreitet ist. Ihr Gift kann kleinere Fische töten, Menschen aber nicht. Weiterlesen auf zeit.de     Das stimmt nicht ganz, wie ich vor einer Weile schon geschrieben habe.</description>
+	    </item>
+    
+  </channel>
+</rss>

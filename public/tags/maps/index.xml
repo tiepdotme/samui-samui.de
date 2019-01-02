@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?> <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maps on Samui? Samui!</title><link>https://samui-samui.de/tags/maps/<description>in Maps on Samui? Samui!</description><language>de-DE</language><copyright>All rights reserved. Copyright samui-samui.de</copyright><lastbuilddate>Fri, 27 Jan 2017 13:53:12 +0000</lastbuilddate><atom:link href="https://samui-samui.de/tags/maps/index.xml" rel="self" type="application/rss+xml"><item><title>Bangkok, der Naturpark</title><link>https://samui-samui.de/2017/01/naturpark-bangkok/<pubdate>Fri, 27 Jan 2017 13:53:12 +0000</pubdate><guid>https://samui-samui.de/2017/01/naturpark-bangkok/</guid><description>Naturpark Bangkok Google Maps hat heute morgen Bangkok zum Naturpark ernannt. Wenn man ganz weit aus der Map heraus zoomt, bleibt die Bezeichnung &amp;ldquo;Thung Yai Naresuan Wildlife Sanctuary&amp;rdquo; sichtbar. So wie es aussieht hat da jemand aus Versehen (oder auch nicht) die Grenzen des Naturparks erweitert. Soviel Grün wird man wahrscheinlich erst in ein paar hundert Jahren, wenn die Affen die Welt regieren, in dieser Gegend sehen. Allerdings: Als man bei den Parkbeamten telephonisch anfragte, ob Bangkok jetzt zum Naturpark gehört, hat dieser tatsächlich nicht gewusst, ob das so sei.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maps on Samui? Samui!</title>
+    <link>https://samui-samui.de/tags/maps/</link>
+    <description>in Maps on Samui? Samui!</description>
+    <language>de-DE</language>
+    
+    
+    <copyright>All rights reserved. Copyright samui-samui.de</copyright>
+    <lastBuildDate>Fri, 27 Jan 2017 13:53:12 +0000</lastBuildDate>
+    
+        <atom:link href="https://samui-samui.de/tags/maps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+	    <item>
+	      <title>Bangkok, der Naturpark</title>
+	      <link>https://samui-samui.de/2017/01/naturpark-bangkok/</link>
+	      <pubDate>Fri, 27 Jan 2017 13:53:12 +0000</pubDate>
+	      
+	      <guid>https://samui-samui.de/2017/01/naturpark-bangkok/</guid>
+	      <description>Naturpark Bangkok  Google Maps hat heute morgen Bangkok zum Naturpark ernannt. Wenn man ganz weit aus der Map heraus zoomt, bleibt die Bezeichnung &amp;ldquo;Thung Yai Naresuan Wildlife Sanctuary&amp;rdquo; sichtbar. So wie es aussieht hat da jemand aus Versehen (oder auch nicht) die Grenzen des Naturparks erweitert. Soviel Grün wird man wahrscheinlich erst in ein paar hundert Jahren, wenn die Affen die Welt regieren, in dieser Gegend sehen.
+Allerdings: Als man bei den Parkbeamten telephonisch anfragte, ob Bangkok jetzt zum Naturpark gehört, hat dieser tatsächlich nicht gewusst, ob das so sei.</description>
+	    </item>
+    
+  </channel>
+</rss>

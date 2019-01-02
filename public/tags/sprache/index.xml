@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?> <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sprache on Samui? Samui!</title><link>https://samui-samui.de/tags/sprache/<description>in Sprache on Samui? Samui!</description><language>de-DE</language><copyright>All rights reserved. Copyright samui-samui.de</copyright><lastbuilddate>Tue, 25 Jan 2005 01:23:07 +0000</lastbuilddate><atom:link href="https://samui-samui.de/tags/sprache/index.xml" rel="self" type="application/rss+xml"><item><title>Iñtërnâtiônàlizætiøn</title><link>https://samui-samui.de/2005/01/internationalizaetion/<pubdate>Tue, 25 Jan 2005 01:23:07 +0000</pubdate><guid>https://samui-samui.de/2005/01/internationalizaetion/</guid><description>Heute Mittag sa&amp;szlig;en wir (drei Deutsche) mit einem Spanier, der jahrelang in Berlin gelebt hat und einem Engländer, der an unterschiedlichen Orten gelebt hat beim Essen. Der Spanier (Juan, seltsamerweise klingt sein Name wie &amp;ldquo;Wuann&amp;rdquo; statt &amp;ldquo;Chuan&amp;rdquo;) spricht sehr gut (und sehr schnell) Deutsch, der Engländer (James) versteht es gut, spricht aber weniger gut (er meint das, auch wenn ich das nicht finde). Die Unterhaltung wurde in Deutsch und Englisch geführt, Englisch nur, um James zu erklären, was gerade gesagt wurde.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sprache on Samui? Samui!</title>
+    <link>https://samui-samui.de/tags/sprache/</link>
+    <description>in Sprache on Samui? Samui!</description>
+    <language>de-DE</language>
+    
+    
+    <copyright>All rights reserved. Copyright samui-samui.de</copyright>
+    <lastBuildDate>Tue, 25 Jan 2005 01:23:07 +0000</lastBuildDate>
+    
+        <atom:link href="https://samui-samui.de/tags/sprache/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+	    <item>
+	      <title>Iñtërnâtiônàlizætiøn</title>
+	      <link>https://samui-samui.de/2005/01/internationalizaetion/</link>
+	      <pubDate>Tue, 25 Jan 2005 01:23:07 +0000</pubDate>
+	      
+	      <guid>https://samui-samui.de/2005/01/internationalizaetion/</guid>
+	      <description>Heute Mittag sa&amp;szlig;en wir (drei Deutsche) mit einem Spanier, der jahrelang in Berlin gelebt hat und einem Engländer, der an unterschiedlichen Orten gelebt hat beim Essen. Der Spanier (Juan, seltsamerweise klingt sein Name wie &amp;ldquo;Wuann&amp;rdquo; statt &amp;ldquo;Chuan&amp;rdquo;) spricht sehr gut (und sehr schnell) Deutsch, der Engländer (James) versteht es gut, spricht aber weniger gut (er meint das, auch wenn ich das nicht finde). Die Unterhaltung wurde in Deutsch und Englisch geführt, Englisch nur, um James zu erklären, was gerade gesagt wurde.</description>
+	    </item>
+    
+  </channel>
+</rss>

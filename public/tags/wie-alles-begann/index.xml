@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?> <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wie Alles Begann on Samui? Samui!</title><link>https://samui-samui.de/tags/wie-alles-begann/<description>in Wie Alles Begann on Samui? Samui!</description><language>de-DE</language><copyright>All rights reserved. Copyright samui-samui.de</copyright><lastbuilddate>Mon, 10 Jan 2005 02:24:30 +0000</lastbuilddate><atom:link href="https://samui-samui.de/tags/wie-alles-begann/index.xml" rel="self" type="application/rss+xml"><item><title>Lebenszeichen</title><link>https://samui-samui.de/2005/01/lebenszeichen/<pubdate>Mon, 10 Jan 2005 02:24:30 +0000</pubdate><guid>https://samui-samui.de/2005/01/lebenszeichen/</guid><description>Siehe Titel. Mehr folgt.</description></item><item><title>Auf in die Welt!</title><link>https://samui-samui.de/2005/01/auf-in-die-welt/<pubdate>Sat, 08 Jan 2005 02:01:00 +0000</pubdate><guid>https://samui-samui.de/2005/01/auf-in-die-welt/</guid><description>Auf in die Welt! So. In 4 Stunden werde ich das Vergnügen haben, in einem Flugzeug zu sitzen und Deutschland an mir vorbeiziehen zu sehen. Ich bin gespannt. In jeder Hinsicht des Wortes. Das Notebook wird gleich eingepackt. Dann gehts wohl los, oder?</description></item><item><title>Gehen Sie über Los, ziehen Sie nicht 4000 Euro ein …</title><link>https://samui-samui.de/2005/01/gehen-sie-ueber-los-ziehen-sie-nicht-4000-euro-ein/<pubdate>Fri, 07 Jan 2005 03:00:00 +0000</pubdate><guid>https://samui-samui.de/2005/01/gehen-sie-ueber-los-ziehen-sie-nicht-4000-euro-ein/</guid><description>So. Morgen ist es also soweit. Das Notebook ist eingepackt, die Geräte auseinandergestöpselt, der Seesack gepackt. Nach Wochen der Planung und des Hin und Her beginnt morgen Mittag mein eigenes kleines Abenteuer. Aber beginnen wir am Anfang&amp;trade;! Im Sommer war ich (wie so häufig in den letzten Jahren) arbeitslos und Sozialhilfeempfänger. Wenn man selbständig war hat man wenig Chancen auf Arbeitslosengeld oder -hilfe, wenn man sich nicht selbst versichert und das war ich nicht ;)</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wie Alles Begann on Samui? Samui!</title>
+    <link>https://samui-samui.de/tags/wie-alles-begann/</link>
+    <description>in Wie Alles Begann on Samui? Samui!</description>
+    <language>de-DE</language>
+    
+    
+    <copyright>All rights reserved. Copyright samui-samui.de</copyright>
+    <lastBuildDate>Mon, 10 Jan 2005 02:24:30 +0000</lastBuildDate>
+    
+        <atom:link href="https://samui-samui.de/tags/wie-alles-begann/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+	    <item>
+	      <title>Lebenszeichen</title>
+	      <link>https://samui-samui.de/2005/01/lebenszeichen/</link>
+	      <pubDate>Mon, 10 Jan 2005 02:24:30 +0000</pubDate>
+	      
+	      <guid>https://samui-samui.de/2005/01/lebenszeichen/</guid>
+	      <description>Siehe Titel. Mehr folgt.</description>
+	    </item>
+    
+	    <item>
+	      <title>Auf in die Welt!</title>
+	      <link>https://samui-samui.de/2005/01/auf-in-die-welt/</link>
+	      <pubDate>Sat, 08 Jan 2005 02:01:00 +0000</pubDate>
+	      
+	      <guid>https://samui-samui.de/2005/01/auf-in-die-welt/</guid>
+	      <description>Auf in die Welt! So. In 4 Stunden werde ich das Vergnügen haben, in einem Flugzeug zu sitzen und Deutschland an mir vorbeiziehen zu sehen. Ich bin gespannt. In jeder Hinsicht des Wortes. Das Notebook wird gleich eingepackt. Dann gehts wohl los, oder?</description>
+	    </item>
+    
+	    <item>
+	      <title>Gehen Sie über Los, ziehen Sie nicht 4000 Euro ein …</title>
+	      <link>https://samui-samui.de/2005/01/gehen-sie-ueber-los-ziehen-sie-nicht-4000-euro-ein/</link>
+	      <pubDate>Fri, 07 Jan 2005 03:00:00 +0000</pubDate>
+	      
+	      <guid>https://samui-samui.de/2005/01/gehen-sie-ueber-los-ziehen-sie-nicht-4000-euro-ein/</guid>
+	      <description>So. Morgen ist es also soweit. Das Notebook ist eingepackt, die Geräte auseinandergestöpselt, der Seesack gepackt. Nach Wochen der Planung und des Hin und Her beginnt morgen Mittag mein eigenes kleines Abenteuer.
+Aber beginnen wir am Anfang&amp;trade;! Im Sommer war ich (wie so häufig in den letzten Jahren) arbeitslos und Sozialhilfeempfänger. Wenn man selbständig war hat man wenig Chancen auf Arbeitslosengeld oder -hilfe, wenn man sich nicht selbst versichert und das war ich nicht ;)</description>
+	    </item>
+    
+  </channel>
+</rss>

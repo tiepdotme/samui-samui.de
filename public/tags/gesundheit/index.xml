@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?> <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gesundheit on Samui? Samui!</title><link>https://samui-samui.de/tags/gesundheit/<description>in Gesundheit on Samui? Samui!</description><language>de-DE</language><copyright>All rights reserved. Copyright samui-samui.de</copyright><lastbuilddate>Mon, 19 Mar 2018 19:35:43 +0700</lastbuilddate><atom:link href="https://samui-samui.de/tags/gesundheit/index.xml" rel="self" type="application/rss+xml"><item><title>Tollwütige Menschen</title><link>https://samui-samui.de/2018/03/tollwuetige-menschen/<pubdate>Mon, 19 Mar 2018 19:35:43 +0700</pubdate><guid>https://samui-samui.de/2018/03/tollwuetige-menschen/</guid><description>Straßenköter (Symbolphoto, Pokki, ca. 2007) &amp;mdash; Photo von Patrick Kollitsch In Thailand geht die Tollwut um. Seit Jahresbeginn sind bereits 6 Menschen gestorben. Das ist wieder ein Beispiel dafür, wie in Thailand nur reagiert, anstatt vorgebeugt wird. Über die Anzahl der Hunde und Katzen, die wegen der Tollwut gestorben sind, wird nichts ausgeführt. Erst wenn Menschen sterben und das lang und breit in den Medien und auf Social Media diskutiert wird, dann wird reagiert.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gesundheit on Samui? Samui!</title>
+    <link>https://samui-samui.de/tags/gesundheit/</link>
+    <description>in Gesundheit on Samui? Samui!</description>
+    <language>de-DE</language>
+    
+    
+    <copyright>All rights reserved. Copyright samui-samui.de</copyright>
+    <lastBuildDate>Mon, 19 Mar 2018 19:35:43 +0700</lastBuildDate>
+    
+        <atom:link href="https://samui-samui.de/tags/gesundheit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+	    <item>
+	      <title>Tollwütige Menschen</title>
+	      <link>https://samui-samui.de/2018/03/tollwuetige-menschen/</link>
+	      <pubDate>Mon, 19 Mar 2018 19:35:43 +0700</pubDate>
+	      
+	      <guid>https://samui-samui.de/2018/03/tollwuetige-menschen/</guid>
+	      <description>Straßenköter (Symbolphoto, Pokki, ca. 2007) &amp;mdash; Photo von Patrick Kollitsch  In Thailand geht die Tollwut um. Seit Jahresbeginn sind bereits 6 Menschen gestorben. Das ist wieder ein Beispiel dafür, wie in Thailand nur reagiert, anstatt vorgebeugt wird. Über die Anzahl der Hunde und Katzen, die wegen der Tollwut gestorben sind, wird nichts ausgeführt. Erst wenn Menschen sterben und das lang und breit in den Medien und auf Social Media diskutiert wird, dann wird reagiert.</description>
+	    </item>
+    
+  </channel>
+</rss>

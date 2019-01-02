@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?> <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shih Tzu on Samui? Samui!</title><link>https://samui-samui.de/tags/shih-tzu/<description>in Shih Tzu on Samui? Samui!</description><language>de-DE</language><copyright>All rights reserved. Copyright samui-samui.de</copyright><lastbuilddate>Mon, 24 Jul 2017 13:52:51 +0000</lastbuilddate><atom:link href="https://samui-samui.de/tags/shih-tzu/index.xml" rel="self" type="application/rss+xml"><item><title>Liebes Tagebuch</title><link>https://samui-samui.de/2017/07/liebes-tagebuch/<pubdate>Mon, 24 Jul 2017 13:52:51 +0000</pubdate><guid>https://samui-samui.de/2017/07/liebes-tagebuch/</guid><description>Heute habe ich den &#34;about&#34;-Text unten in der Fusszeile dieser Website ge&amp;auml;ndert.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shih Tzu on Samui? Samui!</title>
+    <link>https://samui-samui.de/tags/shih-tzu/</link>
+    <description>in Shih Tzu on Samui? Samui!</description>
+    <language>de-DE</language>
+    
+    
+    <copyright>All rights reserved. Copyright samui-samui.de</copyright>
+    <lastBuildDate>Mon, 24 Jul 2017 13:52:51 +0000</lastBuildDate>
+    
+        <atom:link href="https://samui-samui.de/tags/shih-tzu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+	    <item>
+	      <title>Liebes Tagebuch</title>
+	      <link>https://samui-samui.de/2017/07/liebes-tagebuch/</link>
+	      <pubDate>Mon, 24 Jul 2017 13:52:51 +0000</pubDate>
+	      
+	      <guid>https://samui-samui.de/2017/07/liebes-tagebuch/</guid>
+	      <description>  Heute habe ich den &#34;about&#34;-Text unten in der Fusszeile dieser Website ge&amp;auml;ndert.   </description>
+	    </item>
+    
+  </channel>
+</rss>

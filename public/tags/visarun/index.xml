@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?> <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Visarun on Samui? Samui!</title><link>https://samui-samui.de/tags/visarun/<description>in Visarun on Samui? Samui!</description><language>de-DE</language><copyright>All rights reserved. Copyright samui-samui.de</copyright><lastbuilddate>Wed, 31 Jan 2018 20:04:22 +0700</lastbuilddate><atom:link href="https://samui-samui.de/tags/visarun/index.xml" rel="self" type="application/rss+xml"><item><title>Neulich auf der Fähre</title><link>https://samui-samui.de/2018/01/neulich-auf-der-faehre/<pubdate>Wed, 31 Jan 2018 20:04:22 +0700</pubdate><guid>https://samui-samui.de/2018/01/neulich-auf-der-faehre/</guid><description>Neulich auf der Fähre</description></item><item><title>Visa-Run – vermutlich nur Teil 1</title><link>https://samui-samui.de/2005/04/visa-run-vermutlich-nur-teil-1/<pubdate>Fri, 01 Apr 2005 02:25:00 +0000</pubdate><guid>https://samui-samui.de/2005/04/visa-run-vermutlich-nur-teil-1/</guid><description>Wenn ich Run höre, dann erklingt irgendwo in meinem Hinterkopf immer eine Stelle aus Pink Floyds &amp;ldquo;The Wall&amp;rdquo; mit &amp;ldquo;you better run, run, run, run, run&amp;rdquo; oder so. Beim Suchen eben fiel mir auf, dass die Stelle aber auch aus meiner eigenen &amp;ldquo;The Wall&amp;rdquo;-Version stammen könnte, ich fand sie nämlich nicht. Jedenfalls ist es (Achtung Google-Suchwort) Zeit für einen Visa-Run. Den mache ich morgen. Mit nem Reisebüro von hier. Nach (B(i|u)rma|Myanmar).</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visarun on Samui? Samui!</title>
+    <link>https://samui-samui.de/tags/visarun/</link>
+    <description>in Visarun on Samui? Samui!</description>
+    <language>de-DE</language>
+    
+    
+    <copyright>All rights reserved. Copyright samui-samui.de</copyright>
+    <lastBuildDate>Wed, 31 Jan 2018 20:04:22 +0700</lastBuildDate>
+    
+        <atom:link href="https://samui-samui.de/tags/visarun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+	    <item>
+	      <title>Neulich auf der Fähre</title>
+	      <link>https://samui-samui.de/2018/01/neulich-auf-der-faehre/</link>
+	      <pubDate>Wed, 31 Jan 2018 20:04:22 +0700</pubDate>
+	      
+	      <guid>https://samui-samui.de/2018/01/neulich-auf-der-faehre/</guid>
+	      <description> Neulich auf der Fähre  </description>
+	    </item>
+    
+	    <item>
+	      <title>Visa-Run – vermutlich nur Teil 1</title>
+	      <link>https://samui-samui.de/2005/04/visa-run-vermutlich-nur-teil-1/</link>
+	      <pubDate>Fri, 01 Apr 2005 02:25:00 +0000</pubDate>
+	      
+	      <guid>https://samui-samui.de/2005/04/visa-run-vermutlich-nur-teil-1/</guid>
+	      <description>Wenn ich Run höre, dann erklingt irgendwo in meinem Hinterkopf immer eine Stelle aus Pink Floyds &amp;ldquo;The Wall&amp;rdquo; mit &amp;ldquo;you better run, run, run, run, run&amp;rdquo; oder so. Beim Suchen eben fiel mir auf, dass die Stelle aber auch aus meiner eigenen &amp;ldquo;The Wall&amp;rdquo;-Version stammen könnte, ich fand sie nämlich nicht. Jedenfalls ist es (Achtung Google-Suchwort) Zeit für einen Visa-Run. Den mache ich morgen. Mit nem Reisebüro von hier. Nach (B(i|u)rma|Myanmar).</description>
+	    </item>
+    
+  </channel>
+</rss>
