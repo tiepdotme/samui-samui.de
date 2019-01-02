@@ -8,10 +8,19 @@
     
     
     <copyright>All rights reserved. Copyright samui-samui.de</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 21:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 20:25:00 +0700</lastBuildDate>
     
         <atom:link href="https://samui-samui.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+	    <item>
+	      <title>This wild Darkness</title>
+	      <link>https://samui-samui.de/2019/01/this-wild-darkness/</link>
+	      <pubDate>Wed, 02 Jan 2019 20:25:00 +0700</pubDate>
+	      
+	      <guid>https://samui-samui.de/2019/01/this-wild-darkness/</guid>
+	      <description>  </description>
+	    </item>
     
 	    <item>
 	      <title>Thirtysix-18</title>
@@ -102,17 +111,6 @@ Jóhann Jóhannsson (1969 - 2018) hat genau das gemacht - etwas Bleibendes hinte
 	      
 	      <guid>https://samui-samui.de/2018/01/neulich-auf-der-faehre/</guid>
 	      <description> Neulich auf der Fähre  </description>
-	    </item>
-    
-	    <item>
-	      <title>Google Doodle des Tages: Eua Sunthornsanan</title>
-	      <link>https://samui-samui.de/2018/01/google-doodle-des-tages-eua-sunthornsanan/</link>
-	      <pubDate>Mon, 22 Jan 2018 22:47:32 +0700</pubDate>
-	      
-	      <guid>https://samui-samui.de/2018/01/google-doodle-des-tages-eua-sunthornsanan/</guid>
-	      <description>Google Doodle zum 108en Geburtstag von Eua Sunthornsanan  Die länderspezifischen Google Doodles für Thailand sind immer wieder ein guter Weg, um etwas über die Kultur Thailands zu lernen.
-Neulich beispielsweise sahen wir ein Bild von Eua Sunthornsanan (das spricht man ungefähr “Üh-ah Sun-torn-sannan” aus), dem “Begründer der modernen Musik in Thailand”.
-Am 18. Januar 1910 geboren begann er früh, die Violine zu spielen. Mit 9 Jahren soll er schon so weit gewesen sein, dass er in einem Orchester spielte.</description>
 	    </item>
     
   </channel>
