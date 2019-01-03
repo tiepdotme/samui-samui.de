@@ -1,7 +1,6 @@
 #!/bin/bash
 
 rm -rf public/
-rm -rf resources/
-hugo
-git add public resources
+hugo --minify --templateMetrics --templateMetricsHints
+git add public
 git commit -m "chore: build static site"
