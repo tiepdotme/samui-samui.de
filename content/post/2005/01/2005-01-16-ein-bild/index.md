@@ -7,7 +7,7 @@ url: /2005/01/ein-bild/
 featured_image: /wp-content/uploads/2005/01/ein-bild/15.jpg
 tags:
   - schweden
-  - wärmland
+  - waermland
   - winter
 
 ---
