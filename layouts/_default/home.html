@@ -1,3 +1,9 @@
+{{/*
+
+Homepage template
+
+*/}}
+
 {{ define "main" }}
 
   {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}

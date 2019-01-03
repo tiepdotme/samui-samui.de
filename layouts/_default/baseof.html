@@ -1,10 +1,7 @@
 <!doctype html>
 <html lang="{{ .Site.LanguageCode }}" class="no-js">
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <base href="{{ .Site.BaseURL }}">
-    <link rel="canonical" href="{{ .Permalink }}">
-    <title>{{ block "title" . }}{{- with .Title }}{{ . }} | {{ end }}{{ .Site.Title -}}{{ end }}</title>
+    {{ partial "head/pagemeta.html" . }}
     {{ partial "head/metadata.html" . }}
     {{ partial "head/open_graph.html" . }}
     {{ partial "head/twitter.html" . }}
