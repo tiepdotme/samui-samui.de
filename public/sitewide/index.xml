@@ -1,3 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sitewides on Samui? Samui!</title><link>https://samui-samui.de/sitewide/</link><description>in Sitewides on Samui? Samui!</description><language>de-DE</language><copyright>All rights reserved. Copyright samui-samui.de</copyright><atom:link href="https://samui-samui.de/sitewide/index.xml" rel="self" type="application/rss+xml"/><item><title>Patrick Kollitsch</title><link>https://samui-samui.de/sitewide/authorfooter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://samui-samui.de/sitewide/authorfooter/</guid><description>Patrick Kollitsch hat die ersten Tage seines Lebens hinter sich und die letzten Tage davon in Thailand auf Koh Samui, einer kleinen aber ausreichend großen Insel im Golf von Thailand, zu-, ge- und verbracht.
-Gemeinsam mit seinem Shih-Tzu Pokki (m, Monate alt) bewohnt er ein kleines Haus unter Palmen in Bang Por im Nordwesten der Insel.
-In seiner Freizeit bietet er klein- und mittelst&amp;auml;ndischen Unternehmen auf der Insel (und auch im gesamten S&amp;uuml;dostasiatischen Raum) Dienste rund um &amp;ldquo;everything online&amp;rdquo; an.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+    <title>Sitewides on Samui? Samui!</title>
+    <link>https://samui-samui.de/sitewide/</link>
+    <description>in Sitewides on Samui? Samui!</description>
+    <language>de-DE</language>
+    
+    
+    <copyright>All rights reserved. Copyright samui-samui.de</copyright>
+    
+    
+        <atom:link href="https://samui-samui.de/sitewide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+	    <item>
+	      <title>Patrick Kollitsch</title>
+	      <link>https://samui-samui.de/sitewide/authorfooter/</link>
+	      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+	      
+	      <guid>https://samui-samui.de/sitewide/authorfooter/</guid>
+	      <description>Patrick Kollitsch hat die ersten  Tage seines Lebens hinter sich und die letzten  Tage davon in Thailand auf Koh Samui, einer kleinen aber ausreichend großen Insel im Golf von Thailand, zu-, ge- und verbracht.
+Gemeinsam mit seinem Shih-Tzu Pokki (m,  Monate alt) bewohnt er ein kleines Haus unter Palmen in Bang Por im Nordwesten der Insel.
+In seiner Freizeit bietet er klein- und mittelst&amp;auml;ndischen Unternehmen auf der Insel (und auch im gesamten S&amp;uuml;dostasiatischen Raum) Dienste rund um &amp;ldquo;everything online&amp;rdquo; an.</description>
+	    </item>
+    
+  </channel>
+</rss>

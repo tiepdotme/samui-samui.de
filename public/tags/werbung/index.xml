@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Werbung on Samui? Samui!</title><link>https://samui-samui.de/tags/werbung/</link><description>in Werbung on Samui? Samui!</description><language>de-DE</language><copyright>All rights reserved. Copyright samui-samui.de</copyright><lastBuildDate>Tue, 17 Nov 2015 08:57:27 +0000</lastBuildDate><atom:link href="https://samui-samui.de/tags/werbung/index.xml" rel="self" type="application/rss+xml"/><item><title>Das wahre Leben in Thailand</title><link>https://samui-samui.de/2015/11/das-wahre-leben-in-thailand/</link><pubDate>Tue, 17 Nov 2015 08:57:27 +0000</pubDate><guid>https://samui-samui.de/2015/11/das-wahre-leben-in-thailand/</guid><description>Diese kurze Video-Dokumentation zeigt das tägliche Leben in Thailand. Ein Genuss. So, muss mich mal eben auf meinen Elephanten schwingen und meinen Zigarrenbestand im 7eleven aufstocken&amp;hellip;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+    <title>Werbung on Samui? Samui!</title>
+    <link>https://samui-samui.de/tags/werbung/</link>
+    <description>in Werbung on Samui? Samui!</description>
+    <language>de-DE</language>
+    
+    
+    <copyright>All rights reserved. Copyright samui-samui.de</copyright>
+    <lastBuildDate>Tue, 17 Nov 2015 08:57:27 +0000</lastBuildDate>
+    
+        <atom:link href="https://samui-samui.de/tags/werbung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+	    <item>
+	      <title>Das wahre Leben in Thailand</title>
+	      <link>https://samui-samui.de/2015/11/das-wahre-leben-in-thailand/</link>
+	      <pubDate>Tue, 17 Nov 2015 08:57:27 +0000</pubDate>
+	      
+	      <guid>https://samui-samui.de/2015/11/das-wahre-leben-in-thailand/</guid>
+	      <description>Diese kurze Video-Dokumentation zeigt das tägliche Leben in Thailand. Ein Genuss. So, muss mich mal eben auf meinen Elephanten schwingen und meinen Zigarrenbestand im 7eleven aufstocken&amp;hellip;</description>
+	    </item>
+    
+  </channel>
+</rss>

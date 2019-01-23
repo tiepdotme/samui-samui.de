@@ -24,8 +24,9 @@ rssLimit = 10
 
 # see http://gohugo.io/templates/output-formats/
 [outputs]
-  home = [ "HTML", "RSS", "Algolia" ]
-  page = [ "HTML" ]
+  home = [ "HTML", "RSS", "Algolia", "AMP" ]
+  page = [ "HTML", "AMP" ]
+  post = [ "HTML", "AMP" ]
 
 [outputFormats.Algolia]
 	baseName = "algolia"
