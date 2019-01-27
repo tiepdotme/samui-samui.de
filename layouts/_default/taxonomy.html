@@ -4,6 +4,7 @@
 
 <!-- template _default/taxonomy.html //-->
   <h2 class="slabbing">Notizen tagged mit <em>{{ .Page.Title }}</em></h2>
+
   {{ range .Paginator.Pages }}
   <article >
     <header class="title">
@@ -63,4 +64,11 @@
     </footer>
   </article>
   {{ end }}
+
+     {{ partial "tools/debugprint.html" .Params }}
+     {{ partial "tools/debugprint.html" site }}
+     {{ partial "tools/debugprint.html" site.Menus }}
+     {{/* partial "tools/debugprint.html" .GitInfo */}}
+     {{ partial "tools/debugprint.html" .Resources }}
+     {{ partial "tools/debugprint.html" .File }}
 {{ end }}
