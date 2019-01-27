@@ -7,6 +7,7 @@ tags:
 - netflix
 - korea
 - zombies
+- kingdom
 ---
 
 Es stellt sich heraus, dass es auch in Korea Zombies gibt... zumindest auf Netflix. Ein Grund mehr, endlich mal ein Abo abzuschliessen. 
