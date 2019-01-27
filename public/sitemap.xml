@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://samui-samui.de/2019/01/koreanische-zombies/</loc>
+    <lastmod>2019-01-27T20:53:11+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://samui-samui.de/2019/01/neu-wahlen/</loc>
     <lastmod>2019-01-23T22:18:10+07:00</lastmod>
   </url>
@@ -10422,6 +10427,12 @@
   </url>
   
   <url>
+    <loc>https://samui-samui.de/tags/korea/</loc>
+    <lastmod>2019-01-27T20:53:11+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://samui-samui.de/tags/kriminalit%C3%A4t/</loc>
     <lastmod>2018-07-04T17:12:10+07:00</lastmod>
     <priority>0</priority>
@@ -10512,6 +10523,12 @@
   </url>
   
   <url>
+    <loc>https://samui-samui.de/tags/netflix/</loc>
+    <lastmod>2019-01-27T20:53:11+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://samui-samui.de/tags/neuwahlen/</loc>
     <lastmod>2018-10-27T20:27:44+07:00</lastmod>
     <priority>0</priority>
@@ -10590,14 +10607,13 @@
   
   <url>
     <loc>https://samui-samui.de/post/</loc>
-    <lastmod>2019-01-23T22:18:10+07:00</lastmod>
+    <lastmod>2019-01-27T20:53:11+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://samui-samui.de/tags/prayut/</loc>
-    <lastmod>2019-01-23T22:18:10+07:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-01-27T19:31:54+07:00</lastmod>
   </url>
   
   <url>
@@ -10950,6 +10966,12 @@
   <url>
     <loc>https://samui-samui.de/tags/zeremonien/</loc>
     <lastmod>2019-01-23T22:18:10+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samui-samui.de/tags/zombies/</loc>
+    <lastmod>2019-01-27T20:53:11+07:00</lastmod>
     <priority>0</priority>
   </url>
   

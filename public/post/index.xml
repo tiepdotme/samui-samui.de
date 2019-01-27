@@ -7,10 +7,20 @@
     
     
     <copyright>All rights reserved. Copyright samui-samui.de</copyright>
-    <lastBuildDate>Wed, 23 Jan 2019 21:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jan 2019 20:00:00 +0700</lastBuildDate>
     
         <atom:link href="https://samui-samui.de/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+	    <item>
+	      <title>Koreanische Zombies</title>
+	      <link>https://samui-samui.de/2019/01/koreanische-zombies/</link>
+	      <pubDate>Sun, 27 Jan 2019 20:00:00 +0700</pubDate>
+	      
+	      <guid>https://samui-samui.de/2019/01/koreanische-zombies/</guid>
+	      <description>Es stellt sich heraus, dass es auch in Korea Zombies gibt&amp;hellip; zumindest auf Netflix. Ein Grund mehr, endlich mal ein Abo abzuschliessen.
+Die Art der Serie ist relativ weitverbreitet. Ich musste mir da vor etwas mehr als einem guten Jahrzehnt in einer Seifenoper das Leben einer versklavten K&amp;ouml;chin im feudalen Korea ansehen&amp;hellip; mit allem Drum und Dran, Aff&amp;auml;ren mit dem jungen Regenten, Eifersucht, und nat&amp;uuml;rlich minutenlange Szenen in denen gekocht wurde.</description>
+	    </item>
     
 	    <item>
 	      <title>Neu! Wahlen?</title>
@@ -101,16 +111,6 @@ Man spricht halt nicht dar&amp;uuml;ber um die Gefl&amp;uuml;gelexporte nicht zu
 	      <guid>https://samui-samui.de/2018/03/wider-den-darts/</guid>
 	      <description>Terrorist an Zielscheibe &amp;mdash; (Photo von Clem Onojeghuo)  In ihrem nicht enden wollendem Kampf gegen alles unstaatliche und nicht genehmigte k&amp;auml;pft die Regierung Thailands nun gegen unregistrierte Dartscheiben im ganzen Land.
 Weil - man hat das so festgelegt im Jahre 1935. Und was so lange vor unserer Zeitrechnung festgelegt wurde ist auch heute noch g&amp;uuml;ltig. Dartscheiben in &amp;ouml;ffentlichen Geb&amp;auml;uden (also Pubs und Bars) sind nicht dem privaten Frohsinn, sondern dem Gl&amp;uuml;cksspiel gewidmet.</description>
-	    </item>
-    
-	    <item>
-	      <title>Quallen Alarm (Zeit-Style)</title>
-	      <link>https://samui-samui.de/2018/02/quallen-alarm-zeit-style/</link>
-	      <pubDate>Thu, 22 Feb 2018 20:46:22 +0700</pubDate>
-	      
-	      <guid>https://samui-samui.de/2018/02/quallen-alarm-zeit-style/</guid>
-	      <description>Die Zeit berichtet in sehr ausf&amp;uuml;hrlicher und aufmacherische Art und Weise &amp;uuml;ber Portugiesische Galleren an Thailands Str&amp;auml;nden.
-Die Urlauber litten an schweren Rötungen der Haut und an Atemnot, wie die Gesundheitsbehörde mitteilte. Schuld daran ist die sogenannte Portugiesische Galeere - eine Quallenart, die im verhältnismäßig warmen Wasser gerade weit verbreitet ist. Ihr Gift kann kleinere Fische töten, Menschen aber nicht. Weiterlesen auf zeit.de     Das stimmt nicht ganz, wie ich vor einer Weile schon geschrieben habe.</description>
 	    </item>
     
   </channel>
