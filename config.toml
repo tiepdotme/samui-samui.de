@@ -22,6 +22,8 @@ paginatePath = "seite"
 
 rssLimit = 10
 
+theme = ["dnb-hugo-shortcodes", "dnb-hugo-garuda"]
+
 # see http://gohugo.io/templates/output-formats/
 [outputs]
   home = [ "HTML", "RSS", "Algolia", "AMP" ]
