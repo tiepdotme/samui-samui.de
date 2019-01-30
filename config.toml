@@ -11,7 +11,7 @@ languageCode = "de-DE"
 enableEmoji=true
 
 # enable/disable functions
-enableGitInfo = true # Enable GitInfo feature
+enableGitInfo = false # Enable GitInfo feature
 enableRobotsTXT = true # Build robots.txt file
 disableHugoGeneratorInject = true # Do not inject generator meta tag on homepage
 watch = true # watch filesystem for changes and recreate as needed
