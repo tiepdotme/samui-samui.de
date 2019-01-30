@@ -1,6 +1,6 @@
 <div class="card-deck mb-3">
 
-{{ range $index, $item := .Site.Data.archive }}
+{{ range $index, $item := sort .Site.Data.archive ".slug" "desc" }}
 	<div class="card">
 		<div class="card-header">{{ $item.title }}</div>
 		<div class="card-body">
@@ -9,7 +9,9 @@
 		</div>
 	</div>
 
-    {{ if modBool $index 3 }}
+	{{ $index2 := add $index 1 }}
+
+    {{ if mod $index2 3 | eq 0 }}
 
 </div><div class="card-deck mb-3">
 
