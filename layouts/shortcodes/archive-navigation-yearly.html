@@ -1,13 +1,20 @@
-<nav aria-label="Archive Navigation">
-<ul class="pagination">
-	{{ range (where .Site.Pages "Section" "post").GroupByDate "2006" "asc" }}
-		{{ range first 1 .Pages }}
-		<li class="page-item">
-			<a class="page-link" href="/archive/{{ .Date.Format "2006" }}">
-				{{ .Date.Format "2006" }}
-			</a>
-		</li>
-		{{ end }}
-	{{ end }}
-</ul>
-</nav>
+<div class="card-deck mb-3">
+
+{{ range $index, $item := .Site.Data.archive }}
+	<div class="card">
+		<div class="card-header">{{ $item.title }}</div>
+		<div class="card-body">
+			<p>{{ $item.description }}</p>
+			<a href="/archiv/{{ $item.slug }}/" class="btn btn-primary">{{ $item.buttontext }}</a>
+		</div>
+	</div>
+
+    {{ if modBool $index 3 }}
+
+</div><div class="card-deck mb-3">
+
+    {{ end }}
+
+{{ end }}
+
+</div>
