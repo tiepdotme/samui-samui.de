@@ -1,5 +1,0 @@
-#!/bin/sh
-
-./scripts/build-site.sh
-
-exit 0
