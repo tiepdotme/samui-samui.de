@@ -41,5 +41,8 @@
   "scripts": {
     "css": "node-sass --include-path node_modules --output-style compressed --precision 6 src/scss/theme.scss tmp/theme.css",
     "algolia": "atomic-algolia"
+  },
+  "dependencies": {
+    "postcss-cli": "^6.1.1"
   }
 }
