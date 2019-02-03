@@ -4,7 +4,7 @@ body, h1, h2, h3, h4, h5, h6, p {
 }
 
 #content {
-    background-color:  theme-color("yellowish");
+    background-color:  theme-color("contentbg");
 }
 
 h1 {
@@ -19,8 +19,8 @@ h1 {
 }
 
 ::-moz-selection,::selection {
-    background-color: theme-color("redish");
-    color: theme-color("yellowish");
+    background-color: theme-color("primary");
+    color: theme-color("contentbg");
 }
 
 

@@ -6,8 +6,8 @@
     display: none;
     position: fixed;
     padding: 10px 15px;
-    color: lighten(theme-color("yellowish"), 20%);
-    background-color: rgba( theme-color("redish"), 0.7);
+    color: lighten(theme-color("contentbg"), 20%);
+    background-color: rgba(theme-color("primary"), 0.7);
     border-top-left-radius: $border-radius-lg;
     border-bottom-left-radius: $border-radius-lg;
     cursor: pointer;
@@ -15,7 +15,7 @@
 
     &:hover {
 
-        background-color:  theme-color("redish");
+        background-color:  theme-color("primary");
         text-decoration: none;
 
     }

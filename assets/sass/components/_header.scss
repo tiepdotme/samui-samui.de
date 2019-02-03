@@ -32,9 +32,9 @@
 
             display:block;
             text-align:center;
-            border-top: 1px solid theme-color("redish");
-            border-bottom: 1px solid theme-color("redish");
-            color: theme-color("yellowish");
+            border-top: 1px solid theme-color("primary");
+            border-bottom: 1px solid theme-color("primary");
+            color: theme-color("contentbg");
             font-family: 'pantonheavy';
 
             @include media-breakpoint-only(xs) {

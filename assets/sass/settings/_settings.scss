@@ -1,35 +1,20 @@
 // add this to theme color functions
 // https://getbootstrap.com/docs/4.0/getting-started/theming/#functions
-$icomoon-font-path: "fonts";
-$icon-search: "\f002";
-$icon-home: "\f015";
-$icon-tags: "\f02c";
-$icon-pencil: "\f040";
-$icon-play: "\f04b";
-$icon-chevron-left: "\f053";
-$icon-chevron-right: "\f054";
-$icon-question-circle: "\f059";
-$icon-calendar: "\f073";
-$icon-twitter-square: "\f081";
-$icon-facebook-square: "\f082";
-$icon-comments: "\f086";
-$icon-linkedin-square: "\f08c";
-$icon-globe: "\f0ac";
-$icon-google-plus-square: "\f0d4";
-$icon-money: "\f0d6";
-$icon-envelope: "\f0e0";
-$icon-archive: "\f187";
-$primary: theme-color("redish");
+$primary: theme-color("primary");
 $enable-caret: true;
 $enable-rounded: false;
 $enable-shadows: false;
 $enable-gradients: false;
 $enable-transitions: true;
-$enable-hover-media-query: false;
 $enable-grid-classes: true;
 $enable-print-styles: true;
+$enable-prefers-reduced-motion-media-query:   true;
+$enable-print-styles:                         true;
+$enable-validation-icons:                     true;
+
+
 $body-bg: theme-color("bodybg");
-$body-color: theme-color("darktext");
+$body-color: theme-color("text");
 $grid-breakpoints: (
   xs: 0,
   sm: 576px,
@@ -42,32 +27,19 @@ $container-max-widths: (
   lg: 960px
 );
 $grid-gutter-width: 30px;
+
 // fonts
 $font-family-sans-serif: 'pantonregular', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $headings-font-family: 'pantonheavy', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-$dark: #212529;
+$dark: theme-color("text");
 $font-size-base: 1rem;
 $blockquote-font-size: $font-size-base;
 $link-color: darken($primary, 20%);
 $link-hover-color: $primary;
-// pagination
-$pagination-color: lighten(theme-color("yellowish"), 20%);
-$pagination-bg: $primary;
-$pagination-border-color: rgba(theme-color("darktext"), 0.2);
-$pagination-hover-color: $primary;
-$pagination-hover-bg: lighten(theme-color("yellowish"), 20%);
-$pagination-hover-border-color: rgba(theme-color("darktext"), 0.2);
-$pagination-active-color: lighten(theme-color("yellowish"), 20%);
-$pagination-active-bg: $primary;
-$pagination-active-border-color: rgba(theme-color("darktext"), 0.2);
-$pagination-disabled-bg: $primary;
-$pagination-disabled-border-color: rgba(theme-color("darktext"), 0.2);
-$pagination-disabled-color: lighten(theme-color("yellowish"), 40%);
-// progress bars
-$progress-bg: theme-color("yellowish");
-$progress-bar-color: theme-color("darktext");
-$progress-bar-bg: theme-color("redish");
 
+// cards
+$card-cap-bg:                       rgba($primary, .3);
+$card-bg:                           darken(theme-color("contentbg"), 3%);
 
 // carousel
 $carousel-control-width:            15% !default;
@@ -75,11 +47,27 @@ $carousel-control-opacity:          .5 !default;
 $carousel-indicator-width:          20px !default;
 $carousel-indicator-height:         9px !default;
 $carousel-indicator-spacer:         3px !default;
-$carousel-indicator-active-bg:      theme-color("redish") !default;
+$carousel-indicator-active-bg:      theme-color("primary") !default;
 $carousel-caption-width:            70% !default;
-$carousel-caption-color:            theme-color("redish") !default;
+$carousel-caption-color:            theme-color("primary") !default;
 $carousel-control-icon-width:       20px !default;
 
-// cards
-$card-cap-bg:                       rgba($primary, .3);
-$card-bg:                           darken(theme-color("yellowish"), 3%);
+// pagination
+$pagination-color: lighten(theme-color("contentbg"), 20%);
+$pagination-bg: theme-color("primary");
+$pagination-border-color: rgba(theme-color("text"), 0.2);
+$pagination-hover-color: theme-color("primary");
+$pagination-hover-bg: lighten(theme-color("contentbg"), 20%);
+$pagination-hover-border-color: rgba(theme-color("text"), 0.2);
+$pagination-active-color: lighten(theme-color("contentbg"), 20%);
+$pagination-active-bg: theme-color("primary");
+$pagination-active-border-color: rgba(theme-color("text"), 0.2);
+$pagination-disabled-bg: theme-color("primary");
+$pagination-disabled-border-color: rgba(theme-color("text"), 0.2);
+$pagination-disabled-color: lighten(theme-color("contentbg"), 40%);
+
+// progress bars
+$progress-bg: theme-color("contentbg");
+$progress-bar-color: theme-color("text");
+$progress-bar-bg: theme-color("primary");
+$progress-height: 5px;

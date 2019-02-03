@@ -1,10 +1,49 @@
 // colors for samui-samui.de
 $theme-colors: (
-  "darktext": #2b2929,
-  "bodybg": #290e1c,
-  "lightergrey": #454650,
-  "redish": #ec7263,
-  "yellowish": #e2e2b6,
-  "greenish": #958c6b,
-  "lightaubergine": #b43b21
+
+  "text": 		#2b2929,			
+  "bodybg": 	#290e1c, // dark aubergine
+  "contentbg": 	#e2e2b6, // yellowish background color for content area
+  "primary": 	#ec7263 // redish primary color
+
 );
+// $theme-colors: (
+
+//   "text": 		#90afc5,			
+//   "bodybg": 		#2a3132,
+//   "contentbg": 		#336b87, 
+//   "primary": 		#763626
+
+// );
+// $theme-colors: (
+
+//   "text": 		#003b46,			
+//   "bodybg": 		#07575b,
+//   "contentbg": 		#66a5ad, 
+//   "primary": 		#07575b
+
+// );
+// $theme-colors: (
+
+//   "text": 		#021c1e,			
+//   "bodybg": 		#004445,
+//   "contentbg": 		#2c7873, 
+//   "primary": 		#6fb98f
+
+// );
+// $theme-colors: (
+
+//   "text": 		#7da3a1,			
+//   "bodybg": 		#34675c,
+//   "contentbg": 		#86ac41, 
+//   "primary": 		#7da3a1
+
+// );
+// $theme-colors: (
+
+//   "text": 		#8d230f,			
+//   "bodybg": 		#1e434c,
+//   "contentbg": 		lighten(#c99e10, 25%), 
+//   "primary": 		#9b4f0f
+
+// );
