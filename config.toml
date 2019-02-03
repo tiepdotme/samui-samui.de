@@ -8,7 +8,7 @@ summaryLength = 70 # the length of text to show in a .Summary
 title = "Samui? Samui!"
 copyright = "All rights reserved. Copyright samui-samui.de"
 languageCode = "de-DE"
-enableEmoji=true
+enableEmoji=false
 
 # enable/disable functions
 enableGitInfo = false # Enable GitInfo feature
