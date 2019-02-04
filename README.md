@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2de71bc-05fc-4900-ad01-89ebdd5774e0/deploy-status)](https://app.netlify.com/sites/eloquent-morse-196fd2/deploys)
+
 # installation
 
 - run `npm install` to install packages
