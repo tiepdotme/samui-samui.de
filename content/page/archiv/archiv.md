@@ -5,6 +5,7 @@ description: Archiv.
 type: page
 layout: single
 url: /archiv
+hideMeta: true
 ---
 
 W&auml;hrend ich auf diesen Seiten ein paar Umbauten vornehme, wird das Archiv leider etwas chaotisch sein. Es wird aber besser. T&auml;glich. Versprochen.

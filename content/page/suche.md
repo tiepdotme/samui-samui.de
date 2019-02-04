@@ -5,6 +5,7 @@ description: Suchen im Archiv.
 type: page
 layout: suche
 url: /suche
+hideMeta: true
 ---
 
 {{< search >}}
