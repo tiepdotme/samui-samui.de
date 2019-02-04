@@ -19,5 +19,7 @@ Schroffe oder beleidigende Nachrichten werden wohlwollend unbeantwortet gelassen
 
 Wenn du mir Dateien schicken willst, [nutze dieses <i class="fab fa-dropbox"></i> Dropbox-Formular][2].
 
+{{< contact-form >}}
+
 [1]: /datenschutzerklaerung/
 [2]: https://www.dropbox.com/request/Z9UXcgVtGxdexT1q3Dnr

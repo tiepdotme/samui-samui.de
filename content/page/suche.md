@@ -6,3 +6,5 @@ type: page
 layout: suche
 url: /suche
 ---
+
+{{< search >}}
