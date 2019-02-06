@@ -34,6 +34,10 @@ rssLimit = 10
 	mediaType = "application/json"
 	notAlternative = true
 
+[sitemap]
+  ChangeFreq = "daily"
+  Priority = "1"
+
 [author]
 name = "Patrick Kollitsch"
 homepage = "https://samui-samui.de"

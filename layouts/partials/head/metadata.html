@@ -7,3 +7,10 @@
     <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
 <link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="Samui Suche">
+
+
+{{ with .Params.robotsdisallow }}
+	<meta name="robots" content="noindex, nofollow, noarchive">
+{{ else }}
+	<meta name="robots" content="index, follow, archive">
+{{ end }}
