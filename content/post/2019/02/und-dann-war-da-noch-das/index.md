@@ -9,4 +9,4 @@ tags:
 - und dann war da noch das
 ---
 
-<div class="fb-video" data-href="https://www.facebook.com/ThaiVisaNews/videos/2225419117775808/" data-show-text="false"></div>
+<div class="fb-video" data-href="https://www.facebook.com/ThaiVisaNews/videos/2225419117775808/"></div>
