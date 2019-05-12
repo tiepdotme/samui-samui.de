@@ -28,6 +28,7 @@
     "cz-customizable": "^6.0.0",
     "instantsearch.js": "^3.4.0",
     "jquery": "^3.4.1",
+    "postcss-cli": "^6.1.2",
     "popper.js": "^1.15.0"
   }
 }
