@@ -10,4 +10,4 @@ resources :
   title: "Payut Ngaokrachangs 88. Geburtstag"
 ---
 
-{{% figure name="google-doodle" command="Resize" options="930x" %}}Payut Ngaikrachangs 88. Geburtstag - &copy; google.com{{% /figure %}}
+{{< figure name="google-doodle" command="Resize" options="930x" >}}Payut Ngaikrachangs 88. Geburtstag - &copy; google.com{{< /figure >}}

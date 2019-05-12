@@ -13,6 +13,6 @@ resources:
   title: "Google Doodle Kindertag 2017 in Thailand --- &copy; google.com"
 ---
 
-{{% figure name="google-doodle" command="Resize" options="930x" %}}
+{{< figure name="google-doodle" command="Resize" options="930x" >}}
 Google Doodle Kindertag 2017 in Thailand --- &copy; google.com
-{{% /figure %}}
+{{< /figure >}}

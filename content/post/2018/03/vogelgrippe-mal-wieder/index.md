@@ -13,9 +13,9 @@ resources :
   title: "Nicht nachweislich Vogelgrippenkranker Vogel, Symbolbild von Frida Bredensen"
 ---
 
-{{% figure name="birdflu" command="Resize" options="930x" %}}
+{{< figure name="birdflu" command="Resize" options="930x" >}}
 Nicht nachweislich Vogelgrippenkranker Vogel, Symbolbild von [Frida Bredensen](https://unsplash.com/photos/2-A0tz0tw3k)
-{{% /figure %}}
+{{< /figure >}}
 
 Seit einigen Tagen konnte man in Thai Social Media lesen, dass im Isaan und in Nordthailand verschiedene F&auml;lle der Vogelgrippe aufgetreten sind. Das wurde immer kr&auml;ftig bestritten - unter Androhung von Strafen sogar. Gestern nun hat es eine offizielle Stellungnahme des "Department for Lifestock Development" (so eine Art Agrarministerium wahrscheinlich) erkl&auml;rt, dass tats&auml;chlich F&auml;lle bekannt sind. 
 

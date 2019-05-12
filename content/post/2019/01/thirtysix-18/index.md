@@ -13,7 +13,7 @@ resources:
   title: "Samui am 4. Januar 2019, ca. 14 Uhr (Quelle: windy.com)"
 ---
 
-{{% figure name="samui-jan-4" command="Resize" options="1110x" %}}Samui am 4. Januar 2019, ca. 14 Uhr (Quelle: windy.com){{% /figure %}}
+{{< figure name="samui-jan-4" command="Resize" options="1110x" >}}Samui am 4. Januar 2019, ca. 14 Uhr (Quelle: windy.com){{< /figure >}}
 
 In den kommenden Tagen darf Koh Samui sich auf einen tropischen Sturm vorbereiten. Der bisher noch unbenannte Sturm (wir nennen ihn Thirtysix-18) bewegt sich direkt auf Samui zu und wird am Freitag Mittag &uuml;ber uns hinweg fegen. So ein tropischer Sturm ist etwas schw&auml;cher als ein Orkan und st&auml;rker als ein Taifun. Taifune hatten wir schon h&auml;ufiger. 
 

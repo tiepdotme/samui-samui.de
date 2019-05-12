@@ -13,7 +13,7 @@ resources:
   title: "K&ouml;nigliches Dekret zur Festlegung der Neuwahlen in Thailand"
 ---
 
-{{% figure name="neuwahlen" command="Resize" options="1110x" %}}K&ouml;nigliches Dekret zur Festlegung der Neuwahlen in Thailand{{% /figure %}}
+{{< figure name="neuwahlen" command="Resize" options="1110x" >}}K&ouml;nigliches Dekret zur Festlegung der Neuwahlen in Thailand{{< /figure >}}
 
 Es wird Wahlen in Thailand geben. Soviel ist schon mal klar. 
 
