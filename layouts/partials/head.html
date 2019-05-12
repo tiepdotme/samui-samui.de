@@ -8,4 +8,4 @@
 {{ partialCached "head/favicon.html" . }}
 {{ $path := printf "assets/css/theme-%s.css" $.Site.Params.version }}
 <link rel="stylesheet" href="{{ $path | absURL }}">
-{{ .Hugo.Generator }}
+{{ hugo.Generator }}

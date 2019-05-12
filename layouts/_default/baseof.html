@@ -7,7 +7,7 @@
     {{ partial "head/twitter.html" . }}
     {{ partialCached "head/favicon.html" . }}   
     {{ partialCached "head/css.html" . }} 
-    {{ .Hugo.Generator }}
+    {{ hugo.Generator }}
   </head>
   <body id="{{ .Site.Params.Siteslug }}">
     {{ partialCached "header/brand.html" . }}
