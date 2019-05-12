@@ -2,7 +2,7 @@
   "name": "samui-samui-de",
   "slug": "samui-samui-de",
   "url": "https://samui-samui.de",
-  "version": "2018.1.159",
+  "version": "2019.1.159",
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
   "description": "Hugo files for samui-samui.de",
   "homepage": "http://samui-samui.de",
@@ -11,27 +11,6 @@
   "repository": {
     "type": "git",
     "url": "https://bitbucket.org/pkollitsch/samui-samui.de.git"
-  },
-  "devDependencies": {
-    "atomic-algolia": "^0.3.17",
-    "autoprefixer": "^7.2.6",
-    "bootstrap": "^4.2.1",
-    "cssnano": "^3.10.0",
-    "cssnext": "^1.8.4",
-    "cz-conventional-changelog": "^2.1.0",
-    "cz-customizable": "^5.3.0",
-    "glyphhanger": "^3.2.0",
-    "imagemin-mozjpeg": "^6.0.0",
-    "instantsearch.js": "^2.10.4",
-    "jquery": "^3.3.1",
-    "lodash": "^4.17.11",
-    "matchdep": "^2.0.0",
-    "moment": "^2.24.0",
-    "node-sass": "^4.11.0",
-    "pixrem": "^4.0.1",
-    "popper.js": "^1.14.7",
-    "precss": "^3.1.2",
-    "request": "^2.88.0"
   },
   "config": {
     "commitizen": {
@@ -42,7 +21,26 @@
     "css": "node-sass --include-path node_modules --output-style compressed --precision 6 src/scss/theme.scss tmp/theme.css",
     "algolia": "hugo --quiet && atomic-algolia && rm -rf public"
   },
-  "dependencies": {
-    "postcss-cli": "^6.1.1"
+  "devDependencies": {
+    "atomic-algolia": "^0.3.17",
+    "autoprefixer": "^9.5.1",
+    "bootstrap": "^4.3.1",
+    "cssnano": "^4.1.10",
+    "cssnext": "^1.8.4",
+    "cz-conventional-changelog": "^2.1.0",
+    "cz-customizable": "^6.0.0",
+    "glyphhanger": "^3.2.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "instantsearch.js": "^3.4.0",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.11",
+    "matchdep": "^2.0.0",
+    "moment": "^2.24.0",
+    "node-sass": "^4.12.0",
+    "pixrem": "^5.0.0",
+    "popper.js": "^1.15.0",
+    "postcss-cli": "^6.1.2",
+    "precss": "^4.0.0",
+    "request": "^2.88.0"
   }
 }

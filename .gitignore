@@ -1,19 +1,15 @@
 /node_modules
-/.sass-cache
-/tmp
-/.env
 /resources
 
 # logfiles
 /log.txt
 
-# theme files
-/static/assets/js/*
-/static/assets/css/*
-
 # IDE files
 /*.sublime-workspace
 
 # scratch files
-/notes.txt
 /notes
+
+# config
+.env
+.semver

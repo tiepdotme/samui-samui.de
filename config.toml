@@ -22,21 +22,23 @@ paginatePath = "seite"
 
 rssLimit = 10
 
+#theme = ["hugo-debugprint"]
+
 # see http://gohugo.io/templates/output-formats/
 [outputs]
-  home = [ "HTML", "RSS", "Algolia", "AMP" ]
-  page = [ "HTML", "AMP" ]
-  post = [ "HTML", "AMP" ]
+home = [ "HTML", "RSS", "Algolia", "AMP" ]
+page = [ "HTML", "AMP" ]
+post = [ "HTML", "AMP" ]
 
 [outputFormats.Algolia]
-	baseName = "algolia"
-	isPlainText = true
-	mediaType = "application/json"
-	notAlternative = true
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
 
 [sitemap]
-  ChangeFreq = "daily"
-  Priority = "1"
+ChangeFreq = "daily"
+Priority = "1"
 
 [author]
 name = "Patrick Kollitsch"
