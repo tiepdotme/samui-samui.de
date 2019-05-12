@@ -73,14 +73,3 @@ jQuery(window).scroll(function () {
         menu.removeClass('navbar-fixed-top');
     }
 });
- 
-if (window.doNotTrack || navigator.doNotTrack || navigator.msDoNotTrack || 'msTrackingProtectionEnabled' in window.external) {
-    console.log('do not track available');
-    if (window.doNotTrack == "1" || navigator.doNotTrack == "yes" || navigator.doNotTrack == "1" || navigator.msDoNotTrack == "1" || window.external.msTrackingProtectionEnabled()) {
-      console.log('do not track enabled');
-    } else {
-      console.log('do not track disabled');
-    }
-} else {
-    console.log('do not track not available');
-}
