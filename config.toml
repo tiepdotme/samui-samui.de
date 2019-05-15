@@ -22,6 +22,8 @@ paginatePath = "seite"
 
 rssLimit = 10
 
+footnoteReturnLinkContents = "^"
+
 #theme = ["hugo-debugprint"]
 
 # see http://gohugo.io/templates/output-formats/
