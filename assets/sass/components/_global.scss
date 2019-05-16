@@ -23,8 +23,6 @@ h1 {
     color: theme-color("contentbg");
 }
 
-
-
 #sidebar {
     h3 {
         font-size:1.65em;
@@ -37,5 +35,12 @@ h1 {
             float:left;
             margin-right:2em;
         }
+    }
+}
+
+blockquote {
+    @extend .blockquote;
+    p:last-child {
+        margin-bottom: 0;
     }
 }
