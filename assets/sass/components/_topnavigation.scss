@@ -11,4 +11,11 @@
       border-top-left-radius: 0;
       border-top-right-radius: 0;
     }
+
+    ul#menu-topnavigation {
+        li:first-child a {
+            padding-left:0;
+        } 
+    }
+
 }
