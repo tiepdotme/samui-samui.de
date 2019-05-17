@@ -5,11 +5,11 @@ page layout
 {{ define "main" }}
 <article >
 	<header class="title">
-		  <h2 class="entry-title">
-		    <a href="{{ .Permalink }}">{{ .Title }}</a>
-		  </h2>
-      {{ with .Params.hideMeta }}
-      {{ else }}
+        <h2 class="entry-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h2>
+        {{ with .Params.hideMeta }}
+        {{ else }}
 		<div class="meta">
 		  <div class="row">
 		    <div class="col-md-9 is--taglist">
@@ -33,11 +33,11 @@ page layout
 		</div>
 		{{ end }}
 	</header>
-
 	<div class="text entry-content">
 		{{ with .Params.featured_image }}
 		  	<img src="{{ . | absURL }}" />
 		{{ end }}
 		{{ .Content }}
+	</div>
 </article>
 {{ end }}

@@ -6,8 +6,7 @@
     {{ partial "head/open_graph.html" . }}
     {{ partial "head/twitter.html" . }}
     {{ partialCached "head/favicon.html" . }}   
-    {{ partialCached "head/css.html" . }} 
-    {{ hugo.Generator }}
+    {{ partialCached "head/css.html" . }}
   </head>
   <body id="{{ .Site.Params.Siteslug }}">
     {{ partialCached "header/brand.html" . }}
