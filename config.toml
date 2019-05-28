@@ -93,7 +93,7 @@ name = "F00urtyF00ur"
 weight = 250
 identifier = "fourtyfour"
 url = "https://fourtyfour.space"
-pre = "<i class='far fa-pegasus fa-fw'></i>"
+pre = "<i class='fas fa-unicorn fa-fw'></i>"
 
 [[menu.main]]
 name = "Kontakt"

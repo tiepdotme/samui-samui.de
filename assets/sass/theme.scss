@@ -1,5 +1,8 @@
 // Fontawesome
-@import "../../static/assets/fonts/fontawesome/css/fa-svg-with-js";
+@import "plugins/fontawesome/fontawesome.scss";
+@import "plugins/fontawesome/regular.scss";
+@import "plugins/fontawesome/solid.scss";
+@import "plugins/fontawesome/brands.scss";
 
 // Bootstrap initialization
 @import "bootstrap/scss/functions";
