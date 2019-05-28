@@ -2,7 +2,7 @@
 
 JS creation for samui-samui.de
 
-- 
+-
 - SRI is applied via Fingerprint
 - that's all for now. but it's enough, isn't it?
 
@@ -18,9 +18,7 @@ JS creation for samui-samui.de
 {{ $js7 := resources.Get "js/progress-indicator.js" }}
 {{ $js8 := resources.Get "js/search.js" }}
 {{ $js9 := resources.Get "js/script.js" }}
-{{ $js10 := resources.Get "js/libs/fontawesome-all.min.js" }}
-{{ $js := slice $js0 $js1 $js2 $js3 $js4 $js5 $js6 $js7 $js8 $js9 $js10 | resources.Concat "script.js" | resources.Minify | resources.Fingerprint }}
+{{ $js := slice $js0 $js1 $js2 $js3 $js4 $js5 $js6 $js7 $js8 $js9 | resources.Concat "script.js" | resources.Minify | resources.Fingerprint }}
 
-<!-- <script src="{{$js.RelPermalink}}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script> -->
-<script src="{{$js.RelPermalink}}" async defer></script>
+<script src="{{$js.RelPermalink}}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous" async defer></script>
 <script id="twitter-wjs" type="text/javascript" async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
