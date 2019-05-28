@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6252b54-2741-4a67-9af1-d2da421e3784" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/sass/plugins/fontawesome/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/plugins/fontawesome/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/footer/js.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/footer/js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/2019/05/prem-tinsulanond/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/2019/05/prem-tinsulanond/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +18,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/post/2019/05/prem-tinsulanond/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="90">
+                <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/sass/theme.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/assets/sass/plugins/fontawesome/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-990">
-              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -62,7 +73,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/partials/footer/js.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
@@ -74,18 +85,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/sass/plugins/fontawesome/brands.scss">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/post/2019/05/meet-me-in-the-senate/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="35" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -104,12 +103,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/post/2019/05/prem-tinsulanond/index.md" />
         <option value="$PROJECT_DIR$/assets/sass/settings/_settings.scss" />
         <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/assets/sass/theme.scss" />
         <option value="$PROJECT_DIR$/assets/sass/plugins/fontawesome/_variables.scss" />
         <option value="$PROJECT_DIR$/layouts/partials/footer/js.html" />
+        <option value="$PROJECT_DIR$/content/post/2019/05/prem-tinsulanond/index.md" />
       </list>
     </option>
   </component>
@@ -147,45 +146,37 @@
             <path>
               <item name="samui-samui.de" type="b2602c69:ProjectViewProjectNode" />
               <item name="samui-samui.de" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="samui-samui.de" type="b2602c69:ProjectViewProjectNode" />
               <item name="samui-samui.de" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="samui-samui.de" type="b2602c69:ProjectViewProjectNode" />
               <item name="samui-samui.de" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-              <item name="footer" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
+              <item name="2019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="samui-samui.de" type="b2602c69:ProjectViewProjectNode" />
               <item name="samui-samui.de" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-              <item name="head" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
+              <item name="2019" type="462c0819:PsiDirectoryNode" />
+              <item name="05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="samui-samui.de" type="b2602c69:ProjectViewProjectNode" />
               <item name="samui-samui.de" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="samui-samui.de" type="b2602c69:ProjectViewProjectNode" />
-              <item name="samui-samui.de" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="samui-samui.de" type="b2602c69:ProjectViewProjectNode" />
-              <item name="samui-samui.de" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
+              <item name="2019" type="462c0819:PsiDirectoryNode" />
+              <item name="05" type="462c0819:PsiDirectoryNode" />
+              <item name="prem-tinsulanond" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,18 +222,18 @@
       <updated>1559055106371</updated>
       <workItem from="1559055108273" duration="1510000" />
       <workItem from="1559056813279" duration="1295000" />
-      <workItem from="1559059362751" duration="922000" />
+      <workItem from="1559059362751" duration="1074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3727000" />
+    <option name="totallyTimeSpent" value="3879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="27" width="1874" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4972737" visible="true" weight="0.17067833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4972737" visible="true" weight="0.17067833" />
       <window_info id="Structure" order="1" sideWeight="0.50272626" side_tool="true" visible="true" weight="0.17067833" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -260,7 +251,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info active="true" anchor="right" id="Find" order="4" visible="true" weight="0.30032822" />
+      <window_info anchor="right" id="Find" order="4" visible="true" weight="0.30032822" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,16 +260,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/assets/fonts/fontawesome/LICENSE.txt" />
     <entry file="file://$PROJECT_DIR$/static/assets/fonts/fontawesome/scss/fontawesome.scss" />
-    <entry file="file://$PROJECT_DIR$/content/post/2019/05/prem-tinsulanond/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="198">
-            <caret line="11" column="154" selection-start-line="11" selection-start-column="154" selection-end-line="11" selection-end-column="154" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
@@ -331,7 +312,7 @@
     <entry file="file://$PROJECT_DIR$/assets/sass/plugins/fontawesome/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-990">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -348,6 +329,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/post/2019/05/prem-tinsulanond/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="90">
+            <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -3,6 +3,7 @@ title: "Prem Tinsulanond"
 date: 2019-05-28T21:25:48+07:00
 type: post
 url: /2019/05/prem-tinsulanond
+draft:true
 tags:
 - prem tinsulanond
 - politik
