@@ -56,7 +56,21 @@ jQuery(document).ready(function ($) {
       $this.text(parseInt($date2.diff($date1, 'months')));
     });
 
-});
+    // cookieconsent
+    window.cookieconsent.initialise({
+      "theme": "edgeless",
+      "position": "bottom-right",
+      "type": "opt-out",
+      "revokable": false,
+      "content": {
+        "message": "Auf dieser Webseite werden Cookies genutzt, um Funktionen und Vorg&auml;nge zu gew&auml;hrleisten, die seit Jahrzehnten so im Internet funktioniert haben.",
+        "allow": "Yeah, Cookies!!!1Eins",
+        "deny": "Keine Cookies f&uuml;r mich.",
+        "link": "Weitere Informationen",
+        "href": "/datenschutzerklaerung/"
+      }
+    });
+  });
 
 // make navbar static on scroll
 var bottom = false;

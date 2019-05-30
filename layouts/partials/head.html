@@ -9,3 +9,4 @@
 {{ $path := printf "assets/css/theme-%s.css" $.Site.Params.version }}
 <link rel="stylesheet" href="{{ $path | absURL }}">
 {{ hugo.Generator }}
+{{ partialCached "head/cookies.html" . }}

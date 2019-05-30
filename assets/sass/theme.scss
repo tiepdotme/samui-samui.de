@@ -60,6 +60,13 @@
 @import "plugins/video-youtube";
 @import "plugins/wordpress";
 
+// Cookie consent
+@import "plugins/cookieconsent/animation";
+@import "plugins/cookieconsent/base";
+@import "plugins/cookieconsent/layout";
+@import "plugins/cookieconsent/media";
+@import "plugins/cookieconsent/themes/edgeless";
+
 // Components
 @import "components/global";
 @import "components/articles";

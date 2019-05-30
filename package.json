@@ -30,5 +30,8 @@
     "jquery": "^3.4.1",
     "postcss-cli": "^6.1.2",
     "popper.js": "^1.15.0"
+  },
+  "dependencies": {
+    "cookieconsent": "^3.1.1"
   }
 }
