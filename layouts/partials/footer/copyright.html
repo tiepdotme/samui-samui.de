@@ -2,10 +2,20 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-		<div class="textwidget text-center mt-5 mb-5">
-          <span class="copy">&copy; 2004-{{ now.Format "2006" }}</span>
-          <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> | 
-          Auf <a href="http://gohugo.io">Hugo {{ hugo.Version }}</a> geschmiedet.
+		    <div class="textwidget text-center mt-5 mb-5">
+          <ul class="list-inline mb-0">
+            <li class="list-inline-item">
+              <a href="/kontakt/">Kontakt</a>
+            </li>
+            <li class="list-inline-item">
+              <a href="/datenschutzerklaerung/">Datenschutzerkl&auml;rung</a>            
+            </li>
+          </ul>
+          <p>
+            <span class="copy">&copy; 2004-{{ now.Format "2006" }}</span>
+            <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> | 
+            Auf <a href="http://gohugo.io">Hugo {{ hugo.Version }}</a> geschmiedet.
+          </p>
         </div>
       </div>
     </div>

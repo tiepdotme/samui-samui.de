@@ -57,14 +57,16 @@ jQuery(document).ready(function ($) {
     });
 
     // cookieconsent
+    // https://cookieconsent.osano.com/documentation/javascript-api/
     window.cookieconsent.initialise({
       "theme": "edgeless",
       "position": "bottom-right",
-      "type": "opt-out",
+      "type": "info",
       "revokable": false,
       "content": {
         "message": "Auf dieser Webseite werden Cookies genutzt, um Funktionen und Vorg&auml;nge zu gew&auml;hrleisten, die seit Jahrzehnten so im Internet funktioniert haben.",
         "allow": "Yeah, Cookies!!!1Eins",
+        "dismiss": "Yeah, Cookies!!!1Eins",
         "deny": "Keine Cookies f&uuml;r mich.",
         "link": "Weitere Informationen",
         "href": "/datenschutzerklaerung/"

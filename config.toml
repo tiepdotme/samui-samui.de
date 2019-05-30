@@ -89,7 +89,7 @@ url = "/suche/"
 pre = "<i class='fas fa-search fa-fw'></i>"
 
 [[menu.main]]
-name = "F00urtyF00ur"
+name = "44"
 weight = 250
 identifier = "fourtyfour"
 url = "https://fourtyfour.space"
