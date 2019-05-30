@@ -94,6 +94,15 @@ weight = 250
 identifier = "fourtyfour"
 url = "https://fourtyfour.space"
 pre = "<i class='fas fa-unicorn fa-fw'></i>"
+target = "_blank"
+
+[[menu.main]]
+name = "DNB"
+weight = 250
+identifier = "dnb"
+url = "https://davids-neighbour.com"
+pre = "<i class='fas fa-user-tie fa-fw'></i>"
+target = "_blank"
 
 [[menu.main]]
 name = "Kontakt"
