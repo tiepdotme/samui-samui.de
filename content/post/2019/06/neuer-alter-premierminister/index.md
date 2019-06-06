@@ -11,7 +11,7 @@ tags:
 
 ---
 
-{{< figure name="general-prayuth" command="Resize" options="1110x" >}}General Prayuth Chan-Ocha{{< /figure >}}
+{{< img src="general-prayuth.jpg" >}}General Prayuth Chan-Ocha{{< /img >}}
 
 Thailand hat seit gestern einen neuen "demokratisch" gew&auml;hlten Premierminister. Es ist der gleiche, der nach dem von ihm selbst durchgef&uuml;hrten Milit&auml;rputsch 2014 als Premierminister "gedient" hat: General Prayuth Chan-Ocha. Das Milit&auml;r wird also auch weiterhin an der Macht bleiben. Prayuth’s erste Amtszeit zeichnete sich durch Inhaftieren und Einsch&uuml;chtern von Kritikern, dem Bann von Protesten, und der Unterdr&uuml;ckung der Meinungsfreiheit aus. 
 
