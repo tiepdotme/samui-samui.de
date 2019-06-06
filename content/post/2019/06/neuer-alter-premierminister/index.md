@@ -5,6 +5,8 @@ type: post
 url: /2019/06/neuer-alter-premierminister
 tags:
 - prayuth chan-ocha
+- thanathorn juangroongruangkit
+- abhisit vejjajiva
 - politik
 
 ---
