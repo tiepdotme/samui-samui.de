@@ -16,6 +16,8 @@
 
         }
 
+        font-size: 23vw;
+
         @include media-breakpoint-only(sm) {
             font-size: 68px;
         }
@@ -44,10 +46,9 @@
             color: theme-color("contentbg");
             font-family: 'pantonheavy';
 
-            @include media-breakpoint-only(xs) {
-                font-size: 11px;
-                padding: 1px 0;
-            }
+            font-size: 4vw;
+            padding: 4px 0;
+
             @include media-breakpoint-only(sm) {
                 font-size: 14px;
                 padding: 2px 0;
@@ -58,6 +59,10 @@
             }
             @include media-breakpoint-up(lg) {
                 font-size: 26px;
+                padding: 5px 0;
+            }
+            @include media-breakpoint-up(xl) {
+                font-size: 31px;
                 padding: 5px 0;
             }
 
