@@ -1,5 +1,4 @@
 # https://www.netlify.com/docs/redirects/
-http://eloquent-morse-196fd2.netlify.com/* https://samui-samui.de/:splat 301!
 https://eloquent-morse-196fd2.netlify.com/* https://samui-samui.de/:splat 301!
 
 # forwarding old amp links to normal article (for now, later on to the new amp)

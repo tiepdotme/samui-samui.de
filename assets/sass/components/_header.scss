@@ -3,12 +3,15 @@
     h1 {
       text-align: center;
 
-        a {
-            background: url("/header.jpg") center;
+                  background: url("/header.jpg") center;
             background-size: cover;
             background-clip:                text;
             -webkit-background-clip:        text;
                 -webkit-text-fill-color: transparent;
+            color: transparent;
+
+        a {
+
             color: transparent;
 
         }
