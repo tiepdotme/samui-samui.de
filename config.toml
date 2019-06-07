@@ -69,10 +69,12 @@ post = [ "HTML", "AMP" ]
   [privacy.instagram]
     disable = false
     simple = false
+    disableInlineCSS = true
   [privacy.twitter]
     disable = false
-    enableDNT = false
-    simple = false
+    enableDNT = true
+    simple = true
+    disableInlineCSS = true
   [privacy.vimeo]
     disable = false
     simple = false

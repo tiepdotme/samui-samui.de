@@ -24,7 +24,7 @@ jQuery(document).ready(function ($) {
     });
 
     // @todo check if we use this and disable
-    $('[data-toggle="tooltip"]').tooltip();
+    //$('[data-toggle="tooltip"]').tooltip();
 
     // @todo check if we use this and disable
     jQuery('.is-datediff').each(function(item, index){
