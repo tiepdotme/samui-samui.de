@@ -5,6 +5,7 @@
 
         a {
             background: url("/header.jpg") center;
+            background-size: cover;
             background-clip:                text;
             -webkit-background-clip:        text;
                 -webkit-text-fill-color: transparent;
@@ -20,6 +21,9 @@
         }
         @include media-breakpoint-up(lg) {
             font-size: 125px;
+        }
+        @include media-breakpoint-up(xl) {
+            font-size: 149px;
         }
 
         line-height:1;
