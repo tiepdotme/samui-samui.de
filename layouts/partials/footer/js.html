@@ -21,7 +21,6 @@ JS creation for samui-samui.de
 {{ $js10 := resources.Get "js/cookieconsent.min.js" }}
 {{ $js := slice $js0 $js1 $js2 $js3 $js4 $js5 $js6 $js7 $js8 $js9 $js10 | resources.Concat "script.js" | resources.Minify | resources.Fingerprint }}
 
-{{/*<script src="{{$js.RelPermalink}}" crossorigin="anonymous" async defer></script>*/}}
 <script src="{{$js.RelPermalink}}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous" async defer></script>
 
 {{ partial "structured-data/organisation" . }}
