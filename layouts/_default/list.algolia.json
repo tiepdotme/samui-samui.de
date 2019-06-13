@@ -13,7 +13,7 @@
     {{- .Scratch.SetInMap $hit.File.Path "publishdate" $hit.PublishDate -}}
     {{- .Scratch.SetInMap $hit.File.Path "summary" $hit.Summary -}}
     {{- .Scratch.SetInMap $hit.File.Path "title" $hit.Title -}}
-    {{- .Scratch.SetInMap $hit.File.Path "url" $hit.URL -}}   
+    {{- .Scratch.SetInMap $hit.File.Path "url" $hit.Permalink -}}   
     {{- $.Scratch.SetInMap "hits" $hit.File.Path (.Scratch.Get $hit.File.Path) -}}
   {{- end -}}
 {{- end -}}
