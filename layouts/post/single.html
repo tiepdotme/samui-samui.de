@@ -41,7 +41,8 @@ page layout
 		{{ .Content }}
 	</div>
 
-		
+	<h2>Share</h2>
+	{{ partial "tools/sharebuttons" . }}		
 
 	{{ $related := .Site.RegularPages.Related . | first 5 }}
 	{{ with $related }}
