@@ -20,6 +20,10 @@
   "scripts": {
     "algolia": "hugo --quiet && atomic-algolia && rm -rf public"
   },
+  "browserslist": [
+    "> 1%",
+    "last 2 version"
+  ],
   "dependencies": {
     "atomic-algolia": "^0.3.17",
     "autoprefixer": "^9.6.0",
