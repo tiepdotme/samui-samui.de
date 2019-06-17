@@ -12,7 +12,7 @@
   <body id="{{ .Site.Params.Siteslug }}">
     {{ partialCached "header/brand.html" . }}
     {{ partial "header/navigation.html" . }}
-    <div id="content" class="container">
+    <div id="content" class="container pt-3">
       <div id="contentcolumn" class="row">
         <div class="col-xl-8 col-md-9 col-sm-12">
           {{ block "main" . }}{{ end }}
