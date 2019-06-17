@@ -7,14 +7,16 @@
   {{- $dot := . -}}
   {{- if or (and ($hit.IsDescendant $section) (and (not $hit.Draft) (not $hit.Params.private))) $section.IsHome -}}
     {{/* Set the hit's objectID */}}
-    {{- .Scratch.SetInMap $hit.File.Path "objectID" $hit.File.UniqueID -}}
-    {{- .Scratch.SetInMap $hit.File.Path "date" ($hit.Date.Format "January 2, 2006") -}}
-    {{- .Scratch.SetInMap $hit.File.Path "description" $hit.Description -}}
-    {{- .Scratch.SetInMap $hit.File.Path "publishdate" $hit.PublishDate -}}
-    {{- .Scratch.SetInMap $hit.File.Path "summary" $hit.Summary -}}
-    {{- .Scratch.SetInMap $hit.File.Path "title" $hit.Title -}}
-    {{- .Scratch.SetInMap $hit.File.Path "url" $hit.Permalink -}}   
-    {{- $.Scratch.SetInMap "hits" $hit.File.Path (.Scratch.Get $hit.File.Path) -}}
+    {{ if $hit.File }}
+      {{- .Scratch.SetInMap $hit.File.Path "objectID" $hit.File.UniqueID -}}
+      {{- .Scratch.SetInMap $hit.File.Path "date" ($hit.Date.Format "January 2, 2006") -}}
+      {{- .Scratch.SetInMap $hit.File.Path "description" $hit.Description -}}
+      {{- .Scratch.SetInMap $hit.File.Path "publishdate" $hit.PublishDate -}}
+      {{- .Scratch.SetInMap $hit.File.Path "summary" $hit.Summary -}}
+      {{- .Scratch.SetInMap $hit.File.Path "title" $hit.Title -}}
+      {{- .Scratch.SetInMap $hit.File.Path "url" $hit.Permalink -}}   
+      {{- $.Scratch.SetInMap "hits" $hit.File.Path (.Scratch.Get $hit.File.Path) -}}
+    {{ end }}
   {{- end -}}
 {{- end -}}
 {{- jsonify ($.Scratch.GetSortedMapValues "hits") -}}
