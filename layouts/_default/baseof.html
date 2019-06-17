@@ -1,33 +1,29 @@
 <!doctype html>
 <html lang="{{ .Site.LanguageCode }}" class="no-js">
   <head>
-    {{ partial "head/pagemeta.html" . }}
-    {{ partial "head/metadata.html" . }}
-    {{ partial "head/open_graph.html" . }}
-    {{ partial "head/twitter.html" . }}
-    {{ partialCached "head/favicon.html" . }}   
-    {{ partialCached "head/css.html" . }}
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <base href="{{ .Site.BaseURL }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    <title>{{ block "title" . }}{{- with .Title }}{{ . }} | {{ end }}{{ .Site.Title -}}{{ end }}</title>
+    {{ partial "head" . }}
     {{ block "schema" . }}{{ end }}
   </head>
   <body id="{{ .Site.Params.Siteslug }}">
-    {{ partialCached "header/brand.html" . }}
-    {{ partial "header/navigation.html" . }}
+    {{ partialCached "header" . }}
     <div id="content" class="container pt-3">
       <div id="contentcolumn" class="row">
-        <div class="col-xl-8 col-md-9 col-sm-12">
+        <div id="maincolumn" class="col-xl-8 col-md-9 col-sm-12 col">
           {{ block "main" . }}{{ end }}
         </div>
-        <div class="col-xl-4 col-md-3 col-sm-12" id="sidebar">
+        {{ block "sidebar" . }}
+        <div id="sidebar" class="col-xl-4 col-md-3 col-sm-12 col">
           {{ partialCached "sidebar/widget-author.html" . }}
           {{ partialCached "sidebar/widget-socialmedia.html" . }}
           {{ partialCached "sidebar/widget-archive.html" . }}
         </div>
+        {{ end }}
       </div>
     </div>
-    {{ partial "footer/tagcloud.html" . }}  
-    {{ partialCached "footer/copyright.html" . }}
-    {{ partialCached "footer/finisher.html" . }}
-    {{ partialCached "footer/js.html" . }}
-    {{ template "_internal/google_analytics_async.html" . }}
+    {{ partial "footer" . }}  
   </body>
 </html>
