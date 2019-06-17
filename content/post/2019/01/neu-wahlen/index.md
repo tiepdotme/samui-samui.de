@@ -5,7 +5,7 @@ type: post
 url: /2019/01/neu-wahlen/
 tags:
 - politik
-- prayut
+- prayuth chan-ocha
 - wahlen 2019
 resources:
 - src: "royal-degree.png"
