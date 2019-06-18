@@ -18,7 +18,8 @@
     }
   },
   "scripts": {
-    "algolia": "hugo --quiet && atomic-algolia && rm -rf public"
+    "algolia": "hugo --quiet && atomic-algolia && rm -rf public",
+    "lighthouse": "lighthouse https://samui-samui.de --budget-path=budget.json --view"
   },
   "browserslist": [
     "> 1%",
