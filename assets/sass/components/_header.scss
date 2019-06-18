@@ -1,19 +1,18 @@
 #topheader {
 
     h1 {
-      text-align: center;
-
-                  background: url("/header.jpg") center;
-            background-size: cover;
-            background-clip:                text;
-            -webkit-background-clip:        text;
-                -webkit-text-fill-color: transparent;
-            color: transparent;
+        text-align: center;
+        background-image: url("/header.jpg");
+        background-position: left;
+        background-size: cover;
+        background-clip:                text;
+        -webkit-background-clip:        text;
+        -webkit-text-fill-color: transparent;
+        color: transparent;
+        line-height:1;
 
         a {
-
             color: transparent;
-
         }
 
         font-size: 23vw;
@@ -23,15 +22,16 @@
         }
         @include media-breakpoint-only(md) {
             font-size: 92px;
+            background-position: center;
         }
         @include media-breakpoint-up(lg) {
             font-size: 125px;
+            background-position: center;
         }
         @include media-breakpoint-up(xl) {
             font-size: 149px;
+            background-position:  center;
         }
-
-        line-height:1;
 
         .blogname {
             display:block;
@@ -45,7 +45,6 @@
             border-bottom: 1px solid theme-color("primary");
             color: theme-color("contentbg");
             font-family: 'pantonheavy';
-
             font-size: 4vw;
             padding: 4px 0;
 
@@ -68,5 +67,4 @@
 
         }
     }
-
 }
