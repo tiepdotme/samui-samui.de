@@ -1,6 +1,16 @@
-{{ with .Site.GetPage "page" "sitewide/authorfooter.md" }}
-  <div id="authorfooter" class="mb-5">
-    <h3>{{ .Title }}</h3>
-    {{ .Content }}
-  </div>
+{{ with .Site.GetPage "sitewide/authorfooter.md" }}
+<div class="card mb-3">
+	{{ with (.Resources.GetMatch "authorimage") }}
+		<figure class="authorimage img-fluid">
+			<img src="{{ .Permalink }}" style="width:100%;height:auto;" alt="{{ .Title }}" class="card-img-top">
+			<figcaption>{{ .Title }}</figcaption>
+		</figure>
+	{{ end }}
+	<div class="card-body">
+		<h3 class="card-title">{{ .Title }}</h3>
+		<div class="card-text">
+			{{ .Content }}
+		</div>
+	</div>
+</div>
 {{ end }}

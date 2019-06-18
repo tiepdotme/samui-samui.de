@@ -41,21 +41,14 @@ page layout
 		{{ .Content }}
 	</div>
 
-	<h2>Share</h2>
-	{{ partial "tools/sharebuttons" . }}		
+	{{ partial "pagination/single" . }}
+	{{ partial "tools/sharebuttons" . }}	
+	{{ partial "tools/related" . }}		
 
-	{{ $related := .Site.RegularPages.Related . | first 5 }}
-	{{ with $related }}
-	<div class="text">
-		<h2>Verwandte Eintr&auml;ge</h2>
-		<ul>
-			{{ range . }}
-				<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-			{{ end }}
-		</ul>
+	<div class="mb-3">
+		<h3>Kommentieren</h3>
+		{{ template "_internal/disqus.html" . }}
 	</div>
-	{{ end }}
-
-	{{ template "_internal/disqus.html" . }}
+	
 </article>
 {{ end }}
