@@ -1,17 +1,19 @@
-<div id="widget-archive" class="mb-5">
-	<h3>Archiv</h3>
-	<ul class="fa-ul">
-		{{ range (where .Site.Pages "Section" "post").GroupByDate "2006" "desc" }}
-			{{ range first 1 .Pages }}
-				<li>
-					<span class="fa-li">
-						<i class="far fa-calendar fa-fw"></i>
-					</span>
-					<a href="/archiv/{{ .Date.Format "2006" }}">
-						{{ .Date.Format "2006" }}
-					</a>
-				</li>
+<div class="card mb-5" id="widget_archive">
+	<h3 class="card-header">
+		Archiv
+	</h3>
+	<div class="card-body">
+		<ul class="card-text list-inline fa-ul">
+			{{ range (where .Site.Pages "Section" "post").GroupByDate "2006" "desc" }}
+				{{ range first 1 .Pages }}
+					<li class="list-inline-item">
+						<span class="fa-li"><i class="far fa-calendar fa-fw"></i></span>
+						<a href="/archiv/{{ .Date.Format "2006" }}">
+							{{ .Date.Format "2006" }}
+						</a>
+					</li>
+				{{ end }}
 			{{ end }}
-		{{ end }}
-	</ul>
+		</ul>
+	</div>
 </div>

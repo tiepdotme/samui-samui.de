@@ -27,15 +27,12 @@ h1 {
     h3 {
         font-size:1.65em;
     }
-
-    #widget-archive ul {
-        margin-left: 1.5em;
+    ul.fa-ul {
         li {
-            width:25%;
-            float:left;
-            margin-right:2em;
+            margin-right:2rem;
         }
     }
+
 }
 
 blockquote {
