@@ -1,14 +1,9 @@
 ---
-title: "Patrick Kollitsch"
+title: "Der Autor"
 headless: true
-resources :
-- src: "/assets/images/patrick.kollitsch.jpg"
-  name: "authorimage"
-  title: "Der Autor in seiner nat&uuml;rlichen Umgebung"
-
+image: "/assets/images/patrick.kollitsch.jpg"
+imagetitle: "Der Autor in seiner nat&uuml;rlichen Umgebung"
 ---
-
-
 
 <span class="fn n"><a class="url" href="http://kollitsch.de/"><span class="given-name">Patrick</span> <span class="family-name">Kollitsch</span></a></span> (Dipl. Ing. (FH) <i class="far fa-hat-wizard"></i>) hat die ersten <span class="is-datediff" data-from="1975-07-05"></span>&nbsp;Tage seines Lebens hinter sich und die letzten <span class="is-datediff" data-from="2005-01-08"></span>&nbsp;Tage davon in <span class="adr country-name">Thailand</span> auf Koh Samui, einer kleinen aber ausreichend großen Insel im Golf von Thailand, zu-, ge-, &uuml;ber-, be- und verbracht.
 

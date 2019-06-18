@@ -1,11 +1,6 @@
 {{ with .Site.GetPage "sitewide/authorfooter.md" }}
 <div class="card mb-3">
-	{{ with (.Resources.GetMatch "authorimage") }}
-		<figure class="authorimage img-fluid">
-			<img src="{{ .Permalink }}" style="width:100%;height:auto;" alt="{{ .Title }}" class="card-img-top">
-			<figcaption>{{ .Title }}</figcaption>
-		</figure>
-	{{ end }}
+	<img src="{{ .Params.Image }}" style="width:100%;height:auto;" alt="{{ htmlUnescape .Params.Imagetitle }}" class="card-img-top">
 	<div class="card-body">
 		<h3 class="card-title">{{ .Title }}</h3>
 		<div class="card-text">
