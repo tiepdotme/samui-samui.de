@@ -12,6 +12,6 @@ const imageminPngquant = require('imagemin-pngquant');
 		]
 	});
 
-	console.log(files);
+	//console.log(files);
 	//=> [{data: <Buffer 89 50 4e …>, path: 'build/images/foo.jpg'}, …]
 })();
