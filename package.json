@@ -32,6 +32,8 @@
     "cookieconsent": "^3.1.1",
     "cz-conventional-changelog": "^2.1.0",
     "cz-customizable": "^6.2.0",
+    "imagemin-cli": "^4.0.1",
+    "imagemin-pngquant": "^8.0.0",
     "instantsearch.js": "^3.5.3",
     "jquery": "^3.4.1",
     "popper.js": "^1.15.0",
