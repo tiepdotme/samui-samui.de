@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/home/patrick/Projects/Me/staticman"
 		}
 	]
 }
