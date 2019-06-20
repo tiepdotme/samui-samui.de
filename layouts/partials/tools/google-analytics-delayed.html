@@ -9,14 +9,12 @@ function loadGoogleAnalyticsAsync(){
     document.body.appendChild(script);
 }
 {{ template "__ga_js_set_doNotTrack" $ }}
-if (!doNotTrack) {
-	
+if (!doNotTrack) {	
 	document.addEventListener('readystatechange', event => {
 	    if (event.target.readyState === "complete") {
 	        setTimeout("loadGoogleAnalyticsAsync()", 3000);
 	    }
 	});
-
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 	{{- if $pc.UseSessionStorage }}
 	if (window.sessionStorage) {
