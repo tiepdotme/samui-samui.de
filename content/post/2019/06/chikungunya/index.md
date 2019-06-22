@@ -4,9 +4,7 @@ description: "Hier in S&uuml;dthailand grasiert zur Zeit eine Krankheit namens \
 author: Patrick Kollitsch
 type: post
 date: 2019-06-10T20:04:48+07:00
-tags:
-- gesundheit
-- tierwelt
+tags: [gesundheit, tierwelt]
 ---
 
 {{< img src="chikungunya" >}}Moskito, aber nicht der mit Chikungunya, denn der hat Zebrastreifen (<a href="https://unsplash.com/photos/sZIjgg4Peu0">Photo von Егор Камелев</a>){{< /img >}}

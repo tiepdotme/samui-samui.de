@@ -5,8 +5,7 @@ author: Patrick Kollitsch
 type: post
 date: 2019-06-20T21:31:48+07:00
 url: /2019/06/shut-up
-tags:
-- samuisamui
+tags: [samuisamui]
 ---
 
 {{< img src="gelaber" >}}V&ouml;gel sind diskussionsfreudiger als ihr (<a href="https://unsplash.com/photos/4AmyOdXZAQc">Photo von Wynand van Poortvliet</a>){{< /img >}}

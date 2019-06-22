@@ -3,9 +3,7 @@ title: "Interview mit Thanathorn"
 date: 2019-06-07T21:31:48+07:00
 type: post
 url: /2019/06/interview-mit-thanathorn-juangroongruangkit
-tags:
-- thanathorn juangroongruangkit
-- politik
+tags: [thanathorn juangroongruangkit, politik]
 ---
 
 {{< img src="thanathorn-juangroongruangkit" >}}Thanathorn Juangroongruangkit (via <a href="https://www.facebook.com/ThanathornOfficial/photos/fpp.382592748811072/573993423004336/?type=3&theater">Facebook</a>){{< /img >}}
