@@ -3,17 +3,14 @@
 		Archiv
 	</h3>
 	<div class="card-body">
-		<ul class="card-text list-inline fa-ul">
+		<div class="card-text grid-container">
 			{{ range (where .Site.Pages "Section" "post").GroupByDate "2006" "desc" }}
 				{{ range first 1 .Pages }}
-					<li class="list-inline-item">
-						<span class="fa-li"><i class="far fa-calendar-alt fa-fw"></i></span>
 						<a href="/archiv/{{ .Date.Format "2006" }}">
 							{{ .Date.Format "2006" }}
 						</a>
-					</li>
 				{{ end }}
 			{{ end }}
-		</ul>
+		</div>
 	</div>
 </div>
