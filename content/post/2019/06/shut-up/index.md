@@ -8,7 +8,7 @@ url: /2019/06/shut-up
 tags: [samuisamui]
 ---
 
-{{< img src="gelaber" >}}V&ouml;gel sind diskussionsfreudiger als ihr (<a href="https://unsplash.com/photos/4AmyOdXZAQc">Photo von Wynand van Poortvliet</a>){{< /img >}}
+{{< img src="gelaber.jpg" >}}V&ouml;gel sind diskussionsfreudiger als ihr (<a href="https://unsplash.com/photos/4AmyOdXZAQc">Photo von Wynand van Poortvliet</a>){{< /img >}}
 
 Aus eigener Sache: Ich habe die Kommentare hier auf Samui? Samui! abgeschafft. Gr&uuml;nde daf&uuml;r gibt es genug:
 
