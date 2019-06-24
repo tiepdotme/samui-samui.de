@@ -3,11 +3,9 @@ const imageminJpegtran = require('imagemin-jpegtran');
 const imageminPngquant = require('imagemin-pngquant');
 
 (async () => {
-	const files = await imagemin(['public/**/*.{jpg,png}'], 'public/', {
+	const files = await imagemin(['public/**/*.{jpg,jpeg,png}'], 'public/', {
 		plugins: [
-			imageminJpegtran(
-				progressive: true
-			),
+			imageminJpegtran(),
 			imageminPngquant({
 				quality: [0.6, 0.8]
 			})
