@@ -11,7 +11,8 @@ JS creation for samui-samui.de
 {{ $js0 := resources.Get "js/libs/jquery.js" }}
 {{ $js1 := resources.Get "js/libs/popper.js" }}
 {{ $js2 := resources.Get "js/libs/bootstrap.js" }}
-{{ $js3 := resources.Get "js/libs/moment.js" }}
+{{ $js31 := resources.Get "js/libs/de.js" }}
+{{ $js32 := resources.Get "js/libs/moment.js" }}
 {{ $js4 := resources.Get "js/libs/instantsearch.js" }}
 {{ $js5 := resources.Get "js/youtube-embedder.js" }}
 {{ $js6 := resources.Get "js/soundcloud.js" }}
@@ -19,7 +20,7 @@ JS creation for samui-samui.de
 {{ $js8 := resources.Get "js/search.js" }}
 {{ $js9 := resources.Get "js/script.js" }}
 {{ $js10 := resources.Get "js/cookieconsent.min.js" }}
-{{ $js := slice $js0 $js1 $js2 $js3 $js4 $js5 $js6 $js7 $js8 $js9 $js10 | resources.Concat "script.js" | resources.Minify | resources.Fingerprint }}
+{{ $js := slice $js0 $js1 $js2 $js31 $js32 $js4 $js5 $js6 $js7 $js8 $js9 $js10 | resources.Concat "script.js" | resources.Minify | resources.Fingerprint }}
 
 <script src="{{$js.RelPermalink}}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous" async defer></script>
 

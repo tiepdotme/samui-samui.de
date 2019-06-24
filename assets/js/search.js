@@ -12,9 +12,9 @@ jQuery(document).ready(function ($) {
     			/**
     			 * do not render a search on page load
     			 */
-    			if (helper.state.query === '') {
-    				return;
-    			}
+    			// if (helper.state.query === '') {
+    			// 	return;
+    			// }
     			helper.search();
     		}
     	});
@@ -59,6 +59,7 @@ jQuery(document).ready(function ($) {
     			render: function(){
     				jQuery('.timestamp').each(function(){
     					var $this = jQuery(this);
+                        moment.locale('de');
     					var day = moment.unix($this.text);
     					$this.text = "Am " + day.format("dddd, MMMM Do YYYY, h:mm:ss a");
     				});
