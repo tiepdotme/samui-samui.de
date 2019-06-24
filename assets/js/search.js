@@ -1,4 +1,3 @@
-
 jQuery(document).ready(function ($) {
 
 	if ($('#search-box').length){
@@ -74,11 +73,11 @@ jQuery(document).ready(function ($) {
     		instantsearch.widgets.analytics({
     			pushFunction: function(formattedParameters, state, results) {
     				// Google Analytics
-    				// window.ga('set', 'page', '/search/query/?query=' + state.query + '&' + formattedParameters + '&numberOfHits=' + results.nbHits);
-    				// window.ga('send', 'pageView');
+    				window.ga('set', 'page', '/suche/?query=' + state.query + '&' + formattedParameters + '&numberOfHits=' + results.nbHits);
+    				window.ga('send', 'pageView');
 
     				// GTM
-    				dataLayer.push({'event': 'search', 'query': state.query, 'parameters': formattedParameters, 'hits': results.nbHits});
+    				//dataLayer.push({'event': 'search', 'query': state.query, 'parameters': formattedParameters, 'hits': results.nbHits});
     			}
     		})
     	);
@@ -106,7 +105,6 @@ jQuery(document).ready(function ($) {
     			}
     		})
     	);
-
 
     	/**
     	 * @see https://community.algolia.com/instantsearch.js/v2/widgets/hits.html
