@@ -32,6 +32,7 @@
 <figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
 	{{ with .Get "link"}}<a href="{{.}}">{{ end }}
 	<img 
+	  width="730"
 	  {{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 35em) 720px, 100vw"{{ end }}
 	  srcset='
 	  {{ if ge $src.Width "510" }}
