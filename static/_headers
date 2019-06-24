@@ -8,6 +8,9 @@
 /style*.css
   Expires: Tue, 31-Dec-2019 23:59:59 GMT+0700
 
+/header-*.jpg
+  Expires: Tue, 31-Dec-2019 23:59:59 GMT+0700
+
 /assets/*
   Cache-Control: public, max-age=31536000
 
