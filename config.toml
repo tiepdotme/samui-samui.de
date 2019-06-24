@@ -1,3 +1,8 @@
+
+# workaround for time out error on netlify
+# "Error building site: $FILENAME: timed out initializing value. This is most likely a circular loop in a shortcode"
+timeout = "30000"
+
 # site setup
 baseURL = "https://samui-samui.de/" # hostname & path to the root
 defaultContentLanguage = "de"
