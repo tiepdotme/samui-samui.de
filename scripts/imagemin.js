@@ -6,9 +6,14 @@ const imageminMozjpeg = require('imagemin-mozjpeg');
 (async () => {
 	const files = await imagemin(['public/**/*.{jpg,jpeg,png}'], 'public/', {
 		plugins: [
-			imageminJpegtran(),
+			imageminJpegtran({
+				progressive: true,
+				arithmetic: true
+			}),
 			imageminMozjpeg({
-				quality: 75
+				quality: 75,
+				progressive: true,
+				arithmetic: true
 			}),
 			imageminPngquant({
 				quality: [0.6, 0.8],
@@ -17,5 +22,4 @@ const imageminMozjpeg = require('imagemin-mozjpeg');
 			})
 		]
 	});
-	//=> [{data: <Buffer 89 50 4e …>, path: 'build/images/foo.jpg'}, …]
 })();
