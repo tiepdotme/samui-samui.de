@@ -22,6 +22,14 @@
 
 .progress {
     .progress-bar {
-        background: linear-gradient(90deg, rgba(208,75,54,1) 0%, rgba(227,101,17,1) 20%, rgba(255,186,0,1) 40%, rgba(0,177,128,1) 60%, rgba(20,122,171,1) 80%, rgba(103,89,151,1) 100%);
+        background: linear-gradient(
+            90deg, 
+            rgba(208,75,54,1) 0%, 
+            rgba(227,101,17,1) 20%, 
+            rgba(255,186,0,1) 40%, 
+            rgba(0,177,128,1) 60%, 
+            rgba(20,122,171,1) 80%, 
+            rgba(103,89,151,1) 100%
+        );
     }
 }
