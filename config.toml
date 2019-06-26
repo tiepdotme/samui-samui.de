@@ -197,10 +197,17 @@ sitecolor = "#d02d19"
 profileid = "517050641"    # patrick.kollitsch
 pageid = "6967849771"      # samuisamui
 appid = "2047624572136513" # samui-samui.de
+profileslug = "patrick.kollitsch"
 
 [params.social.twitter]
 profileid = "davidsneighbour"
 siteid = "samui2"
+
+[params.social.snapchat]
+profileid = "pkollitsch"
+
+[params.social.whatsapp]
+profileid = "66878979350"
 
 # search setup
 [params.algolia]
