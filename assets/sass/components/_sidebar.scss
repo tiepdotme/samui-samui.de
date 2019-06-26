@@ -15,4 +15,22 @@
         text-align:center;
         line-height:3;
     }
+
+    #widget-socialmedia {
+        .facebook {
+            color: #3b5998;
+        }
+        .messenger {
+            color: #0084ff;
+        }
+        .twitter {
+            color: #1da1f2;
+        }
+        .whatsapp {
+            color: #25d366;
+        }
+        .snapchat {
+            color: #fffc00;
+        }
+    }
 }

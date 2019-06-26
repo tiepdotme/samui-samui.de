@@ -4,9 +4,9 @@ span.icon {
         vertical-align: top;
         width: 15px;
         height: 15px;
-    }
-    &.light svg path{
-        fill: currentcolor;
+        path {
+            fill: currentcolor;
+        }
     }
     &.larger svg {
         width: 20px;
