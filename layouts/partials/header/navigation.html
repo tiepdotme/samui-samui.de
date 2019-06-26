@@ -22,7 +22,7 @@
             <a href="{{.URL}}"{{if eq .Name "44" }} target="_blank"{{ end }}{{if eq .Name "DNB" }} target="_blank"{{ end }} class="nav-link">
               <span class="icon larger light" aria-hidden="true">
                 {{ partialCached (print .Pre) .}} 
-              </span>
+              </span>&nbsp;
               {{ .Name }}
             </a>
           </li>
