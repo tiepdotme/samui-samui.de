@@ -32,7 +32,7 @@ rssLimit = 10
 
 footnoteReturnLinkContents = "^"
 
-#theme = ["hugo-debugprint"]
+theme = ["hugo-debugprint"]
 
 # see http://gohugo.io/templates/output-formats/
 [outputs]
@@ -105,28 +105,28 @@ name = "Startseite"
 weight = 1
 identifier = "posts"
 url = "/"
-pre = "home"
+pre = "icons/home.svg"
 
 [[menu.main]]
 name = "Archiv"
 weight = 100
 identifier = "archiv"
 url = "/archiv/"
-pre = "archive"
+pre = "icons/archive.svg"
 
 [[menu.main]]
 name = "Suchen"
 weight = 200
 identifier = "search"
 url = "/suche/"
-pre = "search"
+pre = "icons/search.svg"
 
 [[menu.main]]
 name = "44"
 weight = 250
 identifier = "fourtyfour"
 url = "https://fourtyfour.space"
-pre = "horse"
+pre = "icons/horse.svg"
 target = "_blank"
 
 [[menu.main]]
@@ -134,7 +134,7 @@ name = "DNB"
 weight = 250
 identifier = "dnb"
 url = "https://davids-neighbour.com"
-pre = "user-tie"
+pre = "icons/user-tie.svg"
 target = "_blank"
 
 [[menu.main]]
@@ -142,7 +142,7 @@ name = "Kontakt"
 weight = 300
 identifier = "kontakt"
 url = "/kontakt/"
-pre = "envelope"
+pre = "icons/envelope.svg"
 
 [related]
   threshold = 80 # Only include matches with rank >= threshold. 0 and 100.
