@@ -1,36 +1,55 @@
 #############################################################
 # Site setup
+# see https://gohugo.io/getting-started/configuration/
 #############################################################
 
 baseURL = "https://samui-samui.de/"       # hostname & path to the root
 defaultContentLanguage = "de"
-disqusShortname = "samui-samui-de"
-summaryLength = 70                        # the length of text to show in a .Summary
-title = "Samui? Samui!"
-copyright = "All rights reserved. Copyright samui-samui.de"
-languageCode = "de-DE"
-enableEmoji=false                         # we hate emojis
+disableHugoGeneratorInject = true         # we do that proudly on each page in the footer. visible.
+enableEmoji = true                        # see https://www.webfx.com/tools/emoji-cheat-sheet/
 enableGitInfo = true                      # Enable GitInfo feature
 enableRobotsTXT = true                    # Build robots.txt file
-disableHugoGeneratorInject = true         # Do not inject generator meta tag on homepage
+footnoteAnchorPrefix = "#"
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-17376057-1"
+languageCode = "de-DE"
+languageName = "Deutsch"
+logFile = "hugo.log"
 paginate = 5                              # default 5 items per page
 paginatePath = "seite"
-googleAnalytics = "UA-17376057-1"
+relativeURLs = true                       # makes all relative urls absolute to root... yeah, don't ask. we won't tell...
 rssLimit = 10
-footnoteReturnLinkContents = "^"
+summaryLength = 150                       # the length of text to show in a .Summary
 theme = ["hugo-debugprint"]
+title = "Samui? Samui!"
+verbose = true
+verboseLog = true
 
-#############################################################
+##################################################################################
 # Bugfixes and Troubleshooting
-#############################################################
+##################################################################################
 
 # workaround for time out error on netlify
 # "Error building site: $FILENAME: timed out initializing value. This is most likely a circular loop in a shortcode"
 timeout = "30000"
 
-#############################################################
+##################################################################################
+# Blackfriday configuration
+# see https://gohugo.io/getting-started/configuration/#blackfriday-options
+##################################################################################
+
+[blackfriday]
+nofollowLinks = true
+noreferrerLinks = true
+plainIDAnchors = true
+extensions = [
+  "laxHtmlBlocks", # laxer block handling... let's see what this does?
+  "hardLineBreak", # newlines result in line breaks
+]
+
+##################################################################################
 # Output formats and structure
-#############################################################
+##################################################################################
 
 # see http://gohugo.io/templates/output-formats/
 [outputs]
@@ -38,6 +57,7 @@ home = [ "HTML", "RSS", "Algolia", "AMP" ]
 page = [ "HTML", "AMP" ]
 post = [ "HTML", "AMP" ]
 
+[outputFormats]
 [outputFormats.Algolia]
   baseName = "algolia"
   isPlainText = true
@@ -57,9 +77,9 @@ post = [ "HTML", "AMP" ]
 #############################################################
 
 [sitemap]
-  filename = "sitemap.xml"
   changefreq = "weekly"
-  priority = 1
+  filename = "sitemap.xml"
+  priority = 0.8
 
 #############################################################
 # Author
@@ -106,7 +126,7 @@ post = [ "HTML", "AMP" ]
 # a simple and fast averaging filter appropriate for downscaling.
 # See https://github.com/disintegration/imaging
 resampleFilter = "lanczos"
-# Defatult JPEG quality setting. Default is 75.
+# Default JPEG quality setting. Default is 75.
 quality = 95
 # Anchor used when cropping pictures.
 # Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
@@ -168,6 +188,7 @@ twitterName =  ""
 # content particles
 siteslug = "samui-samui-de"
 description = "Notizen über mein Leben als Auswanderer auf Koh Samui, Thailand"
+copyright = "All rights reserved. Copyright samui-samui.de"
 
 # design elements
 sitecolor = "#d02d19"

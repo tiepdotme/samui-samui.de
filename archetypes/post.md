@@ -7,13 +7,13 @@ date: {{ .Date }}
 lastmod: {{ .Date }}
 url:
 aliases:
-- url
+    - url
 tags:
-- tag1
-- tag2
+    - tag1
+    - tag2
 linktitle: "use for linking to this post"
 resources:
-- src: "file"
-  name: "name"
-  title: "title"
+    - src: "file"
+      name: "name"
+      title: "title"
 ---
