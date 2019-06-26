@@ -1,3 +1,6 @@
+# 404 page
+/* /404.html 404
+
 # https://www.netlify.com/docs/redirects/
 https://eloquent-morse-196fd2.netlify.com/* https://samui-samui.de/:splat 301!
 
