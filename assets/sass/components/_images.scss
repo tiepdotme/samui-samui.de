@@ -2,11 +2,10 @@
     figure {
 	    img {
     		@extend .img-fluid;
-	        // border: 1px solid  theme-color("primary");
-	        // border-radius: $border-radius-lg;
 	    }
 		figcaption {
-			font-style: italic;
+			font-family: Panton;
+            font-style: italic;
 		}
 	}
 }

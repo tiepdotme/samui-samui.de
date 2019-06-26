@@ -16,6 +16,9 @@
         color: transparent;
         line-height:1;
 
+        font-family: Panton;
+        font-weight: 900;
+
         a {
             color: transparent;
         }
@@ -45,7 +48,6 @@
             border-top: 1px solid theme-color("primary");
             border-bottom: 1px solid theme-color("primary");
             color: theme-color("contentbg");
-            font-family: 'pantonheavy';
             font-size: 4vw;
             padding: 4px 0;
 
