@@ -17,6 +17,14 @@
             Auf <a href="http://gohugo.io">Hugo {{ hugo.Version }}</a> geschmiedet.
           </p>
         </div>
+        {{ if .Site.IsServer }}
+        {{ partial "debugprint.html" . }}
+        {{ partial "debugprint.html" .Params }}
+        {{ partial "debugprint.html" site }}
+        {{ partial "debugprint.html" site.Menus }}
+        {{ partial "debugprint.html" .Resources }}
+        {{ partial "debugprint.html" .File }}
+        {{ end }}
       </div>
     </div>
   </div>
