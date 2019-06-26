@@ -1,0 +1,19 @@
+span.icon {
+    svg {
+        line-height: 1;
+        vertical-align: top;
+        width: 15px;
+        height: 15px;
+    }
+    &.light svg path{
+        fill: currentcolor;
+    }
+    &.larger svg {
+        width: 20px;
+        height: 20px;
+    }
+    &.large svg {
+        width: 36px;
+        height: 36px;
+    }
+}

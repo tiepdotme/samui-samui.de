@@ -18,7 +18,7 @@ Die Emails aus diesem Kontaktformular landen direkt in meiner Mailbox. Im Prinzi
 
 Schroffe oder beleidigende Nachrichten werden wohlwollend unbeantwortet gelassen und zur späteren kommentierenden bloß-stellenden Publikation gesammelt.
 
-Wenn du mir Dateien schicken willst, [nutze dieses <i class="fab fa-dropbox"></i> Dropbox-Formular][2].
+Wenn du mir Dateien schicken willst, [nutze dieses Dropbox-Formular][2].
 
 {{< contact-form >}}
 

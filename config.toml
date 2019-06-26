@@ -105,28 +105,28 @@ name = "Startseite"
 weight = 1
 identifier = "posts"
 url = "/"
-pre = "<i class='fas fa-home fa-fw'></i>"
+pre = "home"
 
 [[menu.main]]
 name = "Archiv"
 weight = 100
 identifier = "archiv"
 url = "/archiv/"
-pre = "<i class='fas fa-archive fa-fw'></i>"
+pre = "archive"
 
 [[menu.main]]
 name = "Suchen"
 weight = 200
 identifier = "search"
 url = "/suche/"
-pre = "<i class='fas fa-search fa-fw'></i>"
+pre = "search"
 
 [[menu.main]]
 name = "44"
 weight = 250
 identifier = "fourtyfour"
 url = "https://fourtyfour.space"
-pre = "<i class='fas fa-unicorn fa-fw'></i>"
+pre = "horse"
 target = "_blank"
 
 [[menu.main]]
@@ -134,7 +134,7 @@ name = "DNB"
 weight = 250
 identifier = "dnb"
 url = "https://davids-neighbour.com"
-pre = "<i class='fas fa-user-tie fa-fw'></i>"
+pre = "user-tie"
 target = "_blank"
 
 [[menu.main]]
@@ -142,7 +142,7 @@ name = "Kontakt"
 weight = 300
 identifier = "kontakt"
 url = "/kontakt/"
-pre = "<i class='fas fa-envelope fa-fw'></i>"
+pre = "envelope"
 
 [related]
   threshold = 80 # Only include matches with rank >= threshold. 0 and 100.

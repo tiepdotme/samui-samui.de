@@ -1,9 +1,3 @@
-// Fontawesome
-@import "plugins/fontawesome/fontawesome.scss";
-@import "plugins/fontawesome/regular.scss";
-@import "plugins/fontawesome/solid.scss";
-@import "plugins/fontawesome/brands.scss";
-
 // Bootstrap initialization
 @import "bootstrap/scss/functions";
 @import "bootstrap/scss/mixins";
@@ -74,6 +68,7 @@
 @import "components/footer";
 @import "components/footnotes";
 @import "components/header";
+@import "components/icons";
 @import "components/images";
 @import "components/pagination";
 @import "components/sidebar";

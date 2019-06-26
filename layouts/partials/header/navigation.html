@@ -1,3 +1,5 @@
+{{/* https://gohugo.io/variables/menus/ */}}
+
 <div id="topnavigation" class="container">
   <nav class="navbar navbar-dark bg-dark navbar-expand-md">
     <button class="navbar-toggler" type="button"
@@ -9,11 +11,33 @@
     <div class="collapse navbar-collapse" id="topbarMainNavigation">
       <ul id="menu-topnavigation" class="nav navbar-nav mr-auto">
         {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-          <li class="nav-item {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
-            <a href="{{.URL}}"{{if eq .Name "44" }} target ="_blank"{{ end }}{{if eq .Name "DNB" }} target ="_blank"{{ end }} class="nav-link">{{ .Pre }}&nbsp;{{ .Name }}</a>
-          </li>
+{{ range .Site.Menus.main }}
+  <li class="nav-item {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+    <a href="{{.URL}}"{{if eq .Name "44" }} target ="_blank"{{ end }}{{if eq .Name "DNB" }} target ="_blank"{{ end }} class="nav-link">
+      <span class="icon larger light" aria-hidden="true">
+        {{ if eq .Pre "home" }}
+          {{ partial "icons/home.svg" .}} 
         {{ end }}
+        {{ if eq .Pre "archive" }}
+          {{ partial "icons/archive.svg" . }}
+        {{ end }}
+        {{ if eq .Pre "search" }}
+          {{ partial "icons/search.svg" . }}
+        {{ end }}
+        {{ if eq .Pre "horse" }}
+          {{ partial "icons/horse.svg" . }}
+        {{ end }}
+        {{ if eq .Pre "user-tie" }}
+          {{ partial "icons/user-tie.svg" . }}
+        {{ end }}
+        {{ if eq .Pre "envelope" }}
+          {{ partial "icons/envelope.svg" . }}
+        {{ end }}
+      </span>
+      {{ .Name }}
+    </a>
+  </li>
+{{ end }}
       </ul>
     </div>
   </nav>
