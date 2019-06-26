@@ -4,12 +4,13 @@
       <div class="col-12">
 		    <div class="textwidget text-center mt-5 mb-5">
           <ul class="list-inline mb-0">
-            <li class="list-inline-item">
-              <a href="/kontakt/">Kontakt</a>
-            </li>
-            <li class="list-inline-item">
-              <a href="/datenschutzerklaerung/">Datenschutzerkl&auml;rung</a>            
-            </li>
+            {{ range .Site.Menus.footer }}
+              <li class="list-inline-item">
+                <a href="{{.URL}}">
+                  {{ .Name }}
+                </a>
+              </li>
+            {{ end }}
           </ul>
           <p>
             <span class="copy">&copy; 2004-{{ now.Format "2006" }}</span>
@@ -18,12 +19,12 @@
           </p>
         </div>
         {{ if .Site.IsServer }}
-        {{ partial "debugprint.html" . }}
-        {{ partial "debugprint.html" .Params }}
-        {{ partial "debugprint.html" site }}
-        {{ partial "debugprint.html" site.Menus }}
-        {{ partial "debugprint.html" .Resources }}
-        {{ partial "debugprint.html" .File }}
+          {{ partial "debugprint.html" . }}
+          {{ partial "debugprint.html" .Params }}
+          {{ partial "debugprint.html" site }}
+          {{ partial "debugprint.html" site.Menus }}
+          {{ partial "debugprint.html" .Resources }}
+          {{ partial "debugprint.html" .File }}
         {{ end }}
       </div>
     </div>

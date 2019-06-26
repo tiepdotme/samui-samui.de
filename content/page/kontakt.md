@@ -6,6 +6,16 @@ date: 2012-06-17T11:17:07+00:00
 layout: kontakt
 url: /kontakt
 hideMeta: true
+menu:
+  main:
+    name: Kontakt
+    weight: 300
+    identifier: kontakt
+    pre: icons/envelope.svg
+  footer:
+    name: Kontakt
+    weight: 100
+    identifier: kontakt
 ---
 
 ### Impressum und Datenschutzerkl&auml;rung
