@@ -1,0 +1,22 @@
+{{ with .Params.hideMeta }}
+{{ else }}
+  <footer>
+    <div class="meta">
+      <div class="row">
+        <div class="col">
+          <span class="icon" aria-hidden="true">
+              {{ partialCached "icons/pencil-alt.svg" . }}
+            </span>
+          Von&nbsp;
+          <address class="vcard author post-author">
+            <span class="fn"> 
+              <a href="{{ .Site.Author.homepage }}" rel="author external">
+                {{ .Site.Author.name }}
+              </a>
+            </span>
+          </address>
+        </div>
+      </div>
+    </div>
+  </footer>
+{{ end }}

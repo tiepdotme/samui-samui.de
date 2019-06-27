@@ -1,8 +1,8 @@
 {{ define "title"}}Notizen tagged mit {{ .Page.Title }}{{ end }}
 
 {{ define "main" }}
+  {{ print "<!-- _default/taxonomy.html -->" | safeHTML }}
 
-<!-- template _default/taxonomy.html //-->
   <h2 class="slabbing">Notizen tagged mit <em>{{ .Page.Title }}</em></h2>
 
   {{ range .Paginator.Pages }}
