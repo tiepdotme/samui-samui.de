@@ -1,13 +1,14 @@
-{{ if ne (getenv "HUGO_ENV") "production" }}
+{{ if .Site.IsServer }}
 <footer id="debugging">
   <div class="container">
     <div class="row">
       <div class="col-12">
-        {{ partial "tools/debugprint.html" .Params }}
-        {{ partial "tools/debugprint.html" .Site }}
-        {{/* {{ partial "tools/debugprint.html" .GitInfo }} */}}
-        {{ partial "tools/debugprint.html" .Resources }}
-        {{ partial "tools/debugprint.html" .File }}
+          {{ partial "debugprint.html" . }}
+          {{ partial "debugprint.html" .Params }}
+          {{ partial "debugprint.html" site }}
+          {{ partial "debugprint.html" site.Menus }}
+          {{ partial "debugprint.html" .Resources }}
+          {{ partial "debugprint.html" .File }}
       </div>
     </div>
   </div>
