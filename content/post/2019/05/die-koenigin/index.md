@@ -4,8 +4,9 @@ date: 2019-05-17T23:25:48+07:00
 type: post
 url: /2019/05/die-koenigin
 tags:
-- koenigin suthida
 - royal family
+leute:
+- koenigin suthida
 resources:
 - src: "A001.jpg"
   name: "Queen Suthida"

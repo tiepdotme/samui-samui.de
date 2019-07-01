@@ -7,6 +7,8 @@ tags:
 - senat
 - politik
 - regierung
+leute:
+- prayuth chan-ocha
 
 ---
 

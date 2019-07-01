@@ -6,6 +6,7 @@ url: /2019/02/corruption-perceptions-index
 tags:
 - korruption
 - listen
+leute:
 - prawit wongsuwan
 resources:
 - src: "corruption-perceptions-index.jpg"

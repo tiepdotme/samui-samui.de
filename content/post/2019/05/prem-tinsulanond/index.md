@@ -4,10 +4,11 @@ date: 2019-05-31T00:06:48+07:00
 type: post
 url: /2019/05/prem-tinsulanonda
 tags:
+- politik
+leute:
 - prem tinsulanonda
 - prayuth chan-ocha
 - surayud chulanont
-- politik
 
 ---
 
