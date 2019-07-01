@@ -62,37 +62,10 @@ page layout
   {{ print "<!-- _default/single.html -->" | safeHTML }}
 <article >
 	<header class="title">
-        <h2 class="entry-title">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </h2>
-        {{ with .Params.hideMeta }}
-        {{ else }}
-		<div class="meta">
-		  <div class="row">
-		    <div class="col-md-9 is--taglist">
-		      {{ with .Params.tags }}
-                <span class="icon" aria-hidden="true">
-                  {{ partialCached "icons/tags.svg" . }}
-                </span>
-		        {{ range $i, $e := . }}
-		          {{ if $i }}/{{ end }}
-		          <a href="{{ "tags/" | absURL }}{{ $e | urlize }}" rel="tag">{{ $e }}</a>
-		        {{ end }}
-		      {{ end }}
-		    </div>
-		    <span class="col-md-3 text-sm-left text-xs-left text-md-right">
-		      <time class="post-date updated" datetime="{{ .Date.Format "2006-01-02T15:04:05-0700" }}">
-		            <span class="icon" aria-hidden="true">
-                  {{ partialCached "icons/calendar-alt.svg" . }}
-                </span>
-		        {{ .Date.Format "2" }}.
-		        {{ index $.Site.Data.months.months .Date.Month }}
-		        {{ .Date.Format "2006" }}
-		      </time>
-		    </span>
-		  </div>
-		</div>
-		{{ end }}
+    <h2 class="entry-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{ partialCached "content/meta-top.html" . }}
 	</header>
 	<div class="text entry-content">
 		{{ with .Params.featured_image }}

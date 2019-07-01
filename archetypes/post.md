@@ -11,6 +11,8 @@ aliases:
 tags:
     - tag1
     - tag2
+leute:
+    - prayuth chan-ocha
 linktitle: "use for linking to this post"
 resources:
     - src: "file"

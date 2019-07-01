@@ -71,6 +71,7 @@ post = [ "HTML", "AMP" ]
 
 [taxonomies]
   tag = "tags"
+  leute = "leute"
 
 #############################################################
 # Sitemap

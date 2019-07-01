@@ -5,10 +5,14 @@
 
   <h2>
     <span class="icon large" aria-hidden="true">
-      {{ partialCached "icons/tags.svg" . }}
+      {{ partialCached "icons/user-friends.svg" . }}
     </span>
     <em>{{ .Page.Title }}</em>
   </h2>
+
+  {{ with .Page.Content }}
+  {{ . }}
+  {{ end }}
 
   {{ range .Paginator.Pages }}
   <article >

@@ -23,6 +23,17 @@
           {{ .Date.Format "2006" }}
         </time>
       </span>
+      {{ with .Params.leute }}
+        <div class="col-md-12 is--peoplelist">
+          <span class="icon" aria-hidden="true">
+            {{ partialCached "icons/user-friends.svg" . }}
+          </span>
+          {{ range $i, $e := . }}
+            {{ if $i }}/{{ end }}
+            <a href="{{ "leute/" | absURL }}{{ $e | urlize }}" rel="tag">{{ $e }}</a>
+          {{ end }}
+        </div>
+      {{ end }}
     </div>
   </div>
 {{ end }}

@@ -8,11 +8,11 @@ span.icon {
             fill: currentcolor;
         }
     }
-    &.larger svg {
+    &.larger svg, &.size-20 svg {
         width: 20px;
         height: 20px;
     }
-    &.large svg {
+    &.large svg, &.size-36 svg {
         width: 36px;
         height: 36px;
     }
