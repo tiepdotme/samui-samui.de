@@ -9,7 +9,6 @@ leute:
 - prayuth chan-ocha
 - thanathorn juangroongruangkit
 - abhisit vejjajiva
-
 ---
 
 {{< img src="general-prayuth.jpg" >}}General Prayuth Chan-Ocha{{< /img >}}
