@@ -68,6 +68,7 @@ post = [ "HTML", "AMP" ]
 [permalinks]
   post = "/:year/:month/:title/"
   page = "/:title/"
+  leute = "/:section/:slug/"
 
 [taxonomies]
   tag = "tags"

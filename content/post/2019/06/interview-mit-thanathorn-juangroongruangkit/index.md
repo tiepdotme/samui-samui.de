@@ -7,6 +7,7 @@ tags:
 - politik
 leute:
 - thanathorn juangroongruangkit
+
 ---
 
 {{< img src="thanathorn-juangroongruangkit.jpg" >}}Thanathorn Juangroongruangkit (via <a href="https://www.facebook.com/ThanathornOfficial/photos/fpp.382592748811072/573993423004336/?type=3&theater">Facebook</a>){{< /img >}}
