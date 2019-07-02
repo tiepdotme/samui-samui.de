@@ -1,18 +1,24 @@
 /*
+  Accept-Encoding: gzip, deflate, br
+
+/*.html
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
 
 /script*.js
   Expires: Tue, 31-Dec-2020 23:59:59 GMT+0700
+  X-Content-Type-Options: nosniff
 
 /style*.css
   Expires: Tue, 31-Dec-2020 23:59:59 GMT+0700
+  X-Content-Type-Options: nosniff
 
 /header-*.jpg
   Expires: Tue, 31-Dec-2020 23:59:59 GMT+0700
+  X-Content-Type-Options: nosniff
 
 /assets/*
-  Cache-Control: public, max-age=31536000
+  Cache-Control: public, max-age=31536000, immutable
 
 /images/*
-  Cache-Control: public, max-age=31536000
+  Cache-Control: public, max-age=31536000, immutable
