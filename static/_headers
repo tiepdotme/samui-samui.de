@@ -5,20 +5,32 @@
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
 
+/*.manifest
+  Content-Type: application/manifest+json; charset=utf-8  
+  Cache-Control: public, max-age=31536000, immutable
+
 /script*.js
   Expires: Tue, 31-Dec-2020 23:59:59 GMT+0700
   X-Content-Type-Options: nosniff
+  Content-Type: text/javascript; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
 
 /style*.css
   Expires: Tue, 31-Dec-2020 23:59:59 GMT+0700
   X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=31536000, immutable
 
-/header-*.jpg
+/*.jpg
   Expires: Tue, 31-Dec-2020 23:59:59 GMT+0700
   X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=31536000, immutable
 
 /assets/*
+  Expires: Tue, 31-Dec-2020 23:59:59 GMT+0700
+  X-Content-Type-Options: nosniff
   Cache-Control: public, max-age=31536000, immutable
 
 /images/*
+  Expires: Tue, 31-Dec-2020 23:59:59 GMT+0700
+  X-Content-Type-Options: nosniff
   Cache-Control: public, max-age=31536000, immutable
