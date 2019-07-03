@@ -1,7 +1,7 @@
 {{ define "title"}}Notizen tagged mit {{ .Page.Title }}{{ end }}
 
 {{ define "main" }}
-  {{ print "<!-- _default/taxonomy.html -->" | safeHTML }}
+  {{ print "<!-- _default/leute.html -->" | safeHTML }}
 
   <h2>
     <span class="icon large" aria-hidden="true">
@@ -10,9 +10,9 @@
     <em>{{ .Page.Title }}</em>
   </h2>
 
-  {{ with .Page.Content }}
-  {{ . }}
-  {{ end }}
+  {{- with .Page.Content -}}
+    {{ . }}
+  {{- end -}}
 
   {{ range .Paginator.Pages }}
   <article >
