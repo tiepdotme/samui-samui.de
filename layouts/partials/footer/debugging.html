@@ -5,8 +5,10 @@
       <div class="col-12">
           {{ partial "debugprint.html" . }}
           {{ partial "debugprint.html" .Params }}
-          {{ partial "debugprint.html" site }}
-          {{ partial "debugprint.html" site.Menus }}
+          {{ partial "debugprint.html" .Site }}
+          {{ range .Site.Menus.main }}
+            {{ partial "debugprint.html" . }}
+          {{ end }}
           {{ partial "debugprint.html" .Resources }}
           {{ partial "debugprint.html" .File }}
       </div>

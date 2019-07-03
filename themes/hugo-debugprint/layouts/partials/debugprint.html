@@ -32,7 +32,7 @@
 {{ $typeIsResource             := (findRE "^\\*resource" $type) }}
 {{ $typeIsPage                 := (findRE "^(\\*hugolib\\.Page|.*hugolib\\.pageState)" $type) }}
 {{ $typeIsFileInfo             := (findRE "^\\*(hugolib|source)\\.[fF]ileInfo$" $type) }} <!-- terms pages for e.g. uses source.FileInfo, regular pages using hugolib.fileInfo -->
-{{ $typeIsMenuEntry            := (eq "*hugolib.MenuEntry" $type) }}
+{{ $typeIsMenuEntry            := (findRE "MenuEntry$" $type) }}
 {{ $typeIsOrderedTaxonomyEntry := (eq "hugolib.OrderedTaxonomyEntry" $type) }}
 {{ $typeIsWeightedPage         := (eq "hugolib.WeightedPage" $type) }}
 {{ $typeIsStruct               := (or $typeIsSiteInfo $typeIsGitInfo $typeIsOutputFormat $typeIsFileInfo $typeIsPage $typeIsMenuEntry $typeIsOrderedTaxonomyEntry) }}
@@ -155,8 +155,8 @@
                 {{ end }}
             </table>
         {{ else if $typeIsMenuEntry }} <!-- https://github.com/gohugoio/hugo/blob/master/hugolib/menu.go -->
-            {{ $MenuEntryVarNames   := (slice "Menu" "Title" "Name" "URL" "Identifier" "Weight" "Pre" "Post" "Parent" "Children") }}
-            {{ $MenuEntryVarSymbols := (slice .Menu  .Title  .Name  .URL  .Identifier  .Weight  .Pre  .Post  .Parent  .Children ) }}
+            {{ $MenuEntryVarNames   := (slice "Menu" "Title" "Name" "URL" "Identifier" "Weight" "Pre" "Post" "Parent" "Children" "Page") }}
+            {{ $MenuEntryVarSymbols := (slice .Menu  .Title  .Name  .URL  .Identifier  .Weight  .Pre  .Post  .Parent  .Children .Page) }}
             <table class="debugprint">
                 <tr><th class="key">MenuEntry Variable</th><th class="value">Value</th></tr>
                 {{ range $idx, $elem := $MenuEntryVarNames }}
