@@ -4,24 +4,16 @@ page layout
 */}}
 {{ define "main" }}
   {{ print "<!-- post/single.html -->" | safeHTML }}
-<article >
-	<header class="title">
-		<h2 class="entry-title">
-		    <a href="{{ .Permalink }}">{{ .Title }}</a>
-	  	</h2>
-    	{{ partialCached "content/meta-top.html" . }}
-	</header>
-
-	<div class="text entry-content">
-		{{ with .Params.featured_image }}
-		  	<img src="{{ . | absURL }}" />
-		{{ end }}
-		{{ .Content }}
-	</div>
-
+  <article >
+    <header class="title">
+      <h2 class="entry-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h2>
+      {{ partialCached "content/meta-top.html" . }}
+    </header>
+    {{ partial "content/content.html" . }}
 	{{ partial "pagination/single" . }}
 	{{ partial "tools/sharebuttons" . }}	
 	{{ partial "tools/related" . }}		
-
-</article>
+  </article>
 {{ end }}
