@@ -10,20 +10,17 @@
     <em>{{ .Page.Title }}</em>
   </h2>
 
-  {{- with .Page.Content -}}
-    {{ . }}
-  {{- end -}}
-
   {{ range .Paginator.Pages }}
   <article >
     <header class="title">
       <h2 class="entry-title">
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </h2>
-      {{ partialCached "content/meta-top.html" . }}
+      {{ partial "content/meta-top.html" . }}
     </header>
     {{ partial "content/content.html" . }}
-    {{ partialCached "content/meta-bottom.html" . }}
+    {{ partial "content/meta-bottom.html" . }}
   </article>
   {{ end }}
+  
 {{ end }}

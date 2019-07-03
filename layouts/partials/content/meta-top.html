@@ -3,7 +3,7 @@
   <div class="meta">
     <div class="row">
       <div class="col-md-9 is--taglist">
-        {{ with .Params.tags }}
+        {{ with .Page.Params.tags }}
           <span class="icon" aria-hidden="true">
             {{ partialCached "icons/tags.svg" . }}
           </span>&nbsp;

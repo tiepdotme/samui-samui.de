@@ -9,11 +9,11 @@ page layout
       <h2 class="entry-title">
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </h2>
-      {{ partialCached "content/meta-top.html" . }}
+      {{ partial "content/meta-top.html" . }}
     </header>
     {{ partial "content/content.html" . }}
-	{{ partial "pagination/single" . }}
-	{{ partial "tools/sharebuttons" . }}	
-	{{ partial "tools/related" . }}		
+  	{{ partial "pagination/single" . }}
+  	{{ partial "tools/sharebuttons" . }}	
+  	{{ partial "tools/related" . }}		
   </article>
 {{ end }}

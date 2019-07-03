@@ -65,7 +65,7 @@ page layout
       <h2 class="entry-title">
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </h2>
-      {{ partialCached "content/meta-top.html" . }}
+      {{ partial "content/meta-top.html" . }}
   	</header>
     {{ partial "content/content.html" . }}
   </article>

@@ -20,4 +20,5 @@ resources:
     - src: "file"
       name: "name"
       title: "title"
+ogtype: "article"
 ---
