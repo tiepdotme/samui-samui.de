@@ -11,6 +11,8 @@ tags:
 leute:
     - dwayne johnson
     - vin diesel
+images:
+    - schnell-und-wuetend.jpg
 ---
 
 {{< img src="schnell-und-wuetend.jpg" >}}Schnell und w&uuml;tend gut verpackt auf Thailands Stra&szlig;en{{< /img >}}
