@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "{{ replace .Name "-" " " | title }}"
 description: ""
 author: Patrick Kollitsch
 type: post
@@ -14,6 +14,8 @@ tags:
 leute:
     - prayuth chan-ocha
 linktitle: "use for linking to this post"
+images:
+    - image.jpg
 resources:
     - src: "file"
       name: "name"
