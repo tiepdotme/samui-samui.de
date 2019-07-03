@@ -2,7 +2,6 @@
 # Site setup
 # see https://gohugo.io/getting-started/configuration/
 #############################################################
-
 baseURL = "https://samui-samui.de/"       # hostname & path to the root
 defaultContentLanguage = "de"
 disableHugoGeneratorInject = true         # we do that proudly on each page in the footer. visible.
@@ -28,7 +27,6 @@ verboseLog = true
 ##################################################################################
 # Bugfixes and Troubleshooting
 ##################################################################################
-
 # workaround for time out error on netlify
 # "Error building site: $FILENAME: timed out initializing value. This is most likely a circular loop in a shortcode"
 timeout = "30000"
@@ -37,7 +35,6 @@ timeout = "30000"
 # Blackfriday configuration
 # see https://gohugo.io/getting-started/configuration/#blackfriday-options
 ##################################################################################
-
 [blackfriday]
 nofollowLinks = true
 noreferrerLinks = true
@@ -50,7 +47,6 @@ extensions = [
 ##################################################################################
 # Output formats and structure
 ##################################################################################
-
 # see http://gohugo.io/templates/output-formats/
 [outputs]
 home = [ "HTML", "RSS", "Algolia", "AMP" ]
@@ -77,7 +73,6 @@ post = [ "HTML", "AMP" ]
 #############################################################
 # Sitemap
 #############################################################
-
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
@@ -86,7 +81,6 @@ post = [ "HTML", "AMP" ]
 #############################################################
 # Author
 #############################################################
-
 [author]
   name = "Patrick Kollitsch"
   homepage = "https://kollitsch.de/"
@@ -94,7 +88,6 @@ post = [ "HTML", "AMP" ]
 #############################################################
 # Privacy setup
 #############################################################
-
 [privacy]
   [privacy.disqus]
     disable = false
@@ -122,42 +115,39 @@ post = [ "HTML", "AMP" ]
 #############################################################
 # Imaging setup
 #############################################################
-
 [imaging]
-# Default resample filter used for resizing. Default is Box,
-# a simple and fast averaging filter appropriate for downscaling.
-# See https://github.com/disintegration/imaging
-resampleFilter = "lanczos"
-# Default JPEG quality setting. Default is 75.
-quality = 95
-# Anchor used when cropping pictures.
-# Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
-# Smart Cropping is content aware and tries to find the best crop for each image.
-# Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-anchor = "smart"
+  # Default resample filter used for resizing. Default is Box,
+  # a simple and fast averaging filter appropriate for downscaling.
+  # See https://github.com/disintegration/imaging
+  resampleFilter = "lanczos"
+  # Default JPEG quality setting. Default is 75.
+  quality = 95
+  # Anchor used when cropping pictures.
+  # Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
+  # Smart Cropping is content aware and tries to find the best crop for each image.
+  # Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  anchor = "smart"
 
 #############################################################
 # Menue points without local page
 #############################################################
+[[menu.main]]
+  name = "44"
+  weight = 250
+  identifier = "fourtyfour"
+  url = "https://fourtyfour.space"
+  pre = "icons/horse.svg"
 
 [[menu.main]]
-name = "44"
-weight = 250
-identifier = "fourtyfour"
-url = "https://fourtyfour.space"
-pre = "icons/horse.svg"
-
-[[menu.main]]
-name = "DNB"
-weight = 250
-identifier = "dnb"
-url = "https://davids-neighbour.com"
-pre = "icons/user-tie.svg"
+  name = "DNB"
+  weight = 250
+  identifier = "dnb"
+  url = "https://davids-neighbour.com"
+  pre = "icons/user-tie.svg"
 
 #############################################################
 # Related posts
 #############################################################
-
 [related]
   threshold = 80 # Only include matches with rank >= threshold. 0 and 100.
   includeNewer = true # adding newer articles to older ones (changing the content)
@@ -175,40 +165,45 @@ pre = "icons/user-tie.svg"
 #############################################################
 # Site params
 #############################################################
-
 [params]
-version = "2019.2.159"
+  version = "2019.2.159"
+  debug = false
 
-# social media setup
-og_image = ""
-og_image_url = ""
-githubName = ""
+  # social media setup
+  og_image = ""
+  og_image_url = ""
+  githubName = ""
 
-# content particles
-siteslug = "samui-samui-de"
-description = "Notizen über mein Leben als Auswanderer auf Koh Samui, Thailand"
-copyright = "All rights reserved. Copyright samui-samui.de"
+  # content particles
+  siteslug = "samui-samui-de"
+  description = "Notizen über mein Leben als Auswanderer auf Koh Samui, Thailand"
+  copyright = "All rights reserved. Copyright samui-samui.de"
 
-# design elements
-sitecolor = "#d02d19"
+  # design elements
+  sitecolor = "#d02d19"
 
+#############################################################
+# Search Setup
+#############################################################
+[params.algolia]
+  vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+  params = ["categories", "tags", "leute"]
+
+#############################################################
+# Social Media Setup
+#############################################################
 [params.social.facebook]
-profileid = "517050641"    # patrick.kollitsch
-pageid = "6967849771"      # samuisamui
-appid = "2047624572136513" # samui-samui.de
-profileslug = "patrick.kollitsch"
+  profileid = "517050641"    # patrick.kollitsch
+  pageid = "6967849771"      # samuisamui
+  appid = "2047624572136513" # samui-samui.de
+  profileslug = "patrick.kollitsch"
 
 [params.social.twitter]
-profileid = "davidsneighbour"
-siteid = "samui2"
+  profileid = "davidsneighbour"
+  siteid = "samui2"
 
 [params.social.snapchat]
-profileid = "pkollitsch"
+  profileid = "pkollitsch"
 
 [params.social.whatsapp]
-profileid = "66878979350"
-
-# search setup
-[params.algolia]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-params = ["categories", "tags"]
+  profileid = "66878979350"

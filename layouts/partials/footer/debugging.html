@@ -1,18 +1,20 @@
-{{ if .Site.IsServer }}
-<footer id="debugging">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-          {{ partial "debugprint.html" . }}
-          {{ partial "debugprint.html" .Params }}
-          {{ partial "debugprint.html" .Site }}
-          {{ range .Site.Menus.main }}
-            {{ partial "debugprint.html" . }}
-          {{ end }}
-          {{ partial "debugprint.html" .Resources }}
-          {{ partial "debugprint.html" .File }}
+{{ if eq .Site.Params.debug true }}
+  {{ if .Site.IsServer }}
+    <footer id="debugging">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+              {{ partial "debugprint.html" . }}
+              {{ partial "debugprint.html" .Params }}
+              {{ partial "debugprint.html" .Site }}
+              {{ range .Site.Menus.main }}
+                {{ partial "debugprint.html" . }}
+              {{ end }}
+              {{ partial "debugprint.html" .Resources }}
+              {{ partial "debugprint.html" .File }}
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-</footer>
+    </footer>
+  {{ end }}
 {{ end }}
