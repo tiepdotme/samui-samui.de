@@ -48,8 +48,9 @@ extensions = [
 # Output formats and structure
 ##################################################################################
 # see http://gohugo.io/templates/output-formats/
+# see https://gohugo.io/news/http2-server-push-in-hugo/
 [outputs]
-home = [ "HTML", "RSS", "Algolia", "AMP" ]
+home = [ "HTML", "RSS", "Algolia", "AMP", "REDIR", "HEADERS" ]
 page = [ "HTML", "AMP" ]
 post = [ "HTML", "AMP" ]
 
@@ -58,6 +59,16 @@ post = [ "HTML", "AMP" ]
   baseName = "algolia"
   isPlainText = true
   mediaType = "application/json"
+  notAlternative = true
+[outputFormats.REDIR]
+  mediatype = "text/netlify"
+  baseName = "_redirects"
+  isPlainText = true
+  notAlternative = true
+[outputFormats.HEADERS]
+  mediatype = "text/netlify"
+  baseName = "_headers"
+  isPlainText = true
   notAlternative = true
 
 # see https://gohugo.io/content-management/urls/
@@ -69,6 +80,11 @@ post = [ "HTML", "AMP" ]
 [taxonomies]
   tag = "tags"
   leute = "leute"
+
+[mediaTypes]
+[mediaTypes."text/netlify"]
+  suffixes = [""]
+  delimiter = ""
 
 #############################################################
 # Sitemap
@@ -121,7 +137,7 @@ post = [ "HTML", "AMP" ]
   # See https://github.com/disintegration/imaging
   resampleFilter = "lanczos"
   # Default JPEG quality setting. Default is 75.
-  quality = 95
+  quality = 85
   # Anchor used when cropping pictures.
   # Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
   # Smart Cropping is content aware and tries to find the best crop for each image.
